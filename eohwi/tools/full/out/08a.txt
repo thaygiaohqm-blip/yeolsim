@@ -1,0 +1,200 @@
+2801|cân nặng
+2802|giao hàng
+2803|bản dịch
+2804|túi ni lông
+2805|ngăn kéo
+2806|mưa rào
+2807|tay cầm
+2808|không thành, không tốt
+2809|mềm, nhạt
+2810|con khỉ
+2811|ly hôn
+2812|dùng một lần
+2813|máy điện thoại
+2814|hoa đỗ quyên
+2815|con trai thứ
+2816|quần lót
+2817|thoải mái
+2818|gia đình; đồ nội thất
+2819|hoa liên kiều
+2820|ngõ nhỏ
+2821|nhớ ra
+2822|cơn ho
+2823|tiếng hát
+2824|giáo sư đại học
+2825|quả chanh vàng
+2826|rốn
+2827|đáng yêu
+2828|say rượu (nôn nao)
+2829|được dùng; được viết
+2830|bưu thiếp
+2831|phòng tắm
+2832|tài xế
+2833|mùa mưa dầm
+2834|trở nên ngắn lại
+2835|hấp
+2836|cặp sách
+2837|sân chơi
+2838|ghé thăm rồi đi
+2839|thư trả lời
+2840|đôi khi
+2841|mu bàn chân
+2842|áo sơ mi nữ
+2843|thân thiết
+2844|buồn
+2845|thùng rác
+2846|phía trước
+2847|chân trái
+2848|nhật ký; thời tiết
+2849|lần trước
+2850|đáp án đúng
+2851|ngủ gật
+2852|chảy máu cam
+2853|giảm giá
+2854|khoai lang
+2855|quốc kỳ
+2856|trò chuyện
+2857|ghét
+2858|cảm giác thèm ăn
+2859|bản sao
+2860|cơm chiên
+2861|giới tính
+2862|giặt giũ
+2863|nổi tiếng, lan truyền
+2864|vô ích
+2865|khăn tay
+2866|con bê
+2867|nước máy
+2868|buổi nhậu
+2869|Ngày Thiếu nhi
+2870|chân phải
+2871|chuyển nhà
+2872|hạng nhất
+2873|nhỏ lại
+2874|họa tiết sọc
+2875|bến xe
+2876|mang tính Hàn Quốc
+2877|sự chào đón
+2878|đồ ăn vặt
+2879|cảm giác; (nguyên liệu)
+2880|người khác; phía nam
+2881|ngã tư
+2882|ghi âm
+2883|đường leo núi
+2884|mát-xa
+2885|bị ăn
+2886|mệt mỏi toàn thân
+2887|cái nóng oi bức
+2888|cái hộp
+2889|nồi cơm
+2890|cái gối
+2891|thắt lưng
+2892|sao chép
+2893|bốn mùa
+2894|xin lỗi
+2895|nữ sinh viên
+2896|bà ngoại
+2897|nhạc sĩ
+2898|nhân sâm
+2899|vẻ ngoài; ấn tượng
+2900|nhân viên bán hàng
+2901|tách trà
+2902|đường lớn
+2903|trang chủ
+2904|vạch qua đường
+2905|giảng đường
+2906|dượng (chồng của cô)
+2907|bản ghi âm
+2908|việc đón
+2909|sáng; sáng lên
+2910|nửa đêm
+2911|cầu lông
+2912|nút bấm
+2913|vụng về
+2914|tiếng vỗ tay
+2915|bánh songpyeon
+2916|vợ chồng mới cưới
+2917|nhạt
+2918|truyện cổ
+2919|lò nướng
+2920|rượu vang
+2921|vô địch
+2922|người bề trên
+2923|lời chào hỏi
+2924|máy bán hàng tự động
+2925|buổi tối
+2926|trở nên ít đi
+2927|nha khoa
+2928|bài kiểm tra
+2929|tan làm
+2930|mệt mỏi
+2931|nổi giận
+2932|chiều ngang
+2933|đổi tàu, xe
+2934|vị ngọt
+2935|cái chăn
+2936|thức trắng đêm
+2937|nhà giàu
+2938|máy ảnh
+2939|rau xà lách
+2940|độ C
+2941|xúc xích
+2942|lịch trình
+2943|ngoại thành
+2944|bắp cải
+2945|nông
+2946|trở nên tối
+2947|vài hôm trước
+2948|nữ sinh cấp ba
+2949|sự đặt trước
+2950|đây đó
+2951|đồ dùng một lần
+2952|bị bắt đọc
+2953|như thế kia
+2954|buổi trưa
+2955|vui mừng
+2956|người mới bắt đầu
+2957|du lịch nước ngoài
+2958|chợt, thoáng
+2959|giao thông công cộng
+2960|dẫn đến
+2961|chạy đến
+2962|danh thiếp
+2963|sư tử
+2964|tiếng chim hót
+2965|bố mẹ chồng
+2966|mắc lỗi
+2967|đi ra ngoài
+2968|trên dưới
+2969|tiệm cắt tóc
+2970|năm kia
+2971|cái hắt hơi
+2972|bến, ga
+2973|kính ngữ
+2974|người mới học
+2975|thiệp mời
+2976|cà ri
+2977|ki-lô
+2978|áo thun
+2979|một hai
+2980|đường phố
+2981|bột ớt
+2982|quốc lập
+2983|bóng rổ
+2984|nhà thiết kế
+2985|chạy ra ngoài
+2986|ngày đêm
+2987|bóng chuyền
+2988|chăm chỉ
+2989|quạt máy
+2990|chiều dọc
+2991|trở nên ghét
+2992|nữ nhân viên
+2993|được mở
+2994|phòng bên cạnh
+2995|căn hộ văn phòng (officetel)
+2996|váy liền
+2997|ly hôn
+2998|cốc giấy
+2999|con voi
+3000|buổi hòa nhạc

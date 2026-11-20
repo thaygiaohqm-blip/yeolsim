@@ -1,0 +1,400 @@
+2801|몸무게|danh||bodyweight
+2802|배달|danh|配達 phối đạt|delivery; distribution
+2803|번역|danh|飜譯 phiên dịch|translation
+2804|비닐봉지|danh||plastic bag
+2805|서랍|danh||drawer, cabinet
+2806|소나기|danh||shower
+2807|손잡이|danh||handle; grip
+2808|안되다|tính||to fail, to not do/go well
+2809|연하다|tính|軟 nhuyễn|to be soft; to be supple
+2810|원숭이|danh||monkey, ape
+2811|이혼|danh|離婚 li hôn|divorce
+2812|일회용|danh|一回用 nhất hồi dụng|
+2813|전화기|danh|電話機 điện thoại cơ|telephone set
+2814|진달래|danh||azalea, especially Rhododendron mucron
+2815|차남|danh|次男 thứ nam|
+2816|팬티|danh||briefs, underpants, panties, knickers,
+2817|편히|phó |便 tiện|at ease
+2818|가구|danh|家具 gia cụ|family; household
+2819|개나리|danh||forsythia, often specifically the Kore
+2820|골목길|danh||alley
+2821|기억나다|động|記憶 ký ức|to recall
+2822|기침|danh||cough
+2823|노랫소리|danh||singing, singing voice
+2824|대학교수|danh|大學敎授 đại học giao thụ|
+2825|레몬|danh||lemon
+2826|배꼽|danh||navel
+2827|사랑스럽다|tính||to be lovely
+2828|술병|danh||hangover
+2829|쓰이다|động||To be used.
+2830|엽서|danh|葉書 diệp thư|postcard
+2831|욕실|danh|浴室 dục thất|bathroom, bath
+2832|운전기사|danh|運轉技士 vận chuyển kỹ sĩ|driver
+2833|장마|danh||The East Asian rainy season between sp
+2834|짧아지다|động||
+2835|찌다|động||to steam, to cook with steam
+2836|책가방|danh|冊 sách|schoolbag; backpack
+2837|놀이터|danh||playground
+2838|다녀가다|động||to drop in for a short visit, to drop 
+2839|답장|danh||answer; written reply
+2840|때때로|phó ||sometimes, occasionally
+2841|발등|danh||instep, i.e. the top of the foot
+2842|블라우스|danh||blouse
+2843|사이좋다|tính||
+2844|슬퍼하다|động||to find sad
+2845|쓰레기통|danh||garbage can, trash can, rubbish bin
+2846|앞쪽|danh||front
+2847|왼발|danh||left foot
+2848|일기|danh|日氣 nhật khí|diary, journal
+2849|저번|danh|這番 giá phiên|last time
+2850|정답|danh|正答 chính đáp|correct answer; right answer
+2851|졸다|động||to doze off; to be sleepy; to be drows
+2852|코피|danh||nosebleed
+2853|할인|danh|割引 cát dẫn|discount
+2854|고구마|danh||sweet potato
+2855|국기|danh|國旗 quốc kỳ|national flag; gonfalon
+2856|대화하다|động|對話 đối thoại|to converse; to make conversation
+2857|미워하다|động||to hate, to dislike
+2858|밥맛|danh||appetite
+2859|복사|danh|複寫 phức tả|copy
+2860|볶음밥|danh||fried rice
+2861|성별|danh|性別 tính biệt|sex, gender
+2862|세탁|danh|洗濯 tẩy trạc|doing laundry
+2863|소문나다|động|所聞 sở văn|to be well-known
+2864|소용없다|tính|所用 sở dụng|to be useless, unavailing, vain, of no
+2865|손수건|danh||handkerchief, hankie
+2866|송아지|danh||calf
+2867|수돗물|danh|水道 thủy đạo|tap water
+2868|술자리|danh||drinking party
+2869|어린이날|danh||Children's Day; a national holiday in 
+2870|오른발|danh||right foot
+2871|이사하다|động|移徙 di tỉ|to move, to move house
+2872|일등|danh|一等 nhất đẳng|first place, number one
+2873|작아지다|động||to become smaller, to dwindle
+2874|줄무늬|danh||stripe
+2875|터미널|danh||terminal
+2876|한국적|danh|韓國的 hàn quốc đích|
+2877|환영|danh|歡迎 hoan nghênh|welcome
+2878|간식|danh|間食 gian thực|snack, refreshments, nosh
+2879|감|danh||feeling; sense
+2880|남|danh|南 nam|other person, other people; someone ot
+2881|네거리|danh||crossroads
+2882|녹음하다|động|錄音 lục âm|
+2883|등산로|danh|登山路 đăng sơn lộ|hiking trail
+2884|마사지|danh||massage
+2885|먹히다|động||passive of 먹다:
+2886|몸살|danh||bodily fatigue and illness
+2887|무더위|danh||
+2888|박스|danh||box
+2889|밥솥|danh||rice cooker
+2890|베개|danh||pillow
+2891|벨트|danh||belt
+2892|복사하다|động|複寫 phức tả|to copy
+2893|사계절|danh|四季節 tứ quý tiết|the four seasons
+2894|사과하다|động|謝過 tạ quá|to apologize
+2895|여대생|danh||university girl
+2896|외할머니|danh|外 ngoại|maternal grandmother
+2897|음악가|danh|音樂家 âm nhạc gia|musician
+2898|인삼|danh|人蔘 nhân sâm|ginseng
+2899|인상|danh|人相 nhân tương|impression
+2900|점원|danh|店員 điếm viên|shop assistant, salesclerk, clerk, sal
+2901|찻잔|danh||teacup
+2902|큰길|danh||high road, highway, main street, main 
+2903|홈페이지|danh||home page
+2904|횡단보도|danh|橫斷步道 hoành đoán bộ đạo|crosswalk, pedestrian crossing, zebra 
+2905|강당|danh|講堂 giảng đường|lecture hall; auditorium
+2906|고모부|danh|姑母夫 cô mẫu phu|father's sister's husband
+2907|녹음|danh|錄音 lục âm|recording
+2908|마중|danh||meeting; picking up
+2909|밝다|động||to be bright, to be brilliant
+2910|밤중|danh||midnight, dead of night
+2911|배드민턴|danh||badminton
+2912|버튼|danh||button
+2913|서투르다|tính||to be unskillful, inexperienced, unhan
+2914|손뼉|danh||the whole floor of the palm and finger
+2915|송편|danh|松 tùng|songpyeon
+2916|신혼부부|danh|新婚夫婦 tân hôn phu phụ|newlyweds
+2917|싱겁다|tính||to be bland, not salty
+2918|옛날이야기|danh||an old story, old tale, fairy tale, fo
+2919|오븐|danh||oven
+2920|와인|danh||wine
+2921|우승하다|động|優勝 ưu thắng|to become winner
+2922|웃어른|danh||senior
+2923|인사말|danh|人事 nhân sự|
+2924|자판기|danh|自販機 tự phán cơ|clipping of 자동판매기
+2925|저녁때|danh||
+2926|적어지다|động||
+2927|치과|danh|齒科 xỉ khoa|dentistry
+2928|테스트|danh||test, examination
+2929|퇴근하다|động|退勤 thoái cần|to leave work, to finish work, to get 
+2930|피로하다|tính|疲勞 bì lao|exhausted, fatigued, tired worn out
+2931|화나다|động|火 hỏa|to be angry, to be furious
+2932|가로|danh||across; horizontally
+2933|갈아타다|động||to change to, to transfer to
+2934|단맛|danh||sweetness, sweet taste
+2935|담요|danh||blanket
+2936|밤새다|động||to stay up all night, pull an all-nigh
+2937|부잣집|danh|富者 phú giả|rich family
+2938|사진기|danh|寫眞機 tả chân cơ|camera
+2939|상추|danh||lettuce
+2940|섭씨|danh|攝氏 nhiếp thị|Celsius; centigrade
+2941|소시지|danh||sausage
+2942|스케줄|danh||schedule
+2943|시외|danh|市外 thị ngoại|outside of a city, countryside
+2944|양배추|danh|洋 dương|cabbage
+2945|얕다|tính||to be shallow
+2946|어두워지다|động||to become dark
+2947|엊그제|phó ||a few days ago
+2948|여고생|danh|女高生 nữ cao sinh|highschoolgirl
+2949|예약|danh|豫約 dự ước|reservation, booking, appointment
+2950|이곳저곳|danh||
+2951|일회용품|danh|一回用品 nhất hồi dụng phẩm|
+2952|읽히다|động||to make someone read
+2953|저런|thán||such, that kind of; like that
+2954|점심때|danh|點心 điểm tâm|
+2955|즐거워하다|động||
+2956|초보|danh|初步 sơ bộ|
+2957|해외여행|danh||
+2958|깜빡|phó ||while indeed darkening and then bright
+2959|대중교통|danh|大衆交通 đại chúng giao thông|public transport; public transportatio
+2960|데려오다|động||to fetch
+2961|뛰어오다|động||to come running
+2962|명함|danh|名銜 danh hàm|business card, visiting card, calling 
+2963|사자|danh|獅子 sư tử|a lion
+2964|새소리|danh||the chirping of a bird, birdcall, bird
+2965|시부모|danh|媤父母 ti phụ mẫu|husband's parents
+2966|실수하다|động|失手 thất thủ|to make a mistake
+2967|외출하다|động|外出 ngoại xuất|to go out
+2968|위아래|danh||up and down, top and bottom
+2969|이발소|danh|理髮所 lý phát sở|barbershop, barber's, hairdresser's
+2970|재작년|danh|再昨年 tái tạc niên|the year before last, two years ago
+2971|재채기|danh||sneeze
+2972|정거장|danh|停車場 đình xa trường|station, esp. station
+2973|존댓말|danh|尊待 tôn đãi|honorific, term of respect
+2974|초보자|danh|初步者 sơ bộ giả|beginner; novice
+2975|초청장|danh||
+2976|카레|danh||curry
+2977|킬로|danh||kilo, kilogram
+2978|티셔츠|danh||T-shirt
+2979|한둘|số t||one or two
+2980|거리|danh||road, street
+2981|고춧가루|danh||chili powder
+2982|국립|danh|國立 quốc lập|national
+2983|농구|danh|籠球 lung cầu|basketball
+2984|디자이너|danh||designer
+2985|뛰어나가다|động||
+2986|밤낮|danh||day and night
+2987|배구|danh|排球 bài cầu|volleyball
+2988|부지런하다|tính||to be hard-working, to be industrious
+2989|선풍기|danh|扇風機 phiến phong cơ|electric fan
+2990|세로|danh||height, length, vertical direction
+2991|싫어지다|động||to become disgusted, to hate
+2992|여직원|danh||a female employee
+2993|열리다|động||to open, to be opened
+2994|옆방|danh||next room, adjacent room
+2995|오피스텔|danh||officetel: a multi-purpose building in
+2996|원피스|danh||dress
+2997|이혼하다|động|離婚 li hôn|to get a divorce
+2998|종이컵|danh||paper cup
+2999|코끼리|danh||elephant
+3000|콘서트|danh||concert
+3001|큰소리|danh||big talk
+3002|평일|danh|平日 bình nhật|weekday
+3003|걱정되다|động||to be worried about
+3004|된장찌개|danh||doenjang-jjigae, a sort of stew made o
+3005|목걸이|danh||necklace
+3006|스키장|danh||ski resort
+3007|쓰다|tính||to wear, to put on
+3008|책방|danh|冊房 sách phòng|bookstore, bookshop
+3009|나흘|danh||four days
+3010|다이어트|danh||diet, weight-loss program
+3011|중국집|danh|中國 trung quốc|Chinese restaurant
+3012|지하도|danh|地下道 địa hạ đạo|underpass
+3013|고속버스|danh||express bus
+3014|뚱뚱하다|tính||fat
+3015|소포|danh|小包 tiểu bao|parcel, package, packet
+3016|손녀|danh|孫女 tôn nữ|granddaughter
+3017|아래층|danh||downstairs
+3018|잠옷|danh||pyjamas, pajamas; any clothings for sl
+3019|장갑|danh|掌匣 chưởng hộp|glove
+3020|동물원|danh|動物園 động vật viên|zoo
+3021|모레|danh||the day after tomorrow, overmorrow
+3022|생신|danh||birthday
+3023|시내버스|danh||
+3024|우표|danh|郵票 bưu phiếu|postage stamp
+3025|독일어|danh|獨逸語 độc dật ngữ|German
+3026|떡볶이|danh||tteokbokki
+3027|이따가|phó ||a little later; after a while; a short
+3028|강아지|danh||puppy; dog, doggy
+3029|닷새|danh||five days
+3030|주차|danh|駐車 trú xa|parking
+3031|홍차|danh||black tea
+3032|연락처|danh||contact details, contact information
+3033|연세|danh||age
+3034|위층|danh||upstairs
+3035|인삼차|danh||ginseng tea
+3036|초록색|danh|草綠色 thảo lục sắc|green colour
+3037|축구공|danh|蹴球 xúc cầu|football, soccer ball
+3038|김치찌개|danh||a sort of Korean stew made of kimchi a
+3039|녹차|danh||green tea
+3040|만두|danh|饅頭 man đầu|mandu, a form of dumpling in Korean cu
+3041|발음하다|động|發音 phát âm|to pronounce
+3042|복습하다|động|復習 phục tập|to revise, to review, to go over
+3043|스케이트|danh||skate
+3044|복습|danh|復習 phục tập|revision, review
+3045|성함|danh|姓銜 tính hàm|name
+3046|세탁소|danh|洗濯所 tẩy trạc sở|laundry; dry cleaner
+3047|운동복|danh|運動服 vận động phục|sportswear, jogging suit, sweatsuit, s
+3048|주차하다|động|駐車 trú xa|to park
+3049|청소기|danh|淸掃機 thanh tảo cơ|vacuum cleaner, hoover
+3050|필통|danh|筆筒 bút đồng|brush case
+3051|학생증|danh|學生證 học sinh chứng|
+3052|공항버스|danh||
+3053|메일|danh||mail
+3054|빗|danh||comb
+3055|설렁탕|danh||seolleongtang, a soup made from ox or 
+3056|까만색|danh||black
+3057|시아버지|danh|媤 ti|father-in-law
+3058|영상|danh||picture, image, video
+3059|예매하다|động|豫買 dự mãi|
+3060|억|số t|億 ức|hundred million
+3061|갈비탕|danh||Korean beef-rib soup, galbitang
+3062|검정색|danh||The color black.
+3063|하얀색|danh||white
+3064|강원도|danh|江原道 giang nguyên đạo|Gangwon, Kangwŏn
+3065|경기도|danh|京畿道|Gyeonggi, Kyŏnggi
+3066|경상도|danh|慶尙道|Gyeongsang, Kyŏngsang
+3067|광주|danh|光州|Gwangju
+3068|그렇게|phân||so, so much
+3069|김포공항|danh|金浦空港|
+3070|남산|danh|南山 nam sơn|Namsan Mountain
+3071|뉴욕|danh||[~주] New York
+3072|대구|danh|大邱|A cod or haddock, especially the Pacif
+3073|대전|danh|大田|Daejeon
+3074|대한민국|danh|大韓民國 đại hàn dân quốc|Republic of Korea
+3075|덕수궁|danh|德壽宮 đức thọ cung|
+3076|도쿄(동경)|danh|東京 đông kinh|
+3077|동대문|danh|東大門 đông đại môn|
+3078|동대문시장|danh|東大門市場 đông đại môn thị trường|
+3079|런던|danh||London
+3080|베이징(북경)|danh|北京 bắc kinh|
+3081|북한|danh|北韓 bắc hàn|North Korea; capital: 평양)
+3082|아시아|danh||Asia
+3083|아프리카|danh||Africa
+3084|울산|danh|蔚山|Ulsan
+3085|유럽|danh||Europe
+3086|이렇게|phân||like this, this way
+3087|인천공항|danh|仁川空港|
+3088|저렇게|phân||like that
+3089|전라도|danh|全羅道|Jeolla, Chŏlla
+3090|종로|danh|鍾路|Jongno
+3091|충청도|danh|忠淸道 trung thanh đạo|Chungcheong, Ch'ungch'ŏng
+3092|파리|danh||fly
+3093|한라산|danh||Mount Halla, Hallasan
+3094|그녀|đại ||she
+3095|그러다|động||to do so; to do it
+3096|정부|danh|政府 chính phủ|national government, particularly the 
+3097|새롭다|tính||to be new
+3098|과정|danh|過程 quá trình|process, a course of events
+3099|삶|danh||life; living
+3100|생명|danh|生命 sinh mệnh|life
+3101|사건|danh|事件 sự kiện|a noteworthy or remarkable incident
+3102|작품|danh|作品 tác phẩm|a creative work or product
+3103|상황|danh|狀況 trạng huống|conditions, the situation
+3104|따라서|phó ||therefore; in accordance with
+3105|상태|danh|狀態 trạng thái|condition, status
+3106|당시|danh|當時 đương thời|the time in question
+3107|더욱|phó ||more so, even more
+3108|채|danh||a whip, a scourge
+3109|현실|danh|現實 hiện thực|reality; the actual case
+3110|기업|danh|企業 xí nghiệp|a business
+3111|선거|danh|選擧 tuyển cử|election
+3112|현상|danh|現象 hiện tượng|the evident condition or state
+3113|듯|danh||as if; in a manner suggesting that
+3114|듯하다|trợ ||to be regarded as; to appear to be
+3115|구조|danh|構造 cấu tạo|a structure
+3116|오히려|phó ||rather; on the contrary; unexpectedly
+3117|남|danh||other person, other people; someone ot
+3118|의식|danh|意識 ý thức|consciousness; awareness
+3119|알아보다|động||to recognize
+3120|산업|danh|産業 sản nghiệp|industry
+3121|형태|danh|形態 hình thái|shape
+3122|작업|danh|作業 tác nghiệp|work, working
+3123|바|danh||thing; what
+3124|시|danh|詩 thi|hour
+3125|비하다|động|比 bỉ|to compare
+3126|기관|danh|機關 cơ quan|engine; machine
+3127|입장|danh|立場 lập trường|standpoint; perspective
+3128|만하다|trợ ||to be worthy of; to be enough, to be s
+3129|방식|danh|方式 phương thức|a specified method or form
+3130|영향|danh|影響 ảnh hưởng|influence; effect
+3131|내|danh|內 nội|stream, brook
+3132|단계|danh|段階 đoạn giai|stage of progress
+3133|올리다|động||to raise, to increase
+3134|교사|danh|敎師 giao sư|a teacher, the profession, especially 
+3135|지니다|động||to keep or preserve
+3136|의원|danh|議員 nghị viên|member of a parliament or assembly
+3137|주민|danh|住民 trú dân|residents in a place
+3138|존재|danh|存在 tồn tại|existence
+3139|분야|danh|分野 phân dã|sector; field of business or study
+3140|행위|danh|行爲 hành vi|an act or behavior
+3141|수준|danh|水準 thủy chuẩn|a standard or criterion level
+3142|대|danh|代 đại|something large; something great
+3143|기능|danh|機能 cơ năng|function or functionality
+3144|연극|danh|演劇 diễn kịch|a public show or performance
+3145|노동|danh|勞動 lao động|labor, especially industrial
+3146|가치|danh|價値 giá trị|value
+3147|집단|danh|集團 tập đoàn|a group of people; body
+3148|장관|danh|長官 trưởng quan|a minister, a member of Cabinet
+3149|대로|danh||the same way as, the manner of
+3150|우주|danh|宇宙 vũ trụ|space; outer space
+3151|시기|danh|時機 thời cơ|opportunity; chance; a time, especiall
+3152|생산|danh|生産 sinh sản|production
+3153|농민|danh|農民 nông dân|farmers; peasantry
+3154|드러나다|động||to appear, to become manifest
+3155|자세|danh|姿勢 tư thế|posture; carriage
+3156|면|danh||cotton
+3157|원인|danh|原因 nguyên nhân|cause
+3158|언어|danh|言語 ngôn ngữ|language
+3159|감독|danh|監督 giám đốc|direction, supervision
+3160|당하다|động|當 đáng|to suffer or undergo something
+3161|삼다|động||to take as; to forge a relationship; t
+3162|일단|phó |一旦 nhất đán|first and foremost
+3163|조직|danh|組織 tổ chức|organization, structure
+3164|달리|phó ||differently, unlike
+3165|인물|danh|人物 nhân vật|the physical figure of a person
+3166|전|định||before
+3167|다만|phó ||however, nonetheless
+3168|대다|động||To arrive at a given time, to make it 
+3169|무대|danh|舞臺 vũ đài|a performance stage
+3170|주장|danh|主張 chủ trương|a claim or assertion
+3171|인하다|động|因 nhân|to be due to
+3172|잇다|động||to join, to piece together, to connect
+3173|대책|danh|對策 đối sách|policy with regard to a particular iss
+3174|결코|phó |決 quyết|at all
+3175|경쟁|danh|競爭 cạnh tranh|competition
+3176|회|danh|回 hồi|sliced raw meat or fish; sashimi
+3177|실시하다|động|實施 thực thi|to put into practice; to implement
+3178|규모|danh|規模 quy mô|scale or dimensions
+3179|셈|danh||counting
+3180|갖추다|động||to make the necessary preparations; to
+3181|현장|danh|現場 hiện trường|site, location, place
+3182|건설|danh|建設 kiến thiết|construction
+3183|존재하다|động|存在 tồn tại|to exist
+3184|한마디|danh||a brief statement; a few words
+3185|유지하다|động|維持 duy trì|to maintain, to continue
+3186|이데올로기|danh||ideology
+3187|만|danh||ten thousand
+3188|피하다|động|避 tị|to evade
+3189|거치다|động||to cross through or over
+3190|나아가다|động||to go forward; to progress; to advance
+3191|지식|danh|知識 tri thức|knowledge
+3192|여전히|phó |如前 như tiền|still, just as before
+3193|선|danh|線 tuyến|judging the quality of a person or thi
+3194|인류|danh|人類 nhân loại|humankind, humanity
+3195|형식|danh|形式 hình thức|form, template
+3196|걸치다|động||to put on, to lay over, to lay across
+3197|겪다|động||to suffer, to undergo, to experience
+3198|관점|danh|觀點 quan điểm|standpoint, point of view
+3199|놈|danh||bastard
+3200|구성|danh|構成 cấu thành|configuration, arrangement, compositio

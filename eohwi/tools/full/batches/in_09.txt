@@ -1,0 +1,400 @@
+3201|실제로|phó |實際 thực tế|in fact, in practice
+3202|달다|trợ ||to become hot
+3203|비롯하다|động||to begin or originate
+3204|과연|phó |果然 quả nhiên|indeed, really
+3205|인정하다|động|認定 nhận định|to affirm
+3206|자|danh|者 giả|10²⁴
+3207|중앙|danh|中央 trung ương|center, middle
+3208|불구하다|động||to be despite something; nonetheless
+3209|평가|danh|評價 bình giá|evaluation, assessment
+3210|비다|động||to be empty
+3211|삼국|danh|三國 tam quốc|three nations; trilateral
+3212|수|danh||way, means, possibility, ability; used
+3213|물질|danh|物質 vật chất|a substance; a material
+3214|살아가다|động||to live on; to go through life
+3215|배|danh|倍 bội|abdomen, belly
+3216|제시하다|động|提示 đề thị|to present or indicate
+3217|불과하다|tính||to be no more than; to not be exceedin
+3218|엄청나다|tính||amazing, astonishing, remarkable, enor
+3219|편|danh||side
+3220|파악하다|động|把握 bã ác|to understand or grasp thoroughly
+3221|실천|danh|實踐 thực tiễn|praxis; practical application
+3222|방안|danh|方案 phương án|a plan
+3223|분명하다|tính|分明 phân minh|to be obvious, clear, without doubt
+3224|분석|danh|分析 phân tích|analysis; analyze
+3225|차|danh|次 thứ|vehicle
+3226|관계자|danh|關係者 quan hệ giả|a concerned, involved or interested pa
+3227|이어지다|động||to continue, for one thing to follow a
+3228|지적하다|động|指摘 chỉ trích|to point to
+3229|요구|danh|要求 yêu cầu|requirement, demand
+3230|등장하다|động|登場 đăng trường|to enter the stage; to come into play
+3231|차다|động||to be full, to fill, to brim, to becom
+3232|한계|danh|限界 hạn giới|limit, boundary
+3233|바탕|danh||base, foundation
+3234|갈등|danh|葛藤 cát đằng|discord, conflict
+3235|의지|danh|意志 ý chí|determination to accomplish something;
+3236|초기|danh|初期 sơ kỳ|the initial period; the beginning
+3237|신경|danh|神經 thần kinh|nerves
+3238|미|danh|美 mỹ|beauty
+3239|시선|danh|視線 thị tuyến|one's gaze; the direction of one's vis
+3240|아무런|định||of any sort whatsoever; any
+3241|언론|danh|言論 ngôn luận|speech, public discourse
+3242|투자|danh|投資 đầu tư|investment
+3243|지원|danh|支援 chi viện|support; aid
+3244|성장|danh|成長 thành trưởng|growth, expansion
+3245|피해|danh|被害 bị hại|harm; damage
+3246|한|danh|限 hạn|one
+3247|여기다|động||to consider
+3248|이|danh||this
+3249|작용|danh|作用 tác dụng|operation
+3250|골|danh||gorge; gully; valley; alley
+3251|공업|danh|工業 công nghiệp|heavy industry, manufacturing
+3252|출신|danh|出身 xuất thân|a native; someone native-born to a pla
+3253|경향|danh|傾向 khuynh hướng|a trend, tendency
+3254|기록|danh|記錄 ký lục|a record
+3255|나름|danh||dependence, essence, nature
+3256|반면|danh|反面 phản diện|the other hand, the flip side
+3257|움직임|danh||movement, motion
+3258|터지다|động||to burst; to explode
+3259|특성|danh|特性 đặc tính|characteristic
+3260|교장|danh|校長 hiệu trưởng|the principal or head teacher of a sch
+3261|입시|danh|入試 nhập thí|an entrance examination, usually for a
+3262|다루다|động||to handle; to deal with
+3263|업체|danh|業體 nghiệp thể|a firm or company
+3264|국회|danh|國會 quốc hội|A national parliament or assembly.
+3265|세월|danh|歲月 tuế nguyệt|time
+3266|깨닫다|động||to apprehend; to become aware of a fac
+3267|신|danh|神 thần|god, deity
+3268|거리|danh|距離 cự li|road, street
+3269|부정|danh|不正 bất chính|negation
+3270|사정|danh|事情 sự tình|condition or status of something, or t
+3271|도대체|phó |都大體 đô đại thể|on earth; the hell
+3272|처리|danh|處理 xử lý|processing; handling; dealing with
+3273|꼴|danh||the shape or appearance of a thing
+3274|그리하여|phó ||And so...; and thus...
+3275|내부|danh|內部 nội bộ|The interior or inside.
+3276|다소|phó |多少 đa thiếu|somewhat; to a certain extent
+3277|그저|phó ||just
+3278|도|danh|度 độ|province
+3279|부담|danh|負擔 phụ đảm|burden
+3280|위원|danh|委員 ủy viên|member of a committee
+3281|법칙|danh|法則 pháp tắc|law; rule; principle
+3282|오염|danh|汚染 ô nhiễm|pollution; contamination
+3283|참여하다|động|參與 tham dự|to participate
+3284|탓|danh||cause, reason
+3285|범죄|danh|犯罪 phạm tội|crime
+3286|위|danh|位 vị|above, upper, upside, top
+3287|논리|danh||logic
+3288|감각|danh|感覺 cảm giác|sensation
+3289|인사|danh|人事 nhân sự|greeting
+3290|기구|danh|機構 cơ cấu|device; tool
+3291|후보|danh|候補 hậu bổ|candidate
+3292|근거|danh|根據 căn cứ|base; basis
+3293|시각|danh|視角 thị giác|viewpoint
+3294|이끌다|động||to pull; to draw; to attract
+3295|수단|danh|手段 thủ đoạn|Sudan
+3296|형성|danh|形成 hình thành|shaping, formation
+3297|기울이다|động||to lean, to tilt
+3298|장면|danh|場面 trường diện|scene
+3299|더불다|động||to be accompanied by, to bring a perso
+3300|개방|danh|開放 khai phóng|opening, especially of doors
+3301|앞서|phó ||previously; foregoing
+3302|소프트웨어|danh||software
+3303|반응|danh|反應 phản ứng|reaction
+3304|비판|danh|批判 phê phán|criticism, critique
+3305|세대|danh|世代 thế đại|age, generation, era
+3306|공개|danh|公開 công khai|Opening to the public.
+3307|매체|danh|媒體 môi thể|A medium.
+3308|영역|danh||A sphere or field of activity or effec
+3309|체험|danh|體驗 thể nghiệm|experience; specifically physical or d
+3310|구속|danh|拘束 câu thúc|arrest; detention
+3311|때로|phó ||on occasion; occasionally
+3312|극복하다|động|克服 khắc phục|to overcome; to prevail against advers
+3313|불법|danh||illegality; the illegal
+3314|쓰이다|động||To be used.
+3315|일정하다|tính|一定 nhất định|to be fixed; specified
+3316|다지다|động||To crush.
+3317|밝혀지다|động||To be discovered, revealed.
+3318|이념|danh|理念 lý niệm|The ideology or principle underlying a
+3319|치르다|động||to pay
+3320|성|danh|性 tính|anger, rage, wrath
+3321|문화재|danh|文化財 văn hóa tài|A cultural treasure.
+3322|이래|danh|以來 dĩ lai|Infinitive of 이렇다, thus often "like th
+3323|구성되다|động|構成 cấu thành|to be configured or shaped
+3324|독특하다|tính|獨特 độc đặc|to be unique
+3325|사례|danh|事例 sự lệ|precedent
+3326|추진하다|động|推進 suy tiến|to promote or propel an initiative
+3327|틀|danh||frame, framework
+3328|평균|danh|平均 bình quân|average; mean
+3329|훈련|danh|訓鍊 huấn luyện|training, drill, discipline
+3330|흐름|danh||flow, flowing
+3331|위기|danh|危機 nguy cơ|crisis; impending danger
+3332|정당|danh|政黨 chính đảng|political party
+3333|폭력|danh|暴力 bạo lực|violence
+3334|혹시|phó |或是 hoặc thị|by chance
+3335|절차|danh|節次 tiết thứ|procedures
+3336|증가하다|động|增加 tăng gia|to increase or add
+3337|외치다|động||to shout or cry out
+3338|평|danh|坪 bình|criticism
+3339|권리|danh|權利 quyền lợi|right; privilege
+3340|자원|danh|資源 tư nguyên|resource
+3341|넘기다|động||to make something pass over; to turn o
+3342|물체|danh|物體 vật thể|object
+3343|시위|danh|示威 thị uy|demonstration; protest
+3344|제외하다|động|除外 trừ ngoại|to exclude
+3345|견해|danh|見解 kiến giải|opinion; interpretation
+3346|안정|danh|安定 an định|stability
+3347|어쨌든|phó ||anyway
+3348|눈길|danh||gaze
+3349|주어지다|động||To be provided; given.
+3350|널리|phó ||widely
+3351|소재|danh|素材 tố tài|material; component; stuff
+3352|전망|danh|展望 triển vọng|Prospect: physical view or future outl
+3353|형성되다|động|形成 hình thành|to be formed or shaped
+3354|결론|danh|結論 kết luận|conclusion
+3355|들이다|động||to let in
+3356|자녀|danh|子女 tử nữ|Children; sons and daughters; offsprin
+3357|판결|danh|判決 phán quyết|A judgment, either of fact or of right
+3358|비로소|phó ||For the first time; only after.
+3359|서구|danh|西歐 tây âu|Western Europe
+3360|소유|danh|所有 sở hữu|possession
+3361|부문|danh|部門 bộ môn|a category or classification
+3362|규정|danh|規定 quy định|a provision or rule
+3363|아예|phó ||Altogether; entirely.
+3364|어찌|phó ||How, in what way or for what purpose.
+3365|작용하다|động|作用 tác dụng|to act on or affect something
+3366|개선|danh|改善 cải thiện|reform or improvement in general
+3367|바람직하다|tính||to be appropriate; to be of a desirabl
+3368|마련|danh||preparation, arrangement
+3369|신화|danh|神話 thần thoại|A myth or legend.
+3370|양|danh|孃 nương|quantity, amount
+3371|거두다|động||to harvest
+3372|범위|danh|範圍 phạm vi|A field, scope, or range.
+3373|철학|danh|哲學 triết học|philosophy
+3374|근본적|danh|根本的 căn bản đích|Something basic or fundamental.
+3375|대형|danh|大型 đại hình|Large; on a large scale.
+3376|본격적|danh|本格的 bản cách đích|genuine, authentic
+3377|퍼지다|động||to spread outwards
+3378|백성|danh|百姓 bá tánh|the populace; the common people
+3379|상당히|phó |相當 tương đương|suitably; to an appropriate degree
+3380|자네|đại ||you, second person pronoun, used gener
+3381|기|danh|氣 khí|energy, spirit
+3382|군사|danh|軍事 quân sự|A soldier or soldiers.
+3383|마당|danh||A yard, plaza, or courtyard.
+3384|지적|danh|指摘 chỉ trích|Pointing out or to; indication.
+3385|짝|danh||pair
+3386|참으로|phó ||truly; indeed
+3387|앞두다|động||To have lying ahead of one; to look to
+3388|예산|danh|豫算 dự toán|budget; budgeting
+3389|온갖|định||all; every; all kinds of
+3390|우려|danh|憂慮 ưu lự|concern; worry
+3391|보호하다|động|保護 bảo hộ|to protect
+3392|시스템|danh||system
+3393|참여|danh|參與 tham dự|participation
+3394|애쓰다|động||To exert or strain oneself to reach a 
+3395|올바르다|tính||to be proper; upright
+3396|흔하다|tính||to be frequent, to be common
+3397|단위|danh|單位 đơn vị|a unit
+3398|뛰어나다|tính||to excel; to be outstanding
+3399|소득|danh|所得 sở đắc|income
+3400|수도|danh|首都 thủ đô|capital
+3401|역|danh|役 dịch|station
+3402|인식하다|động|認識 nhận thức|to recognize, understand; to be aware
+3403|자|danh||10²⁴
+3404|맺다|động||to complete or conclude
+3405|수요|danh|需要 nhu yếu|planet Mercury
+3406|지도자|danh|指導者 chỉ đạo giả|leader
+3407|구성하다|động|構成 cấu thành|to constitute
+3408|대체로|phó |大體 đại thể|on the whole
+3409|때리다|động||to hit, to beat, to strike
+3410|문득|phó ||suddenly, spontaneously
+3411|위원장|danh|委員長 ủy viên trưởng|The chairman or chairwoman of a commit
+3412|효과적|danh|效果的 hiệu quả đích|effective
+3413|생산하다|động|生産 sinh sản|to produce, to manufacture
+3414|의도|danh|意圖 ý đồ|intention
+3415|저지르다|động||to commit
+3416|줄어들다|động||to diminish or decrease
+3417|건|danh|件 kiện|past determinative of 걸다: having been 
+3418|대개|phó |大槪 đại khái|for the most part; largely; generally
+3419|외부|danh|外部 ngoại bộ|exterior
+3420|한때|danh||one time
+3421|살아오다|động||To have been living.
+3422|상대적|danh|相對的 tương đối đích|relative
+3423|조|danh|條 điều|foxtail millet
+3424|조미료|danh|調味料 điệu vị liệu|seasonings
+3425|강력하다|tính|强力 cường lực|to be strong or powerful
+3426|법률|danh|法律 pháp luật|A law.
+3427|현|định|現 hiện|string on a musical instrument
+3428|화면|danh|畵面 họa diện|screen
+3429|이어|phó ||following
+3430|진리|danh|眞理 chân lý|truth
+3431|공급|danh|供給 cung cấp|supply
+3432|동료|danh|同僚 đồng liêu|associate, colleague, coworker, comrad
+3433|균형|danh|均衡 quân hành|balance; equilibrium
+3434|기본적|danh|基本的 cơ bản đích|basic, fundamental
+3435|접근|danh|接近 tiếp cận|approach
+3436|지켜보다|động||to watch; to keep an eye on; to observ
+3437|개성|danh|個性 cá tính|reform, improvement in quality
+3438|띄다|động||to be visible or seen
+3439|무너지다|động||to collapse
+3440|이러다|động||to do this; to act in this way
+3441|일어서다|động||To stand up.
+3442|죄|danh|罪 tội|fault; wrongdoing
+3443|핵심|danh|核心 hạch tâm|Something which is central or of key i
+3444|후반|danh|後半 hậu bán|second half
+3445|동작|danh|動作 động tác|movement; action
+3446|뜻하다|động||to mean; to signify
+3447|중세|danh|中世 trung thế|Middle Ages; the medieval era
+3448|통합|danh|統合 thống hợp|unity; integration
+3449|꼬리|danh||tail
+3450|양식|danh|樣式 dạng thức|form; format; style
+3451|주식|danh|株式 chò thức|stocks; shares
+3452|끊임없이|phó ||continuously; ceaselessly
+3453|상식|danh|常識 thường thức|common knowledge; common sense
+3454|상표|danh|商標 thương tiêu|trademark
+3455|아니하다|trợ ||formal form of 않다
+3456|의식하다|động|意識 ý thức|to be aware or conscious of something
+3457|둘러싸다|động||To surround.
+3458|민주화|danh|民主化 dân chủ hóa|democratization
+3459|보도|danh|報道 báo đạo|news coverage; journalistic report; re
+3460|살피다|động||to look closely, to observe
+3461|거부하다|động|拒否 cự phủ|to refuse
+3462|실시|danh|實施 thực thi|implementation
+3463|운명|danh|運命 vận mệnh|destiny, fate; fortune
+3464|재정|danh|財政 tài chính|finances; financial condition
+3465|차라리|phó ||preferably; rather
+3466|학자|danh|學者 học giả|A scholar; a person of learning, espec
+3467|대규모|danh|大規模 đại quy mô|largeness in scale.
+3468|동|định|同 đồng|dong
+3469|민간|danh|民間 dân gian|private; non-governmental
+3470|법원|danh|法院 pháp viện|court
+3471|사실상|phó |事實上 sự thực thượng|in fact
+3472|아끼다|động||to cherish
+3473|지대|danh|地帶 địa đới|a region or area; a district
+3474|판단하다|động|判斷 phán đoán|to adjudge; to determine
+3475|실천하다|động|實踐 thực tiễn|to implement; to carry out in practice
+3476|용어|danh|用語 dụng ngữ|A technical term or phrase; terminolog
+3477|익히다|động||to become proficient in something; to 
+3478|지위|danh|地位 địa vị|position
+3479|풍부하다|tính|豊富 phong phú|rich, plentiful, abundant, ample
+3480|식량|danh|食糧 thực lương|food; provisions
+3481|실험|danh|實驗 thực nghiệm|experiment
+3482|용기|danh|勇氣 dũng khí|container
+3483|핵|danh|核 hạch|core, kernel; centre
+3484|상당하다|tính|相當 tương đương|remarkable; considerable
+3485|수석|danh|首席 thủ tịch|premiere; head
+3486|적절하다|tính|適切 thích thiết|to be suited, to be appropriate
+3487|제사|danh|祭祀 tế tự|sacrificial rites in honor of an ances
+3488|지혜|danh|智慧 trí tuệ|wisdom
+3489|참새|danh||sparrow
+3490|농산물|danh|農産物 nông sản vật|An agricultural product or products.
+3491|사고|danh|思考 tư khảo|an accident
+3492|올|định||this year
+3493|위대하다|tính|偉大 vĩ đại|great; remarkable
+3494|지배하다|động|支配 chi phối|to rule; to control
+3495|틈|danh||crack; gap
+3496|가령|phó |假令 giả lệnh|supposing
+3497|거대하다|tính|巨大 cự đại|huge; massive
+3498|드물다|tính||to be rare
+3499|매달리다|động||to be hung from; to dangle
+3500|토대|danh|土臺 thổ đài|foundation
+3501|목숨|danh||life
+3502|빠져나가다|động||to go out
+3503|여론|danh|輿論 dư luận|public opinion
+3504|의복|danh|衣服 y phục|clothing
+3505|체조|danh|體操 thể thao|gymnastics
+3506|현실적|danh|現實的 hiện thực đích|actual
+3507|화제|danh|話題 thoại đề|topic of discussion
+3508|공격|danh|攻擊 công kích|attack
+3509|물가|danh|物價 vật giá|water's edge; bank, shore
+3510|민주주의|danh|民主主義 dân chủ chủ nghĩa|democracy
+3511|소중하다|tính|所重 sở trọng|To be precious.
+3512|의문|danh|疑問 nghi vấn|Doubt.
+3513|빛나다|động||to shine
+3514|실리다|động||To be planted
+3515|압력|danh|壓力 áp lực|pressure
+3516|예상되다|động|豫想 dự tưởng|to be predicted or anticipated
+3517|증권|danh|證券 chứng khoán|security
+3518|직후|danh|直後 trực hậu|immediately after something
+3519|차량|danh|車輛 xa lượng|vehicle
+3520|출산|danh|出産 xuất sản|childbirth
+3521|선진국|danh|先進國 tiên tiến quốc|developed country
+3522|재판|danh|裁判 tài phán|trial
+3523|제자|danh|弟子 đệ tử|disciple; pupil
+3524|회복|danh|回復 hồi phục|recovery or restoration
+3525|구역|danh|區域 khu vực|area, zone, precinct
+3526|대응|danh|對應 đối ứng|action or maneuver
+3527|발휘하다|động|發揮 phát huy|show, demonstrate, exhibit
+3528|소비|danh|消費 tiêu phí|consumption, spending
+3529|심장|danh|心臟 tâm tạng|heart
+3530|중소기업|danh|中小企業 trung tiểu xí nghiệp|smaller businesses, small and medium-s
+3531|직접적|danh|直接的 trực tiếp đích|Something direct or immediate
+3532|진실|danh|眞實 chân thực|the truth
+3533|필자|danh|筆者 bút giả|writer; author
+3534|협력|danh|協力 hiệp lực|collaboration or cooperation
+3535|계층|danh|階層 giai tằng|class of people, stratum
+3536|담당|danh|擔當 đảm đang|responsibility, charge
+3537|보도하다|động|報道 báo đạo|to report, cover
+3538|인상|danh|引上 dẫn thượng|impression
+3539|철저하다|tính|徹底 triệt để|thoroughgoing, thorough, exhaustive
+3540|태아|danh|胎兒 thai nhi|embryo, fetus
+3541|두르다|động||to surround, to wrap, to wear
+3542|드디어|phó ||finally, at last
+3543|민주|danh|民主 dân chủ|democracy
+3544|여인|danh||woman, lady
+3545|운영하다|động|運營 vận doanh|to operate, to run
+3546|평가하다|động|評價 bình giá|to evaluate, to assess, to estimate
+3547|필요성|danh|必要性 tất yếu tính|necessity, need
+3548|감추다|động||to conceal, to keep secret
+3549|모|đại |某 mỗ|protrusion
+3550|부위|danh|部位 bộ vị|region; site; location; position; plac
+3551|비우다|động||to empty, drain; evacuate, vacate
+3552|설치하다|động|設置 thiết trí|to install, to set up
+3553|아울러|phó ||in addition, furthermore, as well as
+3554|지시|danh|指示 chỉ thị|instructions, indication
+3555|형성하다|động|形成 hình thành|to form; to take shape
+3556|덧붙이다|động||to attach, to affix, to stick
+3557|무기|danh|武器 vũ khí|weapon, arms
+3558|일종|danh|一種 nhất chủng|kind, sort, type
+3559|처지|danh|處地 xử địa|position, circumstances
+3560|타다|động||to burn
+3561|형편|danh|形便 hình tiện|circumstances, conditions
+3562|본질|danh|本質 bản chất|essence, nature
+3563|비치다|động||to shine
+3564|서서히|phó |徐徐 từ từ|gradually, slowly, steadily
+3565|스승|danh||mentor, instructor, guide
+3566|신분|danh|身分 thân phân|position, status
+3567|실시되다|động|實施 thực thi|to take effect
+3568|증거|danh|證據 chứng cứ|proof, evidence
+3569|초점|danh|焦點 tiêu điểm|focus, focal point
+3570|강화하다|động|强化 cường hóa|to strengthen, to intensify
+3571|공포|danh|恐怖 khủng bố|fear, terror, dread, fright, horror, p
+3572|권위|danh|權威 quyền uy|power and prestige; authority
+3573|미루다|động||to postpone
+3574|실정|danh|實情 thật tình|the true state of affairs; the actual 
+3575|영양|danh|營養 dinh dưỡng|nutrition
+3576|육체|danh|肉體 nhục thể|human body
+3577|그이|đại ||that person; he
+3578|대기|danh|大氣 đại khí|air; atmosphere
+3579|독립|danh|獨立 độc lập|independence
+3580|해당하다|động|該當 cai đương|to be relevant, be applicable, apply, 
+3581|간부|danh|幹部 cán bộ|executive
+3582|관념|danh|觀念 quan niệm|idea, sense, concept, notion
+3583|도입|danh|導入 đạo nhập|introduction
+3584|비추다|động||to shine, to light up
+3585|여건|danh|與件 dữ kiện|conditions
+3586|통제|danh|統制 thống chế|control, regulation
+3587|못지않다|tính||to be as ... as
+3588|반영하다|động|反映 phản ánh|to reflect
+3589|성장하다|động|成長 thành trưởng|to grow, to grow up
+3590|소속|danh|所屬 sở thuộc|belonging to
+3591|제작|danh|製作 chế tác|production, manufacture
+3592|추진|danh|推進 suy tiến|promotion, thrust, driving force, prop
+3593|구입하다|động|購入 cấu nhập|to purchase, to buy
+3594|마련|danh||preparation, arrangement
+3595|선장|danh|船長 thuyền trưởng|a sea captain
+3596|시점|danh|時點 thời điểm|point
+3597|의사|danh|意思 ý tứ|doctor
+3598|코드|danh||code
+3599|세계관|danh|世界觀 thế giới quan|worldview
+3600|의존하다|động|依存 y tồn|to depend; to rely

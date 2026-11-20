@@ -1,0 +1,400 @@
+4801|슬쩍|phó ||somewhat subtly; somewhat slightly
+4802|시나리오|danh||scenario
+4803|실컷|phó ||to one's heart's content, heartily
+4804|엔진|danh||engine
+4805|용|danh||dragon
+4806|운행|danh|運行 vận hành|operation, service of transportation
+4807|이대로|phó ||as it is
+4808|인간성|danh|人間性 nhân gian tính|humanity
+4809|인상적|danh|印象的 ấn tượng đích|memorable, impressive
+4810|전시|danh|展示 triển thị|exhibit, display, exhibition, show
+4811|조그마하다|tính||to be small, tiny
+4812|주한|danh|駐韓 trú hàn|stationing in South Korea
+4813|중년|danh|中年 trung niên|middle age
+4814|지다|động||to fall; to sink; to set; to go down
+4815|찌꺼기|danh||dregs, remnants
+4816|포함|danh|包含 bao hàm|inclusion
+4817|형식적|danh|形式的 hình thức đích|formal
+4818|호남|danh|湖南 hồ nam|Honam
+4819|가입하다|động|加入 gia nhập|to join, to sign up, to become a membe
+4820|감소|danh|減少 giảm thiểu|reduction
+4821|구분되다|động|區分 khu phân|to be classified
+4822|구입|danh|購入 cấu nhập|purchase
+4823|기여|danh|寄與 ký dự|contribution
+4824|기호|danh|記號 ký hiệu|sign; symbol; mark
+4825|꾸리다|động||to pack, package, bundle
+4826|낭비|danh|浪費 lãng phí|waste, extravagance
+4827|내외|danh||inside and outside
+4828|대략|phó |大略 đại lược|approximately
+4829|덮이다|động||to be covered, to be hidden, to be shr
+4830|도리어|phó ||instead; rather
+4831|라인|danh||line
+4832|멸치|danh||anchovy
+4833|바람|danh||wind, air, draft
+4834|방울|danh||drop
+4835|벌|danh||any kind of bee, wasp, or hornet
+4836|보관|danh|保管 bảo quản|safekeeping, storage
+4837|보살피다|động||to look after; to take care of
+4838|보완하다|động|補完 bổ hoàn|to make up for, to supplement
+4839|보존하다|động|保存 bảo tồn|to preserve, to conserve
+4840|빨다|động||to sip, to suck
+4841|빼놓다|động||to leave out, to omit, to exclude
+4842|사상|danh|史上 sử thượng|history, historic
+4843|사춘기|danh|思春期 tư xuân kỳ|puberty
+4844|상반기|danh|上半期 thượng bán kỳ|the first half year
+4845|선전|danh|宣傳 tuyên truyền|propaganda
+4846|설립하다|động|設立 thiết lập|to establish; to found
+4847|수집|danh|蒐集 sưu tập|collection, collecting
+4848|수필|danh|隨筆 tùy bút|essay
+4849|신기하다|tính|新奇 tân kỳ|to be strange and amazing; to be myste
+4850|신비|danh|神秘 thần bí|mystery
+4851|신설|danh|新設 tân thiết|being newly built or established
+4852|실감|danh|實感 thực cảm|
+4853|실망|danh|失望 thất vọng|disappointment, letdown
+4854|쓰다듬다|động||to stroke; to pat
+4855|알루미늄|danh||aluminium
+4856|알아주다|động||
+4857|용기|danh|容器 dung khí|container
+4858|유발하다|động|誘發 dụ phát|to arouse, to cause, to induce
+4859|유지되다|động|維持 duy trì|
+4860|잡아당기다|động||to pull, to draw
+4861|점검|danh|點檢 điểm kiểm|check, inspection
+4862|조기|danh|早期 tảo kỳ|early; early period
+4863|존경하다|động|尊敬 tôn kính|to respect
+4864|종|danh|鐘 chung|servant
+4865|종소리|danh|鐘 chung|sound/peal of a bell
+4866|중순|danh|中旬 trung tuần|the middle ten days of a month
+4867|지각|danh|知覺 tri giác|being / arriving late
+4868|직선|danh|直線 trực tuyến|straight line
+4869|참외|danh||the Korean melon, or its fruit.
+4870|체하다|trợ ||to have an upset stomach
+4871|체험하다|động|體驗 thể nghiệm|to experience
+4872|총|danh|銃 súng|gun; rifle; machine gun
+4873|칭찬하다|động|稱讚 xưng tán|to compliment, to praise
+4874|코치|danh||coach
+4875|통일하다|động|統一 thống nhất|to unify
+4876|프린터|danh||printer
+4877|피디|danh||
+4878|하나하나|phó ||every one
+4879|학위|danh|學位 học vị|academic degree
+4880|회의|danh|懷疑 hoài nghi|a meeting
+4881|가로등|danh|街路燈 nhai lộ đăng|streetlamp, streetlight
+4882|감|danh|感 cảm|feeling; sense
+4883|개개인|danh|個個人 cá cá nhân|
+4884|걷다|động||to walk
+4885|고집|danh|固執 cố chấp|stubbornness
+4886|급격히|phó |急激 cấp khích|rapidly, suddenly
+4887|기능|danh|技能 kỹ năng|function or functionality
+4888|기막히다|tính|氣 khí|clipping of 기가 막히다
+4889|나누어지다|động||
+4890|넘겨주다|động||
+4891|논리적|danh||logical, reasonable
+4892|다가서다|động||
+4893|대기하다|động|待機 đãi cơ|to wait
+4894|대접|danh|待接 đãi tiếp|treat; reception
+4895|두리번거리다|động||
+4896|말다|động||to not do something, to stop doing
+4897|면|danh|綿 miên|cotton
+4898|박|danh|泊 bạc|gourd, calabash
+4899|밤하늘|danh||night sky
+4900|변명|danh|辨明 biện minh|justification, excuse, apology
+4901|보자기|danh|褓 bìu|bojagi
+4902|부상|danh|負傷 phụ thương|injury; wound
+4903|분리하다|động|分離 phân li|to separate
+4904|붙들다|động||to take hold of, to grab, to grip, to 
+4905|사들이다|động||
+4906|상관없이|phó |相關 tương quan|
+4907|선원|danh|船員 thuyền viên|sailor; the crew
+4908|설사|phó |設使 thiết sứ|even if, even though
+4909|실망하다|động|失望 thất vọng|to be disappointed
+4910|아쉬움|danh||regret; the disappointment that someth
+4911|약해지다|động|弱 nhược|
+4912|엉망|danh||mess; bad shape; wreck
+4913|연출하다|động|演出 diễn xuất|
+4914|열중하다|động|熱中 nhiệt trung|
+4915|영웅|danh|英雄 anh hùng|hero
+4916|유산|danh|遺産 di sản|property left; an inheritance
+4917|의도적|danh|意圖的 ý đồ đích|
+4918|이따금|phó ||
+4919|임신부|danh|妊娠婦 nhâm huyên phụ|pregnant woman
+4920|장기적|danh|長期的 trưởng kỳ đích|
+4921|재주|danh||talent; skill
+4922|전설|danh|傳說 truyền thuyết|legend
+4923|절|danh|節 tiết|a verse, passage, paragraph
+4924|젖|danh||breast
+4925|조르다|động||to tighten; to tie up
+4926|지겹다|tính||to be boring, tedious
+4927|짐작|danh|斟酌 châm chước|guess, assumption, conjecture
+4928|쫓겨나다|động||
+4929|찢다|động||to tear, to rip
+4930|취업|danh|就業 tựu nghiệp|employment
+4931|칠하다|động|漆 tất|to paint; to plaster; to coat
+4932|타오르다|động||to blaze up; to burst into flames
+4933|탁|phó ||with a sudden collision
+4934|판|danh|版 bản|board, plank
+4935|평|danh|評 bình|criticism
+4936|평화롭다|tính|平和 bình hòa|peaceful, pacific, amicable
+4937|표시|danh|表示 biểu thị|expression
+4938|표시|danh|標示 tiêu thị|expression
+4939|하반기|danh|下半期 hạ bán kỳ|the second half year
+4940|한구석|danh||
+4941|한하다|động|限 hạn|to be limited, to be restricted
+4942|해답|danh|解答 giải đáp|answer, solution
+4943|해소하다|động|解消 giải tiêu|
+4944|허락하다|động||to allow, to permit
+4945|확립하다|động|確立 xác lập|
+4946|확신하다|động|確信 xác tín|to be convinced, to be sure, to be cer
+4947|흥분|danh|興奮 hưng phấn|excitement, agitation, getting upset, 
+4948|흥분하다|động|興奮 hưng phấn|to be aroused; to be excited; to be ag
+4949|힘겹다|tính||hard, difficult, tough, arduous
+4950|감수성|danh|感受性 cảm thụ tính|
+4951|거들다|động||to help, to assist, to give a hand
+4952|급속히|phó |急速 cấp tốc|
+4953|급증하다|động|急增 cấp tăng|to surge, to increase rapidly
+4954|깔끔하다|tính||neat, tidy
+4955|꼼꼼하다|tính||to be meticulous, precise, detailed
+4956|낮아지다|động||to decrease; to lower
+4957|단순|danh|單純 đơn thuần|simple
+4958|대사|danh|大使 đại sứ|ambassador
+4959|때|danh||time; occasion
+4960|매|danh||hawk
+4961|먹고살다|động||
+4962|멎다|động||to stop; to cease; to come to an end
+4963|면담|danh|面談 diện đàm|interview
+4964|모집|danh|募集 mộ tập|recruitment
+4965|모퉁이|danh||corner
+4966|바구니|danh||basket
+4967|바싹|phó ||dryly, aridly, parchedly
+4968|발달되다|động|發達 phát đạt|
+4969|방울|danh||drop
+4970|보름|danh||fifteen days, half month, fortnight
+4971|부딪히다|động||to be bumped into; to be crashed into;
+4972|비상|danh|非常 phi thường|emergency
+4973|뿌리치다|động||to shake off, to shrug away
+4974|사업자|danh|事業者 sự nghiệp giả|businessperson; businessman; businessw
+4975|상대편|danh|相對便 tương đối tiện|
+4976|세트|danh||set
+4977|소망|danh|所望 sở vọng|hope
+4978|수동적|danh|受動的 thụ động đích|
+4979|슬그머니|phó ||stealthily; secretly
+4980|시장|danh|市長 thị trưởng|hunger
+4981|시청률|danh||ratings, viewership
+4982|여군|danh||servicewoman
+4983|연인|danh||one's love; lover; boyfriend or girlfr
+4984|연장|danh|延長 diên trưởng|tool, instrument
+4985|예선|danh|豫選 dự tuyển|
+4986|원|danh||won; the official currency of South Ko
+4987|은행나무|danh|銀杏 ngân hạnh|ginkgo
+4988|자부심|danh|自負心 tự phụ tâm|self-confidence; self-esteem; pride
+4989|장차|phó |將次 tướng thứ|
+4990|저편|đại ||that side; a place that is far away bu
+4991|정신과|danh|精神科 tinh thần khoa|psychiatry
+4992|제도적|danh|制度的 chế độ đích|
+4993|조절|danh|調節 điều tiết|adjustment
+4994|주거|danh|住居 trú cư|dwelling; abode
+4995|중단되다|động|中斷 trung đoán|
+4996|중요시하다|động|重要視 trọng yếu thị|to regard as important
+4997|지점|danh|支店 chi điếm|point on a map, spot, place, location
+4998|진단하다|động|診斷 chẩn đoán|
+4999|타다|động||to burn
+5000|편견|danh|偏見 thiên kiến|prejudice; bias
+5001|환율|danh||exchange rate
+5002|활기|danh|活氣 hoạt khí|energy; vitality; life; vigor
+5003|강사|danh|講師 giảng sư|lecturer
+5004|강수량|danh|降水量 giáng thủy lượng|precipitation
+5005|교대|danh|交代 giao đại|rotation; relief; shift
+5006|구청|danh|區廳 khu sảnh|district office
+5007|국내외|danh|國內外 quốc nội ngoại|
+5008|금지되다|động|禁止 cấm chỉ|to be forbidden, prohibited
+5009|기도하다|động|祈禱 kỳ đảo|to pray
+5010|기성|danh|旣成 ký thành|established, pre-existing
+5011|깨뜨리다|động||to shatter, break into pieces
+5012|꼼짝|phó ||with truly a slow and slight movement
+5013|농사일|danh|農事 nông sự|farming, agriculture, farming work
+5014|농장|danh|農場 nông trường|farm
+5015|데이트|danh||date
+5016|되돌아가다|động||
+5017|들이켜다|động||to inhale
+5018|따라다니다|động||to follow around; to go after; to chas
+5019|라운드|danh||
+5020|마음가짐|danh||attitude of mind; determination; minds
+5021|머리칼|danh||short for 머리카락
+5022|모|định|某 mỗ|protrusion
+5023|바퀴|danh||wheel
+5024|번개|danh||lightning; thunderbolt
+5025|변화되다|động|變化 biến hóa|
+5026|부재|danh|不在 bất tại|absence
+5027|사망|danh|死亡 tử vong|death
+5028|생|danh|生 sinh|life
+5029|서늘하다|tính||to be cool, to be rather chilly
+5030|성경|danh|聖經 thánh kinh|Bible
+5031|소요되다|động|所要 sở yếu|to be required
+5032|소화하다|động|消化 tiêu hóa|to digest
+5033|순간적|danh|瞬間的 thuấn gian đích|
+5034|시집가다|động|媤 ti|to get married
+5035|싶어지다|trợ ||
+5036|씌우다|động||to cover
+5037|야간|danh|夜間 dạ gian|nighttime, night
+5038|엇갈리다|động||miss, pass by each other
+5039|엷다|tính||thin
+5040|오락|danh||entertainment, amusement
+5041|우아하다|tính|優雅 ưu nhã|elegant, graceful
+5042|이슬|danh||dew, dewdrop
+5043|인간관계|danh|人間關係 nhân gian quan hệ|
+5044|장기간|danh|長期間 trưởng kỳ gian|
+5045|전선|danh|戰線 chiến tuyến|battlefront
+5046|정지|danh|停止 đình chỉ|stop, halt
+5047|제의하다|động|提議 đề nghị|to suggest, to offer, to propose
+5048|조명|danh|照明 chiếu minh|lighting
+5049|조화되다|động|調和 điều hòa|
+5050|줄거리|danh||synopsis, summary, outline; plot, stor
+5051|중단|danh|中斷 trung đoán|
+5052|차선|danh|車線 xa tuyến|
+5053|착각하다|động|錯覺 thó giác|
+5054|초상화|danh|肖像畵 tiếu tượng họa|portrait painting
+5055|쿠데타|danh||coup d'état
+5056|특수성|danh|特殊性 đặc thù tính|specialness
+5057|항공기|danh|航空機 hàng không cơ|aircraft
+5058|활발히|phó |活潑 hoạt bát|
+5059|흥미롭다|tính|興味 hưng vị|to be interesting
+5060|각오|danh|覺悟 giác ngộ|determination, resolution
+5061|개방되다|động|開放 khai phóng|to be opened; to become open
+5062|겨자|danh||mustard
+5063|경고하다|động|警告 cảnh cáo|to warn; to give warning
+5064|경제학|danh|經濟學 kinh tế học|economics
+5065|관심사|danh|關心事 quan tâm sự|interest; concern
+5066|구별되다|động|區別 khu biệt|to be differentiated or distinguished
+5067|국사|danh|國史 quốc sử|
+5068|굳히다|động||to harden, to solidify
+5069|그간|danh||
+5070|그럴듯하다|tính||plausible
+5071|극작가|danh|劇作家 kịch tác gia|playwright, dramatist
+5072|기|danh|旗 kỳ|energy, spirit
+5073|기울다|động||to tilt, to slant, to incline
+5074|기적|danh|奇跡 kỳ tích|miracle
+5075|끌리다|động||to be pulled out, to be led
+5076|내보내다|động||to let go out; to let out
+5077|담|danh||wall
+5078|동서|danh|東西 đông tây|
+5079|들여놓다|động||
+5080|따스하다|tính||
+5081|말투|danh||manner of speaking
+5082|명령어|danh|命令語 mệnh lệnh ngữ|command
+5083|미끄러지다|động||to slide, to slip, to glide
+5084|변신|danh|變身 biến thân|transformation, metamorphosis
+5085|부친|danh|父親 phụ thân|father
+5086|붙잡히다|động||to be taken hold of, to be caught
+5087|브랜드|danh||brand
+5088|사소하다|tính|些少 ta thiếu|to be trifling, of a trivial nature
+5089|상|danh|床 sàng|top, best, first
+5090|상쾌하다|tính|爽快 sảng khoái|to be refreshing
+5091|손길|danh||
+5092|순위|danh|順位 thuận vị|ranking
+5093|쌍|danh|雙 song|pair
+5094|썰렁하다|tính||
+5095|암시|danh|暗示 ám thị|hint; implication; suggestion
+5096|앞날|danh||future
+5097|역사상|danh||
+5098|연주|danh|演奏 diễn tấu|performance; recital
+5099|울리다|động||to sound or ring, or make a sound
+5100|육상|danh||ashore, on land
+5101|음주|danh|飮酒 ẩm tửu|consumption of alcohol
+5102|이별|danh|離別 li biệt|farewell; parting
+5103|인재|danh|人材 nhân tài|talented person
+5104|인종|danh|人種 nhân chủng|race; ethnicity
+5105|일시적|danh|一時的 nhất thời đích|temporarily
+5106|재밌다|tính||contraction of 재미있다
+5107|전문적|danh|專門的 chuyên môn đích|expert, special
+5108|젊음|danh||youth, youthfulness
+5109|점잖다|tính||well behaved, dignified, respectable, 
+5110|조개|danh||molluscan shellfish
+5111|중계방송|danh|中繼放送 trung kế phóng tống|
+5112|중독|danh|中毒 trúng độc|poisoning
+5113|지급|danh|支給 chi cấp|payment
+5114|진실하다|tính|眞實 chân thực|sincere, honest, faithful
+5115|차창|danh|車窓 xa song|car window
+5116|초청하다|động|招請 chiêu thỉnh|
+5117|출발점|danh|出發點 xuất phát điểm|starting point
+5118|출판|danh|出版 xuất bản|publication; press; publish
+5119|출현하다|động|出現 xuất hiện|to appear, to reveal
+5120|클럽|danh||nightclub
+5121|키스|danh||romantic kiss
+5122|탈출하다|động|脫出 thoát xuất|to get away, to escape
+5123|판사|danh|判事 phán sự|judge
+5124|허락|danh||consent; permission
+5125|확신|danh|確信 xác tín|conviction, confidence
+5126|건설되다|động|建設 kiến thiết|
+5127|고개|danh||nape of the neck
+5128|그제야|phó ||
+5129|기성세대|danh|旣成世代 ký thành thế đại|
+5130|기술하다|động|記述 ký thuật|
+5131|까치|danh||magpie
+5132|남북|danh|南北 nam bắc|north and south, North Korea and South
+5133|납득하다|động|納得 nạp đắc|to accept
+5134|단|danh|段 đoạn|sheaf
+5135|독창적|danh|獨創的 độc sáng đích|
+5136|되풀이되다|động||
+5137|떠나가다|động||to go away; to leave; to depart
+5138|떠들썩하다|tính||to be noisy, to be boisterous
+5139|뜻대로|phó ||as one pleases
+5140|로봇|danh||robot
+5141|만점|danh|滿點 mãn điểm|full marks; perfect score
+5142|매달|phó |每 mỗi|monthly
+5143|모여들다|động||
+5144|묵다|động||to stay, to lodge
+5145|바깥쪽|danh||outside, the outer side, exterior
+5146|보수|danh|保守 bảo thủ|reward
+5147|보안|danh|保安 bảo an|preservation of public security
+5148|부|danh|部 bộ|father
+5149|비웃다|động||to sneer at, to jeer at, to mock
+5150|사나이|danh||alternative form of 사내
+5151|상징적|danh|象徵的 tượng trưng đích|
+5152|색다르다|tính|色 sắc|
+5153|세미나|danh||seminar
+5154|세제|danh|洗劑 tẩy tề|detergent
+5155|속삭이다|động||to whisper, to murmur
+5156|시일|danh|時日 thời nhật|
+5157|시합|danh|試合 thí hợp|game, contest, match
+5158|신속하다|tính|迅速 tấn tốc|
+5159|신제품|danh|新製品 tân chế phẩm|new product
+5160|신중하다|tính|愼重 thận trọng|careful, prudent, cautious
+5161|썩|phó ||exceedingly
+5162|암컷|danh||a female animal
+5163|예고하다|động|豫告 dự cáo|
+5164|위반하다|động|違反 vi phản|
+5165|윗몸|danh||upper body
+5166|은은하다|tính|隱隱 ẩn ẩn|to be faint, to be indistinct
+5167|이해관계|danh|利害關係 lợi hại quan hệ|an interest; a concern
+5168|익히다|động||to become proficient in something; to 
+5169|일대|định|一大 nhất đại|
+5170|입력|danh|入力 nhập lực|input
+5171|자연현상|danh|自然現象 tự nhiên hiện tượng|
+5172|정신없이|phó |精神 tinh thần|
+5173|정직하다|tính|正直 chính trực|honest
+5174|조정하다|động|調整 điều chỉnh|
+5175|주름|danh||wrinkles, lines, furrows
+5176|최신|danh|最新 tối tân|the latest; the newest
+5177|캐릭터|danh||fictional character, particularly in g
+5178|해롭다|tính|害 hại|to be harmful
+5179|현관문|danh|玄關門 huyền quan môn|front door
+5180|활발해지다|động|活潑 hoạt bát|
+5181|회복되다|động|回復 hồi phục|
+5182|희생하다|động|犧牲 hi sinh|
+5183|가능해지다|động|可能 khả năng|
+5184|공연히|phó |空然 không nhiên|vainly, in vain, for nothing
+5185|과정|danh|課程 khóa trình|process, a course of events
+5186|국제적|danh|國際的 quốc tế đích|international
+5187|그루|danh||stump; stub, stubble
+5188|그전|danh||
+5189|금고|danh||safe
+5190|꾸중|danh||scolding, rebuke
+5191|끌어당기다|động||to pull; to draw; to tug
+5192|끼|danh||A meal
+5193|능동적|danh|能動的 năng động đích|
+5194|당분간|phó |當分間 đương phân gian|
+5195|도움말|danh||help, advice
+5196|되살리다|động||to revive
+5197|몰려오다|động||
+5198|물질적|danh|物質的 vật chất đích|
+5199|믿어지다|động||
+5200|반죽|danh||dough, batter

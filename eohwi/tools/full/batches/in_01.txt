@@ -1,0 +1,400 @@
+1|것|danh||thing; something; that which; what; us
+2|하다|động||to do; used to vaguely refer to almost
+3|있다|trợ ||to stay, remain in a location
+4|있다|tính||to stay, remain in a location
+5|되다|động||to become
+6|수|danh||way, means, possibility, ability; used
+7|하다|trợ ||to do; used to vaguely refer to almost
+8|나|đại ||I, me; the first-person singular plain
+9|그|định||that
+10|없다|tính||to have none; lacking; nonexistent
+11|않다|trợ ||auxiliary adjective used to negate the
+12|사람|danh||human being, person
+13|우리|đại ||cage, pen, coop, enclosure
+14|이|định||this
+15|그|đại ||that
+16|아니다|tính||to not be
+17|보다|động||to see, to look at, to watch
+18|때|danh||time; occasion
+19|거|danh||alternative form of 것
+20|보다|trợ ||to see, to look at, to watch
+21|같다|tính||the same
+22|주다|trợ ||to give
+23|가다|động||to go
+24|년|danh|年 niên|bitch, bastard
+25|한|định||one
+26|말|danh||speech
+27|일|danh||work
+28|이|đại ||this
+29|때문|danh||cause", except in the conjunction 때문에)
+30|말하다|động||to speak, to talk
+31|그러나|phó ||but, however
+32|오다|động||to come
+33|알다|động||to know, understand
+34|씨|danh|氏 thị|seed, kernel
+35|그렇다|tính||to be thus, in that way; to be correct
+36|크다|tính||to be big, large
+37|또|phó ||also
+38|일|danh||work
+39|많다|tính||many, much, a lot, plentiful
+40|안|phó ||inside
+41|좋다|tính||to be good; great; excellent
+42|더|phó ||more, -er
+43|받다|động||to get, receive, take, obtain
+44|그것|đại ||that
+45|집|danh||home, house
+46|나오다|động||to come out, come forth
+47|그리고|phó ||and, also, in addition
+48|문제|danh|問題 vấn đề|problem, issue, question
+49|살다|động||to live
+50|저|đại ||that
+51|못하다|trợ ||cannot; to be unable, or impossible
+52|생각하다|động||to think
+53|모르다|động||to not know, to be ignorant of
+54|속|danh||the interior or inside, especially tha
+55|만들다|động||to make
+56|두|định||two
+57|앞|danh||fore, front
+58|어떤|định||what kind of
+59|잘|phó ||well
+60|먹다|động||to eat, drink, have, consume
+61|오다|trợ ||to come
+62|원|danh||won; the official currency of South Ko
+63|생각|danh||thought
+64|어떻다|tính||in what state; how
+65|명|danh||name
+66|다시|phó ||again, once more
+67|다른|định||different, other
+68|이런|định||like this; such
+69|여자|danh||woman
+70|개|danh|個 cá|dog
+71|뒤|danh||back, latter, rear
+72|듣다|động||to listen, to hear
+73|다|phó ||For the verb-final suffix, see the ent
+74|좀|phó ||contraction of 조금: a little, somewhat,
+75|들다|động||to come in, go in, get in, enter
+76|싶다|trợ ||to be desirous of, to want
+77|가지다|động||to have, to possess
+78|함께|phó ||together
+79|아이|danh||child, kid
+80|많이|phó ||many, much, a lot, plenty, in abundanc
+81|시간|danh|時間 thời gian|time
+82|너|đại ||second-person singular informal pronou
+83|주다|động||to give
+84|나다|động||to be born
+85|이렇다|tính||like this; in this way
+86|어머니|danh||mother
+87|눈|danh||eye
+88|뭐|đại ||contraction of 무어: what
+89|다음|danh||the next, the following
+90|누구|đại ||who
+91|전|danh|前 tiền|before
+92|곳|danh||place
+93|여러|định||several, various
+94|안|danh||inside
+95|하나|số t||one
+96|버리다|trợ ||to throw away, to abandon
+97|위|danh||above, upper, upside, top
+98|운동|danh|運動 vận động|exercise, physical activity; sport, sp
+99|퍼센트|danh||percent
+100|학교|danh|學校 học hiệu|school
+101|가장|phó ||most, -est
+102|들다|động||to come in, go in, get in, enter
+103|시작하다|động|始作 thủy tác|to begin
+104|바로|phó ||truly, without lie or deception
+105|어느|định||which
+106|그래서|phó ||therefore, accordingly, because of tha
+107|무엇|đại ||what - used in questions
+108|모든|định||all, every, each
+109|번|danh|番 phiên|occasion, time
+110|그거|đại ||it, that thing
+111|돈|danh||money
+112|그런데|phó ||but, however, on the other hand
+113|날|danh||day
+114|여기|đại ||here
+115|모두|phó ||all, wholly
+116|친구|danh|親舊 thân cựu|friend
+117|마음|danh||mind, heart
+118|후|danh|後 hậu|after
+119|가다|trợ ||to go
+120|놓다|trợ ||to lay, put, set, place
+121|아버지|danh||father
+122|남자|danh|男子 nam tử|man
+123|어디|đại ||where
+124|몸|danh||body
+125|얼굴|danh||face
+126|들어가다|động||to go into; to enter
+127|왜|phó ||why
+128|말다|trợ ||to not do something, to stop doing
+129|다르다|tính||to be different
+130|물|danh||water
+131|만나다|động||to meet; to see
+132|내다|động||to bring about, to pull forth
+133|쓰다|động||to wear, to put on
+134|이것|đại ||this
+135|이번|danh||this time; this occasion
+136|길|danh||a road, a path, a street, a track; pas
+137|생활|danh|生活 sinh hoạt|lifestyle, way of life
+138|쓰다|động||to wear, to put on
+139|지금|danh|只今 chỉ kim|now
+140|사이|danh||gap; space between
+141|우리나라|danh||Korea; my country; our country
+142|내다|trợ ||to bring about, to pull forth
+143|앉다|động||to sit, to squat
+144|처음|danh||the first time
+145|손|danh||hand
+146|몇|định||how many
+147|그때|danh||that time, the given time
+148|찾다|động||to search, to look for
+149|시|danh|時 thời|hour
+150|지금|phó |只今 chỉ kim|now
+151|나가다|động||to go out; to leave
+152|이야기|danh||talk
+153|사다|động||to buy, to purchase
+154|아직|phó ||still
+155|잡다|động||to take, to hold, to grab, to seize, t
+156|같이|phó ||together with
+157|선생님|danh|先生 tiên sinh|teacher
+158|서다|động||to stand
+159|못|phó ||nail, peg, spike
+160|역사|danh||history
+161|읽다|động||to read
+162|이제|phó ||now, and now
+163|물론|phó |勿論 vật luận|of course, certainly, naturally
+164|동안|danh||interval, period of time
+165|책|danh|冊 sách|book
+166|일어나다|động||to arise, get up; to wake up
+167|시장|danh|市場 thị trường|hunger
+168|넣다|động||to put in, to include, to insert
+169|중요하다|tính|重要 trọng yếu|to be important
+170|무슨|định||what, what kind of
+171|어렵다|tính||to be difficult, to be hard
+172|힘|danh||strength; power
+173|너무|phó ||too, excessively
+174|나라|danh||country, nation
+175|부르다|động||to name, to call, to call out
+176|자리|danh||space, place, site
+177|죽다|động||to die
+178|쪽|danh||side
+179|얘기|danh||contraction of 이야기: talk; story
+180|학생|danh|學生 học sinh|student, scholar, school pupil
+181|엄마|danh||mum, mummy
+182|이름|danh||name; full name
+183|하나|danh||one
+184|내리다|động||to come down
+185|쉽다|tính||to be easy
+186|필요하다|tính|必要 tất yếu|to have a need
+187|생기다|động||to emerge; for something to appear whe
+188|사용하다|động|使用 sử dụng|to use
+189|남편|danh|男便 nam tiện|husband
+190|들어오다|động||to enter, to come in
+191|밖|danh||outside
+192|작다|tính||to be small
+193|타다|động||to burn
+194|대학|danh|大學 đại học|college, university
+195|가운데|danh||center; the middle
+196|보내다|động||to send, to dispatch
+197|아주|phó ||very
+198|밤|danh||night
+199|높다|tính||to be high, to be tall, to be lofty
+200|컴퓨터|danh||computer
+201|먼저|phó ||first in time or sequence
+202|다니다|động||to go somewhere for a purpose; to atte
+203|얼마나|phó ||how long, how much, how many
+204|열다|động||to open
+205|머리|danh||head
+206|묻다|động||to ask; to inquire
+207|거기|đại ||there
+208|아들|danh||son
+209|아|thán||ah; oh
+210|기다리다|động||to wait for, to await
+211|분|danh||bun, a unit of measure, equivalent to 
+212|곧|phó ||soon, at once, immediately, shortly, s
+213|오늘|danh||today; this day
+214|서로|phó ||mutually, with each other, with one an
+215|이거|đại ||this thing, this matter
+216|방|danh|房 phòng|room
+217|아침|danh||morning
+218|웃다|động||to laugh, to smile, to grin
+219|떠나다|động||to leave
+220|그래|thán||like this, like that
+221|아름답다|tính||beautiful
+222|끝|danh||end, final
+223|입|danh||mouth
+224|뭐|thán||contraction of 무어: what
+225|영화|danh|映畵 ánh họa|movie, film
+226|필요|danh|必要 tất yếu|need; necessity
+227|하늘|danh||sky
+228|정말|phó |正 chính|really; truly
+229|밥|danh||cooked rice
+230|입다|động||to wear, to put on
+231|네|thán||four
+232|그림|danh||picture, drawing, painting, sketch
+233|마시다|động||to drink
+234|치다|động||to hit, to beat, to strike, to slap, t
+235|혼자|danh||solitude
+236|나가다|trợ ||to go out; to leave
+237|이제|danh||now, and now
+238|교수|danh|敎授 giao thụ|instruction
+239|술|danh||alcoholic beverage; liquor
+240|사랑|danh||love; affection
+241|전화|danh|電話 điện thoại|telephone, phone
+242|끝나다|động||to come to an end; to become finished
+243|돌아오다|động||to return, to come back
+244|아빠|danh||dad, papa
+245|한번|danh||sometime
+246|커피|danh||coffee, especially the beverage
+247|가슴|danh||chest, breast
+248|길다|tính||to be long
+249|회사|danh|會社 hội xã|a company
+250|맛|danh||taste, flavor
+251|매우|phó ||very, extremely
+252|오르다|động||to go up
+253|음식|danh|飮食 ẩm thực|food, including drink
+254|꼭|phó ||absolutely; surely
+255|요즘|danh||recent times; recently
+256|계획|danh|計劃 kế hoạch|a plan
+257|얼마|danh||how much, how many
+258|계속|phó |繼續 kế tục|continuously
+259|아내|danh||wife, especially one's own
+260|가족|danh|家族 gia tộc|household; family
+261|세|định||three
+262|놓다|động||to lay, put, set, place
+263|차|danh|車 xa|vehicle
+264|놀다|động||to play, to hang out
+265|도시|danh|都市 đô thị|city
+266|나이|danh||age of a person or other living thing
+267|바꾸다|động||to change [something]; to replace [som
+268|좋아하다|động||to like something or someone; to prefe
+269|그리다|động||to draw, to paint
+270|배우다|động||to learn
+271|옆|danh||side, flank, vicinity
+272|어|thán||uh-huh, yes
+273|아래|danh||below, bottom, lower, underneath
+274|그럼|phó ||then, in that case
+275|저|định||that
+276|배|danh||abdomen, belly
+277|산|danh|山 sơn|mountain
+278|새|định||bird
+279|하지만|phó ||but, however
+280|문|danh|門 môn|door
+281|꽃|danh||flower; flowering plant
+282|그동안|danh||since our last meeting or conversation
+283|갑자기|phó ||suddenly, all of a sudden
+284|바람|danh||wind, air, draft
+285|잘하다|động||to do something well, to be good at
+286|노래|danh||song
+287|바다|danh||sea, ocean
+288|힘들다|tính||difficult
+289|공부|danh|工夫 công phu|learning; study
+290|못하다|động||cannot; to be unable, or impossible
+291|언니|danh||older sister of a female
+292|분|danh||bun, a unit of measure, equivalent to 
+293|불|danh||fire; flame
+294|학년|danh|學年 học niên|school year
+295|신문|danh|新聞 tân văn|newspaper
+296|가지다|trợ ||to have, to possess
+297|이해하다|động||to understand or comprehend
+298|선생|danh|先生 tiên sinh|teacher
+299|돌아가다|động||to return, to go back
+300|기분|danh|氣分 khí phân|feeling, mood
+301|옷|danh||clothing; clothes
+302|전|định|前 tiền|before
+303|꿈|danh||dream
+304|할머니|danh||grandmother; elderly female
+305|회의|danh|會議 hội nghị|a meeting
+306|이야기하다|động||to talk, to converse, to have a conver
+307|나무|danh||tree
+308|자다|động||to sleep
+309|오늘|phó ||today; this day
+310|걷다|động||to walk
+311|이때|danh||now; this time; right now
+312|시간|danh|時間 thời gian|time
+313|물건|danh|物件 vật kiện|item, article, thing, stuff
+314|발|danh||foot
+315|빨리|phó ||quickly, without delay; often used whe
+316|시작되다|động|始作 thủy tác|to start, to begin
+317|둘|số t||two
+318|말다|động||to not do something, to stop doing
+319|설명하다|động|說明 thuyết minh|to explain
+320|살|danh||flesh; skin
+321|음악|danh|音樂 âm nhạc|music
+322|아프다|tính||to be painful, to hurt
+323|적다|tính||to be little, to be few
+324|비|danh||rain
+325|고향|danh|故鄕 cố hương|one's hometown or birthplace
+326|놀라다|động||to be surprised
+327|울다|động||to cry; to weep
+328|은행|danh|銀行 ngân hàng|a bank
+329|지내다|động||to spend
+330|결혼|danh|結婚 kết hôn|marriage
+331|동생|danh||younger sibling
+332|예|thán||yes
+333|오후|danh|午後 ngọ hậu|p.m.
+334|빠르다|tính||to be fast, quick, soon, early
+335|아기|danh||unweaned baby, child
+336|아저씨|danh||middle-aged elder male
+337|옛날|danh||the past
+338|달|danh||moon; the Moon
+339|참|phó ||truly, really
+340|이곳|đại ||here
+341|딸|danh||daughter
+342|마지막|danh||the end; the last thing
+343|병원|danh|病院 bệnh viện|hospital
+344|경찰|danh|警察 cảnh sát|police; policing
+345|저녁|danh||evening
+346|그러면|phó ||if so
+347|넓다|tính||to be wide, large, broad
+348|시험|danh|試驗 thí nghiệm|test, exam
+349|잠|danh||sleep, nap
+350|건강|danh|健康 kiện khang|health
+351|가깝다|tính||to be close, to be near
+352|건물|danh|建物 kiến vật|building, construction, edifice
+353|외국|danh|外國 ngoại quốc|a foreign country
+354|밑|danh||bottom, underneath; the lower/bottom p
+355|어른|danh||grownup, adult, elder, senior
+356|팔다|động||to sell
+357|열심히|phó |熱心 nhiệt tâm|enthusiastically, fervently, with dedi
+358|일하다|động||to work, to do one's job; to labor
+359|조금|danh||a little; a bit
+360|팀|danh||team
+361|부모|danh|父母 phụ mẫu|parents
+362|올라가다|động||to go up, to rise, to ascend
+363|그날|danh||that day; the day in question
+364|자주|phó ||often, frequently
+365|담배|danh||tobacco
+366|할아버지|danh||grandfather; elderly male
+367|태어나다|động||to be born
+368|벌써|phó ||already
+369|환자|danh|患者 hoạn giả|a medical patient
+370|재미있다|tính||amusing; entertaining; funny; interest
+371|가르치다|động||to teach
+372|대화|danh|對話 đối thoại|dialogue, conversation
+373|올해|danh||the current year, this year
+374|형|danh|兄 huynh|older brother of a male
+375|모두|danh||all, wholly
+376|걸다|động||to hang, to suspend
+377|멀다|tính||to be far
+378|버스|danh||bus
+379|잠시|phó |暫時 tạm thời|a moment, short time
+380|사진|danh|寫眞 tả chân|photograph, picture
+381|제일|danh|第一 đệ nhất|most, -est; forms superlatives of adje
+382|아마|phó ||perhaps, maybe
+383|얘기하다|động||contraction of 이야기하다: to talk, to conv
+384|조금|phó ||a little; a bit
+385|다리|danh||bridge
+386|아무|định||any
+387|항상|phó |恒常 hằng thường|always
+388|해|danh||the Sun
+389|잃다|động||to lose
+390|비슷하다|tính||to be similar
+391|달러|danh||dollar
+392|사랑하다|động||to love
+393|여름|danh||summer
+394|싫다|tính||to be disagreeable; to disapprove
+395|그러니까|phó ||therefore, accordingly
+396|값|danh||price
+397|언제나|phó ||always
+398|자동차|danh|自動車 tự động xa|automobile, car
+399|개월|danh|個月 cá nguyệt|months; used as a count word for month
+400|어린이|danh||child

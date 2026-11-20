@@ -1,0 +1,400 @@
+1201|약간|phó |若干 nhược can|smallness, triviality
+1202|요구하다|động|要求 yêu cầu|to demand, to require, to request
+1203|첫|định||first; initial
+1204|사실|phó |事實 sự thật|fact, reality, truth
+1205|약|định|約 ước|drug; medicine
+1206|기간|danh|期間 kỳ gian|a set interval or period of time
+1207|일으키다|động||to rouse
+1208|공장|danh|工場 công trường|factory
+1209|즐기다|động||to enjoy
+1210|지|danh||only used in -은 지.
+1211|변하다|động|變 biến|to change
+1212|사고|danh|事故 sự cố|an accident
+1213|그래도|phân||nevertheless
+1214|아무리|phó ||however much/many; no matter how much/
+1215|맞추다|động||to set, adjust, to tune, to adapt
+1216|쌀|danh||uncooked rice
+1217|일반|danh|一般 nhất bát|general; common
+1218|막다|động||to stop up
+1219|버리다|động||to throw away, to abandon
+1220|붙이다|động||to affix or attach; to stick
+1221|늘|phó ||always
+1222|전국|danh|全國 toàn quốc|the whole land making up a country
+1223|마치다|động||to finish
+1224|도움|danh||help; assistance; favour, favor
+1225|가정|danh|家庭 gia đình|a household, a family
+1226|빠지다|động||to fall out, to come off, to come out
+1227|오늘날|danh||these days; modern times
+1228|농업|danh|農業 nông nghiệp|agriculture
+1229|식|danh|式 thức|ceremony, ritual, expression, type
+1230|의견|danh|意見 ý kiến|an opinion about something
+1231|표현하다|động|表現 biểu hiện|to express
+1232|이상하다|tính|異常 dị thường|to be strange, to be unusual
+1233|붙다|động||to stick to, adhere to, cling to, atta
+1234|경기|danh|競技 cạnh kỹ|a sporting or athletic competition or 
+1235|목적|danh|目的 mục đích|a goal; an objective
+1236|태도|danh|態度 thái độ|attitude, stance
+1237|남성|danh|男性 nam tính|male, men
+1238|주위|danh|周圍 chu vi|circumference
+1239|그만|phó ||this much only; no more. often used in
+1240|발생하다|động|發生 phát sinh|to occur, to happen
+1241|어쩌다|động||to be inevitable
+1242|재료|danh|材料 tài liệu|ingredients, materials
+1243|각각|phó |各各 các các|each, every, respective
+1244|옮기다|động||to move; to shift
+1245|자유|danh|自由 tự do|freedom, liberty
+1246|책임|danh|責任 trách nhiệm|responsibility, duty
+1247|바뀌다|động||to be changed or exchanged
+1248|심하다|tính|甚 thậm|to be severe, to be extreme
+1249|아니|thán||no; not
+1250|자라다|động||to grow
+1251|구체적|danh|具體的 cụ thể đích|concrete; not abstract
+1252|기회|danh|機會 cơ hội|opportunity
+1253|지구|danh|地球 địa cầu|Earth
+1254|번째|danh|番 phiên|a dependent noun used to express the o
+1255|소비자|danh|消費者 tiêu phí giả|consumer or consumers
+1256|기준|danh|基準 cơ chuẩn|a fundamental standard or criterion
+1257|말|danh|末 mạt|speech
+1258|반드시|phó ||surely; certainly; without fail
+1259|받아들이다|động||to accept something from someone
+1260|꺼내다|động||to pull something out
+1261|노동자|danh|勞動者 lao động giả|worker
+1262|동네|danh|洞 động|neighborhood
+1263|완전히|phó |完全 hoàn toàn|completely, totally
+1264|전하다|động|傳 truyện|to pass along; to convey
+1265|맞다|động||to be correct, right
+1266|별로|phó |別 biệt|very
+1267|정하다|động|定 định|to designate, to specify, to decide, t
+1268|대중|danh|大衆 đại chúng|crowd; party
+1269|늘어나다|động||to expand or stretch
+1270|각종|danh|各種 các chủng|every sort; all kinds
+1271|빛|danh||light, gleam, glow
+1272|야|thán||hey
+1273|현재|danh|現在 hiện tại|the present; now
+1274|발견하다|động|發見 phát kiến|to discover
+1275|특징|danh|特徵 đặc trưng|distinguishing characteristic
+1276|선수|danh|選手 tuyển thủ|athlete; sportsman; a person who parti
+1277|마련하다|động||to have something ready, to prepare, t
+1278|발표하다|động|發表 phát biểu|to give a presentation
+1279|주제|danh|主題 chủ đề|topic; main idea
+1280|기본|danh|基本 cơ bản|basis, foundation
+1281|사라지다|động||to vanish; to disappear
+1282|감정|danh|感情 cảm tình|emotion, feeling
+1283|기억|danh|記憶 ký ức|recall; the faculty of memory
+1284|인기|danh|人氣 nhân khí|popularity
+1285|관리|danh|管理 quản lý|administration, management, supervisio
+1286|들리다|động||passive of 듣다
+1287|달리다|động||to run, to ride
+1288|이전|danh|以前 dĩ tiền|the time before now; heretofore
+1289|시키다|động||to cause to do or happen
+1290|국제|danh|國際 quốc tế|international, internationality
+1291|그룹|danh||group
+1292|인생|danh|人生 nhân sinh|one's life
+1293|전통|danh|傳統 truyền thống|full connection
+1294|기르다|động||to grow, raise, breed, cultivate, fost
+1295|조사하다|động|調査 điệu tra|to investigate, to examine; to conduct
+1296|커다랗다|tính||extremely huge
+1297|시인|danh|詩人 thi nhân|poet
+1298|외|danh|外 ngoại|other things
+1299|위치|danh|位置 vị trí|location
+1300|줄이다|động||to reduce something
+1301|가격|danh|價格 giá cách|monetary price
+1302|달라지다|động||to become different; to change or dive
+1303|원하다|động|願 nguyện|to want, to hope
+1304|통신|danh|通信 thông tín|communication; the sending of informat
+1305|확인하다|động|確認 xác nhận|to confirm, to verify or check; to see
+1306|모임|danh||a gathering or meeting
+1307|웃음|danh||laughter
+1308|기계|danh|機械 cơ giới|machine; machinery
+1309|모양|danh|模樣 mô dạng|surface appearance
+1310|아나운서|danh||an announcer, of a performance or broa
+1311|펴다|động||to spread, stretch, or expand somethin
+1312|종교|danh|宗敎 tông giao|religion
+1313|자연스럽다|tính|自然 tự nhiên|to be natural, unaffected
+1314|돌다|động||to revolve, rotate, spin, turn
+1315|이해|danh||understanding, comprehension of someth
+1316|혹은|phó |或 hoặc|or; or else
+1317|편|danh|篇 thiên|side
+1318|노력하다|động|努力 nỗ lực|to strive, to exert oneself; to make e
+1319|보호|danh|保護 bảo hộ|protection
+1320|한편|danh||on the other hand, while
+1321|이웃|danh||neighbor
+1322|공동|danh|共同 cộng đồng|commonality, sharedness
+1323|까닭|danh||reason, cause
+1324|소녀|danh|少女 thiếu nữ|girl
+1325|지나가다|động||to pass, to go past
+1326|상품|danh|商品 thương phẩm|merchandise, commodity; good
+1327|훌륭하다|tính||excellent
+1328|새로|phó ||anew, newly, for the first time
+1329|종류|danh|種類 chủng loại|type, kind, category
+1330|키우다|động||to rear; to raise; to cultivate
+1331|눕다|động||to lie down
+1332|발달하다|động|發達 phát đạt|to develop, to improve
+1333|발전하다|động|發展 phát triển|to grow, to develop
+1334|죽음|danh||death, dying
+1335|고통|danh|苦痛 khổ thống|pain
+1336|듯이|danh||as if; in a manner suggesting that
+1337|어울리다|động||to suit, to fit nicely, to match
+1338|알리다|động||to inform, to announce, to make known
+1339|멀리|phó ||afar, at a distance
+1340|빼다|động||to pull, to remove, to take out
+1341|예정|danh|豫定 dự định|prediction, expectation
+1342|흔히|phó ||commonly; often, frequently
+1343|느껴지다|động||to be felt or perceived
+1344|전문|danh|專門 chuyên môn|expertise; speciality; one's field of 
+1345|정확하다|tính|正確 chính xác|to be accurate, to be exact
+1346|등|danh||back of a person or animal
+1347|찾아오다|động||to come to visit someone
+1348|사용|danh|使用 sử dụng|usage in order to fulfill a purpose or
+1349|결정하다|động|決定 quyết định|to decide something, to make a decisio
+1350|경영|danh|經營 kinh doanh|management; administration
+1351|목표|danh|目標 mục tiêu|goal, target, objective, aim, bullseye
+1352|숲|danh||a forest or grove
+1353|없어지다|động||to disappear or vanish; to be lost
+1354|떠오르다|động||to rise, to arise
+1355|미치다|động||to go crazy, to become insane
+1356|새벽|danh||dawn; daybreak; cockcrow
+1357|얼른|phó ||quickly, at once, without delay
+1358|임금|danh||king; monarch
+1359|무섭다|tính||to be worried, scared or afraid of som
+1360|직장|danh|職場 chức trường|workplace, job
+1361|참다|động||to bear; to endure
+1362|크기|danh||size
+1363|남기다|động||to leave behind
+1364|서양|danh|西洋 tây dương|the global West, Euro-American culture
+1365|주요|danh|主要 chủ yếu|importance, primacy
+1366|지나치다|tính||to go on past something; to pass
+1367|냄새|danh||a smell, whether fragrant or offensive
+1368|부드럽다|tính||to be soft, smooth, gentle, mild
+1369|공연|danh|公演 công diễn|a public performance
+1370|내놓다|động||to let go
+1371|떼다|động||to detach, to remove, to take off
+1372|만들어지다|động||to be made
+1373|속도|danh|速度 tốc độ|speed
+1374|심각하다|tính|深刻 thâm khắc|to be severe, profound
+1375|계속되다|động|繼續 kế tục|to continue
+1376|소년|danh|少年 thiếu niên|boy
+1377|소식|danh|消息 tiêu tức|news
+1378|그중|danh||among those; of those
+1379|노인|danh|老人 lão nhân|an old person; the elderly
+1380|벌다|động||to earn
+1381|살리다|động||causative of 살다
+1382|결정|danh|決定 quyết định|decision
+1383|썰다|động||to chop, to cut, to saw, to mince
+1384|이미지|danh||public image
+1385|업무|danh|業務 nghiệp vụ|business, work, task, duty, business o
+1386|청소년|danh|靑少年 thanh thiếu niên|adolescent; teenager
+1387|응|thán||yes
+1388|이기다|động||to win, beat, defeat, gain
+1389|찾아보다|động||to go and find someone
+1390|취하다|động|取 thủ|to get drunk, to become intoxicated
+1391|선배|danh|先輩 tiên bối|a senior or elder in an organization
+1392|구하다|động|求 cầu|to look for, to seek
+1393|그러므로|phó ||accordingly, consequently
+1394|포함하다|động|包含 bao hàm|to include
+1395|만약|danh|萬若 vạn nhược|if, in the event that.
+1396|바르다|tính||to hang paper; to stick paper, cloth o
+1397|숨|danh||breath, breathing
+1398|행사|danh|行事 hành sự|an event or observance.
+1399|왕|danh|王 vương|king; monarch
+1400|점점|phó |漸漸 tiệm tiệm|gradually, bit by bit
+1401|특별|danh|特別 đặc biệt|The state or quality of being special.
+1402|판단|danh|判斷 phán đoán|Judgment; decision
+1403|해결하다|động|解決 giải quyết|to resolve a dispute or confusion
+1404|계속하다|động|繼續 kế tục|to continue; to resume
+1405|그치다|động||to stop something
+1406|너무나|phó ||far too much; excessively
+1407|높이다|động||To raise or elevate.
+1408|막|phó ||contraction of 마구
+1409|수출|danh|輸出 thâu xuất|export
+1410|자르다|động||to cut
+1411|데리다|động||to bring or take along
+1412|무척|phó ||very, extremely, extraordinarily, exce
+1413|비용|danh|費用 phí dụng|cost, expense
+1414|옳다|tính||to be right, true, correct
+1415|원래|danh|元來 nguyên lai|originally; naturally, inherently, inn
+1416|최초|danh|最初 tối sơ|first; earliest
+1417|놀이|danh||play; game; pastime; amusement, recrea
+1418|뿌리|danh||root
+1419|수입|danh|輸入 thâu nhập|import
+1420|초|danh|初 sơ|the SI unit of time, second
+1421|직원|danh|職員 chức viên|employee
+1422|상대|danh|相對 tương đối|Facing or confronting.
+1423|피부|danh|皮膚 bì phu|skin
+1424|가득|phó ||full; fully
+1425|벽|danh|壁 bích|wall
+1426|장군|danh|將軍 tướng quân|The leader or commander of an army.
+1427|무역|danh|貿易 mậu dịch|trade; commerce
+1428|줄|danh||ability, method; how to
+1429|쳐다보다|động||To look at or glance.
+1430|충분히|phó |充分 sung phân|sufficiently
+1431|대|danh|臺 đài|something large; something great
+1432|신체|danh|身體 thân thể|human body
+1433|에너지|danh||energy
+1434|정리하다|động|整理 chỉnh lý|to straighten out, to put in order; to
+1435|집안|danh||a household
+1436|배경|danh|背景 bối cảnh|background
+1437|죽이다|động||to kill, to cause to die
+1438|단순하다|tính|單純 đơn thuần|to be simple
+1439|반대|danh|反對 phản đối|oppositeness
+1440|빠지다|động||to fall out, to come off, to come out
+1441|푸르다|tính||to be blue, to be azure
+1442|걔|phân||that kid; he or she
+1443|발표|danh|發表 phát biểu|presentation; exhibition; announcement
+1444|흔들다|động||to cause to dangle, shake, wave, or un
+1445|기초|danh|基礎 cơ sở|foundation, basis
+1446|드라마|danh||drama
+1447|뽑다|động||to extract, to pull out
+1448|미리|phó ||beforehand, in advance
+1449|부족하다|tính|不足 bất túc|to be insufficient; to be not enough
+1450|저희|đại ||the first person plural polite pronoun
+1451|진행되다|động|進行 tiến hành|to progress; to come to progress
+1452|법|danh|法 pháp|law
+1453|오랜|định||longstanding; of long duration
+1454|젊은이|danh||youth, a young person
+1455|과제|danh|課題 khóa đề|task, assignment, project, homework, p
+1456|기록하다|động|記錄 ký lục|to record in a document
+1457|다가오다|động||To approach; to draw near.
+1458|종합|danh|綜合 tổng hợp|integration, combination
+1459|개발하다|động|開發 khai phát|to develop or exploit
+1460|떨다|động||to shake, to shiver, to tremble, to sh
+1461|자|thán||10²⁴
+1462|자유롭다|tính|自由 tự do|free; unfettered; untrammelled
+1463|적극적|danh|積極的 tích cực đích|positive, active
+1464|판매|danh|販賣 phán mại|selling; sale
+1465|길이|danh||length; distance
+1466|점차|phó |漸次 tiệm thứ|gradually; incrementally
+1467|톤|danh||ton
+1468|관련되다|động|關聯 quan liên|to have a connection; to be connected;
+1469|나머지|danh||the rest, remainder, what is left over
+1470|미래|danh|未來 vị lai|the future
+1471|인구|danh|人口 nhân khẩu|population
+1472|기대하다|động|期待 kỳ đãi|to expect; to look forward to
+1473|흘리다|động||to cause to flow; to spill
+1474|주인공|danh|主人公 chủ nhân công|protagonist, leading character, hero, 
+1475|당연하다|tính|當然 đương nhiên|to be reasonable or natural
+1476|따로|phó ||differently; separately
+1477|빌리다|động||to borrow
+1478|형님|danh|兄 huynh|honorific of 형
+1479|놓이다|động||To be laid, or put
+1480|당장|danh|當場 đương trường|The exact location.
+1481|무렵|danh||the time when; around the time of
+1482|사물|danh|事物 sự vật|thing; object; matter
+1483|일반적|danh|一般的 nhất bát đích|general; overall
+1484|곱다|tính||beautiful, pretty, lovely, nice
+1485|바닥|danh||floor; bottom; a flat and usually low 
+1486|새끼|danh||young animal
+1487|생각되다|động||to occur or come to mind
+1488|서비스|danh||service
+1489|선택하다|động|選擇 tuyển trạch|to choose, to select
+1490|심다|động||To plant, sow
+1491|간단하다|tính|簡單 giản đơn|to be simple or straightforward
+1492|스스로|danh||by oneself, on one's own, without assi
+1493|견디다|động||to endure
+1494|기사|danh|記事 ký sự|an article, such as in a newspaper or 
+1495|막히다|động||to become blocked or closed
+1496|뿌리다|động||to sprinkle, to rain in sprinkles
+1497|어쩌면|phó ||perhaps
+1498|비밀|danh|秘密 bí mật|secret
+1499|아까|phó ||just now; a little while ago, earlier 
+1500|알맞다|tính||to be just right; suited
+1501|희다|tính||to be white
+1502|가리키다|động||to point to
+1503|모시다|động||to serve or wait on a higher-status pe
+1504|발달|danh|發達 phát đạt|development
+1505|수많다|tính|數 số|To be many; numerous.
+1506|잘못|danh||mistake
+1507|평화|danh|平和 bình hòa|peace
+1508|공사|danh|工事 công sự|construction work
+1509|돌|danh||rock, stone; pebble
+1510|박사|danh|博士 bác sĩ|doctorate, Ph.D.
+1511|전문가|danh|專門家 chuyên môn gia|expert; specialist
+1512|단지|phó |但只 đãn chỉ|just, only; simply
+1513|무용|danh|舞踊 vũ dũng|dance
+1514|불리다|động||to be called
+1515|싸움|danh||fighting, fight, quarrel, battle, cont
+1516|자꾸|phó ||repeatedly; incessantly
+1517|차리다|động||to prepare
+1518|해외|danh|海外 hải ngoại|overseas
+1519|그리|phó ||so much
+1520|뜨다|động||to float, to stay afloat
+1521|미소|danh|微笑 vi tiếu|a smile
+1522|의미하다|động|意味 ý vị|to mean; to signify
+1523|체육|danh|體育 thể dục|physical education
+1524|땀|danh||sweat
+1525|잘되다|động||to do well; to prosper
+1526|쌓이다|động||to pile, to be piled up
+1527|이익|danh|利益 lợi ích|profit
+1528|쥐다|động||to clench
+1529|게다가|phó ||moreover
+1530|끓이다|động||to boil something; to cause something 
+1531|논문|danh|論文 luận văn|an academic publication
+1532|멈추다|động||to stop; to halt.
+1533|사용되다|động|使用 sử dụng|to be used
+1534|오랫동안|danh||A long time.
+1535|찾아가다|động||To go to see or meet someone.
+1536|늘다|động||to increase
+1537|양|danh||quantity, amount
+1538|진짜|phó |眞 chân|really; actually
+1539|공기|danh|空氣 không khí|air
+1540|닿다|động||to touch, to reach
+1541|물론|danh|勿論 vật luận|of course, certainly, naturally
+1542|속하다|động|屬 thuộc|To be part of; to be a member of.
+1543|올림픽|danh||Olympics, the Olympic Games
+1544|이외|danh|以外 dĩ ngoại|apart from this
+1545|제공하다|động|提供 đề cung|to provide or furnish
+1546|기대|danh|期待 kỳ đãi|expectation; hope
+1547|식물|danh|植物 thực vật|plant
+1548|옛|định||old; bygone
+1549|적어도|phó ||at least
+1550|편하다|tính|便 tiện|easygoing; comfortable
+1551|어려움|danh||difficulty
+1552|분명히|phó |分明 phân minh|In an obvious manner.
+1553|아무것|danh||anything; something
+1554|온|định||all, whole, entire
+1555|젖다|động||to become wet, to become drenched, to 
+1556|최대|danh|最大 tối đại|the greatest; the largest
+1557|평소|danh|平素 bình tố|the ordinary; ordinary conditions
+1558|농사|danh|農事 nông sự|agriculture; farming
+1559|더구나|phó ||also; furthermore
+1560|어둠|danh||dark; darkness
+1561|어둡다|tính||dark
+1562|주택|danh||A residential building.
+1563|고장|danh||breakdown
+1564|관련하다|động|關聯 quan liên|to be connected or related; to be in a
+1565|밀다|động||to push
+1566|음|thán||hmm, umm, uh; indicating thinking or p
+1567|고려하다|động|考慮 khảo lự|to consider or reflect on something
+1568|농촌|danh|農村 nông thôn|rural hamlet; a farm town
+1569|올라오다|động||to come up; to ascend.
+1570|챙기다|động||to collect or pack
+1571|고르다|động||to choose, to pick out
+1572|바르다|động||to hang paper; to stick paper, cloth o
+1573|벌어지다|động||To occur or take place.
+1574|포기하다|động|抛棄 phao khí|to give up or abandon
+1575|고치다|động||to fix, to correct
+1576|그림자|danh||shadow
+1577|다하다|động||to run out, to be used up, to be finis
+1578|마침내|phó ||finally; in the end.
+1579|비교하다|động|比較 tỉ giảo|to compare
+1580|커지다|động||To become large or larger; to expand.
+1581|한쪽|danh||One side or direction.
+1582|검사|danh|檢査 kiểm tra|examination
+1583|맡기다|động||to cause to take on; to entrust
+1584|소문|danh|所聞 sở văn|rumour
+1585|싣다|động||to load onto a vehicle, ship, plane, o
+1586|쌓다|động||to stack up, to pile up
+1587|제목|danh|題目 đề mục|A title of a book or other work.
+1588|짓|danh||a physical act or movement
+1589|하얗다|tính||white, pure white, pale
+1590|희망|danh|希望 hi vọng|hope, wish
+1591|군대|danh|軍隊 quân đội|army
+1592|그만큼|phó ||to that extent, so much, that much
+1593|무어|đại ||An expression of surprise.
+1594|상대방|danh|相對方 tương đối phương|A partner in conversation or other int
+1595|시골|danh||countryside, the country
+1596|실수|danh|失手 thất thủ|mistake
+1597|잘못되다|động||to go wrong, to go awry
+1598|치료|danh|治療 trị liệu|Treatment for a disease or injury, usu
+1599|폭|danh|幅 bức|Breadth, width.
+1600|내밀다|động||To push or thrust out or forward.

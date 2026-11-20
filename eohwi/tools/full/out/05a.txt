@@ -1,0 +1,200 @@
+1601|đúng
+1602|loạt, series
+1603|mang thai
+1604|bị bắt, nắm được
+1605|gam
+1606|ruộng (cạn)
+1607|phân tích
+1608|thành viên gia đình
+1609|vang lên, reo
+1610|chắc chắn
+1611|chữ cái, chữ
+1612|nghiên cứu
+1613|hiền lành
+1614|bất động sản
+1615|điểm, chấm
+1616|nghề nghiệp
+1617|tổ tiên
+1618|đen
+1619|bên cạnh
+1620|các bạn, tụi bay
+1621|hái; lấy (bằng cấp)
+1622|vấn đề, điểm bất cập
+1623|không thể
+1624|giờ thì, cuối cùng
+1625|cú sốc
+1626|ngay, lập tức
+1627|ấn, nhấn
+1628|mỹ thuật
+1629|khá
+1630|lẫn nhau
+1631|một lúc lâu
+1632|cắt đứt, dứt, bỏ
+1633|lật; chuyển sang
+1634|được đựng, chứa
+1635|vội vàng
+1636|đủ
+1637|vui
+1638|niềm vui
+1639|sâu
+1640|trang trí
+1641|làm tăng, mở rộng
+1642|đầu gối
+1643|được phát hiện
+1644|sự sử dụng
+1645|hét; đâm
+1646|bước chân
+1647|vừa đủ, khó khăn lắm
+1648|khô, cạn
+1649|tương đối
+1650|được nâng cao, cao lên
+1651|già
+1652|sự tưởng tượng
+1653|nổi; mọc
+1654|ngôi sao, minh tinh
+1655|môi
+1656|giữa
+1657|vô cùng
+1658|đặc biệt
+1659|gần
+1660|khỏi bệnh; tốt hơn
+1661|vượt qua
+1662|rang, xào
+1663|một lúc nào đó
+1664|nghệ sĩ
+1665|yên lặng, im
+1666|một hai
+1667|đất
+1668|nghèo
+1669|khách hàng
+1670|nhà khoa học
+1671|du lịch (tham quan)
+1672|phẫu thuật
+1673|thực phẩm
+1674|diễn xuất
+1675|hội viên
+1676|vọng đến, nghe thấy
+1677|từng chút một
+1678|được cởi, tan ra
+1679|nhìn vào trong
+1680|tỏi
+1681|thói quen
+1682|vận dụng
+1683|chăm sóc, vun trồng
+1684|nỗi phiền muộn
+1685|nhớ lại, gợi nhớ
+1686|nhất, ngay
+1687|vết thương
+1688|chật, hẹp
+1689|nhặt, gắp
+1690|ông, anh; quân; huyện
+1691|tiêu biểu
+1692|nếu, lỡ như
+1693|mang tính xã hội
+1694|sinh ra, xuất hiện
+1695|nội trợ
+1696|mặt trời
+1697|chắc chắn, không sai
+1698|phần trăm; chuyên nghiệp
+1699|nở
+1700|đường sá
+1701|sai, nhầm
+1702|rơi, lặn; thua
+1703|làm đầy
+1704|sự thiếu; bộ tộc
+1705|chạy; treo
+1706|cộng thêm
+1707|thường
+1708|thật là
+1709|hiệu trưởng đại học
+1710|đơn thuần
+1711|chạy tới
+1712|sự viếng thăm
+1713|sự bất mãn
+1714|bất tiện
+1715|thực tế
+1716|nô lệ; loài
+1717|máu
+1718|khán giả
+1719|bừa, mạnh tay
+1720|mi-li-mét
+1721|chữ số
+1722|nhiệt; mười
+1723|tính toán
+1724|đáng ngạc nhiên
+1725|ngày xưa
+1726|này, ừm
+1727|điện
+1728|sai; bị vặn
+1729|người mẫu, mô hình
+1730|rót; sưng
+1731|cô (chị em của bố)
+1732|tò mò
+1733|đúng, khít
+1734|yếu
+1735|làm sai
+1736|công chức
+1737|bỏ, nghỉ
+1738|sự thiếu
+1739|nóng lên
+1740|hạnh phúc
+1741|nướng; cong
+1742|dầu, mỡ
+1743|đổ ào ra
+1744|nhớ
+1745|thảo luận
+1746|cao cấp
+1747|sự vất vả
+1748|điên; đạt tới
+1749|giẫm
+1750|trộn
+1751|loại bỏ
+1752|được thực hiện
+1753|đỉnh; bình thường
+1754|mỹ phẩm
+1755|to, dày
+1756|sạch sẽ
+1757|cũ kỹ
+1758|trước mắt
+1759|thăm
+1760|đỏ
+1761|thứ tự
+1762|dù sao thì
+1763|viện nghiên cứu
+1764|chuyển nhà
+1765|ghé qua
+1766|đảo
+1767|trở xuống
+1768|tham dự
+1769|giải quyết
+1770|hạnh phúc
+1771|người lao động
+1772|ừm, để xem
+1773|thay đổi
+1774|được quyết định
+1775|bất an
+1776|sự dư dả
+1777|ki-lô-mét
+1778|sóng
+1779|đơn; bó
+1780|đài truyền hình
+1781|ẩn nấp
+1782|tiền gửi
+1783|nhập học
+1784|cắn
+1785|bất chợt, đã
+1786|giây
+1787|phô mai
+1788|phản đối
+1789|ôi, trời
+1790|yên lặng
+1791|khí ga
+1792|lỗ
+1793|truyện tranh
+1794|cho ăn
+1795|phớt lờ
+1796|nhẹ nhàng, khẽ
+1797|chợt nhớ ra
+1798|lạnh lẽo
+1799|quan sát
+1800|vô cớ

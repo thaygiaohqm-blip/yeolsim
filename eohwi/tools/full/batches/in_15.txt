@@ -1,0 +1,365 @@
+5601|향상되다|động|向上 hướng thượng|
+5602|가톨릭|danh||Catholicism; the Catholic Church
+5603|건조하다|tính|乾燥 càn táo|to be dry
+5604|걷기|danh||walking
+5605|공통|danh|共通 cộng thông|common
+5606|과거|danh|科擧 khoa cử|the past
+5607|국가적|danh|國家的 quốc gia đích|
+5608|귓속|danh||
+5609|그래픽|danh||graphic; graphics
+5610|근교|danh|近郊 cận giao|suburb; outlying area; outskirts
+5611|기초적|danh|基礎的 cơ sở đích|
+5612|다양성|danh|多樣性 đa dạng tính|
+5613|대상자|danh|對象者 đối tượng giả|subject, recipient, candidate
+5614|동그라미|danh||circle
+5615|떠나오다|động||
+5616|레이저|danh||laser
+5617|보수적|danh|保守的 bảo thủ đích|
+5618|불확실하다|tính||
+5619|비만|danh|肥滿 phì mãn|obesity
+5620|빗방울|danh||raindrop
+5621|사회자|danh|司會者 ti hội giả|
+5622|손수|phó ||
+5623|시들다|động||to wither, to wilt, to droop
+5624|시디|danh||compact disc
+5625|신사|danh|紳士 thân sĩ|gentleman
+5626|쓸데없이|phó ||
+5627|야하다|tính|冶 dã|to be lewd, to be NSFW
+5628|어쩌다가|phó ||
+5629|온종일|danh||the whole day
+5630|왕비|danh|王妃 vương phi|queen
+5631|운반|danh|運搬 vận ban|transportation, transport, transit, co
+5632|장모님|danh|丈母 trượng mẫu|honorific of 장모
+5633|저울|danh||balance, scale, weighing instrument
+5634|지폐|danh|紙幣 chỉ tệ|bill, note, banknote, paper money
+5635|진실로|phó |眞實 chân thực|
+5636|촛불|danh||candlelight
+5637|출퇴근|danh|出退勤 xuất thoái cần|
+5638|통역|danh|通譯 thông dịch|interpretation
+5639|표시하다|động|標示 tiêu thị|to express, state
+5640|하|danh|下 hạ|last, lowest
+5641|한데|phó ||outdoors
+5642|혼잣말|danh||taking to oneself
+5643|효도하다|động|孝道 hiếu đạo|filial, to be good to one’s parents
+5644|힘없이|phó ||
+5645|건넌방|danh||
+5646|곧이어|phó ||right after; soon after; shortly; next
+5647|공기|danh|空器 không khí|air
+5648|굉장하다|tính|宏壯 hoành tráng|wonderful, amazing, great, awesome
+5649|기업인|danh|企業人 xí nghiệp nhân|entrepreneur
+5650|긴장되다|động|緊張 khẩn trương|nervous; tense
+5651|깨끗해지다|động||
+5652|낚싯대|danh||fishing rod
+5653|냇물|danh||stream, brook
+5654|단골|danh||the clientele of a shaman, who regular
+5655|대|danh||something large; something great
+5656|더러워지다|động||to become dirty, to be stained
+5657|데우다|động||to heat up, to warm up
+5658|동그랗다|tính||to be round; to be spherical
+5659|뛰어나오다|động||to run out
+5660|레저|danh||
+5661|로터리|danh||traffic circle
+5662|무덥다|tính||hot; stifling
+5663|뭘|thán||what
+5664|반대편|danh|反對便 phản đối tiện|the opposite side
+5665|발바닥|danh||sole
+5666|발톱|danh||toenail
+5667|밝아지다|động||to brighten, to lighten
+5668|분명해지다|động|分明 phân minh|
+5669|산길|danh|山 sơn|mountain path; mountain road
+5670|수업|danh|修業 tu nghiệp|a class
+5671|심각해지다|động|深刻 thâm khắc|
+5672|싹|phó ||bud; shoot; sprout
+5673|씻기다|động||to be washed, to be washed away
+5674|안심하다|động|安心 yên tâm|to rest easy; to feel relieved
+5675|약|danh||drug; medicine
+5676|약수|danh|藥水 dược thủy|
+5677|약품|danh|藥品 dược phẩm|medicine; drugs
+5678|양보|danh|讓步 nhượng bộ|giving up one's seat or possession; ma
+5679|양옆|danh||
+5680|어쩜|phó ||
+5681|여왕|danh||queen
+5682|연기되다|động|延期 diên kỳ|
+5683|올라타다|động||
+5684|이다음|danh||
+5685|잡수다|động||honorific form of 먹다
+5686|장사꾼|danh||merchant, trader
+5687|주일|danh|週日 chu nhật|week
+5688|집중하다|động|集中 tập trung|to focus; to concentrate
+5689|짜증스럽다|tính||
+5690|천재|danh|天才 thiên tài|genius
+5691|초여름|danh|初 sơ|early summer
+5692|초저녁|danh|初 sơ|
+5693|충돌하다|động|衝突 xung đột|to collide
+5694|코트|danh||coat
+5695|피곤|danh|疲困 bì khốn|fatigue; weariness; tiredness
+5696|학비|danh|學費 học phí|tuition, school expenses
+5697|해|danh|害 hại|the Sun
+5698|효자|danh|孝子 hiếu tử|filial son, filial child
+5699|감소되다|động|減少 giảm thiểu|
+5700|강변|danh|江邊 giang biên|riverside
+5701|공연되다|động|公演 công diễn|
+5702|괴로워하다|động||
+5703|교시|danh|校時 hiệu thời|
+5704|그리로|phó ||alternative form of 그리
+5705|까먹다|động||to peel and eat
+5706|깡패|danh||bully
+5707|꾸다|động||to dream
+5708|낚시꾼|danh||fisherman
+5709|다양해지다|động|多樣 đa dạng|
+5710|등록하다|động|登錄 đăng lục|to register
+5711|뛰놀다|động||
+5712|라켓|danh||racket
+5713|리터|danh||liter/litre
+5714|마요네즈|danh||mayonnaise
+5715|만세|danh|萬歲 vạn tuế|hurrah, hooray
+5716|만화가|danh|漫畵家 mạn họa gia|comics artist; cartoonist; comic book 
+5717|맘대로|phó ||contraction of 마음대로: as one pleases/li
+5718|머리말|danh||preface, foreword
+5719|면접|danh|面接 diện tiếp|face-to-face meeting; meeting in perso
+5720|몸속|danh||
+5721|무책임하다|tính|無責任 vô trách nhiệm|irresponsible
+5722|반짝거리다|động||
+5723|밤새우다|động||to stay up all night, pull an all-nigh
+5724|번지|danh|番地 phiên địa|house number
+5725|사립|danh|私立 tư lập|private
+5726|사생활|danh|私生活 tư sinh hoạt|private life
+5727|사이사이|danh||
+5728|생활수준|danh|生活水準 sinh hoạt thủy chuẩn|
+5729|서툴다|tính||contraction of 서투르다
+5730|석사|danh|碩士 thạc sĩ|master's degree
+5731|성당|danh|聖堂 thánh đường|Confucian temple
+5732|속마음|danh||one's inmost heart/thoughts; the botto
+5733|손잡다|động||to grasp one's hands; to take someone 
+5734|숙녀|danh|淑女 thục nữ|lady
+5735|순하다|tính|順 thuận|mild, gentle
+5736|시댁|danh|媤宅 ti trạch|one's husband's family or home
+5737|신체적|danh|身體的 thân thể đích|bodily, corporal, corporeal, physical
+5738|쓴맛|danh||bitterness, bitter taste
+5739|야옹|phó ||with a meow
+5740|얼마간|danh||
+5741|올여름|danh||this summer
+5742|외제|danh|外製 ngoại chế|
+5743|욕하다|động|辱 nhục|to abuse; to curse; to swear
+5744|음반|danh|音盤 âm bàn|record, album, disk
+5745|의논|danh||discussion; debate
+5746|이래서|phân||
+5747|자살하다|động|自殺 tự sát|to commit suicide
+5748|자연적|danh|自然的 tự nhiên đích|
+5749|장례식|danh|葬禮式 táng lễ thức|funeral
+5750|재수|danh|財數 tài số|study for the following year's annual 
+5751|전구|danh|電球 điện cầu|light bulb
+5752|전문점|danh|專門店 chuyên môn điếm|specialty store
+5753|전통문화|danh|傳統文化 truyền thống văn hóa|
+5754|주전자|danh|酒煎子 tửu tiễn tử|kettle, teakettle
+5755|지우다|động||to erase; to rub out; to wipe away
+5756|찬성|danh|贊成 tán thành|agreement, consent
+5757|촌스럽다|tính|村 thôn|to be boorish, rustic, countrified-loo
+5758|컨디션|danh||
+5759|코스모스|danh||cosmos
+5760|토론자|danh|討論者 thảo luận giả|
+5761|튼튼히|phó ||strongly; firmly
+5762|페인트|danh||paint
+5763|평상시|danh|平常時 bình thường thời|normal, the usual time, normally
+5764|학교생활|danh|學校生活 học hiệu sinh hoạt|
+5765|해물|danh|海物 hải vật|seafood
+5766|형|danh|型 hình|older brother of a male
+5767|혼나다|động|魂 hồn|to get scolded
+5768|가만|phó ||quietly; without moving or speaking
+5769|감정적|danh|感情的 cảm tình đích|
+5770|강북|danh|江北 giang bắc|north of a river
+5771|고무신|danh||rubber slippers
+5772|관람|danh|觀覽 quan lãm|viewing, watching
+5773|교외|danh|郊外 giao ngoại|suburb; outskirts
+5774|교육비|danh|敎育費 giao dục phí|
+5775|금|danh||gold; golden...
+5776|기억되다|động|記憶 ký ức|to be remembered
+5777|까다|động||to peel
+5778|꽃씨|danh||
+5779|꾸준하다|tính||persistent
+5780|난방|danh|暖房 huyên phòng|heating
+5781|내용물|danh|內容物 nội dung vật|
+5782|녹화|danh|錄畵 lục họa|recording
+5783|달다|động||to become hot
+5784|뒷골목|danh||
+5785|들어주다|động||to accept someone's wish and make it c
+5786|따로따로|phó ||
+5787|뛰어놀다|động||
+5788|라이벌|danh||rival, rivalry
+5789|매번|phó |每番 mỗi phiên|all the time
+5790|먹다|động||to eat, drink, have, consume
+5791|무관심하다|tính|無關心 vô quan tâm|indifferent, uninterested, apathetic
+5792|무사하다|tính|無事 vô sự|intact, unharmed
+5793|번역하다|động|飜譯 phiên dịch|to translate
+5794|병아리|danh||chick, baby chicken
+5795|부피|danh||volume
+5796|비기다|động||to tie or draw with
+5797|생활용품|danh|生活用品 sinh hoạt dụng phẩm|household items, provisions
+5798|섹시하다|tính||to be sexy
+5799|소비하다|động|消費 tiêu phí|to consume, to spend
+5800|수리하다|động|修理 tu lý|to repair or fix
+5801|식료품|danh|食料品 thực liệu phẩm|foodstuffs, groceries, food
+5802|식히다|động||to cool, to let cool
+5803|씻기다|động||to be washed, to be washed away
+5804|얼리다|động||to freeze
+5805|올가을|danh||this autumn
+5806|와이셔츠|danh||a dress shirt
+5807|윗사람|danh||one's seniors, elders
+5808|이민|danh|移民 di dân|immigration; emigration
+5809|이성|danh|異性 dị tính|opposite sex
+5810|인제|danh||now, but late; finally
+5811|입사하다|động|入社 nhập xã|to enter a company
+5812|재우다|động||to put someone to bed, to lull
+5813|전시되다|động|展示 triển thị|
+5814|졸리다|động||to feel/get sleepy/drowsy
+5815|졸음|danh||drowsiness; sleepiness
+5816|주문|danh|呪文 chú văn|order
+5817|지능|danh|知能 tri năng|intelligence
+5818|쩔쩔매다|động||to be flustered
+5819|철|danh||season
+5820|추가되다|động|追加 truy gia|
+5821|치료법|danh|治療法 trị liệu pháp|
+5822|치우다|trợ ||to remove; to take away
+5823|큰아들|danh||eldest son
+5824|특급|danh|特級 đặc cấp|special grade; top quality
+5825|풀어지다|động||to come loose or untied
+5826|한겨울|danh||
+5827|한평생|danh||
+5828|해수욕장|danh|海水浴場 hải thủy dục trường|swimming beach, bathing resort, seasid
+5829|허허|phó ||ha-ha; while laughing
+5830|호실|danh|號室 hiệu thất|room number
+5831|흐려지다|động||become cloudy, tarnished, or blurred
+5832|희망하다|động|希望 hi vọng|to hope
+5833|힘들어하다|động||
+5834|강의하다|động|講義 giảng nghĩa|to lecture, to give a lecture
+5835|공연하다|động|公演 công diễn|
+5836|귤|danh|橘 quất|tangerine; mandarin orange
+5837|내과|danh|內科 nội khoa|internal medicine
+5838|무지개|danh||rainbow
+5839|문법|danh|文法 văn pháp|grammar
+5840|볶음|danh||verbal noun of 볶다
+5841|볼링|danh||bowling
+5842|비둘기|danh||pigeon, dove
+5843|생활비|danh|生活費 sinh hoạt phí|cost of living
+5844|시대적|danh|時代的 thời đại đích|
+5845|앞문|danh||front door
+5846|인도|danh||sidewalk, pavement, walkway
+5847|추가하다|động|追加 truy gia|to add
+5848|탁구|danh|卓球 trác cầu|table tennis
+5849|현대적|danh|現代的 hiện đại đích|modern; contemporary
+5850|늦가을|danh||late autumn
+5851|못생기다|tính||to be ugly, unattractive
+5852|영화관|danh|映畵館 ánh họa quán|cinema
+5853|예술적|danh|藝術的 nghệ thuật đích|
+5854|장모|danh|丈母 trượng mẫu|mother-in-law
+5855|튀김|danh||fried food; various deep-fried snacks
+5856|고궁|danh|古宮 cổ cung|
+5857|단추|danh||button
+5858|대중적|danh|大衆的 đại chúng đích|
+5859|미역|danh||wakame
+5860|반말|danh|半 bán|crude language
+5861|분홍색|danh|粉紅色 phấn hồng sắc|pink
+5862|작은아버지|danh||uncle, father's younger brother
+5863|초순|danh|初旬 sơ tuần|the first ten days of a month
+5864|퇴원하다|động|退院 thoái viện|
+5865|하순|danh|下旬 hạ tuần|
+5866|기혼|danh|旣婚 ký hôn|
+5867|도장|danh|圖章 đồ chương|stamp; seal
+5868|삼계탕|danh|蔘鷄湯 sâm kê thang|samgyetang
+5869|예약하다|động|豫約 dự ước|to make a reservation, to book
+5870|천둥|danh||thunder
+5871|퇴원|danh|退院 thoái viện|
+5872|게으르다|tính||to be lazy, to be idle
+5873|기념품|danh|記念品 ký niệm phẩm|souvenir, memento
+5874|단풍|danh|丹楓 đan phong|short for 단풍나무
+5875|문학적|danh|文學的 văn học đích|
+5876|미끄럽다|tính||to be slippery
+5877|복숭아|danh||peach
+5878|외아들|danh||only son
+5879|장인|danh|丈人 trượng nhân|father-in-law
+5880|동서남북|danh|東西南北 đông tây nam bắc|east, west, south and north
+5881|외할아버지|danh|外 ngoại|maternal grandfather
+5882|입국|danh|入國 nhập quốc|entry into a country
+5883|체육관|danh|體育館 thể dục quán|gym, gymnasium
+5884|최소|danh|最小 tối tiểu|minimum
+5885|칼국수|danh||a kind of Korean noodle that is often 
+5886|큰아버지|danh||uncle, father's elder brother
+5887|국민적|danh|國民的 quốc dân đích|
+5888|국제선|danh|國際線 quốc tế tuyến|international air route, international
+5889|동양인|danh|東洋人 đông dương nhân|east Eurasian, especially East Asian a
+5890|안과|danh|眼科 nhãn khoa|ophthalmology
+5891|예식장|danh||
+5892|월세|danh|月貰 nguyệt thởi|wolse
+5893|진찰|danh|診察 chẩn sát|examination; checkup
+5894|큰딸|danh||
+5895|결석|danh|缺席 khuyết tịch|absence
+5896|독감|danh|毒感 độc cảm|bad cold
+5897|보라색|danh||violet, purple
+5898|연두색|danh|軟豆色 nhuyễn đậu sắc|yellowish green, yellow-green
+5899|온돌|danh|溫突 ôn đột|ondol, hypocaust
+5900|출입국|danh|出入國 xuất nhập quốc|
+5901|클래식|danh||classic
+5902|팝송|danh||Western pop song
+5903|팩스|danh||fax, facsimile
+5904|국내선|danh|國內線 quốc nội tuyến|domestic flight
+5905|떡국|danh||tteokguk
+5906|시외버스|danh||
+5907|야구장|danh|野球場 dã cầu trường|baseball field; baseball ground; baseb
+5908|작은아들|danh||
+5909|잠자리|danh||dragonfly
+5910|형수|danh|兄嫂 huynh dâu|a man's older brother's wife; sister-i
+5911|관광버스|danh||tour bus
+5912|그저께|danh||ereyesterday, the day before yesterday
+5913|냉방|danh|冷房 lãnh phòng|air conditioning
+5914|눈병|danh||
+5915|배추김치|danh||cabbage kimchi
+5916|색연필|danh|色鉛筆 sắc duyên bút|colored pencil, pencil crayon
+5917|소아과|danh|小兒科 tiểu nhi khoa|paediatrics
+5918|양력|danh|陽曆 dương lịch|solar calendar
+5919|작은어머니|danh||
+5920|축구장|danh|蹴球場 xúc cầu trường|soccer field; football pitch; soccer p
+5921|한글날|danh||Hangul Day
+5922|한식|danh|韓食 hàn thực|Korean food
+5923|넉|định||four, 되, 섬, and 자)
+5924|복사기|danh|複寫機 phức tả cơ|a photocopier
+5925|아드님|danh||honorific of 아들
+5926|결석하다|động|缺席 khuyết tịch|to be absent
+5927|기념일|danh|記念日 ký niệm nhật|memorial day; anniversary
+5928|내후년|danh||three years from now
+5929|따님|danh||honorific of 딸
+5930|식품점|danh|食品店 thực phẩm điếm|
+5931|약혼녀|danh|約婚女 ước hôn nữ|fiancée
+5932|어저께|danh||yesterday
+5933|예습|danh|豫習 dự tập|
+5934|예습하다|động|豫習 dự tập|
+5935|출석하다|động|出席 xuất tịch|to attend, to be present
+5936|큰어머니|danh||
+5937|멍멍|phó ||with a woof or bow-wow
+5938|분필|danh|粉筆 phấn bút|chalk
+5939|약혼자|danh|約婚者 ước hôn giả|fiancé or fiancée
+5940|양식|danh|洋食 dương thực|form; format; style
+5941|외과|danh|外科 ngoại khoa|surgery
+5942|제과점|danh|製菓店 chế quả điếm|bakery, bakeshop
+5943|중식|danh||Chinese food
+5944|케첩|danh||ketchup
+5945|편의점|danh|便宜店 tiện nghi điếm|convenience store
+5946|미용실|danh|美容室 mỹ dung thất|beauty parlour, hairdresser's, hair sa
+5947|일식|danh||solar eclipse
+5948|작은딸|danh||
+5949|초등학생|danh|初等學生 sơ đẳng học sinh|primary school student
+5950|고구려|danh|高句麗 cao câu li|Goguryeo
+5951|고려|danh|高麗 cao li|Goryeo
+5952|금강산|danh||Mount Kumgang
+5953|깍두기|danh||kimchi made of salted daikon cubes sea
+5954|남미|danh|南美 nam mỹ|South America
+5955|대학로|danh|大學路 đại học lộ|
+5956|백두산|danh|白頭山 bạch đầu sơn|Paektu Mountain, a mountain on the bor
+5957|백제|danh|百濟 bách tế|Baekje
+5958|세종대왕|danh|世宗大王 thế tông đại vương|
+5959|신라|danh|新羅 tân la|Silla
+5960|안동|danh|安東 an đông|
+5961|전주|danh|全州|figurative extension of meaning
+5962|조선|danh|朝鮮 triều tiên|Korea
+5963|지리산|danh||Mount Jiri, Jirisan
+5964|평양|danh|平壤 bình nhưỡng|Pyongyang
+5965|한반도|danh|韓半島|Korean Peninsula

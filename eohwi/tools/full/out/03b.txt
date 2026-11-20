@@ -1,0 +1,200 @@
+1001|điểm, chấm
+1002|dựa vào, do bởi
+1003|thời đại
+1004|như thế này
+1005|thế giới
+1006|bản thân; mình
+1007|tổng thống
+1008|loại, thứ; cành
+1009|quốc gia
+1010|phụ nữ
+1011|quan hệ
+1012|xuất hiện
+1013|khu vực
+1014|dáng vẻ, hình ảnh
+1015|được thấy
+1016|không có, mà không
+1017|chỉ
+1018|phương pháp
+1019|có, cầm (rút gọn của 가지다)
+1020|đặc biệt là
+1021|trở lên; trên
+1022|giáo dục
+1023|kinh tế
+1024|nghệ thuật
+1025|kết quả
+1026|nội dung
+1027|bạn, ông/bà (xưng hô); anh yêu
+1028|cảm thấy
+1029|ý nghĩa
+1030|làm sáng tỏ, làm rõ
+1031|đã, rồi
+1032|chính trị
+1033|nhân dân, quốc dân
+1034|nghiên cứu
+1035|và, cùng
+1036|xây, làm, đặt (tên)
+1037|cũng, hơn nữa
+1038|lý do
+1039|hoặc
+1040|bài viết, chữ
+1041|thế giới, đời
+1042|đặt, để
+1043|tức là
+1044|sau đó, về sau
+1045|văn học
+1046|địa phương
+1047|gần đây
+1048|môi trường
+1049|bản thân nó
+1050|còn lại
+1051|phần, bộ phận
+1052|sự thay đổi
+1053|ý, ý nghĩa
+1054|rơi, rớt, kém
+1055|liên quan đến
+1056|cứ thế, chỉ là
+1057|chia, chia sẻ
+1058|sử dụng
+1059|hầu như
+1060|trung tâm
+1061|hoạt động
+1062|sự quan tâm
+1063|cũng; quả nhiên
+1064|đứa bé (khẩu ngữ)
+1065|quảng cáo
+1066|sinh ra; xảy ra
+1067|tinh thần
+1068|sớm; đến
+1069|đất
+1070|làm nên, đạt được
+1071|đặt, để (trợ động từ)
+1072|kỹ thuật
+1073|toàn thể
+1074|đạt được
+1075|dân tộc
+1076|giữa (hai bên)
+1077|cuộc điều tra
+1078|y nguyên
+1079|cách, khả năng (làm gì)
+1080|thập niên
+1081|khoa học
+1082|thiên nhiên
+1083|cuối cùng
+1084|chương trình
+1085|được thực hiện, thành hiện thực
+1086|một ngày
+1087|kẻ địch
+1088|nền, chỗ
+1089|đúng; bị đánh
+1090|treo; mất (thời gian); mắc bệnh
+1091|bảo vệ, giữ
+1092|nhìn, ngắm
+1093|phần lớn
+1094|vẻ mặt
+1095|một phần
+1096|cảm giác
+1097|cái cổ, đầu; đèo
+1098|tính cách
+1099|thế kỷ
+1100|dựng, đặt ra
+1101|hiện tại
+1102|sự phát triển
+1103|hướng về
+1104|sự liên quan
+1105|mỗi
+1106|bầu không khí
+1107|như thế
+1108|bản thân
+1109|trước hết
+1110|tin, tin tưởng
+1111|đẻ, sinh
+1112|thông tin
+1113|mở ra, được mở
+1114|bằng, như; đến mức
+1115|vai trò
+1116|hành động
+1117|trong nước
+1118|vâng; ví dụ
+1119|bước ra, đứng ra
+1120|chảy
+1121|sâu
+1122|hình dáng
+1123|điều kiện
+1124|vượt, hơn
+1125|làng
+1126|nhỏ tuổi, trẻ
+1127|đại diện
+1128|khả năng xảy ra
+1129|phương hướng
+1130|đại hội, cuộc thi
+1131|giọng nói
+1132|cử động, di chuyển
+1133|nỗ lực
+1134|hoàn toàn (không)
+1135|đoàn thể
+1136|được biết đến
+1137|có thể
+1138|năng lực
+1139|chủ trương, khẳng định
+1140|con cái
+1141|xoay, quay; chuyển
+1142|gom, thu thập
+1143|tài liệu
+1144|sản phẩm
+1145|việc kinh doanh
+1146|năm ngoái
+1147|biểu hiện
+1148|trẻ
+1149|đồng thời
+1150|khoảnh khắc
+1151|chiến tranh
+1152|phát sóng
+1153|giống nhau
+1154|quá khứ
+1155|hiện đại
+1156|xem xét kỹ
+1157|sự khác biệt
+1158|cởi, tháo; giải quyết
+1159|thời kỳ
+1160|trực tiếp
+1161|cá nhân
+1162|nhưng mà
+1163|tác giả, nghệ sĩ
+1164|hiệu quả
+1165|Phật giáo
+1166|kéo, lôi cuốn
+1167|như thể
+1168|mong, hy vọng
+1169|mạnh
+1170|kinh nghiệm
+1171|cao nhất
+1172|thể hiện, biểu thị
+1173|đa dạng
+1174|luật, pháp
+1175|tiểu thuyết
+1176|trật tự
+1177|đựng vào
+1178|tụ họp
+1179|thị dân
+1180|chủ tịch, hội trưởng
+1181|tự mình
+1182|ngày hôm đó
+1183|cho ra hồn, đúng cách
+1184|ném
+1185|không gian
+1186|tiến hành, gây ra
+1187|nhấn mạnh
+1188|đảm nhận
+1189|mặt khác
+1190|phóng viên
+1191|chủ yếu
+1192|hơn nhiều
+1193|sự thống nhất
+1194|bước vào; đứng vào
+1195|cơ sở vật chất
+1196|xung quanh
+1197|thay thế
+1198|thứ tự, lượt
+1199|quân đội; huyện
+1200|tài sản

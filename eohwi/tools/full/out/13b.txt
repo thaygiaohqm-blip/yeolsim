@@ -1,0 +1,200 @@
+5001|tỷ giá hối đoái
+5002|sức sống
+5003|giảng viên
+5004|lượng mưa
+5005|sự luân phiên
+5006|ủy ban quận
+5007|trong và ngoài nước
+5008|bị cấm
+5009|cầu nguyện
+5010|có sẵn, thông thường
+5011|làm vỡ
+5012|nhúc nhích
+5013|việc đồng áng
+5014|nông trại
+5015|buổi hẹn hò
+5016|quay lại
+5017|uống ừng ực
+5018|đi theo
+5019|vòng (đấu)
+5020|tâm thế
+5021|tóc
+5022|nào đó; góc
+5023|bánh xe; vòng
+5024|tia chớp
+5025|được thay đổi
+5026|sự vắng mặt
+5027|cái chết
+5028|sống; tươi
+5029|mát lạnh
+5030|Kinh Thánh
+5031|tốn (thời gian)
+5032|tiêu hóa
+5033|trong khoảnh khắc
+5034|lấy chồng
+5035|muốn (trợ động từ)
+5036|đội lên, phủ lên
+5037|ban đêm
+5038|đi lướt qua nhau
+5039|mỏng
+5040|giải trí
+5041|thanh lịch
+5042|sương
+5043|quan hệ giữa người với người
+5044|thời gian dài
+5045|chiến tuyến
+5046|sự dừng
+5047|đề nghị
+5048|ánh sáng, chiếu sáng
+5049|được hòa hợp
+5050|cốt truyện
+5051|sự gián đoạn
+5052|làn đường
+5053|nhầm tưởng
+5054|bức chân dung
+5055|cuộc đảo chính
+5056|tính đặc thù
+5057|máy bay
+5058|sôi nổi
+5059|thú vị
+5060|quyết tâm
+5061|được mở cửa
+5062|mù tạt
+5063|cảnh báo
+5064|kinh tế học
+5065|mối quan tâm
+5066|được phân biệt
+5067|quốc sử
+5068|làm cứng, củng cố
+5069|trong thời gian qua
+5070|nghe có lý
+5071|nhà viết kịch
+5072|khí; cờ
+5073|nghiêng
+5074|phép màu
+5075|bị lôi cuốn
+5076|cho ra ngoài
+5077|bức tường
+5078|đông tây; anh em rể
+5079|đưa vào
+5080|ấm áp
+5081|giọng điệu
+5082|lệnh
+5083|trượt
+5084|sự biến hình
+5085|cha (trang trọng)
+5086|bị bắt giữ
+5087|thương hiệu
+5088|nhỏ nhặt
+5089|bàn; hình ảnh
+5090|sảng khoái
+5091|bàn tay (giúp đỡ)
+5092|thứ hạng
+5093|đôi, cặp
+5094|lạnh lẽo, vắng vẻ
+5095|sự ám chỉ
+5096|tương lai
+5097|trong lịch sử
+5098|buổi biểu diễn nhạc
+5099|vang lên
+5100|trên đất liền
+5101|việc uống rượu
+5102|sự chia ly
+5103|nhân tài
+5104|chủng tộc
+5105|tạm thời
+5106|thú vị
+5107|mang tính chuyên môn
+5108|tuổi trẻ
+5109|đứng đắn
+5110|con sò
+5111|truyền hình trực tiếp
+5112|sự nghiện, ngộ độc
+5113|sự chi trả
+5114|chân thành
+5115|cửa sổ xe
+5116|mời
+5117|điểm xuất phát
+5118|sự xuất bản
+5119|xuất hiện
+5120|câu lạc bộ đêm
+5121|nụ hôn
+5122|thoát ra
+5123|thẩm phán
+5124|sự cho phép
+5125|sự tin chắc
+5126|được xây dựng
+5127|cổ; đèo
+5128|đến lúc đó mới
+5129|thế hệ trước
+5130|mô tả
+5131|chim ác là
+5132|Nam Bắc
+5133|chấp nhận, thấu hiểu
+5134|đơn; bó
+5135|mang tính độc sáng
+5136|được lặp lại
+5137|rời đi
+5138|ồn ào
+5139|như ý
+5140|người máy
+5141|điểm tuyệt đối
+5142|mỗi tháng
+5143|tụ tập
+5144|trọ lại; cũ
+5145|phía ngoài
+5146|bảo thủ; thù lao
+5147|an ninh
+5148|bộ; cha
+5149|chế nhạo
+5150|người đàn ông
+5151|mang tính tượng trưng
+5152|khác lạ
+5153|hội thảo
+5154|chất tẩy rửa
+5155|thì thầm
+5156|ngày giờ
+5157|trận đấu
+5158|nhanh chóng
+5159|sản phẩm mới
+5160|thận trọng
+5161|rất
+5162|con cái (giống cái)
+5163|báo trước
+5164|vi phạm
+5165|phần thân trên
+5166|nhè nhẹ, mờ mờ
+5167|lợi ích liên quan
+5168|làm quen, thành thạo
+5169|vùng, cả khu
+5170|sự nhập liệu
+5171|hiện tượng tự nhiên
+5172|vội vã, không còn hồn vía
+5173|trung thực
+5174|điều chỉnh
+5175|nếp nhăn
+5176|mới nhất
+5177|nhân vật
+5178|có hại
+5179|cửa chính
+5180|trở nên sôi nổi
+5181|được phục hồi
+5182|hy sinh
+5183|trở nên khả thi
+5184|vô cớ
+5185|quá trình; chương trình học
+5186|mang tính quốc tế
+5187|gốc cây; cây (đếm)
+5188|trước đó
+5189|két sắt
+5190|lời mắng
+5191|kéo lại
+5192|bữa ăn
+5193|chủ động
+5194|tạm thời
+5195|lời gợi ý, trợ giúp
+5196|làm sống lại
+5197|ùa đến
+5198|mang tính vật chất
+5199|được tin
+5200|bột nhào

@@ -1,0 +1,400 @@
+4401|가르다|động||to divide, to separate
+4402|간격|danh|間隔 gián cách|space, interval
+4403|고함|danh|高喊 cao hám|
+4404|공격하다|động|攻擊 công kích|to attack
+4405|그놈|đại ||that guy; that bastard; that thing
+4406|기록되다|động|記錄 ký lục|
+4407|끝없다|tính||endless; never-ending
+4408|끼어들다|động||to cut in
+4409|노선|danh|路線 lộ tuyến|line; route
+4410|답|danh|答 đáp|answer, reply
+4411|대사|danh|臺詞 đài từ|ambassador
+4412|도망치다|động|逃亡 đào vong|to escape; to flee
+4413|동|danh|棟 chống|dong
+4414|동의하다|động|同意 đồng ý|to agree
+4415|딱딱하다|tính||to be hard, firm
+4416|땅속|danh||underground
+4417|벌금|danh||fine for committing a crime or violati
+4418|복|danh|福 phúc|fortune, blessing, luck
+4419|봉사|danh|奉仕 phụng sĩ|service; public service
+4420|부서|danh|部署 bộ thự|department; division
+4421|성|danh|城 thành|anger, rage, wrath
+4422|소형|danh|小型 tiểu hình|small size; pocket size
+4423|신인|danh|新人 tân nhân|new face; newcomer
+4424|악몽|danh|惡夢 ác mộng|nightmare
+4425|안내|danh|案內 án nội|guidance
+4426|언덕|danh||small hill
+4427|열정|danh|熱情 nhiệt tình|passion; ardour
+4428|오페라|danh||opera
+4429|입맛|danh||taste
+4430|재즈|danh||jazz
+4431|적응하다|động|適應 thích ứng|to adapt, to adjust
+4432|절대|danh|絶對 tuyệt đối|absolutely, totally, never
+4433|제공|danh|提供 đề cung|provision
+4434|지나치다|động||to go on past something; to pass
+4435|참가|danh|參加 tham gia|participation
+4436|추석|danh|秋夕 thu tịch|Mid-Autumn Festival, three day harvest
+4437|충돌|danh|衝突 xung đột|head-on collision
+4438|통로|danh|通路 thông lộ|passage; way; path; passageway
+4439|해소|danh|解消 giải tiêu|solution; resettlement
+4440|행해지다|động|行 hàng|
+4441|현대인|danh|現代人 hiện đại nhân|
+4442|혜택|danh|惠澤 huệ rạch|benefit; advantage
+4443|확|phó ||wind, gas, fire, or some kind of energ
+4444|골고루|phó ||evenly; equally; all round
+4445|구석구석|danh||every nook and corner, everywhere
+4446|그제서야|phó ||
+4447|등록증|danh|登錄證 đăng lục chứng|registration certificate
+4448|반복되다|động|反復 phản phục|
+4449|발전|danh|發電 phát điện|development; growth
+4450|방해|danh|妨害 phương hại|hindrance; obstacle
+4451|벼|danh||rice plant, paddy
+4452|본인|danh|本人 bản nhân|the person in question; the person con
+4453|상점|danh|商店 thương điếm|store, shop
+4454|수백|định|數百 số bách|hundreds
+4455|실장|danh|室長 thất trưởng|head of an office; section chief
+4456|쓸쓸하다|tính||lonely, solitary
+4457|애|danh||colloquial form of 아이
+4458|어지럽다|tính||to be dizzy/giddy
+4459|어찌하다|động||formal form of 어쩌다
+4460|예정되다|động|豫定 dự định|
+4461|이중|danh|二重 nhị trọng|being duplicate; being double; there b
+4462|인정받다|động|認定 nhận định|
+4463|자랑|danh||pride
+4464|착각|danh|錯覺 thó giác|illusion, delusion
+4465|창|danh|窓 song|window
+4466|친정|danh|親庭 thân đình|married woman's parents' home
+4467|타입|danh||type
+4468|행하다|động|行 hàng|to do; to act; to conduct; to carry ou
+4469|활짝|phó ||wide open; brightly; in bloom; clearly
+4470|개별|danh|個別 cá biệt|
+4471|공식적|danh|公式的 công thức đích|official, formal
+4472|그런대로|phó ||
+4473|기독교|danh|基督敎 cơ đốc giao|Christianity, especially Protestantism
+4474|깨달음|danh||realisation, enlightenment, awakening
+4475|눈부시다|tính||to be dazzling
+4476|마음먹다|động||to decide, to make up one's mind
+4477|목록|danh|目錄 mục lục|list, catalogue, index, inventory
+4478|반성하다|động|反省 phản tỉnh|
+4479|별명|danh|別名 biệt danh|alias, nickname
+4480|보전|danh|保全 bảo toàn|preservation; conservation
+4481|불어오다|động||to begin, start, originate
+4482|소유하다|động|所有 sở hữu|to own; to possess
+4483|스위치|danh||switch
+4484|신세|danh||one's life experience
+4485|알아내다|động||to find out, to discover
+4486|야단|danh|惹端 nhạ đoan|disturbance; commotion
+4487|얘|thán||this kid; he, she, it, you, this one
+4488|연결|danh||connection, link
+4489|연관|danh||
+4490|용서하다|động|容恕 dung thứ|to forgive
+4491|우정|danh|友情 hữu tình|friendship
+4492|육군|danh||army, military, troops
+4493|음식점|danh|飮食店 ẩm thực điếm|restaurant, eatery
+4494|의논하다|động||to discuss; to consult
+4495|주요하다|tính|主要 chủ yếu|to be main; to be principal
+4496|차마|phó ||possibly stand, possibly bear; used in
+4497|참조|danh|參照 tham chiếu|reference
+4498|타고나다|động||
+4499|행사|danh|行使 hành sứ|an event or observance.
+4500|허용되다|động|許容 hứa dung|
+4501|가입|danh|加入 gia nhập|entry, admission, accession, joining, 
+4502|가정|danh|假定 giả định|a household, a family
+4503|교체|danh|交替 giao thế|change; replacement; substitution
+4504|꼬마|danh||kid
+4505|끝없이|phó ||endlessly
+4506|나르다|động||to carry
+4507|놀리다|động||to toy with; to tease, to make fun of
+4508|늘어놓다|động||to spread out
+4509|대표하다|động|代表 đại biểu|to represent
+4510|두려워하다|động||to be afraid, to fear
+4511|뜻밖|danh||unexpectedness, surprise
+4512|막걸리|danh||makgeolli, a traditional alcoholic bev
+4513|맡다|động||to take on a task or job; to take char
+4514|미스|danh||mistake, error
+4515|밀리다|động||to be overdue
+4516|부러지다|động||To break
+4517|상대성|danh|相對性 tương đối tính|
+4518|설문|danh|設問 thiết vấn|survey
+4519|쓸다|động||to sweep
+4520|안팎|danh||
+4521|예방하다|động|豫防 dự phòng|
+4522|올|danh||this year
+4523|유의하다|động||
+4524|이해되다|động||to be understood
+4525|인하|danh|引下 dẫn hạ|reduction; markdown; cut
+4526|작성|danh|作成 tác thành|production, creation
+4527|잘리다|động||passive of 자르다
+4528|전달|danh|傳達 truyền đạt|last month; the month before
+4529|전시회|danh|展示會 triển thị hội|exhibition
+4530|전환하다|động|轉換 chuyển hoán|to change, to switch, to transform
+4531|정치학|danh|政治學 chính trị học|political science, politology
+4532|주문|danh|注文 chú văn|order
+4533|집안일|danh||housework
+4534|체계적|danh|體系的 thể hệ đích|
+4535|크림|danh||cream
+4536|탁월하다|tính|卓越 trác việt|excellent; outstanding; preeminent
+4537|텅|phó ||
+4538|토하다|động|吐 thổ|to vomit, to puke
+4539|한순간|danh||
+4540|가사|danh|歌詞 ca từ|lyrics
+4541|가입자|danh|加入者 gia nhập giả|
+4542|감소하다|động|減少 giảm thiểu|to reduce, to decrease, to come down, 
+4543|결과적|danh|結果的 kết quả đích|being as a result; being as a conseque
+4544|괴롭히다|động||to harass; to bully; to torment
+4545|구별|danh|區別 khu biệt|A distinction; a differentiation
+4546|깨우다|động||to wake someone
+4547|끈|danh||string
+4548|끊기다|động||to be cut
+4549|끊임없다|tính||continued, continuous, incessant
+4550|넉넉하다|tính||plenty, enough, sufficient, ample
+4551|두어|định||several, many
+4552|마약|danh|痲藥 ma dược|drug, narcotic
+4553|밑바닥|danh||
+4554|보도되다|động|報道 báo đạo|
+4555|보리|danh||barley
+4556|본부|danh|本部 bản bộ|headquarters
+4557|부|danh|富 phú|father
+4558|성숙하다|động|成熟 thành thục|
+4559|소극적|danh|消極的 tiêu cực đích|
+4560|소용|danh|所用 sở dụng|use; good
+4561|손질하다|động||to repair; to mend
+4562|순식간|danh|瞬息間 thuấn tức gian|the blink of an eye, an instant of tim
+4563|시도|danh|試圖 thí đồ|attempt
+4564|시집|danh|詩集 thi tập|collection of poems
+4565|아무개|đại ||certain unspecified person
+4566|약점|danh|弱點 nhược điểm|weakness, weak point, shortcoming
+4567|어째서|phân||why, for what reason, how come
+4568|어쩌다|phó ||to be inevitable
+4569|연령|danh||age
+4570|예비|danh|豫備 dự bị|reserves
+4571|울음소리|danh||crying, sobbing; cry, chirping, call
+4572|이놈|đại ||this guy; this bastard; this thing
+4573|이력서|danh|履歷書 lý lịch thư|résumé, curriculum vitae
+4574|인정되다|động|認定 nhận định|To be recognized, be conceded
+4575|주년|danh|周年 chu niên|anniversary
+4576|중단하다|động|中斷 trung đoán|to discontinue; to abort; to stop; to 
+4577|중대하다|tính|重大 trọng đại|significant
+4578|중심지|danh|中心地 trung tâm địa|centre
+4579|집중적|danh|集中的 tập trung đích|
+4580|참되다|tính||to be real, to be sincere, to be truth
+4581|초청|danh|招請 chiêu thỉnh|invitation
+4582|출판사|danh|出版社 xuất bản xã|publisher; publishing house
+4583|탁자|danh|卓子 trác tử|table
+4584|퍽|phó ||quite, very much
+4585|풍속|danh|風俗 phong tục|wind speed
+4586|핑계|danh||excuse; pretext
+4587|한층|phó ||even more
+4588|행운|danh|幸運 hạnh vận|good luck
+4589|가로막다|động||
+4590|간섭|danh|干涉 can thiệp|interference
+4591|갈증|danh|渴症 khát chứng|thirst
+4592|갑작스럽다|tính||to be sudden, abrupt, unexpected
+4593|교환하다|động|交換 giao hoán|to exchange; to swap
+4594|그래야|phân||
+4595|기원|danh|起源 khởi nguyên|praying
+4596|난리|danh|亂離 loạn li|uproar; disturbance; war, revolt, disa
+4597|내버리다|động||to throw away
+4598|달리하다|động||to differ, to vary
+4599|뛰어가다|động||to run, to rush, to dash, to dart
+4600|미사일|danh||missile
+4601|보존|danh|保存 bảo tồn|preservation; conservation
+4602|보호되다|động|保護 bảo hộ|
+4603|상관|danh|相關 tương quan|correlation
+4604|설명되다|động|說明 thuyết minh|
+4605|섭섭하다|tính||sorry, disappointed
+4606|세|danh|世 thế|three
+4607|세련되다|tính|洗練 tẩy luyện|refined; sophisticated
+4608|손쉽다|tính||to be easy
+4609|열기|danh|熱氣 nhiệt khí|
+4610|옷차림|danh||attired appearance
+4611|위로하다|động|慰勞 úy lạo|to console; to comfort
+4612|이같이|phó ||
+4613|일치|danh|一致 nhất trí|agreement, harmony, unity
+4614|재생|danh|再生 tái sinh|playback; play
+4615|찢어지다|động||to be torn open, to become ripped
+4616|철학자|danh|哲學者 triết học giả|philosopher
+4617|컬러|danh||having colour
+4618|통화|danh|通話 thông thoại|telephone call
+4619|특이하다|tính|特異 đặc dị|unusual, unique, peculiar, singular
+4620|필연적|danh|必然的 tất nhiên đích|
+4621|하룻밤|danh||one night
+4622|흘러내리다|động||to run down, to roll down
+4623|강도|danh|强度 cường độ|robber
+4624|급히|phó |急 cấp|hurriedly; hastily
+4625|기념|danh|記念 ký niệm|commemoration, memory
+4626|나아지다|động||to improve, to get better
+4627|넘어오다|động||
+4628|되돌리다|động||to restore
+4629|띄우다|động||to fly, to launch, to set afloat
+4630|매너|danh||manners
+4631|민속|danh|民俗 dân tục|folklore; folkway; folk custom
+4632|버려지다|động||
+4633|설득하다|động|說得 thuyết đắc|to persuade
+4634|손질|danh||trimming, repair, fix, trim, mend
+4635|아르바이트|danh||part-time job; side job
+4636|외로움|danh||loneliness, lonesomeness
+4637|입대|danh|入隊 nhập đội|enlistment, enrollment
+4638|적성|danh|適性 thích tính|aptitude
+4639|전망하다|động|展望 triển vọng|
+4640|집단적|danh|集團的 tập đoàn đích|
+4641|차이점|danh|差異點 sai dị điểm|
+4642|철도|danh|鐵道 thiết đạo|railway
+4643|총각|danh|總角 tổng giác|unmarried man
+4644|캠페인|danh||campaign
+4645|한눈|danh||one glance; one look
+4646|홍수|danh|洪水 hồng thủy|flood, spate, deluge
+4647|가뭄|danh||drought
+4648|간접|danh|間接 gián tiếp|indirectness
+4649|강력히|phó |强力 cường lực|strongly; firmly
+4650|개선되다|động|改善 cải thiện|to improve, to become better
+4651|건네다|động||To hand over or turn over
+4652|게|danh||contraction of 거이; nominative of 거
+4653|결심|danh|決心 quyết tâm|resolution, determination
+4654|곧장|phó ||straight away, right away
+4655|교직|danh|敎職 giao chức|
+4656|구속하다|động|拘束 câu thúc|to arrest
+4657|귀중하다|tính|貴重 quý trọng|valuable, precious
+4658|긁다|động||to scratch, to scrape
+4659|내쉬다|động||to exhale
+4660|늘어지다|động||
+4661|단독|danh|單獨 đơn độc|
+4662|마당|danh||A yard, plaza, or courtyard.
+4663|마음껏|phó ||to one's heart's content
+4664|몰려들다|động||to gather in groups
+4665|바|danh||thing; what
+4666|바퀴|danh||wheel
+4667|발자국|danh||footprint
+4668|뱉다|động||to spit out, to spew
+4669|벌어지다|động||To occur or take place.
+4670|보너스|danh||bonus
+4671|생기|danh|生氣 sinh khí|liveliness, vitality, vigor
+4672|서적|danh|書籍 thư tịch|books, publications
+4673|소화|danh|消化 tiêu hóa|digestion
+4674|수험생|danh|受驗生 thụ nghiệm sinh|
+4675|신세대|danh|新世代 tân thế đại|
+4676|안기다|động||to be hugged, to be embraced, to be cu
+4677|어기다|động||to break; to violate; to infringe; to 
+4678|연구원|danh|硏究員 nghiên cứu viên|researcher
+4679|연애|danh||dating, romantic relationship
+4680|요약하다|động|要約 yếu ước|to summarize; to sum up
+4681|위성|danh|衛星 vệ tinh|satellite
+4682|의외로|phó |意外 ý ngoại|unexpectedly, surprisingly
+4683|자살|danh|自殺 tự sát|suicide
+4684|제시|danh|提示 đề thị|presentation, showing
+4685|제외되다|động|除外 trừ ngoại|
+4686|찍히다|động||
+4687|철|danh|鐵 thiết|season
+4688|타락|danh|墮落 đọa lạc|corruption; depravity; degradation
+4689|통화|danh|通貨 thông hóa|telephone call
+4690|틀림없이|phó ||correctly, errorlessly
+4691|회관|danh|會館 hội quán|hall, meeting hall
+4692|공연장|danh|公演場 công diễn trường|
+4693|국적|danh|國籍 quốc tịch|nationality, citizenship
+4694|근래|danh|近來 cận lai|recently, lately
+4695|나뉘다|động||contraction of 나누이다
+4696|낱말|danh||word; part of speech
+4697|내외|danh||inside and outside
+4698|늑대|danh||wolf, wolves
+4699|늘어서다|động||to line up, to queue up; to stand in a
+4700|다정하다|tính|多情 đa tình|to be friendly, act in a kind way
+4701|달려들다|động||
+4702|망원경|danh|望遠鏡 vọng viễn kính|telescope
+4703|모범|danh|模範 mô phạm|example; role model
+4704|무리하다|tính|無理 vô lý|to be unreasonable
+4705|묶이다|động||to be tied; to be bound; to be chained
+4706|방해하다|động|妨害 phương hại|to hinder or obstruct
+4707|벌|danh||any kind of bee, wasp, or hornet
+4708|상류|danh|上流 thượng lưu|upper reaches; upper portion of a rive
+4709|석|định||three
+4710|선명하다|tính|鮮明 tiên minh|vivid
+4711|선호하다|động|選好 tuyển hảo|to prefer, to favour
+4712|성공적|danh|成功的 thành công đích|the state or condition of being succes
+4713|소규모|danh|小規模 tiểu quy mô|
+4714|수시로|phó |隨時 tùy thời|sometimes
+4715|시야|danh|視野 thị dã|older brother, older male
+4716|실현되다|động|實現 thực hiện|
+4717|어느덧|phó ||
+4718|오르내리다|động||to go up and down, to ascend and desce
+4719|왕자|danh|王子 vương tử|prince
+4720|유형|danh||type; category
+4721|으레|phó ||customarily; typically; conventionally
+4722|일상적|danh|日常的 nhật thường đích|
+4723|일일이|phó |一一 nhất nhất|one by one; in detail
+4724|전공하다|động|專攻 chuyên công|to major in
+4725|전후|danh|前後 tiền hậu|after a war
+4726|정상|danh|正常 chính thường|normality
+4727|정상적|danh|正常的 chính thường đích|normal
+4728|질적|danh|質的 chất đích|
+4729|척|danh||pretense; as if
+4730|충격적|danh|衝擊的 xung kích đích|
+4731|치아|danh|齒牙 xỉ nha|tooth
+4732|판|danh||board, plank
+4733|편의|danh|便宜 tiện nghi|convenience
+4734|폐지|danh|廢止 phế chỉ|abolition; discontinuation
+4735|해설|danh|解說 giải thuyết|explanation; exposition
+4736|흑백|danh|黑白 hắc bạch|black and white, monochrome
+4737|희생|danh|犧牲 hi sinh|sacrifice
+4738|경비|danh|經費 kinh phí|expenses; cost
+4739|경제력|danh|經濟力 kinh tế lực|
+4740|금하다|động|禁 cấm|to forbid; to prohibit
+4741|기대되다|động|期待 kỳ đãi|to be expected
+4742|깊숙이|phó ||
+4743|넘어뜨리다|động||
+4744|농사짓다|động|農事 nông sự|
+4745|단단하다|tính||to be hard, solid, firm
+4746|담당자|danh|擔當者 đảm đương giả|person in charge; manager; officer
+4747|답변|danh|答辯 đáp biện|response; answer
+4748|대비|danh|對備 đối bị|a queen dowager
+4749|대체|phó |大體 đại thể|main principle; outline
+4750|더욱더|phó ||more and more
+4751|도심|danh|都心 đô tâm|city center; downtown
+4752|둘러싸이다|động||
+4753|마찰|danh|摩擦 ma sát|friction
+4754|마크|danh||mark
+4755|만족|danh|滿足 mãn túc|satisfaction
+4756|망치다|động||to spoil; to ruin
+4757|모금|danh||a mouthful
+4758|묘사|danh|描寫 miêu tả|description; depiction; portrayal
+4759|문화적|danh|文化的 văn hóa đích|cultural
+4760|묻히다|động||to be buried
+4761|미혼|danh|未婚 vị hôn|a single person, bachelor; being unmar
+4762|발전되다|động|發展 phát triển|to be advanced, to be developed
+4763|방송사|danh|放送社 phóng tống xã|broadcast station, broadcast company
+4764|방지하다|động|防止 phòng chỉ|
+4765|사표|danh|辭表 từ biểu|
+4766|삼가다|động||to refrain from, eschew, forgo
+4767|생방송|danh|生放送 sinh phóng tống|live broadcast
+4768|소홀히|phó |疏忽 sơ hốt|
+4769|쌍둥이|danh|雙 song|twins
+4770|앉히다|động||
+4771|옆구리|danh||side, flank, ribs
+4772|웬만하다|tính||acceptable
+4773|이어서|phó ||
+4774|자정|danh|子正 tử chính|midnight
+4775|종합하다|động|綜合 tổng hợp|to synthesize; to generalize
+4776|짜다|động||to make, to assemble, to put together,
+4777|참|danh||truly, really
+4778|채|danh||a whip, a scourge
+4779|최후|danh|最後 tối hậu|the final; the last
+4780|취재|danh|取材 thủ tài|gathering materials; coverage
+4781|치다|động||to hit, to beat, to strike, to slap, t
+4782|테러|danh||act of terrorism
+4783|토론회|danh|討論會 thảo luận hội|debate, discussion, round table
+4784|호주머니|danh|胡 hồ|pocket
+4785|가난|danh||poverty
+4786|관계없이|phó |關係 quan hệ|irrespectively, regardlessly
+4787|군|danh|郡 quận|army
+4788|기다|động||to crawl, to creep, to grovel
+4789|다툼|danh||quarrel; dispute
+4790|대|danh||something large; something great
+4791|대낮|danh||midday, the middle of the day; broad d
+4792|돌멩이|danh||stone, rock
+4793|되돌아오다|động||
+4794|두께|danh||thickness
+4795|모조리|phó ||all, without exception, altogether, co
+4796|변경|danh|變更 biến canh|change
+4797|부지런히|phó ||
+4798|사슴|danh||deer
+4799|상당수|danh|相當數 tương đương số|
+4800|손실|danh|損失 tổn thất|loss

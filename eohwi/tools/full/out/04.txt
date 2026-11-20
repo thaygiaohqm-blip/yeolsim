@@ -1,0 +1,400 @@
+1201|một chút, hơi
+1202|yêu cầu
+1203|đầu tiên
+1204|thực ra
+1205|khoảng, xấp xỉ
+1206|thời gian, khoảng thời gian
+1207|gây ra, dựng dậy
+1208|nhà máy
+1209|tận hưởng
+1210|(từ khi, sau khi: -ㄴ 지)
+1211|thay đổi
+1212|tai nạn
+1213|dù vậy
+1214|dù thế nào đi nữa
+1215|điều chỉnh, đặt, làm cho khớp
+1216|gạo
+1217|nói chung, phổ thông
+1218|chặn, ngăn
+1219|vứt, bỏ
+1220|dán, gắn
+1221|luôn luôn
+1222|cả nước
+1223|kết thúc
+1224|sự giúp đỡ
+1225|gia đình
+1226|rơi ra, rụng; mê đắm
+1227|ngày nay
+1228|nông nghiệp
+1229|lễ; kiểu
+1230|ý kiến
+1231|biểu hiện, diễn đạt
+1232|lạ, kỳ lạ
+1233|dính, bám
+1234|trận đấu
+1235|mục đích
+1236|thái độ
+1237|nam giới
+1238|xung quanh
+1239|thôi, dừng
+1240|phát sinh
+1241|làm sao đây; chẳng may
+1242|nguyên liệu
+1243|mỗi, từng
+1244|di chuyển, chuyển
+1245|tự do
+1246|trách nhiệm
+1247|được thay đổi
+1248|nghiêm trọng, nặng
+1249|không; ồ
+1250|lớn lên
+1251|cụ thể
+1252|cơ hội
+1253|trái đất
+1254|lần thứ
+1255|người tiêu dùng
+1256|tiêu chuẩn
+1257|lời nói; cuối (kỳ)
+1258|nhất định
+1259|chấp nhận
+1260|lấy ra
+1261|công nhân
+1262|khu phố
+1263|hoàn toàn
+1264|truyền đạt
+1265|đúng
+1266|không… lắm
+1267|định ra, quyết định
+1268|quần chúng
+1269|tăng lên
+1270|các loại
+1271|ánh sáng
+1272|này, ê
+1273|hiện tại
+1274|phát hiện
+1275|đặc điểm
+1276|vận động viên
+1277|chuẩn bị sẵn
+1278|phát biểu, công bố
+1279|chủ đề
+1280|cơ bản
+1281|biến mất
+1282|cảm xúc
+1283|ký ức
+1284|sự nổi tiếng
+1285|quản lý
+1286|được nghe thấy
+1287|chạy; treo
+1288|trước đây
+1289|bắt làm, sai khiến
+1290|quốc tế
+1291|nhóm
+1292|cuộc đời
+1293|truyền thống
+1294|nuôi, trồng
+1295|điều tra
+1296|rất to
+1297|nhà thơ
+1298|ngoài ra
+1299|vị trí
+1300|giảm bớt
+1301|giá cả
+1302|trở nên khác
+1303|muốn, mong
+1304|viễn thông
+1305|xác nhận
+1306|buổi họp mặt
+1307|tiếng cười
+1308|máy móc
+1309|hình dáng
+1310|phát thanh viên
+1311|mở ra, trải ra
+1312|tôn giáo
+1313|tự nhiên
+1314|quay, xoay
+1315|sự hiểu biết
+1316|hoặc
+1317|bên; tập (sách)
+1318|nỗ lực
+1319|sự bảo vệ
+1320|mặt khác
+1321|hàng xóm
+1322|chung, cộng đồng
+1323|lý do
+1324|thiếu nữ
+1325|đi qua
+1326|hàng hóa
+1327|xuất sắc
+1328|mới, lại
+1329|loại
+1330|nuôi, trồng
+1331|nằm
+1332|phát triển
+1333|phát triển
+1334|cái chết
+1335|nỗi đau
+1336|như thể
+1337|hợp, ăn nhập
+1338|thông báo
+1339|xa
+1340|rút, bỏ ra, trừ
+1341|dự định
+1342|thường
+1343|được cảm thấy
+1344|chuyên môn
+1345|chính xác
+1346|lưng; v.v.
+1347|đến thăm
+1348|sự sử dụng
+1349|quyết định
+1350|kinh doanh, quản lý
+1351|mục tiêu
+1352|rừng
+1353|biến mất, không còn
+1354|nổi lên, chợt nhớ ra
+1355|điên; đạt tới
+1356|rạng sáng
+1357|nhanh lên
+1358|vua
+1359|đáng sợ, sợ
+1360|nơi làm việc
+1361|chịu đựng, nhịn
+1362|kích cỡ
+1363|để lại
+1364|phương Tây
+1365|chủ yếu
+1366|quá mức; đi ngang qua
+1367|mùi
+1368|mềm mại
+1369|buổi biểu diễn
+1370|đưa ra
+1371|gỡ ra, tách ra
+1372|được làm ra
+1373|tốc độ
+1374|nghiêm trọng
+1375|tiếp tục
+1376|cậu bé
+1377|tin tức
+1378|trong số đó
+1379|người già
+1380|kiếm (tiền)
+1381|cứu sống, làm sống lại
+1382|quyết định
+1383|thái, cắt
+1384|hình ảnh, hình tượng
+1385|công việc, nghiệp vụ
+1386|thanh thiếu niên
+1387|ừ
+1388|thắng
+1389|tìm kiếm
+1390|say; chọn
+1391|đàn anh, tiền bối
+1392|tìm kiếm, cầu
+1393|vì vậy
+1394|bao gồm
+1395|nếu
+1396|bôi, quét, dán
+1397|hơi thở
+1398|sự kiện
+1399|vua
+1400|dần dần
+1401|đặc biệt
+1402|phán đoán
+1403|giải quyết
+1404|tiếp tục
+1405|dừng, ngừng
+1406|quá, rất
+1407|nâng cao
+1408|bừa, mạnh tay; vừa mới
+1409|xuất khẩu
+1410|cắt
+1411|dẫn theo
+1412|rất
+1413|chi phí
+1414|đúng
+1415|vốn dĩ
+1416|đầu tiên
+1417|trò chơi, trò vui
+1418|rễ
+1419|nhập khẩu; thu nhập
+1420|giây
+1421|nhân viên
+1422|đối phương
+1423|da
+1424|đầy
+1425|bức tường
+1426|tướng quân
+1427|mậu dịch
+1428|cách, khả năng
+1429|nhìn chằm chằm
+1430|đầy đủ
+1431|cái, chiếc (đơn vị đếm xe, máy)
+1432|cơ thể
+1433|năng lượng
+1434|sắp xếp, dọn gọn
+1435|gia đình, nhà
+1436|bối cảnh
+1437|giết
+1438|đơn giản
+1439|sự phản đối
+1440|rơi ra; mê đắm
+1441|xanh
+1442|nó, đứa đó
+1443|sự phát biểu
+1444|lắc, vẫy
+1445|nền tảng
+1446|phim truyền hình
+1447|rút ra, chọn
+1448|trước
+1449|thiếu
+1450|chúng tôi (khiêm nhường)
+1451|được tiến hành
+1452|luật, phép
+1453|lâu đời
+1454|người trẻ
+1455|nhiệm vụ, bài tập
+1456|ghi chép
+1457|đến gần
+1458|tổng hợp
+1459|phát triển, khai thác
+1460|run, rung
+1461|nào, này
+1462|tự do
+1463|tích cực
+1464|việc bán hàng
+1465|chiều dài
+1466|dần dần
+1467|tấn
+1468|có liên quan
+1469|phần còn lại
+1470|tương lai
+1471|dân số
+1472|kỳ vọng
+1473|làm chảy, đổ
+1474|nhân vật chính
+1475|đương nhiên
+1476|riêng
+1477|mượn, vay
+1478|anh (kính ngữ)
+1479|được đặt
+1480|ngay lập tức
+1481|khoảng thời gian, lúc
+1482|sự vật
+1483|chung chung
+1484|đẹp, mịn
+1485|sàn; đáy
+1486|con (thú non)
+1487|được nghĩ
+1488|dịch vụ
+1489|chọn
+1490|trồng
+1491|đơn giản
+1492|tự mình
+1493|chịu đựng
+1494|bài báo
+1495|bị tắc, bị chặn
+1496|rắc, rải
+1497|có lẽ
+1498|bí mật
+1499|vừa nãy
+1500|vừa vặn, thích hợp
+1501|trắng
+1502|chỉ, trỏ
+1503|phụng sự, đưa (người trên)
+1504|sự phát triển
+1505|rất nhiều
+1506|lỗi, sai lầm
+1507|hòa bình
+1508|công trình xây dựng
+1509|đá
+1510|tiến sĩ
+1511|chuyên gia
+1512|chỉ, duy nhất
+1513|múa
+1514|được gọi
+1515|cuộc cãi vã, trận đánh
+1516|cứ, liên tục
+1517|chuẩn bị, bày biện
+1518|hải ngoại
+1519|(không) lắm
+1520|nổi; mọc (mặt trời)
+1521|nụ cười
+1522|có nghĩa là
+1523|thể dục
+1524|mồ hôi
+1525|diễn ra tốt
+1526|chất đống
+1527|lợi nhuận
+1528|nắm, cầm chặt
+1529|hơn nữa
+1530|đun sôi
+1531|luận văn
+1532|dừng lại
+1533|được sử dụng
+1534|lâu
+1535|đến thăm
+1536|tăng
+1537|lượng
+1538|thật
+1539|không khí
+1540|chạm, tới
+1541|tất nhiên
+1542|thuộc về
+1543|Thế vận hội
+1544|ngoài ra
+1545|cung cấp
+1546|sự kỳ vọng
+1547|thực vật
+1548|xưa
+1549|ít nhất
+1550|thoải mái
+1551|sự khó khăn
+1552|rõ ràng
+1553|bất cứ thứ gì
+1554|toàn bộ
+1555|bị ướt
+1556|lớn nhất
+1557|thường ngày
+1558|việc nhà nông
+1559|hơn nữa
+1560|bóng tối
+1561|tối
+1562|nhà ở
+1563|sự hỏng hóc; vùng
+1564|liên quan
+1565|đẩy
+1566|ừm
+1567|cân nhắc
+1568|nông thôn
+1569|đi lên
+1570|thu xếp, lo cho
+1571|chọn
+1572|bôi, quét
+1573|xảy ra, diễn ra
+1574|từ bỏ
+1575|sửa
+1576|cái bóng
+1577|cạn, hết
+1578|cuối cùng
+1579|so sánh
+1580|lớn lên, to ra
+1581|một bên
+1582|kiểm tra
+1583|giao phó, gửi
+1584|tin đồn
+1585|chất lên, chở
+1586|chất, xếp
+1587|tiêu đề
+1588|hành vi, trò
+1589|trắng tinh
+1590|hy vọng
+1591|quân đội
+1592|đến mức đó
+1593|cái gì
+1594|đối phương
+1595|nông thôn, quê
+1596|sai sót
+1597|trở nên sai, hỏng
+1598|sự điều trị
+1599|bề rộng
+1600|chìa ra

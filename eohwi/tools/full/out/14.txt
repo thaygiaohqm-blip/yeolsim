@@ -1,0 +1,400 @@
+5201|sự bố trí
+5202|người da trắng
+5203|gốc; này
+5204|trụ sở chính
+5205|bất bình đẳng
+5206|làm rơi, bỏ sót
+5207|một cách mới
+5208|người phương Tây
+5209|đồ mang theo
+5210|sắt
+5211|con đực
+5212|chiến thắng
+5213|hạt giống
+5214|ăn nhờ
+5215|nghiêm trang
+5216|thời gian rảnh
+5217|liên tưởng
+5218|ngước nhìn
+5219|đọc thuộc
+5220|tiếng hô
+5221|sự hiểu; lợi hại
+5222|nhân công
+5223|áo khoác
+5224|tàu ngầm
+5225|tuổi thọ cao
+5226|đo
+5227|hướng dẫn
+5228|mang tính trí tuệ; sự chỉ ra
+5229|con đường tương lai
+5230|người dẫn chương trình
+5231|đi tìm khắp nơi
+5232|tinh thần trách nhiệm
+5233|thân nhiệt
+5234|sự thông qua
+5235|quầy hàng rong
+5236|múc
+5237|ớt chuông
+5238|hơn hẳn
+5239|giữa mùa hè
+5240|hàng không
+5241|sự quay
+5242|bị che
+5243|thẳng
+5244|đầu óc (rắc rối)
+5245|tùy lúc
+5246|tháng sau
+5247|để yên
+5248|trở nên muộn
+5249|độc, gắt
+5250|sân vườn
+5251|bất ngờ
+5252|vạn
+5253|danh sách
+5254|vô nghĩa
+5255|văn phòng phẩm; câu chữ
+5256|cái gì
+5257|dưới (mức)
+5258|màu trắng
+5259|mưa gió
+5260|sự lừa đảo; sĩ khí
+5261|tử vong
+5262|nhân viên văn phòng
+5263|tố chất
+5264|bông
+5265|đĩa CD-ROM
+5266|thói quen ăn uống
+5267|chỉ, sợi
+5268|phòng nghiên cứu
+5269|sự hài hước
+5270|quần áo
+5271|bị lãng quên
+5272|sự thích nghi
+5273|được sắp xếp
+5274|tổ; kê
+5275|xấu hổ
+5276|thảo luận
+5277|từng cái một
+5278|hợp lại
+5279|túi xách
+5280|gia sư
+5281|điểm chung
+5282|nhà giáo dục
+5283|giáo trình
+5284|trở nên dài
+5285|muối mè
+5286|để lại
+5287|tiếp đãi
+5288|nhảy xuống
+5289|hoa Mugunghwa
+5290|vi-rút
+5291|sàn nhà
+5292|phiền phức
+5293|việc săn bắn
+5294|đời sống xã hội
+5295|mang tính tâm lý
+5296|sự hoãn; diễn xuất
+5297|sự an ủi
+5298|người dùng
+5299|nhập (dữ liệu)
+5300|chứng chỉ
+5301|khám bệnh
+5302|bên cửa sổ
+5303|sốt ruột
+5304|cháy; đi (xe); pha
+5305|cùng làm
+5306|đỗ
+5307|giấy vệ sinh
+5308|hết sức
+5309|có điểm chung
+5310|rong biển
+5311|chuyến đi chơi
+5312|làm tan chảy
+5313|khóe mắt
+5314|sự bỏ trốn
+5315|động cơ; cùng khóa
+5316|mini
+5317|phương diện
+5318|mang tính pháp lý
+5319|ghế dài
+5320|thù lao; sửa chữa
+5321|hành vi sai trái; chuyến bay
+5322|tia mưa
+5323|xã hội học
+5324|thành tích; mang tính giới tính
+5325|ngây thơ
+5326|chán
+5327|trở nên khó
+5328|bước lên
+5329|bạc
+5330|chỗ ngồi, vị trí
+5331|người khuyết tật
+5332|đồ tái chế
+5333|làm thế kia
+5334|trái ngược hoàn toàn
+5335|nhóm; kê
+5336|sự rung
+5337|sự giới thiệu, tiến cử
+5338|tín chỉ
+5339|rảnh rỗi
+5340|chào đón
+5341|gián tiếp
+5342|kinh doanh
+5343|nỗi nhớ
+5344|trong lúc đó
+5345|kỷ niệm
+5346|đại khái
+5347|độc lập
+5348|hít vào
+5349|nhảy lên
+5350|ngoài cửa
+5351|phát sóng
+5352|bổ sung
+5353|không hoàn chỉnh
+5354|sự phàn nàn
+5355|đông đúc
+5356|chữ ký
+5357|mu bàn tay
+5358|sử học
+5359|không, số không
+5360|đầu bếp
+5361|đồng won
+5362|đơn xin
+5363|mang tính lý thuyết
+5364|đến bây giờ mới
+5365|mang thai
+5366|dấu vết; sống tự lập
+5367|khóa
+5368|lễ tang
+5369|cho đến bây giờ
+5370|đường tắt
+5371|động đất
+5372|người tham dự
+5373|quầy giao dịch
+5374|thấp nhất
+5375|hài kịch
+5376|chiên
+5377|bắt buộc
+5378|số lần
+5379|làm đục, làm mờ
+5380|khả năng
+5381|rẻ
+5382|sự căng thẳng
+5383|rong biển
+5384|phía sau
+5385|treo
+5386|mỗi tuần
+5387|trở thành vấn đề
+5388|điều bất lợi
+5389|không cần thiết
+5390|khoa sản phụ
+5391|thức trắng
+5392|ký tên
+5393|cách, khả năng
+5394|cha xứ
+5395|vô ích
+5396|nhựa đường
+5397|à ha
+5398|cồn
+5399|(đuôi lịch sự)
+5400|tiếng cười
+5401|việc in ấn
+5402|bãi cỏ
+5403|thuê nhà jeonse
+5404|chạy bộ
+5405|đánh; chơi; thi
+5406|tiền trợ cấp thôi việc
+5407|im lặng, yên
+5408|giản tiện
+5409|cảm động
+5410|đồng phục học sinh
+5411|về nhà
+5412|bay lượn
+5413|càng hơn nữa
+5414|tấm lòng
+5415|dáng người
+5416|sự thờ ơ
+5417|lấp lánh
+5418|phu nhân; sự phủ nhận
+5419|bận rộn
+5420|mang tính phê phán
+5421|cướp, giành
+5422|một cách quý trọng
+5423|vòi nước
+5424|hàng rẻ tiền
+5425|đến mức nào
+5426|nhảm nhí
+5427|bất hợp pháp
+5428|về thể xác
+5429|âm lịch
+5430|bãi cỏ
+5431|đằng kia
+5432|nghề chuyên môn
+5433|sự nộp
+5434|phía; trang
+5435|hấp
+5436|sự chấm điểm
+5437|điềm tĩnh
+5438|tối đen
+5439|máy đánh chữ
+5440|điểm (mấu chốt)
+5441|cái nĩa
+5442|nửa đêm
+5443|lòng hiếu thảo
+5444|khán giả (tham quan)
+5445|việc về nhà
+5446|nhớ nhung
+5447|cửa sau
+5448|con gái nhỏ
+5449|hài lòng
+5450|sự ghét bỏ
+5451|cái gáo
+5452|đầu ngón chân
+5453|phòng bệnh
+5454|phục vụ, tình nguyện
+5455|sân bay nhỏ
+5456|hơi ẩm
+5457|dự báo
+5458|dũng cảm
+5459|tính nguy hiểm
+5460|chín
+5461|đang theo học
+5462|điện; tiểu sử
+5463|trưng bày
+5464|định kỳ
+5465|mang tính tôn giáo
+5466|chủ quan
+5467|nhân viên văn phòng
+5468|tấm lòng thật
+5469|thiên đường
+5470|lạy lớn
+5471|khoa, ngành
+5472|sự hối hận
+5473|sự nhấn mạnh
+5474|bảng thông báo
+5475|điểm chung
+5476|học thêm
+5477|trong trường
+5478|quận; chín
+5479|bên trong
+5480|nổi; mọc; múc
+5481|cuộc chạy ma-ra-tông
+5482|truyền thông đại chúng
+5483|không; củ cải
+5484|trọ lại; cũ
+5485|suốt đêm
+5486|chuyện lạ
+5487|gửi đến
+5488|cây quạt
+5489|bất hợp pháp; Phật pháp
+5490|doanh nhân
+5491|trời ơi
+5492|sự vất vả
+5493|rau bina
+5494|đơn đăng ký
+5495|người dưới quyền
+5496|album
+5497|lượng; cừu
+5498|vẫn như cũ
+5499|vùng Yeongnam
+5500|sân thượng
+5501|dạ dày; trên
+5502|chỗ làm
+5503|chị em gái
+5504|nơi triển lãm
+5505|sự tiết kiệm
+5506|giữa trưa
+5507|xuất ngũ
+5508|ngay tại chỗ
+5509|mỡ; địa phương
+5510|dần dần
+5511|sự phỏng đoán
+5512|lời khuyên
+5513|cằm
+5514|máy fax
+5515|giữa trưa
+5516|đầy ắp
+5517|sự chăm sóc bệnh nhân
+5518|hộp; vỏ giáp
+5519|phía bên kia
+5520|đi bộ; thu (tiền)
+5521|sợ
+5522|huy chương vàng
+5523|nhắm mắt
+5524|mở mắt
+5525|thi vào đại học
+5526|thớt
+5527|truyện cổ tích
+5528|mặt đất
+5529|tuyển mộ
+5530|màu hạt dẻ
+5531|vợ/chồng
+5532|buồn bực
+5533|hàng vạn
+5534|được nhập khẩu
+5535|hàng nhập khẩu
+5536|bát đĩa
+5537|giá rẻ
+5538|bên trong; phương án
+5539|tin tức thăm hỏi
+5540|rượu ngoại
+5541|diễn viên điện ảnh
+5542|sự tha thứ
+5543|bưu điện
+5544|bộ vest
+5545|thu hẹp
+5546|tốt, được
+5547|thẳng một mạch
+5548|bị xóa
+5549|bẩn thỉu
+5550|cơn đau (chuyển dạ)
+5551|tán thành
+5552|sự tham dự
+5553|cao cấp nhất
+5554|tốt nhất
+5555|tệ nhất
+5556|xuất cảnh
+5557|trở nên thân
+5558|chóp mũi
+5559|giăm bông
+5560|cây ven đường
+5561|quang đãng; gấp
+5562|sang trọng
+5563|bùi, thơm
+5564|công chúa
+5565|bị vỡ
+5566|năm sáu
+5567|nhìn lại
+5568|vũ công
+5569|đón mừng
+5570|rót; sưng
+5571|mưa; bia
+5572|tiếng địa phương
+5573|tiền thưởng
+5574|thìa đũa
+5575|cảm giác thèm ăn
+5576|vùng biển gần bờ
+5577|đáng ghét
+5578|xà lách
+5579|hoãn
+5580|trực tuyến
+5581|nhà ngoại
+5582|có năng lực
+5583|di tích lịch sử
+5584|phản hồi
+5585|có lợi
+5586|vào công ty
+5587|người; tự
+5588|tái chế
+5589|ngày giỗ
+5590|nếp nhăn
+5591|tham khảo
+5592|mang tính triết học
+5593|sự mời; đời đầu
+5594|giới thiệu, tiến cử
+5595|được bán
+5596|bên; tập
+5597|êm ấm
+5598|Thượng đế
+5599|học vấn
+5600|giới hạn

@@ -1,0 +1,400 @@
+401|học
+402|đánh bóng, lau chùi
+403|lời nói (kính ngữ), lời
+404|không sao, ổn, được
+405|nước mắt
+406|không; không phải
+407|chủ nhân, chủ nhà
+408|biếu, dâng (khiêm nhường của 주다)
+409|nửa
+410|tai
+411|mét
+412|thế nào
+413|bụng
+414|chung cư
+415|thỉnh thoảng
+416|rượu
+417|ngắn
+418|cảm ơn, biết ơn
+419|chỗ đó, nơi đó
+420|xem, nhìn (trợ từ so sánh: hơn)
+421|bận
+422|xấu, tồi
+423|trò chơi, game
+424|cái ly, chén
+425|có, ở
+426|khi nào
+427|xuống, đi xuống
+428|khách
+429|bất cứ, nào cũng
+430|bản tin, tin tức
+431|giờ học, buổi học
+432|mùa đông
+433|tầng
+434|tương, nước chấm
+435|bữa ăn
+436|ôm
+437|quên
+438|lớp; nửa
+439|ti vi
+440|rửa, gội
+441|muộn, trễ
+442|thư
+443|xen-ti-mét
+444|cánh tay
+445|lời giải thích
+446|ba (tuổi)
+447|ti vi
+448|mùa xuân
+449|thấp
+450|vai
+451|vợ chồng
+452|lâu
+453|du lịch
+454|quả bóng
+455|tháng Năm
+456|nghỉ ngơi
+457|khoa; bài (đơn vị)
+458|anh (em gái gọi)
+459|vui vẻ
+460|tháng Tư
+461|đánh nhau, cãi nhau
+462|khi nào
+463|xinh, đẹp
+464|sau này, lúc khác
+465|ngon
+466|mấy ngày
+467|năm ngoái
+468|đi xuống
+469|rác
+470|thịt
+471|mang đến
+472|nam nữ
+473|sự chuẩn bị
+474|tháng Chín
+475|trong, sạch, quang đãng
+476|tháng Sáu
+477|eo
+478|chim
+479|tiếng Anh
+480|trả lời
+481|cởi, tháo ra
+482|chuẩn bị
+483|giúp đỡ
+484|mặt trăng; tháng
+485|giám đốc, chủ tịch công ty
+486|tháng Ba
+487|nhưng mà, tuy nhiên
+488|chiều cao
+489|nỗi lo
+490|kết hôn
+491|chị (em trai gọi)
+492|câu hỏi
+493|vùng lân cận, gần đây
+494|bố mẹ (kính ngữ)
+495|ở, có (kính ngữ)
+496|đó, ấy
+497|con (đếm động vật)
+498|máy bay
+499|nóng bỏng
+500|ban ngày
+501|sớm
+502|chụp, đóng dấu; chặt
+503|nhẹ
+504|buổi sáng (trước 12 giờ)
+505|cửa hàng
+506|lời hẹn, hứa
+507|lời chào
+508|muối
+509|xe đạp
+510|ừ, vậy
+511|cổ
+512|hút (thuốc); làm nở
+513|giao thông
+514|đường phố
+515|thổi
+516|chữ Hangeul
+517|mùa thu
+518|ngày mai
+519|mỗi ngày
+520|ngón tay
+521|cấp, bậc
+522|thời tiết
+523|động vật
+524|bác sĩ
+525|khỏe mạnh
+526|các bạn, quý vị
+527|bởi vì
+528|bốn
+529|đến nơi
+530|chai, lọ; bệnh
+531|ấm áp
+532|bóng đá
+533|sáng
+534|nơi chốn
+535|ít
+536|mũi
+537|trường cấp ba
+538|lớp học, phòng học
+539|ngôi sao
+540|phức tạp
+541|màu sắc
+542|giống hệt
+543|nói (kính ngữ)
+544|bình thường, thường
+545|nhà hàng, quán ăn
+546|giới thiệu
+547|tháng Bảy
+548|tháng Mười hai
+549|cốc
+550|giấy
+551|ở, có (kính ngữ)
+552|sự thú vị
+553|bánh gạo
+554|kết thúc, làm xong
+555|câu trả lời
+556|sự bắt đầu
+557|một tuần
+558|điệu múa
+559|biếu, dâng
+560|sạch sẽ
+561|hỏi
+562|xin lỗi, áy náy
+563|căng thẳng, stress
+564|lời chào
+565|trái cây
+566|mắt
+567|tháng Mười
+568|bảo tàng
+569|mau lên
+570|tháng Tám
+571|túi, cặp
+572|số (số hiệu)
+573|mặt trời
+574|bát, chén
+575|con chó
+576|đài radio
+577|kỳ nghỉ (học sinh)
+578|phía nam
+579|màu sắc
+580|nấu ăn, món ăn
+581|nổi tiếng
+582|người nước ngoài
+583|vợ, phu nhân
+584|chạy
+585|bài tập về nhà
+586|cái ô, dù
+587|tháng trước
+588|bàn học
+589|lạnh
+590|thứ hai
+591|nặng
+592|gió
+593|giường
+594|quyển
+595|đồng hồ
+596|lá
+597|chậm rãi
+598|thể thao
+599|đằng kia
+600|nhà thờ
+601|cơn giận
+602|tháng Một
+603|thứ nhất
+604|thư viện
+605|quà tặng
+606|bác, cô (phụ nữ trung niên)
+607|nguy hiểm
+608|dưới lòng đất
+609|tàu điện ngầm
+610|văn phòng
+611|tháng Hai
+612|Chủ nhật
+613|đội, đeo (mũ, kính); viết; dùng
+614|sông
+615|đắt
+616|bên trái
+617|taxi
+618|mát mẻ, sảng khoái
+619|đâu
+620|chạy
+621|không (phủ định phụ trợ)
+622|tạp chí
+623|nhà (kính ngữ)
+624|vui mừng, hân hạnh
+625|đi rồi về
+626|video
+627|phía này
+628|luyện tập
+629|bên phải
+630|bản đồ
+631|nhà vệ sinh
+632|cuối tuần
+633|năm sau
+634|sinh viên đại học
+635|đóng
+636|sinh nhật
+637|đi bộ
+638|trung tâm bách hóa
+639|chai, lọ
+640|khỏe, bình an
+641|xuất phát
+642|con mèo
+643|trường cấp hai
+644|màu trắng
+645|ca sĩ
+646|thuốc
+647|phía kia
+648|cửa sổ
+649|sữa bò
+650|vé
+651|tháng Mười một
+652|gương
+653|bánh mì
+654|hôm qua
+655|nguy hiểm
+656|tốt nghiệp
+657|nhà bếp
+658|phía bắc
+659|thịt bò
+660|tuần
+661|thẻ
+662|từ vựng, từ
+663|giúp đỡ
+664|giày
+665|kim chi
+666|bay
+667|đường (gia vị)
+668|rẻ
+669|hôm qua
+670|bữa trưa
+671|dao
+672|buồn
+673|ghế
+674|máy ảnh
+675|thứ Bảy
+676|cảnh sát
+677|rạp hát
+678|lâu rồi mới
+679|trăm
+680|cô, dì (phụ nữ trung niên)
+681|nhảy múa
+682|bật; châm lửa
+683|sân bay
+684|quân nhân
+685|không
+686|váy
+687|khách sạn
+688|gọt, cắt, cạo
+689|cây cầu; chân
+690|dọn dẹp
+691|lo lắng
+692|đám mây
+693|tắt
+694|mùa
+695|sân vận động
+696|phía đông
+697|một lát
+698|tuần
+699|dạo này
+700|làm mất
+701|một lát
+702|yên tĩnh
+703|hanbok
+704|mì ăn liền
+705|quần
+706|ghét
+707|cái bàn
+708|mệt mỏi
+709|tiếng Hàn
+710|chữ Hán
+711|giờ; thành phố
+712|kính mắt
+713|hứa hẹn, hẹn
+714|sở thích
+715|nóng
+716|thứ hai
+717|bóng chày
+718|này
+719|sự tham quan
+720|vị ấy, người ấy
+721|mang, đi (giày)
+722|xin lỗi
+723|to, lớn
+724|vậy thì
+725|ba
+726|cá
+727|xóa
+728|thứ ba
+729|sự tốt nghiệp
+730|con gà
+731|bia
+732|sách giáo khoa
+733|con heo
+734|bơi lội
+735|quên mất
+736|tàu hỏa
+737|bàn ăn
+738|công viên
+739|không thành, không tốt
+740|ngày tháng
+741|bánh sandwich
+742|phía đó
+743|xe; trà
+744|màu đen
+745|a-lô
+746|nghìn; vải
+747|cái (dạng rút gọn của 것)
+748|phía tây
+749|đồn cảnh sát
+750|giày da
+751|táo; lời xin lỗi
+752|nữ sinh
+753|tủ lạnh
+754|cảm cúm
+755|lễ cưới
+756|hát
+757|ngày mai
+758|muộn
+759|bút chì
+760|lái xe
+761|mấy
+762|bulgogi, thịt bò nướng
+763|tắm
+764|số điện thoại
+765|cảm ơn
+766|vạn, mười nghìn
+767|ví
+768|tử tế, thân thiện
+769|ăn, uống
+770|không làm được, kém
+771|cái kia
+772|đi bộ đến
+773|mũ
+774|ghế sofa
+775|hai mươi
+776|ga
+777|chào hỏi
+778|hộ chiếu
+779|chìa khóa
+780|quả cam
+781|hết, tất cả
+782|số
+783|cái kia
+784|dưa hấu
+785|thứ nhất
+786|bánh kẹo
+787|trường đại học
+788|thịt heo
+789|bình an (khi chào tạm biệt)
+790|gọi điện
+791|khăn tắm
+792|com-lê
+793|ngủ
+794|đũa
+795|đàn piano
+796|chúc mừng
+797|ký túc xá
+798|đi dạo
+799|tập thể dục
+800|thứ Hai

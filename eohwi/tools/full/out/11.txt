@@ -1,0 +1,400 @@
+4001|sự bắt chước
+4002|nhà tù
+4003|trả (nợ)
+4004|lành mạnh
+4005|quảng trường
+4006|chặt, chật cứng
+4007|nhét, lắp vào
+4008|tỉa, gọt giũa
+4009|không khác gì
+4010|đường hoàng
+4011|đập nước
+4012|cục, khối
+4013|đầu óc
+4014|hiếm hoi mới
+4015|vật lý học
+4016|ong; hình phạt; bộ
+4017|mang tính tiêu cực
+4018|miền bắc
+4019|sự tách rời
+4020|đáng kể
+4021|ban đầu
+4022|ê
+4023|bị ô nhiễm
+4024|sự hiểu lầm
+4025|ý thức; nghi lễ
+4026|dựa vào
+4027|hạn chế
+4028|tôn trọng
+4029|(cứ nguyên) như vậy
+4030|chịu trách nhiệm
+4031|tuổi thanh xuân
+4032|giai đoạn đầu
+4033|xe tải
+4034|rộng rãi
+4035|được biểu hiện
+4036|mã số sinh viên, khóa
+4037|sự cho phép
+4038|đi lang thang
+4039|nhất
+4040|khúc, bài; thung lũng
+4041|ngũ cốc
+4042|cắm vào
+4043|nỗi sợ
+4044|do dự
+4045|đám đông; quá sức
+4046|khác biệt đặc biệt
+4047|phổ biến
+4048|linh kiện
+4049|rõ ràng, hiển nhiên
+4050|bị nhổ, được chọn
+4051|sự tư vấn
+4052|miền tây
+4053|tục ngữ
+4054|thị trường
+4055|sự thẩm định
+4056|đưa lên trước
+4057|tương tự
+4058|ý chí, ham muốn
+4059|vùng lân cận
+4060|người bình thường
+4061|soạn thảo
+4062|định kỳ
+4063|sự đề nghị
+4064|cách ăn mặc; bày biện
+4065|sáng tạo
+4066|xuất bản
+4067|phần cứng
+4068|trang điểm
+4069|mãnh liệt
+4070|lặp đi lặp lại
+4071|đúng, khít
+4072|lẽ, đạo lý; dặm
+4073|tránh khỏi
+4074|tìm tòi
+4075|nắm chặt
+4076|màu sắc
+4077|bốn phía
+4078|việc nhà, cuộc sống
+4079|sự thực hiện
+4080|không
+4081|nghệ sĩ giải trí
+4082|trong vòng
+4083|dần dần
+4084|bỏ phiếu
+4085|phá hủy
+4086|Thượng đế
+4087|thuộc về, tương ứng
+4088|một mình
+4089|dám
+4090|ép buộc
+4091|con kiến
+4092|tập quán
+4093|cảnh tượng
+4094|ngay, chốc lát
+4095|hạ thấp
+4096|nhường, trao
+4097|danh nghĩa
+4098|lùi lại
+4099|mật thiết
+4100|khối lượng
+4101|chỉ
+4102|rõ ràng, hiển nhiên
+4103|giản dị
+4104|vô số
+4105|sự thăng chức
+4106|lượng
+4107|quả
+4108|được viết
+4109|bị hạn chế
+4110|tiếp diễn
+4111|bị đuổi theo
+4112|thẳng một mạch
+4113|được đánh giá
+4114|quá
+4115|đang lúc cao điểm
+4116|bờ biển
+4117|bí ngô
+4118|người da đen
+4119|giữa; gan
+4120|bị nhốt
+4121|lao động
+4122|con ngươi
+4123|ập đến
+4124|xé, gỡ, gặm
+4125|cử chỉ
+4126|đảm nhận (chi phí)
+4127|phó chủ tịch
+4128|cướp, tước đoạt
+4129|nuốt
+4130|trung thực, chăm chỉ
+4131|phòng thu
+4132|thực tế
+4133|lý tưởng
+4134|thường hay
+4135|tất cả
+4136|thường xuyên
+4137|sự tuyệt vọng
+4138|gấp
+4139|được trình bày
+4140|nhà bếp
+4141|tiến ra
+4142|đi qua, thông qua
+4143|trong suốt
+4144|được lan rộng
+4145|kinh nghiệm, sự nghiệp
+4146|đau đớn
+4147|khó khăn
+4148|không trung
+4149|công hại
+4150|phiền phức
+4151|dựa vào
+4152|tỉnh dậy
+4153|được kể vào
+4154|đại đa số
+4155|có vẻ
+4156|thức ăn (vật nuôi)
+4157|miễn phí
+4158|ba lê
+4159|tượng trưng
+4160|thực hiện
+4161|tiếc
+4162|ổn định
+4163|ngu ngốc
+4164|nằm sấp
+4165|nhiều người, nhiều thứ
+4166|bài diễn thuyết
+4167|mối lo
+4168|buồn cười
+4169|ngày tháng
+4170|được truyền đạt
+4171|ô, ngăn, toa
+4172|một; hận
+4173|càng ngày càng
+4174|đủ loại
+4175|từ chối
+4176|phân biệt
+4177|may mắn
+4178|sự đồng ý
+4179|sự hoàn tất
+4180|chạm mặt
+4181|thực ra khi
+4182|thân mình
+4183|cây đinh
+4184|miêu tả
+4185|cắt, chặt
+4186|được đảm bảo
+4187|má
+4188|một phần
+4189|được gọi; nở ra
+4190|bất hạnh
+4191|tiếng thét
+4192|sự thuần khiết
+4193|góc nhìn; thời khắc
+4194|thực chất
+4195|sương mù
+4196|chỉ, duy nhất
+4197|hoàn thành
+4198|này nọ
+4199|nhiệm vụ
+4200|tự nhiên
+4201|trò đùa, nghịch ngợm
+4202|chuyên dụng
+4203|cực kỳ
+4204|mời, thỉnh cầu
+4205|sự xác định
+4206|ảo, giả tưởng
+4207|đôi khi
+4208|mở cửa
+4209|có liên quan
+4210|hàng nội địa
+4211|tỉnh
+4212|giải đấu
+4213|micrô
+4214|lấp đầy
+4215|diện tích
+4216|sự tự kiểm điểm
+4217|bật dậy
+4218|sự bồi thường
+4219|bị tách rời
+4220|nợ
+4221|khắc
+4222|dân thường
+4223|chỗ ngồi
+4224|chọn ra
+4225|mạnh
+4226|thiểu số
+4227|hằng năm
+4228|liên hoan phim
+4229|dự đoán
+4230|công dụng
+4231|sự nghi ngờ
+4232|di chuyển
+4233|kích thích
+4234|nhanh chóng
+4235|phù hợp
+4236|điều chỉnh
+4237|sự điều chỉnh; đua thuyền
+4238|lẩm bẩm
+4239|chi trả
+4240|sự mở rộng
+4241|mạnh mẽ
+4242|sự khô; sự đóng (tàu)
+4243|tĩnh lặng
+4244|em, bạn
+4245|vạch
+4246|cột
+4247|sắc bén
+4248|bàn luận
+4249|đạo đức
+4250|miền đông
+4251|bóng lưng
+4252|dễ dãi
+4253|xấu tính
+4254|báo cáo
+4255|văn phòng
+4256|thương nhân
+4257|tuyên bố
+4258|nguyện vọng
+4259|nhìn trộm
+4260|được hoàn thành
+4261|di tích
+4262|cả đời
+4263|mặc cho
+4264|giết ăn thịt
+4265|tin học hóa
+4266|thỉnh thoảng
+4267|đầy; lạnh; đá
+4268|sáng tác
+4269|sự thu nhỏ
+4270|sở thích, gu
+4271|ra đời
+4272|lớp học
+4273|hải quân
+4274|hiệu quả
+4275|giữa; chỉ
+4276|biển hiệu
+4277|đụng vào
+4278|quản lý
+4279|nỗi đau khổ
+4280|dựa trên
+4281|số tiền
+4282|dỗ dành
+4283|can ngăn; cuộn; phơi
+4284|lòng (rút gọn của 마음)
+4285|làm sáng tỏ
+4286|bị vỡ
+4287|chuyến bay
+4288|không liên quan
+4289|thành lập, thành lập được
+4290|tuổi thọ
+4291|mùa (giải)
+4292|kỳ diệu
+4293|cõng
+4294|linh cảm
+4295|đồ ăn thức uống
+4296|sự tự tin
+4297|tội nhân
+4298|chú ý
+4299|vải
+4300|cảm giác sảng khoái
+4301|sự ra đời
+4302|văng, nảy
+4303|sao lại đúng lúc
+4304|sự vận dụng
+4305|số tiền lớn
+4306|khăng khăng
+4307|khá giỏi
+4308|thung lũng
+4309|bài học
+4310|lăn
+4311|truyện ngắn
+4312|đối phó
+4313|rõ ràng
+4314|bước chân
+4315|bước chân
+4316|bị cướp
+4317|nhà sản xuất
+4318|tiên tiến
+4319|tay áo
+4320|xi măng
+4321|mới
+4322|đăng ký
+4323|thực ra
+4324|sự phán xét
+4325|được ôm
+4326|lương tâm
+4327|chủ tịch hội đồng
+4328|tiền lãi
+4329|chi tiết
+4330|chim én
+4331|sự đề xuất
+4332|đề xuất
+4333|ngày xưa
+4334|sự thăng cấp
+4335|nhô ra
+4336|tiêu chuẩn
+4337|cảng
+4338|sự cho phép
+4339|trực thăng
+4340|vừa đủ
+4341|nhắm (mắt); gội
+4342|cùng làm
+4343|bọt
+4344|không quân
+4345|kỹ thuật viên
+4346|sinh năm
+4347|chạy, cuộc chạy đua
+4348|thử thách
+4349|bông; mặt
+4350|sự hỗ trợ
+4351|bất lợi
+4352|sự bất tiện
+4353|chà xát, trộn
+4354|lời xin lỗi; quả táo
+4355|sống lại
+4356|lừa dối
+4357|giấc ngủ
+4358|hàng nghìn
+4359|sự thắng bại
+4360|thời kỳ
+4361|niềm tin
+4362|không chỉ một chút
+4363|sức ảnh hưởng
+4364|lễ phép
+4365|trong vòng
+4366|đây đó
+4367|mang tính con người
+4368|vua; tiền công
+4369|giỏi giang, đẹp mã
+4370|tài năng
+4371|thanh toán
+4372|đồn công an
+4373|tấm bảng; cuộc
+4374|Hán văn
+4375|trao cho
+4376|vòng chung kết
+4377|công cộng
+4378|học thức, giáo dưỡng
+4379|quốc vương
+4380|sự vượt qua
+4381|được đưa xuống
+4382|sự đông lạnh
+4383|tan chảy
+4384|phần lớn
+4385|thu thập
+4386|hành khách
+4387|tươi
+4388|ngoại hình
+4389|nhân tạo
+4390|giường ngủ; chuồn chuồn
+4391|mỗi người
+4392|toàn quốc
+4393|nửa đầu
+4394|chỗ cũ
+4395|nhàm chán
+4396|vẻ; thuyền
+4397|học thuật
+4398|máu
+4399|mũi tên
+4400|hỏa hoạn

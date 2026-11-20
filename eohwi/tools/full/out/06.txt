@@ -1,0 +1,400 @@
+2001|ấn tượng
+2002|Internet
+2003|áp dụng
+2004|truyền thống
+2005|tham gia
+2006|họ hàng
+2007|không… lắm
+2008|sự căng thẳng
+2009|đi theo
+2010|Phật; bộ
+2011|cúi, cúi xuống
+2012|cô gái, cô
+2013|nhiệt độ
+2014|trán
+2015|tuyệt đối (không)
+2016|mái nhà
+2017|thật; thực sự
+2018|đậm, dày
+2019|ngoài cửa sổ
+2020|ánh nắng
+2021|về mặt kinh tế, tiết kiệm
+2022|đảm nhận
+2023|cởi, lột
+2024|ánh đèn
+2025|khán giả truyền hình
+2026|hoàn hảo
+2027|khổ, đoạn; lạy; chùa
+2028|nhân viên
+2029|học kỳ
+2030|một lúc lâu
+2031|sờ, chạm
+2032|mục sư
+2033|cây kim
+2034|bộ; cha
+2035|thu nhập; nhập khẩu
+2036|hai bên
+2037|hành lý, gánh nặng
+2038|cỏ
+2039|hằng năm
+2040|đàn em, hậu bối
+2041|kỳ nghỉ
+2042|nghị sĩ quốc hội
+2043|vươn, duỗi
+2044|sinh sống
+2045|thẳng thắn
+2046|đáng tiếc
+2047|sớm
+2048|khuấy
+2049|lễ hội
+2050|làm nổ, làm vỡ
+2051|học tập
+2052|cao
+2053|đương nhiên
+2054|run
+2055|bừa bãi
+2056|cuộc gặp gỡ
+2057|truyền thông
+2058|hành lang
+2059|thủ tướng
+2060|tự hào
+2061|phù hợp
+2062|tiến hành
+2063|khắp nơi
+2064|sự cấm
+2065|từ… đến…
+2066|chạy đến
+2067|nhìn quanh
+2068|sự so sánh
+2069|mang tính lịch sử
+2070|đoàn tàu
+2071|đặc biệt
+2072|ngủ thiếp đi
+2073|chính thức
+2074|ngay lập tức
+2075|tốt nhất
+2076|tháp
+2077|hoạt động
+2078|kiến trúc
+2079|dễ thương
+2080|bực bội, ngột ngạt
+2081|hoảng hốt
+2082|làm rơi
+2083|giống hệt
+2084|lời nói; ngựa
+2085|bột mì
+2086|bên ngoài
+2087|mở rộng, dang
+2088|báo cáo
+2089|bảo quản
+2090|va đập
+2091|đồ giặt
+2092|hư, ôi
+2093|dầu ăn
+2094|nỗi sợ
+2095|ôxy
+2096|dầu mỏ
+2097|hét lên
+2098|tươi
+2099|chương; tương
+2100|kẻ địch
+2101|cẩn thận
+2102|chất lượng
+2103|đâm, chọc
+2104|người chịu trách nhiệm
+2105|được mở rộng
+2106|phòng khách
+2107|đồ ngốc
+2108|đặc biệt; sao
+2109|ý nghĩa, thành quả
+2110|tác dụng phụ
+2111|sự khai báo, trình báo
+2112|làm sao đây
+2113|dự đoán
+2114|lý tưởng; trở lên
+2115|nắm đấm
+2116|phủi, giũ
+2117|môn học
+2118|sự làm việc
+2119|chạy trốn
+2120|buộc
+2121|nước sốt
+2122|tiếng Hàn (thuần)
+2123|Nho giáo
+2124|chăn
+2125|người khác giới
+2126|đời thường
+2127|tự động
+2128|tương lai
+2129|tầm quan trọng
+2130|diễn viên truyền hình
+2131|đặc biệt
+2132|mang tính khoa học
+2133|phong bì
+2134|rõ ràng
+2135|rơi, lặn; thua
+2136|kỷ niệm
+2137|dù sao
+2138|bừa bãi
+2139|hương thơm
+2140|địa phương, tại chỗ
+2141|mảnh, nhỏ
+2142|mang tính cá nhân
+2143|bề ngoài
+2144|làm việc
+2145|giật mình
+2146|mở rộng
+2147|cỡ lớn; đài
+2148|làm ồn
+2149|hằng năm
+2150|sự phát sinh
+2151|rượu soju
+2152|lòng bàn tay
+2153|xe con
+2154|gượng gạo
+2155|đặt lên
+2156|ưu điểm
+2157|vừa phải
+2158|nhặt
+2159|sự tiến ra
+2160|ki-lô-gam
+2161|bình thường
+2162|phần trăm; chương trình
+2163|sự xác nhận
+2164|bột
+2165|vớt, cứu được
+2166|bị vỡ
+2167|cánh đồng
+2168|vừa mới
+2169|nỗi buồn
+2170|thế nào cũng được
+2171|được sử dụng
+2172|ngày hôm sau
+2173|tạm thời
+2174|giảm
+2175|khu vực; trái đất
+2176|dầu mè
+2177|thùng
+2178|người hâm mộ
+2179|gộp lại
+2180|ngõ hẻm
+2181|sức lực
+2182|quay người
+2183|truyện cổ tích
+2184|dày
+2185|đối đầu
+2186|thiếu
+2187|tưởng tượng
+2188|an toàn
+2189|du học; Nho học
+2190|mang tính chính trị
+2191|quán cà phê
+2192|mặc cảm
+2193|tiếp theo
+2194|sôi
+2195|bay đến
+2196|lời đùa
+2197|chủ nhiệm
+2198|giữa chừng
+2199|cát
+2200|tín hiệu
+2201|cha (kính ngữ)
+2202|nghi ngờ
+2203|khoe khoang
+2204|sự xuất phát
+2205|cho phép
+2206|các nước
+2207|được vẽ ra
+2208|đều đặn
+2209|năm (niên độ)
+2210|đa số
+2211|nhờ
+2212|gõ, đập
+2213|câu hỏi
+2214|cầu xin; mượn xin
+2215|nhà sư
+2216|thối rữa
+2217|mẹ (kính ngữ)
+2218|lạ lùng, khó hiểu
+2219|mình ơi
+2220|mảnh; điêu khắc
+2221|đốt cháy; cho đi (xe)
+2222|sự giải thích
+2223|chọn lọc, che
+2224|tính toán
+2225|ngâm, muối
+2226|tùy ý
+2227|con dâu
+2228|niềm tin
+2229|sự phát hiện
+2230|báo cáo
+2231|nhờ vả
+2232|người dùng
+2233|thất bại
+2234|vĩnh cửu
+2235|tình cờ
+2236|được quyết định
+2237|trực tiếp
+2238|lời khen
+2239|vững chắc, khỏe mạnh
+2240|ánh nắng
+2241|tích cực
+2242|thảo luận
+2243|chăm sóc
+2244|lật ngược
+2245|bụi
+2246|bờ biển
+2247|phải lòng; trái với
+2248|nhân viên công ty
+2249|nhai
+2250|dù sao
+2251|không hiểu sao
+2252|lòng tham
+2253|chiến thắng
+2254|chín
+2255|nộp
+2256|thận trọng
+2257|máy tính cá nhân
+2258|chảy ra
+2259|một cách đơn giản
+2260|nước sông
+2261|rất
+2262|nhịp điệu
+2263|màn hình
+2264|luộc
+2265|hồ sơ, tài liệu
+2266|yêu cầu
+2267|vận may
+2268|sinh hoạt hằng ngày
+2269|đậm
+2270|phục hồi
+2271|chảy đi
+2272|hứng thú
+2273|mơ
+2274|nhìn xuống
+2275|lông mày
+2276|thiết kế
+2277|ni lông
+2278|cũ, lâu đời
+2279|rau
+2280|lông
+2281|bán
+2282|vất vả
+2283|mơ ước
+2284|séc
+2285|đứa này
+2286|ôi
+2287|lịch trình
+2288|như thế kia
+2289|băng dính
+2290|nước tương
+2291|băn khoăn
+2292|sự trao đổi
+2293|quốc ngữ, tiếng Hàn
+2294|vàng
+2295|bị thương
+2296|phương Đông
+2297|nhạc cụ
+2298|cuối năm
+2299|đặt lên
+2300|thật sự
+2301|dọn đi
+2302|sự mệt mỏi
+2303|kéo
+2304|vào; được; tốn
+2305|theo; rót
+2306|vỗ tay
+2307|người giàu
+2308|ba ngày
+2309|cháu nội
+2310|chú rể
+2311|khá
+2312|họa sĩ
+2313|tham quan
+2314|nước canh
+2315|thưa (kính ngữ)
+2316|xa dần
+2317|đáng thương
+2318|thực lực
+2319|rau
+2320|tiếng khóc
+2321|tất cả
+2322|niềm vui
+2323|rơi, lặn; thua
+2324|thân
+2325|ngay lập tức
+2326|độ sâu
+2327|cành cây
+2328|khỏi bệnh
+2329|trả lời
+2330|cái nóng
+2331|ba bốn
+2332|thất bại
+2333|làm cười, buồn cười
+2334|thủy tinh
+2335|chuột
+2336|cằm
+2337|bán được
+2338|ha ha
+2339|anh rể
+2340|năm nay
+2341|đen thui
+2342|cao học
+2343|bẩn
+2344|đăng ký
+2345|hoa văn
+2346|câu
+2347|luật sư
+2348|địa điểm
+2349|về nước
+2350|vui mừng
+2351|đặt xuống
+2352|cà rốt
+2353|bất hạnh
+2354|cô đơn
+2355|lễ; chùa; đoạn
+2356|lần trước
+2357|tập tin
+2358|chậu hoa
+2359|màu nâu
+2360|món ăn kèm
+2361|được giới thiệu
+2362|hạt; ông/bà (hậu tố)
+2363|bên trong
+2364|qua lại
+2365|ngày hôm trước
+2366|máy tính bỏ túi
+2367|đúng vậy
+2368|tỉnh dậy; vỡ
+2369|lưng
+2370|mạnh
+2371|sự giới thiệu
+2372|ống nghe
+2373|người yêu
+2374|mỏng
+2375|gia vị
+2376|chuyện gì vậy
+2377|nhật ký
+2378|tuyệt đối
+2379|nhà kho
+2380|hành lá
+2381|trung tâm dạy thêm
+2382|bơ
+2383|đứa trẻ; ôi
+2384|trường mẫu giáo
+2385|chuyên ngành
+2386|cả ngày
+2387|tốt lên
+2388|cái lạnh
+2389|cà chua
+2390|xanh
+2391|mang đi
+2392|khoai tây
+2393|có, cầm
+2394|đau khổ
+2395|tai nạn giao thông
+2396|chỗ, nơi
+2397|tin nhắn
+2398|má
+2399|mãi mãi
+2400|lương tháng

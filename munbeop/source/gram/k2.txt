@@ -16,6 +16,7 @@
 @ex 어머니는 요리하{고 계세요}. | Mẹ đang nấu ăn.
 @theme thoi-gian
 @ctx hoi-thoai
+@book tonghop2 | 11 | 1
 
 @p 002 | -아/어 주세요
 @group 1
@@ -29,6 +30,7 @@
 @ex 제가 도와 {드릴게요}. | Để tôi giúp ạ.
 @theme y-chi
 @ctx hoi-thoai
+@book tonghop2 | 1 | 1
 
 @p 003 | -(으)ㄴ / 는 / (으)ㄹ + N (định ngữ)
 @group 1
@@ -42,6 +44,7 @@
 @ex 내일 {만날} 친구는 한국 사람이에요. | Người bạn sẽ gặp ngày mai là người Hàn.
 @theme dinh-ngu
 @ctx hoi-thoai
+@book tonghop2 | 3 | 1
 
 @p 004 | -(으)ㄹ 때
 @group 1
@@ -54,6 +57,7 @@
 @ex 심심할 {때} 뭐 해요? | Khi buồn chán bạn làm gì?
 @theme thoi-gian
 @ctx hoi-thoai
+@book tonghop2 | 1 | 1
 
 @p 005 | -(으)니까
 @group 2
@@ -68,6 +72,7 @@
 @theme nguyen-nhan
 @ctx hoi-thoai
 @cmp -아/어서 | k1 | Vế sau không dùng mệnh lệnh/rủ rê.
+@book tonghop2 | 2 | 1
 
 @p 006 | -(으)면
 @group 2
@@ -80,6 +85,7 @@
 @ex 한국에 가{면} 김치를 먹고 싶어요. | Nếu đến Hàn Quốc tôi muốn ăn kim chi.
 @theme dieu-kien
 @ctx hoi-thoai
+@book tonghop2 | 5 | 1
 
 @p 007 | -아/어도 되다
 @group 2
@@ -92,6 +98,7 @@
 @ex 지금 먹어{도 돼요}? | Bây giờ ăn được chưa ạ?
 @theme kha-nang
 @ctx hoi-thoai
+@book tonghop2 | 2 | 1
 
 @p 008 | -(으)면 안 되다
 @group 2
@@ -104,6 +111,7 @@
 @ex 이 물을 마시{면 안 돼요}. | Không được uống nước này.
 @theme kha-nang
 @ctx cong-so
+@book tonghop2 | 12 | 1
 
 @p 009 | -아/어야 하다 / 되다
 @group 2
@@ -118,6 +126,7 @@
 @theme kha-nang
 @ctx hoi-thoai
 @cmp -지 않아도 되다 | k2 | Không cần phải.
+@book tonghop2 | 4 | 1
 
 @p 010 | -지 않아도 되다 / 안 -아/어도 되다
 @group 2
@@ -144,6 +153,8 @@
 @ex 이 음식이 맛있는 {것 같아요}. | Tôi thấy món này ngon.
 @theme suy-doan
 @ctx hoi-thoai
+@book tonghop2 | 13 | 1
+@book tonghop3 | 3 | 2
 
 @p 012 | -지요? / -죠?
 @group 3
@@ -156,6 +167,7 @@
 @ex 이거 맛있{죠}. | Cái này ngon đấy chứ.
 @theme dang-cau
 @ctx hoi-thoai
+@book tonghop2 | 6 | 1
 
 @p 013 | -네요
 @group 3
@@ -168,6 +180,7 @@
 @ex 정말 예쁘{네요}. | Đẹp thật đấy.
 @theme cam-xuc
 @ctx hoi-thoai
+@book tonghop2 | 8 | 1
 
 @p 014 | -군요 / -는군요
 @group 3
@@ -193,6 +206,7 @@
 @ex 어제 영화를 {봤는데} 정말 재미있었어요. | Hôm qua tôi xem phim, hay lắm.
 @theme nghich-tiep
 @ctx hoi-thoai
+@book tonghop2 | 15 | 1
 
 @p 016 | -아/어 보다
 @group 3
@@ -205,6 +219,7 @@
 @ex 저도 해 {볼게요}. | Để tôi cũng thử.
 @theme y-chi
 @ctx hoi-thoai
+@book tonghop2 | 8 | 1
 
 @p 017 | -(으)ㄴ 적이 있다 / 없다
 @group 3
@@ -217,6 +232,7 @@
 @ex 비행기를 탄 {적이 있어요}? | Bạn đã từng đi máy bay chưa?
 @theme thoi-gian
 @ctx hoi-thoai
+@book tonghop2 | 11 | 1
 
 @p 018 | -(으)ㄹ게요
 @group 3
@@ -229,6 +245,7 @@
 @ex 내일 전화{할게요}. | Mai tôi sẽ gọi điện.
 @theme y-chi
 @ctx hoi-thoai
+@book tonghop2 | 7 | 1
 
 @p 019 | -기 전에
 @group 4
@@ -242,6 +259,7 @@
 @ex 한국에 오{기 전에} 한국어를 배웠어요. | Trước khi đến Hàn Quốc tôi đã học tiếng Hàn.
 @theme thoi-gian
 @ctx hoi-thoai
+@book tonghop2 | 7 | 1
 
 @p 020 | -(으)ㄴ 후에 / -(으)ㄴ 다음에
 @group 4
@@ -255,6 +273,7 @@
 @ex 운동{한 후에} 샤워를 해요. | Sau khi tập thể dục tôi tắm.
 @theme thoi-gian
 @ctx hoi-thoai
+@book tonghop2 | 14 | 1
 
 @p 021 | -는 동안
 @group 4
@@ -280,6 +299,8 @@
 @ex 밥을 먹{으면서} 이야기해요. | Vừa ăn cơm vừa nói chuyện.
 @theme thoi-gian
 @ctx hoi-thoai
+@book tonghop2 | 12 | 1
+@book tonghop3 | 6 | 2
 
 @p 023 | -지 마세요
 @group 4
@@ -293,6 +314,7 @@
 @ex 늦{지 마십시오}. | Xin đừng đến muộn.
 @theme phu-dinh
 @ctx hoi-thoai
+@book tonghop2 | 2 | 1
 
 @p 024 | 보다 (so sánh)
 @group 4
@@ -305,6 +327,7 @@
 @ex 한국어가 영어{보다} 쉬워요. | Tiếng Hàn dễ hơn tiếng Anh.
 @theme so-sanh
 @ctx hoi-thoai
+@book tonghop2 | 3 | 1
 
 @p 025 | 에서 가장 / 제일
 @group 4
@@ -330,6 +353,8 @@
 @ex 이 김치는 맛있게 {만들어졌어요}. | Món kim chi này được làm rất ngon.
 @theme trang-thai
 @ctx hoi-thoai
+@book tonghop2 | 10 | 1
+@book tonghop4 | 6 | 2
 
 @p 027 | -게 되다
 @group 4
@@ -342,6 +367,7 @@
 @ex 결혼하{게 되었어요}. | Tôi sắp kết hôn.
 @theme trang-thai
 @ctx hoi-thoai
+@book tonghop3 | 1 | 1
 
 @p 028 | -기 위해(서)
 @group 4
@@ -355,6 +381,7 @@
 @ex 돈을 모으{기 위해서} 일해요. | Tôi làm việc để dành tiền.
 @theme muc-dich
 @ctx cong-so
+@book tonghop2 | 9 | 1
 
 @p 029 | (으)ㄴ/는데도 / 밖에 / 만 / 마다 / 쯤
 @group 4
@@ -382,3 +409,101 @@
 @ex 책을 열 권{이나} 샀어요. | Tôi mua tận mười quyển sách.
 @theme liet-ke
 @ctx hoi-thoai
+@book tonghop2 | 9 | 1
+
+@p 031 | -거나
+@group 2
+@mean Hoặc là…, hay…
+@core Nối hai hành động hoặc trạng thái, chọn một trong hai.
+@form V/A + 거나
+@form N + (이)거나
+@exp Hai vế cùng chủ ngữ, chia thì ở vế cuối: 책을 읽거나 영화를 봤어요. Không dùng với 에/에서 cho hai danh từ khác loại; dùng (이)나 khi nối danh từ.
+@ex 주말에는 책을 읽{거나} 영화를 봐요. | Cuối tuần tôi đọc sách hoặc xem phim.
+@ex 피곤하{거나} 아프면 쉬세요. | Nếu mệt hay ốm thì hãy nghỉ.
+@ex 커피{거나} 차를 마시고 싶어요. | Tôi muốn uống cà phê hay trà gì đó.
+@theme dieu-kien
+@ctx hoi-thoai
+@book tonghop2 | 11 | 1
+
+@p 032 | -(으)면 좋겠다
+@group 2
+@mean Giá mà… / Mong là…
+@core Diễn tả điều mong muốn, hy vọng chưa xảy ra.
+@form V/A + (으)면 좋겠다 / 좋겠어요
+@form N + (이)면 좋겠다
+@exp Gốc là -(으)면 (nếu) + 좋겠다 (sẽ tốt). Hay dùng để nói điều mình mong: 시간이 있으면 좋겠어요. Với quá khứ: -았/었으면 좋겠다.
+@ex 내일 날씨가 좋{으면 좋겠어요}. | Mong là ngày mai thời tiết đẹp.
+@ex 주말에 쉴 수 있{으면 좋겠어요}. | Mong là cuối tuần được nghỉ.
+@ex 친구가 같이 가{면 좋겠어요}. | Giá mà bạn tôi cùng đi.
+@theme y-chi
+@ctx hoi-thoai
+@book tonghop2 | 9 | 2
+
+@p 033 | -(으)ㄹ 생각이다
+@group 3
+@mean Định…, có ý định…
+@core Nói về dự định đã suy nghĩ khá chắc chắn.
+@form V + (으)ㄹ 생각이다 / 생각이에요
+@exp Mạnh hơn -(으)려고 하다 một chút về mức độ cân nhắc. Phủ định: -지 않을 생각이다 hoặc -(으)ㄹ 생각이 없다.
+@ex 내년에 한국에서 일{할 생각이에요}. | Năm sau tôi định làm việc ở Hàn Quốc.
+@ex 방학에 여행을 {갈 생각이에요}. | Kỳ nghỉ tôi định đi du lịch.
+@ex 오늘은 일찍 {잘 생각이에요}. | Hôm nay tôi định đi ngủ sớm.
+@theme y-chi
+@ctx hoi-thoai
+@book tonghop3 | 1 | 4
+
+@p 034 | -는 게 좋다
+@group 3
+@mean Nên… thì tốt hơn
+@core Đưa lời khuyên nhẹ nhàng hoặc nói điều tốt hơn nên làm.
+@form V + 는 게 좋다 / 좋겠다 / 좋아요
+@form V + (으)ㄴ/는 편이 좋다
+@exp -는 게 là rút gọn của -는 것이. Dùng khi khuyên: 일찍 자는 게 좋아요. Phủ định: -지 않는 게 좋다.
+@ex 감기에 걸렸으면 푹 쉬{는 게 좋아요}. | Bị cảm thì nên nghỉ ngơi nhiều.
+@ex 밤에는 커피를 마시지 않{는 게 좋아요}. | Buổi tối không uống cà phê thì tốt hơn.
+@ex 비가 오니까 우산을 가져가{는 게 좋겠어요}. | Trời mưa nên mang ô theo thì hơn.
+@theme y-chi
+@ctx hoi-thoai
+@book tonghop3 | 3 | 1
+
+@p 035 | -는 중이다
+@group 1
+@mean Đang…
+@core Nhấn mạnh hành động đang diễn ra ngay lúc nói.
+@form V + 는 중이다 / 중이에요
+@form N + 중이다 (회의 중, 통화 중)
+@exp Trang trọng hơn -고 있다 và thường gắn với việc đang tiến hành: 지금 통화 중이에요. Chỉ dùng với động từ chỉ hành động.
+@ex 지금 회의하{는 중이에요}. | Bây giờ tôi đang họp.
+@ex 지금 밥을 먹{는 중이에요}. | Bây giờ tôi đang ăn cơm.
+@ex 사장님은 통화{ 중이세요}. | Giám đốc đang nghe điện thoại.
+@theme thoi-gian
+@ctx cong-so
+@book tonghop3 | 8 | 2
+
+@p 036 | 처럼
+@group 4
+@mean Giống như…, như…
+@core Trợ từ so sánh sự giống nhau: giống như danh từ đứng trước.
+@form N + 처럼
+@form N + 같이 (gần nghĩa, dùng trong văn viết)
+@exp Gắn sau danh từ để so sánh: 가수처럼 노래해요. Khác với 보다 (so sánh hơn).
+@ex 그 사람은 가수{처럼} 노래를 잘해요. | Người đó hát giỏi như ca sĩ.
+@ex 오늘은 여름{처럼} 더워요. | Hôm nay nóng như mùa hè.
+@ex 저{처럼} 해 보세요. | Hãy thử làm giống tôi.
+@theme so-sanh
+@ctx hoi-thoai
+@book tonghop3 | 7 | 1
+
+@p 037 | (이)나 (tùy chọn)
+@group 4
+@mean Bất cứ… / hay là…
+@core Dùng với 아무 và từ nghi vấn để nói “bất kỳ”.
+@form 아무 + N + (이)나
+@form 누구나 · 언제나 · 어디나 · 무엇이나
+@exp 아무나 = ai cũng được; 아무거나 = cái gì cũng được. Khác (이)나 chọn lựa hay nhấn mạnh số lượng.
+@ex 이 문제는 {아무나} 풀 수 있어요. | Bài này ai cũng giải được.
+@ex 점심은 {아무거나} 먹어도 돼요. | Bữa trưa ăn gì cũng được.
+@ex 한국 사람이라면 {누구나} 알아요. | Là người Hàn thì ai cũng biết.
+@theme pham-vi
+@ctx hoi-thoai
+@book tonghop3 | 9 | 4

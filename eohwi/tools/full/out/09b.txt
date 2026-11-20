@@ -1,0 +1,200 @@
+3401|ga; vai trò, dịch vụ
+3402|nhận thức
+3403|người; tự
+3404|kết (quan hệ), ký kết
+3405|nhu cầu
+3406|người lãnh đạo
+3407|cấu thành
+3408|nói chung
+3409|đánh
+3410|chợt
+3411|chủ tịch ủy ban
+3412|hiệu quả
+3413|sản xuất
+3414|ý đồ
+3415|gây ra (lỗi)
+3416|giảm đi
+3417|vụ việc (đơn vị)
+3418|phần lớn
+3419|bên ngoài
+3420|một thời
+3421|đã sống
+3422|mang tính tương đối
+3423|điều khoản; kê
+3424|gia vị
+3425|mạnh mẽ
+3426|pháp luật
+3427|hiện; dây (đàn)
+3428|màn hình
+3429|tiếp theo
+3430|chân lý
+3431|sự cung cấp
+3432|đồng nghiệp
+3433|sự cân bằng
+3434|cơ bản
+3435|sự tiếp cận
+3436|theo dõi
+3437|cá tính
+3438|đập vào mắt
+3439|sụp đổ
+3440|làm thế này
+3441|đứng dậy
+3442|tội
+3443|cốt lõi
+3444|nửa sau
+3445|động tác
+3446|có nghĩa là
+3447|thời Trung cổ
+3448|sự hợp nhất
+3449|cái đuôi
+3450|kiểu mẫu, hình thức
+3451|cổ phiếu
+3452|không ngừng
+3453|kiến thức thông thường
+3454|nhãn hiệu
+3455|không (dạng trang trọng)
+3456|ý thức được
+3457|bao quanh
+3458|sự dân chủ hóa
+3459|đưa tin
+3460|quan sát kỹ
+3461|từ chối
+3462|sự thực thi
+3463|vận mệnh
+3464|tài chính
+3465|thà rằng
+3466|học giả
+3467|quy mô lớn
+3468|phường (dong)
+3469|dân gian, tư nhân
+3470|tòa án
+3471|trên thực tế
+3472|quý trọng, tiết kiệm
+3473|khu vực
+3474|phán đoán
+3475|thực hành
+3476|thuật ngữ
+3477|làm quen, thành thạo
+3478|địa vị
+3479|phong phú
+3480|lương thực
+3481|thí nghiệm
+3482|hộp đựng; dũng khí
+3483|hạt nhân
+3484|đáng kể
+3485|thủ khoa, đứng đầu
+3486|thích hợp
+3487|lễ cúng
+3488|trí tuệ
+3489|chim sẻ
+3490|nông sản
+3491|tư duy; tai nạn
+3492|năm nay
+3493|vĩ đại
+3494|chi phối
+3495|kẽ hở
+3496|giả sử
+3497|khổng lồ
+3498|hiếm
+3499|bám, treo
+3500|nền tảng
+3501|mạng sống
+3502|thoát ra
+3503|dư luận
+3504|y phục
+3505|thể dục dụng cụ
+3506|thực tế
+3507|chủ đề bàn luận
+3508|sự tấn công
+3509|vật giá; bờ nước
+3510|chủ nghĩa dân chủ
+3511|quý giá
+3512|sự nghi vấn
+3513|tỏa sáng
+3514|được đăng
+3515|áp lực
+3516|được dự đoán
+3517|chứng khoán
+3518|ngay sau đó
+3519|phương tiện, xe
+3520|sinh nở
+3521|nước phát triển
+3522|phiên tòa
+3523|học trò
+3524|sự phục hồi
+3525|khu vực
+3526|sự ứng phó
+3527|phát huy
+3528|tiêu dùng
+3529|tim
+3530|doanh nghiệp vừa và nhỏ
+3531|trực tiếp
+3532|sự thật
+3533|tác giả bài viết
+3534|sự hợp tác
+3535|tầng lớp
+3536|sự phụ trách
+3537|đưa tin
+3538|sự tăng; ấn tượng
+3539|triệt để
+3540|thai nhi
+3541|quấn, bao quanh
+3542|cuối cùng
+3543|dân chủ
+3544|người phụ nữ
+3545|vận hành
+3546|đánh giá
+3547|sự cần thiết
+3548|giấu
+3549|nào đó
+3550|bộ phận (cơ thể)
+3551|làm trống
+3552|lắp đặt
+3553|đồng thời
+3554|chỉ thị
+3555|hình thành
+3556|thêm vào
+3557|vũ khí
+3558|một loại
+3559|hoàn cảnh
+3560|cháy; đi (xe); pha
+3561|hoàn cảnh
+3562|bản chất
+3563|chiếu sáng, phản chiếu
+3564|từ từ
+3565|thầy giáo
+3566|thân phận
+3567|được thực thi
+3568|bằng chứng
+3569|tiêu điểm
+3570|tăng cường
+3571|nỗi kinh hoàng
+3572|uy quyền
+3573|hoãn
+3574|tình hình thực tế
+3575|dinh dưỡng
+3576|thể xác
+3577|người ấy
+3578|khí quyển
+3579|độc lập
+3580|thuộc về, tương ứng
+3581|cán bộ
+3582|quan niệm
+3583|sự du nhập
+3584|chiếu sáng
+3585|điều kiện
+3586|sự kiểm soát
+3587|không thua kém
+3588|phản ánh
+3589|trưởng thành
+3590|sự trực thuộc
+3591|sự chế tạo
+3592|sự thúc đẩy
+3593|mua
+3594|sự chuẩn bị
+3595|thuyền trưởng
+3596|thời điểm
+3597|ý định; bác sĩ
+3598|mã
+3599|thế giới quan
+3600|phụ thuộc

@@ -1,0 +1,400 @@
+801|주소|danh|住所 trú sở|address
+802|파티|danh||party
+803|달다|tính||to become hot
+804|청소하다|động|淸掃 thanh tảo|to clean
+805|감사하다|động|感謝 cảm tạ|to be thankful
+806|등산|danh|登山 đăng sơn|mountain climbing, mountaineering; hik
+807|메뉴|danh||menu
+808|셋째|định||third
+809|외국어|danh|外國語 ngoại quốc ngữ|foreign language
+810|자장면|danh||jjajangmyeon, a Korean dish consisting
+811|중학생|danh|中學生 trung học sinh|middle school student, secondary schoo
+812|휴일|danh|休日 hưu nhật|holiday, day off
+813|달력|danh||calendar
+814|소풍|danh|逍風 tiêu phong|picnic, outing, excursion
+815|춤추다|động||to dance
+816|테니스|danh||tennis
+817|공책|danh|空冊 không sách|notebook, jotter
+818|똑바로|phó ||straight, upright, even
+819|배|danh||abdomen, belly
+820|서점|danh|書店 thư điếm|bookshop
+821|양말|danh|洋襪 dương miệt|socks
+822|초대하다|động|招待 chiêu đãi|to invite
+823|연습하다|động||to practice
+824|경치|danh|景致 cảnh trí|scenery, scene, view
+825|발음|danh|發音 phát âm|pronunciation
+826|재미없다|tính||uninteresting, dull
+827|주스|danh||juice
+828|콜라|danh||cola
+829|남학생|danh|男學生 nam học sinh|schoolboy; a male student; a male pupi
+830|식사하다|động|食事 thực sự|to eat, to have/take a meal
+831|우체국|danh|郵遞局 bưu đệ cục|post office
+832|고프다|tính||to be hungry, empty, starved
+833|대사관|danh|大使館 đại sứ quán|an embassy
+834|배고프다|tính||to be hungry
+835|삼|số t|三 tam|three
+836|여행하다|động||to travel
+837|정류장|danh|停留場 đình lưu trường|stop, station
+838|맵다|tính||spicy, hot
+839|여동생|danh||little sister, younger sister
+840|오래간만|danh||the first occurrence after a long abse
+841|점심시간|danh|點心時間 điểm tâm thời gian|lunchbreak
+842|휴지|danh|休紙 hưu chỉ|waste paper
+843|넷째|số t||fourth
+844|태권도|danh|跆拳道 đài quyền đạo|taekwondo
+845|햄버거|danh||hamburger
+846|감사|danh|感謝 cảm tạ|gratitude; thanks
+847|슈퍼마켓|danh||supermarket
+848|비누|danh||soap
+849|세수|danh|洗手 tẩy thủ|washing one's face
+850|찌개|danh||jjigae
+851|넥타이|danh||necktie
+852|매일|danh|每日 mỗi nhật|every day
+853|월|danh|月 nguyệt|month
+854|잡수시다|động||to eat: honorific of 먹다
+855|한국말|danh|韓國 hàn quốc|the Korean language
+856|계란|danh|鷄卵 kê noãn|chicken egg
+857|넷|số t||four
+858|에어컨|danh||air conditioner
+859|초대|danh|招待 chiêu đãi|invitation
+860|사전|danh|辭典 từ điển|dictionary
+861|실례|danh|失禮 thất lễ|rudeness
+862|안녕|thán|安寧 an ninh|peace; tranquility
+863|약국|danh|藥局 dược cục|pharmacy, drugstore
+864|지난주|danh||last week
+865|간호사|danh|看護師 khán hộ sư|nurse
+866|고등학생|danh|高等學生 cao đẳng học sinh|high schooler, high school student
+867|다섯|số t||five
+868|닭고기|danh||chicken
+869|숟가락|danh||spoon
+870|요일|danh|曜日 diệu nhật|day of the week
+871|일|số t|一 nhất|work
+872|저|đại ||that
+873|질문하다|động|質問 chất vấn|to ask a question
+874|치약|danh|齒藥 xỉ dược|toothpaste
+875|금요일|danh||Friday
+876|김밥|danh||kimbap
+877|바나나|danh||banana
+878|수요일|danh|水曜日 thủy diệu nhật|Wednesday
+879|운전하다|động|運轉 vận chuyển|to drive
+880|노트|danh||notebook
+881|딸기|danh||strawberry
+882|초콜릿|danh||chocolate
+883|피자|danh||pizza
+884|노란색|danh||yellow
+885|달러|danh||dollar
+886|만|số t|萬 vạn|ten thousand
+887|이분|đại ||this gentleman, this lady, he, she, it
+888|칫솔|danh|齒 xỉ|toothbrush
+889|포도|danh|葡萄 bồ đào|grape
+890|공중전화|danh|公衆電話 công chúng điện thoại|payphone, public telephone
+891|배부르다|tính||to be full
+892|샤워|danh||shower
+893|세탁기|danh|洗濯機 tẩy trạc cơ|washing machine
+894|그래서|phân||therefore, accordingly, because of tha
+895|남동생|danh|男 nam|little brother, younger brother
+896|도착|danh|到着 đáo trước|arrival
+897|쇼핑|danh||shopping
+898|스키|danh||ski, skis
+899|열|số t||ten
+900|운동화|danh|運動靴 vận động ngoa|sneakers, trainers, athletic shoes
+901|짜다|tính||to make, to assemble, to put together,
+902|초등학교|danh|初等學校 sơ đẳng học hiệu|elementary school
+903|공휴일|danh|公休日 công hưu nhật|public holiday, legal holiday
+904|마흔|số t||forty
+905|볼펜|danh||ballpoint pen
+906|빨간색|danh||red
+907|이|số t|二 nhị|this
+908|스물|số t||twenty
+909|청바지|danh|靑 thanh|jeans
+910|핸드폰|danh||cellular phone, mobile phone, cell pho
+911|휴지통|danh|休紙桶 hưu chỉ thùng|wastebasket; garbage can
+912|넷째|định||fourth
+913|칠판|danh|漆板 tất bàn|blackboard, chalkboard
+914|크리스마스|danh||Christmas
+915|구|số t|九 cửu|nine
+916|목요일|danh|木曜日 mộc diệu nhật|Thursday
+917|지우개|danh||eraser, rubber
+918|사|số t|四 tứ|four
+919|수영장|danh|水泳場 thủy vịnh trường|swimming pool, swimming baths
+920|일본어|danh|日本語 nhật bản ngữ|the Japanese language
+921|갈비|danh||ribs
+922|서른|số t||thirty
+923|아홉|số t||nine
+924|장미|danh|薔薇 tường vi|rose, rosebush
+925|파란색|danh||blue
+926|냉면|danh|冷麵 lãnh mì|naengmyeon, a cold Korean noodle dish,
+927|비빔밥|danh||bibimbap
+928|여든|số t||eighty
+929|일흔|số t||seventy
+930|화요일|danh|火曜日 hỏa diệu nhật|Tuesday
+931|선물하다|động|膳物 thiện vật|to give a gift/a present
+932|아이스크림|danh||ice cream
+933|요리하다|động||to cook
+934|칠|số t|七 thất|seven
+935|다섯째|số t||fifth
+936|맛없다|tính||to be tasteless, not tasty
+937|백|số t|百 bách|hundred
+938|사십|số t|四十 tứ thập|forty
+939|팔|số t|八 bát|arm
+940|실례하다|động|失禮 thất lễ|to be rude
+941|여섯|số t||six
+942|육|số t||six
+943|일곱|số t||seven
+944|삼십|số t|三十 tam thập|thirty
+945|오십|số t|五十 ngũ thập|fifty
+946|중국어|danh|中國語 trung quốc ngữ|The Chinese language, often specifical
+947|칠십|số t|七十 thất thập|seventy
+948|다섯째|định||fifth
+949|사탕|danh|沙糖 sa đường|candy
+950|예순|số t||sixty
+951|오|số t|五 ngũ|five
+952|십|số t|十 thập|ten
+953|천|số t|千 thiên|cloth; fabric
+954|쉰|số t||fifty
+955|육십|số t||sixty
+956|팔십|số t|八十 bát thập|eighty
+957|여덟|số t||eight
+958|아흔|số t||ninety
+959|이십|số t|二十 nhị thập|twenty
+960|저곳|đại ||there, that place over there, yonder
+961|경복궁|danh|景福宮 cảnh phúc cung|Gyeongbokgung
+962|경주|danh|慶州|race; run
+963|구십|số t|九十 cửu thập|ninety
+964|남대문|danh|南大門 nam đại môn|
+965|남대문시장|danh|南大門市場 nam đại môn thị trường|
+966|독일|danh|獨逸 độc dật|Germany
+967|러시아|danh||Russia
+968|미국|danh|美國 mỹ quốc|United States of America
+969|부산|danh|釜山|Busan
+970|서울|danh||capital; large city
+971|서울역|danh||
+972|설악산|danh|雪嶽山|Seoraksan, Mt. Seorak
+973|영국|danh|英國 anh quốc|United Kingdom
+974|인천|danh|仁川 nhân xuyên|Incheon
+975|일본|danh|日本 nhật bản|Japan
+976|제주도|danh|濟州島|Jeju Province, South Korea
+977|중국|danh|中國 trung quốc|China
+978|캐나다|danh||Canada
+979|프랑스|danh||France
+980|한강|danh|漢江 hán giang|Han River
+981|한국|danh|韓國 hàn quốc|Korea
+982|호주|danh|濠洲|Australia
+983|등|danh|等 đẳng|back of a person or animal
+984|대하다|động|對 đối|to pertain or relate to a topic
+985|위하다|động|爲 vị|to help, to serve, to benefit; to hono
+986|사회|danh|社會 xã hội|society
+987|따르다|động||to follow
+988|그런|định||like that, such
+989|데|danh||place
+990|경우|danh|境遇 cảnh ngộ|conditions, circumstances
+991|중|danh|中 trúng|average; intermediate
+992|자신|danh|自身 tự thân|one's body
+993|문화|danh|文化 văn hóa|culture
+994|통하다|động|通 thông|to pass through, from one end to the o
+995|소리|danh||sound
+996|정도|danh|程度 trình độ|degree, extent
+997|보이다|động||to be seen
+998|지나다|động||to pass
+999|인간|danh|人間 nhân gian|human, human being
+1000|사실|danh|事實 sự thật|fact, reality, truth
+1001|점|danh|點 điểm|point, spot; dot, period, full stop
+1002|의하다|động|依 y|to be due to
+1003|시대|danh|時代 thời đại|historical age or period
+1004|이러하다|tính||formal form of 이렇다
+1005|세계|danh|世界 thế giới|the world, the Earth
+1006|자기|đại |自己 tự kỷ|oneself
+1007|대통령|danh|大統領 đại thống lĩnh|president of a country
+1008|가지|danh||kind, sort; variety
+1009|국가|danh|國家 quốc gia|political state, nation, country, poli
+1010|여성|danh||female, woman, womenfolk, womankind
+1011|관계|danh|關係 quan hệ|connection; relationship
+1012|나타나다|động||to appear, to become manifest
+1013|지역|danh|地域 địa vực|area, district, particular geographic 
+1014|모습|danh||the appearance of a person
+1015|보이다|động||to be seen
+1016|없이|phó ||without, lacking
+1017|뿐|danh||only, just; used with -을, the "verbal 
+1018|방법|danh|方法 phương pháp|way; means; manner; method
+1019|갖다|động||contraction of 가지다
+1020|특히|phó |特 đặc|in particular, notably
+1021|이상|danh|以上 dĩ thượng|an amount more than
+1022|교육|danh|敎育 giao dục|education
+1023|경제|danh|經濟 kinh tế|economy
+1024|예술|danh|藝術 nghệ thuật|art; fine art
+1025|결과|danh|結果 kết quả|as a result of
+1026|내용|danh|內容 nội dung|that which is contained in a container
+1027|당신|đại |當身 đương thân|second person singular plain pronoun; 
+1028|느끼다|động||to feel
+1029|의미|danh|意味 ý vị|meaning
+1030|밝히다|động||to make bright, light up, brighten, il
+1031|이미|phó ||already
+1032|정치|danh|政治 chính trị|politics; governmental affairs
+1033|국민|danh|國民 quốc dân|people of a nation
+1034|연구|danh|硏究 nghiên cứu|research
+1035|및|phó ||and, additionally
+1036|짓다|động||to make something, to build
+1037|또한|phó ||also, too, furthermore
+1038|이유|danh|理由 lý do|reason; cause
+1039|또는|phó ||if not; alternatively
+1040|글|danh||a piece of writing; a written work suc
+1041|세상|danh|世上 thế thượng|world
+1042|두다|động||to put
+1043|즉|phó |卽 tức|that is to say, in other words, i.e.
+1044|이후|danh|以後 dĩ hậu|the time following a given point in ti
+1045|문학|danh|文學 văn học|literature
+1046|지방|danh|地方 địa phương|a geographical region
+1047|최근|danh|最近 tối cận|the latest, the most recent
+1048|환경|danh|環境 hoàn cảnh|environment, as a general concept
+1049|자체|danh|自體 tự thể|the thing itself
+1050|남다|động||to remain, to be left over
+1051|부분|danh|部分 bộ phận|portion; section; part
+1052|변화|danh|變化 biến hóa|change; variation
+1053|뜻|danh||meaning, sense, significance
+1054|떨어지다|động||to fall; tumble; drop
+1055|관하다|động|關 loan|to be in relation to, with regard to
+1056|그냥|phó ||simply; just like that; just as it is.
+1057|나누다|động||to divide; to split up
+1058|이용하다|động||to use; to utilize
+1059|거의|phó ||almost, nearly
+1060|중심|danh|中心 trung tâm|center, core
+1061|활동|danh|活動 hoạt động|activity
+1062|관심|danh|關心 quan tâm|interest in, or inclination to, a topi
+1063|역시|phó |亦是 diệc thị|too, also
+1064|애|danh||colloquial form of 아이
+1065|광고|danh|廣告 quảng cáo|advertisement, advertising in general
+1066|나다|trợ ||to be born
+1067|정신|danh|精神 tinh thần|mind; consciousness; pneuma; psyche
+1068|이르다|động||to be early
+1069|땅|danh||earth, land
+1070|이루다|động||to create, form
+1071|두다|trợ ||to put
+1072|기술|danh|技術 kỹ thuật|technology
+1073|전체|danh|全體 toàn thể|the whole
+1074|얻다|động||to obtain
+1075|민족|danh|民族 dân tộc|people; nation; ethnicity; race; tribe
+1076|간|danh||for
+1077|조사|danh|調査 điệu tra|investigation; examination
+1078|그대로|phó ||just, exactly
+1079|줄|danh||ability, method; how to
+1080|년대|danh|年代 niên đại|North Korea and Yanbian form of 연대
+1081|과학|danh|科學 khoa học|science
+1082|자연|danh|自然 tự nhiên|nature
+1083|결국|danh|結局 kết cục|in the end, ultimately
+1084|프로그램|danh||program
+1085|이루어지다|động||to be attained, fulfilled
+1086|하루|danh||a day, 24 hours
+1087|적|danh||enemy; opponent; adversary
+1088|터|danh||place, room, space
+1089|맞다|động||to be correct, right
+1090|걸리다|động||to hang; to be hung
+1091|지키다|động||to protect, to defend
+1092|바라보다|động||to observe, to stare
+1093|대부분|danh|大部分 đại bộ phận|the majority, the better part
+1094|표정|danh|表情 biểu tình|an expression of feeling, especially a
+1095|일부|danh|一部 nhất bộ|part of a whole
+1096|느낌|danh||feeling
+1097|고개|danh||nape of the neck
+1098|성격|danh|性格 tính cách|character, temperament
+1099|세기|danh|世紀 thế kỷ|century
+1100|세우다|động||causative of 서다:
+1101|현재|phó |現在 hiện tại|the present; now
+1102|발전|danh|發展 phát triển|development; growth
+1103|향하다|động|向 hướng|to face; to make for, to go towards
+1104|관련|danh|關聯 quan liên|connection, relation
+1105|각|định|各 các|each
+1106|분위기|danh|雰圍氣 phân vi khí|intellectual atmosphere or environment
+1107|그러하다|tính||to be like that
+1108|자기|danh|自己 tự kỷ|oneself
+1109|우선|phó |于先 vu tiên|first, foremost
+1110|믿다|động||to trust, to believe
+1111|낳다|động||to lay, to give birth to; to sire
+1112|정보|danh|情報 tình báo|information
+1113|열리다|động||to open, to be opened
+1114|만큼|danh||the degree or extent to which
+1115|역할|danh|役割 dịch cát|a role or part
+1116|행동|danh|行動 hành động|action
+1117|국내|danh|國內 quốc nội|that which is within a country; domest
+1118|예|danh||yes
+1119|나서다|động||to go forth
+1120|흐르다|động||to flow
+1121|깊다|tính||to be deep
+1122|모양|danh|模樣 mô dạng|surface appearance
+1123|조건|danh|條件 điều kiện|precondition or preconditions; terms
+1124|넘다|động||to exceed, to surpass, to go beyond
+1125|마을|danh||village, hamlet, usually in rural surr
+1126|어리다|tính||to be young, to be little, to be a chi
+1127|대표|danh|代表 đại biểu|something which is representative
+1128|가능성|danh|可能性 khả năng tính|degree of possibility
+1129|방향|danh|方向 phương hướng|direction, orientation
+1130|대회|danh|大會 đại hội|a competition, contest or tournament
+1131|목소리|danh||voice
+1132|움직이다|động||to move
+1133|노력|danh|努力 nỗ lực|striving, making an effort to accompli
+1134|전혀|phó |全 toàn|at all, absolutely, completely
+1135|단체|danh|團體 đoàn thể|a group or organization of people
+1136|알려지다|động||to be made known
+1137|가능하다|tính|可能 khả năng|to be possible; able
+1138|능력|danh|能力 năng lực|capacity, ability
+1139|주장하다|động|主張 chủ trương|to make a claim or assertion
+1140|자식|danh|子息 tử tức|one's children, offspring
+1141|돌리다|động||to turn something
+1142|모으다|động||to gather, to collect
+1143|자료|danh|資料 tư liệu|data; documentation
+1144|제품|danh|製品 chế phẩm|product, manufacture
+1145|사업|danh|事業 sự nghiệp|business
+1146|지난해|danh||the previous year
+1147|표현|danh|表現 biểu hiện|expression
+1148|젊다|tính||to be young, to be youthful; usually u
+1149|동시|danh|同時 đồng thời|the same time; concurrently
+1150|순간|danh|瞬間 thuấn gian|an instant; a moment
+1151|전쟁|danh|戰爭 chiến tranh|war
+1152|방송|danh|放送 phóng tống|broadcasting
+1153|마찬가지|danh||being exactly the same; identical
+1154|과거|danh|過去 quá khứ|the past
+1155|현대|danh|現代 hiện đại|contemporary; the modern age
+1156|살펴보다|động||to observe, to watch attentively
+1157|차이|danh|差異 sai dị|distinction; difference
+1158|풀다|động||to untie
+1159|시절|danh|時節 thời tiết|a period of time
+1160|직접|phó |直接 trực tiếp|immediateness; directness
+1161|개인|danh|個人 cá nhân|an individual or individuals; a privat
+1162|근데|phó ||however; but
+1163|작가|danh|作家 tác gia|an artist or artists, including singer
+1164|효과|danh|效果 hiệu quả|result, effect
+1165|불교|danh|佛敎 phật giao|Buddhism
+1166|끌다|động||to pull, to draw, to drag
+1167|마치|phó ||exactly the same, as if, just like
+1168|바라다|động||to wish, to want, to desire, to hope f
+1169|강하다|tính|强 cường|strong, powerful
+1170|경험|danh|經驗 kinh nghiệm|experience
+1171|최고|danh|最高 tối cao|the peak, the pinnacle, the topmost po
+1172|나타내다|động||to indicate, represent, show
+1173|다양하다|tính|多樣 đa dạng|to be diverse, to be various
+1174|법|danh|法 pháp|law
+1175|소설|danh|小說 tiểu thuyết|fictional literature; fictional story
+1176|질서|danh|秩序 trật tự|good order; public order; appropriate 
+1177|담다|động||to put into a container
+1178|모이다|động||to be gathered or collected together
+1179|시민|danh|市民 thị dân|citizens, citizenry
+1180|회장|danh|會長 hội trưởng|the chairman or chairperson of a board
+1181|스스로|phó ||by oneself, on one's own, without assi
+1182|이날|danh||that day; this day; the day under disc
+1183|제대로|phó ||properly, in the appropriate manner
+1184|던지다|động||to throw, to hurl
+1185|공간|danh|空間 không gian|space, room
+1186|벌이다|động||to start, to begin
+1187|강조하다|động|强調 cường điệu|to emphasize
+1188|맡다|động||to take on a task or job; to take char
+1189|한편|phó ||on the other hand, while
+1190|기자|danh|記者 ký giả|reporter, journalist, newsman, corresp
+1191|주로|phó |主 chủ|chiefly, principally
+1192|훨씬|phó ||much more or less; a lot; long; far mo
+1193|통일|danh|統一 thống nhất|unification or reunification
+1194|들어서다|động||to enter, to take up a position, to oc
+1195|시설|danh|施設 thi thiết|facilities
+1196|주변|danh|周邊 chu biên|the vicinity
+1197|대신|danh|代身 đại thân|substitution, replacement, it is often
+1198|차례|danh|次例 thứ lệ|order; sequence
+1199|군|danh|軍 quân|army
+1200|재산|danh|財産 tài sản|public or private property

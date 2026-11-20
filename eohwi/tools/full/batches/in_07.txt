@@ -1,0 +1,400 @@
+2401|유행|danh||fashion, trend, vogue
+2402|이리|phó ||to this place, hither, here
+2403|제발|phó ||please
+2404|가까이|danh||closely, close together; nearby
+2405|가득하다|tính||to be full
+2406|각자|phó |各自 các tự|each person, everyone
+2407|물고기|danh||fish
+2408|부탁|danh|付託 phó thác|request, favor
+2409|상자|danh|箱子 rương tử|box; case
+2410|새해|danh||new year
+2411|얼음|danh||ice
+2412|점수|danh|點數 điểm số|score; grade
+2413|통장|danh|通帳 thông trướng|bankbook; passbook
+2414|결심하다|động|決心 quyết tâm|to be determined to, to resolve to
+2415|경기장|danh|競技場 cạnh kỹ trường|field, stadium, grounds
+2416|고장|danh|故障 cố chướng|breakdown
+2417|도시락|danh||lunchbox
+2418|요새|danh||fortress
+2419|자꾸만|phó ||alternative form of 자꾸
+2420|짜증|danh||irritation, annoyance
+2421|첫날|danh||first day, opening day
+2422|무|danh||Korean radish, a variety of daikon com
+2423|밉다|tính||unpleasant, to dislike
+2424|익숙하다|tính||skilled
+2425|잔치|danh||feast; party
+2426|전부|phó |全部 toàn bộ|everything, all
+2427|차다|tính||to be full, to fill, to brim, to becom
+2428|치료하다|động|治療 trị liệu|to treat; to cure
+2429|관광객|danh|觀光客 quan quang khách|tourist, sightseer, traveler
+2430|국|danh||soup
+2431|미술관|danh|美術館 mỹ thuật quán|art museum, art gallery
+2432|여름철|danh||summertime; the summer season
+2433|저런|định||such, that kind of; like that
+2434|각자|danh|各自 các tự|each person, everyone
+2435|그해|danh||that year
+2436|꺼지다|động||to be extinguished
+2437|꼭대기|danh||top, summit
+2438|끊어지다|động||to collapse, to break
+2439|만족하다|tính|滿足 mãn túc|to feel happy / satisfied
+2440|쇼|danh||show
+2441|수학|danh|數學 số học|mathematics
+2442|시어머니|danh|媤 ti|mother-in-law for a woman, i.e. husban
+2443|시집|danh|媤 ti|collection of poems
+2444|그립다|tính||to be dear, beloved
+2445|긴장하다|động|緊張 khẩn trương|to be/become nervous, tense, strained
+2446|느리다|tính||to be slow
+2447|똑똑하다|tính||smart, clever, intelligent
+2448|사촌|danh|四寸 tứ thốn|first cousin
+2449|상|danh|賞 thưởng|top, best, first
+2450|수입하다|động|輸入 thâu nhập|to import
+2451|식다|động||to cool down, to get cold
+2452|카운터|danh||counter
+2453|하숙집|danh|下宿 hạ túc|boarding house
+2454|가슴속|danh||mind
+2455|다행히|phó |多幸 đa hạnh|fortunately; luckily
+2456|동아리|danh||club/circle
+2457|따라오다|động||to follow, to come after
+2458|명절|danh|名節 danh tiết|festive day; holiday
+2459|바이올린|danh||violin
+2460|준비물|danh|準備物 chuẩn bị vật|items to be prepared; supplies; prepar
+2461|출입|danh|出入 xuất nhập|entrance and exit
+2462|회색|danh|灰色 hôi sắc|grey/gray
+2463|고교|danh|高校 cao hiệu|high school
+2464|글씨|danh||character, letter
+2465|노래방|danh||karaoke; noraebang
+2466|달다|động||to become hot
+2467|매다|động||to tie, to gird, to bind, to fasten
+2468|머리카락|danh||hair
+2469|벌레|danh||bug, insect
+2470|성인|danh|成人 thành nhân|adult; grown-up
+2471|익숙해지다|động||to accustom, acclimatize
+2472|저축|danh|貯蓄 trữ súc|savings
+2473|증세|danh|症勢 chứng thế|symptom
+2474|콩나물|danh||bean sprout
+2475|갈아입다|động||to change clothing
+2476|거짓|danh||falsehood; untruth
+2477|나물|danh||vegetables; edible plants; greens; her
+2478|대도시|danh|大都市 đại đô thị|large city, metropolis
+2479|도둑|danh||thief
+2480|신입생|danh|新入生 tân nhập sinh|freshman
+2481|어린아이|danh||child
+2482|어쩐지|phó ||somehow, for some reason
+2483|연락하다|động||to notify; communicate; speak to
+2484|규칙적|danh|規則的 quy tắc đích|regular; systematic
+2485|글쎄요|thán||well, let me see
+2486|배추|danh||napa cabbage
+2487|센터|danh||center
+2488|수염|danh|鬚髥 tu nhiêm|mustache, beard, whiskers
+2489|아아|thán||Used when feeling deeply moved or sigh
+2490|어리다|động||to be young, to be little, to be a chi
+2491|장남|danh|長男 trưởng nam|eldest son
+2492|포도주|danh|葡萄酒 bồ đào tửu|wine
+2493|각각|danh|各各 các các|each, every, respective
+2494|독서|danh|讀書 độc thư|reading
+2495|앞뒤|danh||front and rear
+2496|접시|danh||plate, dish, saucer
+2497|체중|danh|體重 thể trọng|weight
+2498|포장|danh|包裝 bao trang|packaging
+2499|현관|danh|玄關 huyền quan|front door; porch; vestibule
+2500|호수|danh|湖水 hồ thủy|lake
+2501|건너가다|động||to cross, to go over
+2502|껌|danh||gum, chewing gum
+2503|녹색|danh|綠色 lục sắc|green
+2504|막내|danh||the youngest son or daughter; the last
+2505|악수|danh|握手 ác thủ|handshake
+2506|인원|danh|人員 nhân viên|staff; personnel; employee
+2507|인터뷰|danh||interview
+2508|입학하다|động|入學 nhập học|to enter a school
+2509|정문|danh|正門 chính môn|main entrance, main gate
+2510|켜지다|động||to turn on; to go on
+2511|팩|danh||pack, package, carton
+2512|표시하다|động|表示 biểu thị|to express, state
+2513|감상하다|động|鑑賞 giám thưởng|
+2514|끼다|động||contraction of 끼우다
+2515|넘어지다|động||to fall, to trip, to stumble
+2516|단점|danh|短點 đoản điểm|disadvantage
+2517|들려주다|động||to tell, to let hear, to narrate
+2518|뚜껑|danh||lid
+2519|반복하다|động|反復 phản phục|to repeat, to reiterate
+2520|아까|danh||just now; a little while ago, earlier 
+2521|암|danh|癌 nham|cancer
+2522|엔|danh||yen
+2523|인분|danh||
+2524|죽|danh|粥 chúc|in a manner arranged in a row; while a
+2525|태우다|động||to burn
+2526|향수|danh|香水 hương thủy|perfume, cologne
+2527|김|danh||laver
+2528|닫히다|động||to be closed, to be shut
+2529|도로|phó ||road, thoroughfare
+2530|밥그릇|danh||rice bowl
+2531|방문|danh|房門 phòng môn|visit; visiting
+2532|병들다|động|病 bệnh|to fall ill/sick, to become ill
+2533|불꽃|danh||a flame, flare
+2534|소설가|danh|小說家 tiểu thuyết gia|novelist
+2535|유학|danh|儒學 nho học|Confucianism
+2536|좌석|danh|座席 tọa tịch|seat
+2537|출근|danh|出勤 xuất cần|going to work
+2538|푹|phó ||while penetrating deeply; while enfold
+2539|개구리|danh||frog
+2540|동전|danh|銅錢 đồng tiền|coin
+2541|얼다|động||to freeze, be frozen
+2542|여|danh||woman; female
+2543|토끼|danh||leporid, bunny
+2544|길가|danh||roadside
+2545|남매|danh|男妹 nam muội|brother and sister
+2546|발가락|danh||toe
+2547|뵙다|động||to see a very respected person, itself
+2548|부치다|động||to send; to post
+2549|안주|danh|按酒 án tửu|snacks served with alcoholic beverages
+2550|어린애|danh||contraction of 어린아이
+2551|인형|danh|人形 nhân hình|doll, puppet, action figure, any small
+2552|전철|danh|電鐵 điện thiết|subway, underground, metro
+2553|가짜|danh|假 giả|fake; forgery; imitation; counterfeit
+2554|곰|danh||bear
+2555|빗물|danh||rainwater
+2556|사위|danh||son-in-law
+2557|설날|danh||Korean New Year; Lunar New Year celebr
+2558|손톱|danh||fingernail
+2559|식빵|danh|食 thực|slice of bread
+2560|외우다|động||to utter; to recite; to chant
+2561|운전자|danh|運轉者 vận chuyển giả|driver
+2562|유리창|danh||glass window
+2563|찬물|danh||cold water
+2564|태풍|danh|颱風 đài phong|typhoon
+2565|햇볕|danh||sunshine, warmth from the sun
+2566|금지하다|động|禁止 cấm chỉ|to forbid; to prohibit
+2567|기사|danh|技士 kỹ sĩ|an article, such as in a newspaper or 
+2568|나뭇잎|danh||tree leaf
+2569|넓어지다|động||
+2570|미팅|danh||blind date; first date
+2571|시끄럽다|tính||to be loud; to be noisy
+2572|어때|phân||
+2573|엘리베이터|danh||an elevator
+2574|연휴|danh||consecutive days off, long weekend
+2575|이모|danh|姨母 dì mẫu|maternal aunt
+2576|조카|danh||nephew, niece
+2577|취직|danh|就職 tựu chức|finding employment, work
+2578|계획하다|động|計劃 kế hoạch|to plan; to lay out
+2579|냄비|danh||a cooking pot
+2580|뱀|danh||snake, serpent
+2581|뵈다|động||to meet; to see; to consult
+2582|아니야|thán||no
+2583|우수하다|tính|優秀 ưu tú|excellent
+2584|유명|danh|有名 hữu danh|famous, well-known
+2585|철|danh||season
+2586|헌|định||old, worn or used
+2587|가까워지다|động||
+2588|강도|danh|强盜 cường đạo|robber
+2589|꿀|danh||honey
+2590|된장|danh||fermented soybean paste
+2591|손발|danh||
+2592|안내하다|động|案內 án nội|to guide, to lead, to usher
+2593|영하|danh||temperature below zero
+2594|외교관|danh|外交官 ngoại giao quan|diplomat
+2595|유행하다|động||to be in fashion
+2596|으응|thán||
+2597|한잔|danh||one drink; one glass
+2598|가죽|danh||leather
+2599|데려가다|động||to take someone away; to take someone 
+2600|도자기|danh|陶瓷器 đào sứ khí|pottery
+2601|뒤쪽|danh||back, the rear
+2602|삼촌|danh|三寸 tam thốn|uncle; male sibling of a parent
+2603|속옷|danh||underwear, undergarment
+2604|손목|danh||wrist
+2605|신문지|danh|新聞紙 tân văn chỉ|newsprint
+2606|양보하다|động|讓步 nhượng bộ|to concede, to yield, to give in, to c
+2607|자라나다|động||to grow up
+2608|주차장|danh|駐車場 trú xa trường|car park, parking lot
+2609|파리|danh||fly
+2610|포스터|danh||poster
+2611|후회하다|động|後悔 hậu hối|to regret
+2612|가이드|danh||guide
+2613|고르다|tính||to choose, to pick out
+2614|고속도로|danh|高速道路 cao tốc đạo lộ|
+2615|렌즈|danh||lens
+2616|멋있다|tính||wonderful, nice, cool
+2617|발목|danh||ankle
+2618|밤늦다|tính||late at night
+2619|여우|danh||fox, vixen
+2620|와|thán||wa
+2621|외출|danh|外出 ngoại xuất|going out
+2622|웨이터|danh||waiter
+2623|자가용|danh|自家用 tự gia dụng|car; a car for one's personal use
+2624|정말|thán|正 chính|really; truly
+2625|정원|danh|庭園 đình viên|garden, vegetable garden, yard
+2626|패션|danh||fashion
+2627|금|danh||gold; golden...
+2628|낙엽|danh|落葉 lạc diệp|fallen leaves; defoliation
+2629|동창|danh|同窓 đồng song|schoolmate, graduates of the same scho
+2630|맞은편|danh||other side
+2631|멋|danh||taste, flavor, relish, zest
+2632|새우|danh||shrimp, prawn
+2633|심해지다|động|甚 thậm|
+2634|씨름|danh||Ssireum, traditional Korean wrestling
+2635|앞길|danh||
+2636|어젯밤|danh||last night
+2637|여관|danh||inn, motel, hotel
+2638|여쭈다|động||humble form of 묻다; to ask; to enquire
+2639|오|thán||five
+2640|주문하다|động|注文 chú văn|to order; to place an order
+2641|주사|danh|注射 chú xạ|injection; shot
+2642|채널|danh||channel
+2643|출근하다|động|出勤 xuất cần|to go to work
+2644|취소하다|động|取消 thủ tiêu|to cancel
+2645|건너편|danh||the opposite side, the other side
+2646|두세|định||two or three; a few
+2647|봉지|danh|封紙 phong chỉ|bag, sack
+2648|비서|danh|秘書 bí thư|secretary
+2649|술잔|danh||
+2650|신문사|danh|新聞社 tân văn xã|newspaper agency
+2651|열흘|danh||ten days
+2652|옥수수|danh||maize; corn
+2653|이웃집|danh||neighbour's house; neighbour
+2654|준비되다|động|準備 chuẩn bị|
+2655|플라스틱|danh||plastic
+2656|두부|danh|豆腐 đậu hủ|tofu, bean curd
+2657|부러워하다|động||
+2658|시청|danh|市廳 thị sảnh|city hall
+2659|오른손|danh||right hand
+2660|이것저것|danh||
+2661|저자|danh|著者 trước giả|market
+2662|출장|danh|出張 xuất trương|going out somewhere on business, a bus
+2663|퇴근|danh|退勤 thoái cần|leaving work, finishing work, getting 
+2664|회화|danh|繪畵 hội họa|conversation, dialogue
+2665|가져다주다|động||to bring, to fetch
+2666|골프|danh||golf
+2667|귀국|danh|歸國 quy quốc|homecoming, returning to one's country
+2668|목욕탕|danh|沐浴湯 mộc dục thang|public bath, bathhouse
+2669|바닷물|danh||seawater
+2670|빨다|động||to sip, to suck
+2671|사무|danh|事務 sự vụ|office work, clerical work
+2672|성|danh|姓 tính|anger, rage, wrath
+2673|우울하다|tính|憂鬱 ưu uất|to be blue, to be depressed, to be mel
+2674|주무시다|động||to sleep: honorific of 자다
+2675|흐리다|tính||to be unclear, impure, turbid, muddy
+2676|걱정스럽다|tính||anxious; worried
+2677|금연|danh|禁煙 cấm yên|no smoking; smoking prohibition
+2678|꿈속|danh||
+2679|나비|danh||butterfly
+2680|레스토랑|danh||restaurant
+2681|버섯|danh||mushroom
+2682|뵈다|động||to meet; to see; to consult
+2683|비키다|động||step aside; step back
+2684|사모님|danh|師母 sư mẫu|teacher's wife
+2685|중요|danh|重要 trọng yếu|the state of being important; importan
+2686|챔피언|danh||champion
+2687|축하|danh|祝賀 chúc hạ|congratulations, celebration, felicita
+2688|취소|danh|取消 thủ tiêu|bromine
+2689|커튼|danh||curtain
+2690|팬|danh||fan
+2691|겨울철|danh||wintertime; the winter season
+2692|고추장|danh||gochujang: a savory and pungent fermen
+2693|골프장|danh||
+2694|국수|danh||noodle
+2695|달빛|danh||moonlight
+2696|뒷산|danh||mountain or hill at the back
+2697|땜|danh||
+2698|만족하다|động|滿足 mãn túc|to feel happy / satisfied
+2699|메다|động||to shoulder
+2700|미인|danh|美人 mỹ nhân|a beautiful woman, a beauty
+2701|반지|danh|半指 bán chỉ|finger ring, ring
+2702|밤|danh||night
+2703|부르다|tính||to name, to call, to call out
+2704|비타민|danh||vitamin
+2705|빌딩|danh||building
+2706|산속|danh|山 sơn|the heart of a mountain
+2707|송이|danh||a bunch of flowers, grapes, mushrooms;
+2708|식초|danh|食醋 thực thố|vinegar
+2709|심부름|danh||errand
+2710|야외|danh|野外 dã ngoại|the outside; outdoors; the open air
+2711|옆집|danh||house next door
+2712|오래도록|phó ||
+2713|이빨|danh||tooth
+2714|장학금|danh||scholarship
+2715|쟤|phân||that kid; he or she
+2716|쪽|danh||side
+2717|초밥|danh|醋 thố|sushi
+2718|출구|danh|出口 xuất khẩu|exit
+2719|출입문|danh|出入門 xuất nhập môn|gate, door
+2720|풀|danh||herbaceous plants, particularly grass
+2721|필름|danh||film
+2722|호선|danh||subway line
+2723|가위|danh||scissors
+2724|고속|danh|高速 cao tốc|high speed
+2725|구하다|động|救 cứu|to look for, to seek
+2726|도망가다|động|逃亡 đào vong|to flee, to escape
+2727|땅콩|danh||peanut
+2728|신호등|danh|信號燈 tín hiệu đăng|traffic light, signal light
+2729|신혼여행|danh||honeymoon
+2730|씩씩하다|tính||
+2731|월드컵|danh||World Cup
+2732|입원|danh|入院 nhập viện|hospitalisation
+2733|잘살다|động||to live in wealth
+2734|장가|danh||wife's family; marriage
+2735|졸업생|danh|卒業生 tốt nghiệp sinh|graduate; alumnus
+2736|죽다|trợ ||to die
+2737|친절|danh|親切 thân thiết|kindness; gentleness
+2738|침실|danh|寢室 tẩm thất|bedroom
+2739|기타|danh||guitar
+2740|나빠지다|động||to get worse, to deteriorate
+2741|남|danh|男 nam|other person, other people; someone ot
+2742|두통|danh|頭痛 đầu thống|headache
+2743|설거지|danh||dishwashing, washing-up
+2744|수년|danh|數年 số niên|several years
+2745|수출하다|động|輸出 thâu xuất|to export
+2746|숙소|danh|宿所 túc sở|lodging; accommodation
+2747|한잔하다|động||to have a drink
+2748|가요|danh|歌謠 ca dao|song
+2749|감상|danh|鑑賞 giám thưởng|appreciation, enjoyment of artistic wo
+2750|공짜|danh|空 không|something which is free, which does no
+2751|그만하다|tính||to stop; to quit
+2752|모기|danh||mosquito
+2753|볼일|danh||personal business/task
+2754|부끄러움|danh||shame, bashfulness, shyness
+2755|스웨터|danh||sweater
+2756|여행사|danh||travel agency
+2757|왼손|danh||left hand
+2758|유학생|danh||international student, student studyin
+2759|잘생기다|tính||to be handsome, good-looking, beautifu
+2760|저리|phó ||so, like that
+2761|절약하다|động|節約 tiết ước|to save; to economize
+2762|합격|danh|合格 hợp cách|pass, passing, success in taking an ex
+2763|갈다|động||to change, to replace, to switch
+2764|기도|danh|祈禱 kỳ đảo|prayer
+2765|길거리|danh||a thoroughfare; a busy street
+2766|꽃잎|danh||petal
+2767|돌려주다|động||to return, to give back
+2768|라이터|danh||lighter
+2769|생활환경|danh|生活環境 sinh hoạt hoàn cảnh|
+2770|오리|danh||duck
+2771|입원하다|động|入院 nhập viện|to be hospitalized
+2772|장난감|danh||toy, plaything
+2773|전기밥솥|danh||electric rice cooker
+2774|하품|danh||yawn
+2775|교문|danh|校門 hiệu môn|
+2776|권투|danh|拳鬪 quyền đấu|boxing
+2777|받침|danh||support, pad, mat, saucer
+2778|북|danh|北 bắc|a generic term meaning drum
+2779|수고하다|động||to work hard, to take trouble
+2780|수학|danh|修學 tu học|mathematics
+2781|아뇨|thán||contraction of 아니요
+2782|아래쪽|danh||lower part
+2783|액세서리|danh||accessory
+2784|염려하다|động||to feel anxiety; to worry; to be anxio
+2785|오이|danh||cucumber
+2786|외삼촌|danh|外三寸 ngoại tam thốn|maternal uncle
+2787|위쪽|danh||upper part
+2788|음료수|danh|飮料水 ẩm liệu thủy|beverage, drink
+2789|캠퍼스|danh||campus
+2790|터널|danh||tunnel
+2791|통|danh|通 thông|barrel, bucket, cask, pail, vat
+2792|환갑|danh|還甲 hoàn giáp|being sixty years old
+2793|건너오다|động||to cross, to come over
+2794|관광지|danh|觀光地 quan quang địa|
+2795|교포|danh|僑胞 kiều bào|countryman living abroad; overseas com
+2796|등록금|danh||tuition
+2797|뛰어다니다|động||to jump about
+2798|만|định||ten thousand
+2799|메모|danh||memo, memorandum
+2800|몇십|định||

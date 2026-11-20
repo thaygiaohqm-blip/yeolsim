@@ -1,0 +1,400 @@
+4401|chia, tách
+4402|khoảng cách
+4403|tiếng hét
+4404|tấn công
+4405|thằng đó
+4406|được ghi lại
+4407|vô tận
+4408|chen ngang
+4409|tuyến đường
+4410|đáp án
+4411|lời thoại; đại sứ
+4412|bỏ chạy
+4413|tòa nhà (dong)
+4414|đồng ý
+4415|cứng
+4416|dưới lòng đất
+4417|tiền phạt
+4418|phúc
+4419|sự phục vụ, tình nguyện
+4420|bộ phận, phòng ban
+4421|thành; cơn giận
+4422|cỡ nhỏ
+4423|người mới
+4424|cơn ác mộng
+4425|sự hướng dẫn
+4426|đồi
+4427|nhiệt huyết
+4428|nhạc kịch opera
+4429|khẩu vị
+4430|nhạc jazz
+4431|thích nghi
+4432|tuyệt đối
+4433|sự cung cấp
+4434|đi ngang qua; quá mức
+4435|sự tham gia
+4436|Tết Trung thu
+4437|va chạm
+4438|lối đi
+4439|sự giải tỏa
+4440|được tiến hành
+4441|người hiện đại
+4442|ưu đãi
+4443|phụt, vụt
+4444|đồng đều
+4445|mọi ngóc ngách
+4446|đến lúc đó mới
+4447|giấy đăng ký
+4448|được lặp lại
+4449|sự phát triển; phát điện
+4450|sự cản trở
+4451|cây lúa
+4452|bản thân người đó
+4453|cửa hàng
+4454|hàng trăm
+4455|trưởng phòng
+4456|cô quạnh
+4457|đứa bé
+4458|chóng mặt
+4459|làm sao
+4460|được dự kiến
+4461|kép, hai lớp
+4462|được công nhận
+4463|niềm tự hào
+4464|ảo giác, nhầm tưởng
+4465|cửa sổ
+4466|nhà mẹ đẻ
+4467|kiểu, loại
+4468|làm, thực hiện
+4469|(mở) rộng, tươi
+4470|cá nhân, riêng lẻ
+4471|chính thức
+4472|cũng được
+4473|Cơ Đốc giáo
+4474|sự giác ngộ
+4475|chói lọi
+4476|quyết tâm
+4477|danh mục
+4478|tự kiểm điểm
+4479|biệt danh
+4480|sự bảo tồn
+4481|thổi đến
+4482|sở hữu
+4483|công tắc
+4484|hoàn cảnh
+4485|tìm ra
+4486|sự ồn ào, la mắng
+4487|này, đứa này
+4488|sự kết nối
+4489|sự liên quan
+4490|tha thứ
+4491|tình bạn
+4492|lục quân
+4493|quán ăn
+4494|bàn bạc
+4495|chủ yếu
+4496|nỡ nào (không)
+4497|sự tham khảo
+4498|bẩm sinh
+4499|sự kiện; sự thi hành
+4500|được cho phép
+4501|sự gia nhập
+4502|gia đình; giả định
+4503|sự thay thế
+4504|đứa nhóc
+4505|vô tận
+4506|vận chuyển
+4507|trêu chọc
+4508|bày ra
+4509|đại diện
+4510|sợ hãi
+4511|bất ngờ
+4512|rượu gạo makgeolli
+4513|đảm nhận; ngửi
+4514|lỗi; cô (Miss)
+4515|bị ùn, bị dồn lại
+4516|bị gãy
+4517|tính tương đối
+4518|khảo sát
+4519|quét
+4520|trong ngoài
+4521|phòng ngừa
+4522|năm nay
+4523|lưu ý
+4524|được hiểu
+4525|sự hạ (giá)
+4526|sự soạn thảo
+4527|bị cắt
+4528|sự truyền đạt; tháng trước
+4529|triển lãm
+4530|chuyển đổi
+4531|chính trị học
+4532|đơn đặt hàng
+4533|việc nhà
+4534|có hệ thống
+4535|kem
+4536|xuất sắc
+4537|trống rỗng
+4538|nôn
+4539|khoảnh khắc
+4540|lời bài hát
+4541|người gia nhập
+4542|giảm
+4543|kết quả là
+4544|quấy rầy
+4545|sự phân biệt
+4546|đánh thức
+4547|sợi dây
+4548|bị cắt đứt
+4549|liên tục
+4550|dư dả
+4551|vài
+4552|ma túy
+4553|đáy
+4554|được đưa tin
+4555|lúa mạch
+4556|trụ sở
+4557|giàu; cha
+4558|trưởng thành, chín chắn
+4559|tiêu cực
+4560|công dụng
+4561|sửa sang
+4562|trong chớp mắt
+4563|sự thử
+4564|tập thơ; nhà chồng
+4565|ai đó
+4566|điểm yếu
+4567|tại sao
+4568|chẳng may
+4569|tuổi
+4570|dự bị
+4571|tiếng khóc
+4572|thằng này
+4573|sơ yếu lý lịch
+4574|được công nhận
+4575|kỷ niệm (năm)
+4576|ngừng
+4577|trọng đại
+4578|trung tâm
+4579|tập trung
+4580|chân thật
+4581|sự mời
+4582|nhà xuất bản
+4583|cái bàn
+4584|khá
+4585|phong tục; tốc độ gió
+4586|lời bào chữa
+4587|hơn nữa
+4588|vận may
+4589|chặn ngang
+4590|sự can thiệp
+4591|cơn khát
+4592|đột ngột
+4593|trao đổi
+4594|phải thế mới
+4595|nguồn gốc; lời cầu nguyện
+4596|sự hỗn loạn
+4597|vứt đi
+4598|làm khác đi
+4599|chạy đi
+4600|tên lửa
+4601|sự bảo tồn
+4602|được bảo vệ
+4603|sự tương quan
+4604|được giải thích
+4605|buồn tiếc
+4606|ba; thế
+4607|tinh tế
+4608|dễ dàng
+4609|hơi nóng, nhiệt tình
+4610|cách ăn mặc
+4611|an ủi
+4612|như thế này
+4613|sự nhất trí
+4614|sự phát lại
+4615|bị rách
+4616|nhà triết học
+4617|màu; có màu
+4618|cuộc gọi; tiền tệ
+4619|khác thường
+4620|tất yếu
+4621|một đêm
+4622|chảy xuống
+4623|cường độ; kẻ cướp
+4624|vội vàng
+4625|sự kỷ niệm
+4626|khá hơn
+4627|vượt sang
+4628|khôi phục
+4629|thả (bay), đăng
+4630|phép lịch sự
+4631|dân gian
+4632|bị vứt bỏ
+4633|thuyết phục
+4634|sự sửa chữa
+4635|việc làm thêm
+4636|nỗi cô đơn
+4637|nhập ngũ
+4638|năng khiếu
+4639|dự báo, triển vọng
+4640|mang tính tập thể
+4641|điểm khác biệt
+4642|đường sắt
+4643|chàng trai chưa vợ
+4644|chiến dịch
+4645|cái nhìn
+4646|lũ lụt
+4647|hạn hán
+4648|gián tiếp
+4649|mạnh mẽ
+4650|được cải thiện
+4651|đưa, trao
+4652|cái đó (rút gọn); cua
+4653|quyết tâm
+4654|thẳng tới
+4655|nghề giáo
+4656|bắt giữ
+4657|quý giá
+4658|gãi, cào
+4659|thở ra
+4660|trễ xuống, kéo dài
+4661|một mình
+4662|sân
+4663|thỏa thích
+4664|ùa tới
+4665|điều, cách
+4666|bánh xe; vòng
+4667|dấu chân
+4668|nhổ
+4669|xảy ra
+4670|tiền thưởng
+4671|sinh khí
+4672|sách vở
+4673|sự tiêu hóa
+4674|thí sinh
+4675|thế hệ mới
+4676|được ôm
+4677|vi phạm
+4678|nghiên cứu viên
+4679|tình yêu, hẹn hò
+4680|tóm tắt
+4681|vệ tinh
+4682|bất ngờ
+4683|tự sát
+4684|sự đưa ra
+4685|bị loại trừ
+4686|bị chụp, bị đóng dấu
+4687|mùa; sắt
+4688|sự sa đọa
+4689|tiền tệ; cuộc gọi
+4690|chắc chắn
+4691|hội quán
+4692|nhà hát, địa điểm biểu diễn
+4693|quốc tịch
+4694|gần đây
+4695|được chia
+4696|từ
+4697|trong ngoài
+4698|con sói
+4699|xếp hàng
+4700|thân thiện
+4701|lao vào
+4702|kính viễn vọng
+4703|mẫu mực
+4704|quá sức
+4705|bị buộc
+4706|cản trở
+4707|con ong; bộ; hình phạt
+4708|thượng lưu
+4709|ba
+4710|rõ nét
+4711|ưa thích hơn
+4712|thành công
+4713|quy mô nhỏ
+4714|bất cứ lúc nào
+4715|tầm nhìn
+4716|được thực hiện
+4717|bất giác
+4718|lên xuống
+4719|hoàng tử
+4720|loại hình
+4721|đương nhiên
+4722|thường ngày
+4723|từng cái một
+4724|chuyên ngành
+4725|trước và sau
+4726|đỉnh; bình thường
+4727|bình thường
+4728|về chất lượng
+4729|vẻ; giả vờ
+4730|gây sốc
+4731|răng
+4732|tấm bảng; cuộc
+4733|sự tiện lợi
+4734|sự bãi bỏ
+4735|bình luận
+4736|đen trắng
+4737|sự hy sinh
+4738|kinh phí
+4739|sức mạnh kinh tế
+4740|cấm
+4741|được kỳ vọng
+4742|sâu
+4743|làm ngã
+4744|làm nông
+4745|cứng chắc
+4746|người phụ trách
+4747|câu trả lời
+4748|sự chuẩn bị; sự tương phản
+4749|nói chung
+4750|càng thêm
+4751|trung tâm thành phố
+4752|bị bao quanh
+4753|ma sát
+4754|dấu, nhãn
+4755|sự hài lòng
+4756|làm hỏng
+4757|ngụm
+4758|sự miêu tả
+4759|mang tính văn hóa
+4760|bị chôn; dính
+4761|chưa kết hôn
+4762|được phát triển
+4763|đài truyền hình
+4764|ngăn chặn
+4765|đơn từ chức
+4766|kiêng, tránh
+4767|chương trình trực tiếp
+4768|sơ suất
+4769|cặp sinh đôi
+4770|cho ngồi
+4771|hông
+4772|tàm tạm
+4773|tiếp đó
+4774|nửa đêm
+4775|tổng hợp
+4776|đan; mặn
+4777|thật; ồ
+4778|nguyên
+4779|cuối cùng
+4780|thu thập tư liệu
+4781|đánh; chơi
+4782|khủng bố
+4783|buổi thảo luận
+4784|túi áo
+4785|sự nghèo
+4786|bất kể
+4787|quận; quân
+4788|bò, trườn
+4789|sự tranh cãi
+4790|cỡ lớn
+4791|ban ngày
+4792|hòn đá
+4793|quay lại
+4794|độ dày
+4795|tất cả
+4796|sự thay đổi
+4797|chăm chỉ
+4798|con nai
+4799|khá nhiều
+4800|tổn thất

@@ -1,0 +1,400 @@
+5201|배치|danh|配置 phối trí|placement
+5202|백인|danh|白人 bạch nhân|white person
+5203|본|định|本 bản|root, basis
+5204|본사|danh|本社 bản xã|headquarters
+5205|불평등하다|tính||
+5206|빠뜨리다|động||to drop
+5207|새로이|phó ||
+5208|서양인|danh|西洋人 tây dương nhân|westerner, especially European, North 
+5209|소지품|danh|所持品 sở trì phẩm|effects, personal belongings
+5210|쇠|danh||iron
+5211|수컷|danh||male animal
+5212|승리하다|động|勝利 thắng lợi|to win a victory
+5213|씨앗|danh||seed, grain
+5214|얻어먹다|động||to beg
+5215|엄숙하다|tính|嚴肅 nghiêm túc|
+5216|여가|danh|餘暇 dư hạ|leisure, free time
+5217|연상하다|động||
+5218|올려다보다|động||
+5219|외다|động||to repeat, recite, reiterate
+5220|외침|danh||cry, shout, call, yell, scream
+5221|이해|danh|利害 lợi hại|understanding, comprehension of someth
+5222|일손|danh||
+5223|잠바|danh||jumper
+5224|잠수함|danh|潛水艦 tiềm thủy hạm|submarine
+5225|장수|danh||longevity
+5226|재다|động||to measure; to weigh; to gauge
+5227|지도하다|động|指導 chỉ đạo|to guide
+5228|지적|danh|知的 tri đích|Pointing out or to; indication.
+5229|진로|danh|進路 tiến lộ|
+5230|진행자|danh|進行者 tiến hành giả|MC, master of ceremonies
+5231|찾아다니다|động||
+5232|책임감|danh|責任感 trách nhiệm cảm|a sense of responsibility
+5233|체온|danh|體溫 thể ôn|body temperature
+5234|통과|danh|通過 thông qua|passage; pass
+5235|포장마차|danh|布帳馬車 bố trướng mã xa|horse-drawn covered coach, carriage
+5236|푸다|động||to dip out; to scoop out
+5237|피망|danh||Capsicum annuum var. angulosum, capsic
+5238|한결|phó ||
+5239|한여름|danh||midsummer; the middle of summer
+5240|항공|danh|航空 hàng không|aviation
+5241|회전|danh|回轉 hồi chuyển|turn; rotation
+5242|가려지다|động||
+5243|곧다|tính||To be straight
+5244|골치|danh||the head
+5245|그때그때|phó ||
+5246|내달|danh||the coming month, next month
+5247|놔두다|động||contraction of 놓아두다
+5248|늦어지다|động||
+5249|독하다|tính|毒 độc|to be noxious; to be poisonous
+5250|뜰|danh||court, garden
+5251|뜻밖에|phó ||unexpectedly, surprisingly
+5252|만|danh||ten thousand
+5253|명단|danh|名單 danh đơn|list of names
+5254|무의미하다|tính|無意味 vô ý vị|meaningless, to be nonsense
+5255|문구|danh|文句 văn cú|stationery
+5256|뭣|đại ||what
+5257|미만|danh|未滿 vị mãn|being under, below, less than
+5258|백색|danh|白色 bạch sắc|white
+5259|비바람|danh||rain and wind
+5260|사기|danh|士氣 sĩ khí|fraud; swindle
+5261|사망하다|động|死亡 tử vong|to die
+5262|사무직|danh|事務職 sự vụ chức|office job, white-collar job
+5263|소질|danh|素質 tố chất|aptitude; knack; natural talent
+5264|솜|danh||cotton
+5265|시디롬|danh||
+5266|식생활|danh|食生活 thực sinh hoạt|eating habits; diet
+5267|실|danh||thread, yarn, string
+5268|연구실|danh|硏究室 nghiên cứu thất|laboratory
+5269|유머|danh||humour/humor, wit
+5270|의류|danh|衣類 y loại|clothes, clothing, garments
+5271|잊혀지다|động||to be forgotten
+5272|적응|danh|適應 thích ứng|adaptation, adjustment
+5273|정리되다|động|整理 chỉnh lý|
+5274|조|danh|組 tổ|foxtail millet
+5275|창피하다|tính|猖披 xương phi|to be embarrassed
+5276|토론하다|động|討論 thảo luận|to debate, to discuss
+5277|하나하나|danh||every one
+5278|합하다|động|合 hợp|
+5279|핸드백|danh||handbag
+5280|가정교사|danh|家庭敎師 gia đình giao sư|private teacher; tutor
+5281|공통적|danh|共通的 cộng thông đích|common, shared
+5282|교육자|danh|敎育者 giao dục giả|
+5283|교재|danh|敎材 giao tài|teaching materials
+5284|길어지다|động||
+5285|깨소금|danh||
+5286|놓아두다|động||to leave behind
+5287|대접하다|động|待接 đãi tiếp|to treat, to serve
+5288|뛰어내리다|động||
+5289|무궁화|danh|無窮花 vô cùng hoa|Hibiscus syriacus; rose of Sharon
+5290|바이러스|danh||virus
+5291|방바닥|danh|房 phòng|
+5292|번거롭다|tính||cumbersome, inconvenient
+5293|사냥|danh||hunting
+5294|사회생활|danh|社會生活 xã hội sinh hoạt|
+5295|심리적|danh|心理的 tâm lý đích|
+5296|연기|danh|延期 diên kỳ|acting
+5297|위로|danh|慰勞 úy lạo|consolation, comfort, solace
+5298|이용자|danh||user
+5299|입력하다|động|入力 nhập lực|
+5300|자격증|danh|資格證 tư cách chứng|certificate
+5301|진료|danh|診療 chẩn liệu|medical examination and treatment
+5302|창가|danh|窓 song|by the window
+5303|초조하다|tính|焦燥 tiêu táo|
+5304|타다|động||to burn
+5305|함께하다|động||to be
+5306|합격하다|động|合格 hợp cách|to pass; to get through
+5307|화장지|danh|化粧紙 hóa trang chỉ|toilet paper
+5308|힘껏|phó ||with might and main, amain
+5309|공통되다|động|共通 cộng thông|
+5310|김|danh||laver
+5311|나들이|danh||outing, excursion, trip
+5312|녹이다|động||to melt
+5313|눈가|danh||
+5314|도망|danh|逃亡 đào vong|escape, decampment
+5315|동기|danh|同期 đồng kỳ|same period, same time
+5316|미니|danh||sequential form of 밀다, 미다.
+5317|방면|danh|方面 phương diện|direction
+5318|법적|danh|法的 pháp đích|legal
+5319|벤치|danh||bench
+5320|보수|danh|補修 bổ tu|reward
+5321|비행|danh|非行 phi hành|flight; flying
+5322|빗줄기|danh||
+5323|사회학|danh|社會學 xã hội học|sociology
+5324|성적|danh|性的 tính đích|achievements; accomplishments; grade; 
+5325|순진하다|tính|純眞 thuần chân|innocent, naïve
+5326|심심하다|tính||bored, boring
+5327|어려워지다|động||
+5328|올라서다|động||to stand in a high place
+5329|은|danh|銀 ngân|silver
+5330|자리|danh||space, place, site
+5331|장애인|danh|障碍人 chướng ngại nhân|the disabled
+5332|재활용품|danh|再活用品 tái hoạt dụng phẩm|
+5333|저러다|động||short for 저리하다
+5334|정반대|danh|正反對 chính phản đối|
+5335|조|danh|組 tổ|foxtail millet
+5336|진동|danh|振動 chấn động|vibration
+5337|추천|danh|推薦 suy tiến|recommendation
+5338|학점|danh|學點 học điểm|credit
+5339|한가하다|tính|閑暇 nhàn hạ|free, at leisure
+5340|환영하다|động|歡迎 hoan nghênh|to welcome
+5341|간접적|danh|間接的 gian tiếp đích|
+5342|경영하다|động|經營 kinh doanh|to run, to manage
+5343|그리움|danh||yearning, longing, nostalgia
+5344|그사이|danh||
+5345|기념하다|động|記念 ký niệm|to commemorate, remember, honor, memor
+5346|대강|phó |大綱 đại cương|outline; summary
+5347|독립하다|động|獨立 độc lập|
+5348|들이마시다|động||to breathe in, to inhale
+5349|뛰어오르다|động||to jump up
+5350|문밖|danh|門 môn|
+5351|방송하다|động|放送 phóng tống|to broadcast
+5352|보충하다|động|補充 bổ sung|to supplement
+5353|불완전하다|tính||incomplete
+5354|불평|danh||gripe; discontent; complaint
+5355|붐비다|động||to be crowded, packed, bustling
+5356|서명|danh|署名 thự danh|signature, autograph
+5357|손등|danh||back of the hand
+5358|역사학|danh||
+5359|영|phó ||zero
+5360|요리사|danh||cook, chef
+5361|원|thán||won; the official currency of South Ko
+5362|원서|danh|願書 nguyện thư|application
+5363|이론적|danh||
+5364|이제야|phó ||
+5365|임신하다|động|妊娠 nhâm huyên|to conceive, to get pregnant
+5366|자취|danh||mark; trace; legacy
+5367|잠그다|động||to lock, to turn off
+5368|장례|danh|葬禮 táng lễ|funeral
+5369|지금껏|phó |只今 chỉ kim|
+5370|지름길|danh||shortcut
+5371|지진|danh|地震 địa chấn|earthquake
+5372|참석자|danh|參席者 tham tịch giả|
+5373|창구|danh|窓口 song khẩu|window, counter
+5374|최저|danh|最低 tối đê|the lowest; the minimum
+5375|코미디|danh||comedy
+5376|튀기다|động||to fry
+5377|필수|danh|必須 tất tua|essential, required, indispensable
+5378|횟수|danh|回數 hồi số|times something is done
+5379|흐리다|động||to be unclear, impure, turbid, muddy
+5380|가능|danh|可能 khả năng|possibility; potentiality
+5381|값싸다|tính||
+5382|긴장감|danh|緊張感 khẩn trương cảm|
+5383|김|danh||laver
+5384|뒤편|danh||
+5385|매달다|động||to hang; to suspend
+5386|매주|phó |每週 mỗi chu|every week
+5387|문제되다|động|問題 vấn đề|
+5388|불이익|danh||
+5389|불필요하다|tính||unnecessary
+5390|산부인과|danh|産婦人科 sản phụ nhân khoa|obstetrics and gynaecology
+5391|새우다|động||to stay up all night
+5392|서명하다|động|署名 thự danh|to sign
+5393|수|danh||way, means, possibility, ability; used
+5394|신부|danh|神父 thần phụ|father, priest
+5395|쓸데없다|tính||unnecessary, needless, useless
+5396|아스팔트|danh||asphalt
+5397|아하|thán||aha!
+5398|알코올|danh||alcohol
+5399|요|định||For the verb-final particle, see the e
+5400|웃음소리|danh||laughter, laughing voice
+5401|인쇄|danh|印刷 ấn loát|printing
+5402|잔디|danh||lawn, turf, sod, grass
+5403|전세|danh|傳貰 truyền thởi|jeonse
+5404|조깅|danh||jogging
+5405|치다|động||to hit, to beat, to strike, to slap, t
+5406|퇴직금|danh||severance pay
+5407|가만있다|động||still, gentle
+5408|간편하다|tính|簡便 giản tiện|simple and convenient; straightforward
+5409|감동적|danh|感動的 cảm động đích|touching
+5410|교복|danh|校服 hiệu phục|school uniform
+5411|귀가하다|động|歸家 quy gia|
+5412|날아다니다|động||
+5413|더더욱|phó ||
+5414|마음씨|danh||temper, disposition
+5415|몸매|danh||body shape, figure
+5416|무관심|danh|無關心 vô quan tâm|indifference
+5417|반짝이다|động||to glitter, sparkle, twinkle
+5418|부인|danh|婦人 phụ nhân|wife
+5419|분주하다|tính|奔走 bôn tẩu|to be busy
+5420|비판적|danh|批判的 phê phán đích|critical
+5421|뺏다|động||clipping of 빼앗다
+5422|소중히|phó |所重 sở trọng|
+5423|수도꼭지|danh|水道 thủy đạo|tap, faucet, spigot
+5424|싸구려|danh||cheap good
+5425|어찌나|phó ||
+5426|엉터리|danh||nonsense; bullshit
+5427|위법|danh|違法 vi pháp|
+5428|육체적|danh|肉體的 nhục thể đích|being physical, bodily, corporeal, phy
+5429|음력|danh|陰曆 âm lịch|the traditional lunisolar calendar of 
+5430|잔디밭|danh||lawn, grassplot
+5431|저기|thán||over there
+5432|전문직|danh|專門職 chuyên môn chức|
+5433|제출|danh|提出 đề xuất|submission, handing in
+5434|쪽|danh||side
+5435|찌다|động||to steam, to cook with steam
+5436|채점|danh|採點 thái điểm|
+5437|침착하다|tính|沈着 trầm trước|calm, composed
+5438|캄캄하다|tính||to be pitch-dark
+5439|타자기|danh|打字機 đả tự cơ|typewriter
+5440|포인트|danh||point, especially a key point in an ex
+5441|포크|danh||fork
+5442|한밤중|danh||the middle of the night
+5443|효도|danh|孝道 hiếu đạo|filial piety
+5444|관람객|danh|觀覽客 quan lãm khách|
+5445|귀가|danh|歸家 quy gia|
+5446|그리워하다|động||to miss, long for, pine for, yearn for
+5447|뒷문|danh||back door
+5448|딸아이|danh||young daughter
+5449|만족스럽다|tính|滿足 mãn túc|to be satisfactory
+5450|미움|danh||loathe, hate
+5451|바가지|danh||gourd shell
+5452|발끝|danh||tiptoe
+5453|병실|danh|病室 bệnh thất|ward, sickroom
+5454|봉사하다|động|奉仕 phụng sĩ|to serve
+5455|비행장|danh|飛行場 phi hành trường|aerodrome; aifield; airstrip
+5456|습기|danh|濕氣 thấp khí|moisture; humidity
+5457|예보|danh|豫報 dự báo|forecast
+5458|용감하다|tính|勇敢 dũng cảm|brave, courageous
+5459|위험성|danh|危險性 nguy hiểm tính|
+5460|익다|tính||to ripen
+5461|재학|danh|在學 tại học|
+5462|전기|danh|傳記 truyền ký|electricity
+5463|전시하다|động|展示 triển thị|to show, to display
+5464|정기적|danh|定期的 định kỳ đích|
+5465|종교적|danh|宗敎的 tông giao đích|religiosity, religiousness, being reli
+5466|주관적|danh|主觀的 chủ quan đích|
+5467|직장인|danh|職場人 chức trường nhân|office worker
+5468|진심|danh|眞心 chân tâm|sincerity, earnestness
+5469|천국|danh|天國 thiên quốc|heaven, paradise
+5470|큰절|danh||
+5471|학과|danh|學科 học khoa|department
+5472|후회|danh|後悔 hậu hối|regret
+5473|강조|danh|强調 cường điệu|emphasis
+5474|게시판|danh|揭示板 yết thị bàn|bulletin board
+5475|공통점|danh|共通點 cộng thông điểm|commonality
+5476|과외|danh|課外 khóa ngoại|extracurricular work
+5477|교내|danh|校內 hiệu nội|the inside of a school
+5478|구|danh|區 khu|nine
+5479|내적|danh|內的 nội đích|
+5480|뜨다|động||to float, to stay afloat
+5481|마라톤|danh||marathon
+5482|매스컴|danh||mass communication
+5483|무|danh|無 vô|Korean radish, a variety of daikon com
+5484|묵다|động||to stay, to lodge
+5485|밤새|danh||contraction of 밤사이
+5486|별일|danh|別 biệt|an unusual event; an odd thing, a stra
+5487|보내오다|động||
+5488|부채|danh||fan
+5489|불법|danh|佛法 phật pháp|illegality; the illegal
+5490|사업가|danh|事業家 sự nghiệp gia|businessman, entrepreneur
+5491|세상에|thán|世上 thế thượng|locative of 세상: on earth, in the world
+5492|수고|danh||effort, trouble
+5493|시금치|danh||spinach
+5494|신청서|danh|申請書 thân thỉnh thư|application form, written application
+5495|아랫사람|danh||one's junior, subordinate, underling
+5496|앨범|danh||album
+5497|양|danh|羊 dương|quantity, amount
+5498|여전하다|tính|如前 như tiền|to remain as before, to be as usual
+5499|영남|danh||[~지방] Yeongnam
+5500|옥상|danh|屋上 ốc thượng|rooftop
+5501|위|danh|胃 vị|above, upper, upside, top
+5502|일자리|danh||job, work, occupation, employment
+5503|자매|danh|姉妹 tỉ muội|sisters
+5504|전시장|danh|展示場 triển thị trường|
+5505|절약|danh|節約 tiết ước|frugality
+5506|정오|danh|正午 chính ngọ|noon, midday
+5507|제대하다|động|除隊 trừ đội|to discharge, be discharged
+5508|즉석|danh|卽席 tức tịch|being impromptu; being on the spot
+5509|지방|danh|脂肪 chi phương|a geographical region
+5510|차차|phó |次次 thứ thứ|gradually, little by little
+5511|추측|danh|推測 suy trắc|supposition, guess, conjecture
+5512|충고|danh|忠告 trung cáo|advice
+5513|턱|danh||chin, jaw, chops
+5514|팩시밀리|danh||facsimile
+5515|한낮|danh||midday, noon
+5516|가득히|phó ||fully; to the brim
+5517|간호|danh|看護 khán hộ|nursing
+5518|갑|danh|匣 hộp|armor; shell
+5519|건너|danh||the opposite side
+5520|걷다|động||to walk
+5521|겁나다|động|怯 khiếp|to be seized with fear; to be frighten
+5522|금메달|danh||gold medal
+5523|눈감다|động||
+5524|눈뜨다|động||to open one's eyes
+5525|대입|danh|大入 đại nhập|
+5526|도마|danh||chopping board
+5527|동화책|danh|童話冊 đồng thoại sách|
+5528|땅바닥|danh||the ground
+5529|모집하다|động|募集 mộ tập|
+5530|밤색|danh||chestnut
+5531|배우자|danh|配偶者 phối ngẫu giả|spouse
+5532|속상하다|tính||to feel uncomfortable and depressed
+5533|수만|định|數萬 số vạn|
+5534|수입되다|động|輸入 thâu nhập|
+5535|수입품|danh|輸入品 thâu nhập phẩm|imported goods, import
+5536|식기|danh|食器 thực khí|tableware
+5537|싼값|danh||
+5538|안|danh|案 án|inside
+5539|안부|danh|安否 an phủ|news; tidings
+5540|양주|danh|洋酒 dương tửu|Western liquor, especially whiskey/whi
+5541|영화배우|danh|映畵俳優 ánh họa bài ưu|
+5542|용서|danh|容恕 dung thứ|forgiveness, mercy
+5543|우편|danh|郵便 bưu tiện|mail, post
+5544|정장|danh|正裝 chính trang|suit, full dress, formal dress
+5545|좁히다|động||
+5546|좋아|thán||infinitive of 좋다
+5547|죽|phó ||in a manner arranged in a row; while a
+5548|지워지다|động||
+5549|지저분하다|tính||filthy; foul; smutty
+5550|진통|danh|陣痛 trận thống|
+5551|찬성하다|động|贊成 tán thành|to agree, to assent
+5552|참석|danh|參席 tham tịch|attendance
+5553|최고급|danh|最高級 tối cao cấp|
+5554|최상|danh|最上 tối thượng|
+5555|최악|danh|最惡 tối ác|the worst
+5556|출국|danh|出國 xuất quốc|leaving a country
+5557|친해지다|động|親 thân|
+5558|코끝|danh||tip of a nose
+5559|햄|danh||ham
+5560|가로수|danh|街路樹 nhai lộ thụ|roadside tree; street tree
+5561|개다|động||to clear, to clear up, to fair up
+5562|고급스럽다|tính|高級 cao cấp|luxurious, high-class
+5563|고소하다|tính||to be fragrant or tasty as sesame oil
+5564|공주|danh|公主 công chủ|princess
+5565|깨어지다|động||
+5566|대여섯|định||five or six; several
+5567|되돌아보다|động||
+5568|무용가|danh|舞踊家 vũ dũng gia|dancer; dancing master
+5569|반기다|động||to greet, welcome
+5570|붓다|động||to pour
+5571|비|danh|碑 bi|rain
+5572|사투리|danh||a dialect or accent of a language, usu
+5573|상금|danh||
+5574|수저|danh||cutlery; spoon and chopstick
+5575|식욕|danh|食慾 thực dục|appetite, desire to eat
+5576|앞바다|danh||
+5577|얄밉다|tính||
+5578|양상추|danh|洋 dương|iceberg lettuce
+5579|연기하다|động|延期 diên kỳ|to postpone; to put off
+5580|온라인|danh||being online
+5581|외갓집|danh|外家 ngoại gia|
+5582|유능하다|tính|有能 hữu năng|to be capable
+5583|유적지|danh|遺跡地 di tích địa|a historic site
+5584|응답하다|động|應答 ứng đáp|to respond; answer
+5585|이롭다|tính||beneficial, advantageous
+5586|입사|danh|入社 nhập xã|entry to a company
+5587|자|danh||10²⁴
+5588|재활용|danh|再活用 tái hoạt dụng|
+5589|제삿날|danh|祭祀 tế tự|
+5590|주름살|danh||wrinkle
+5591|참고하다|động|參考 tham khảo|
+5592|철학적|danh|哲學的 triết học đích|
+5593|초대|danh|初代 sơ đại|invitation
+5594|추천하다|động|推薦 suy tiến|to recommend
+5595|판매되다|động|販賣 phán mại|
+5596|편|danh||side
+5597|포근하다|tính||cozy, snug
+5598|하나님|danh||God, creator
+5599|학력|danh|學歷 học lịch|academic background
+5600|한정하다|động|限定 hạn định|to restrict

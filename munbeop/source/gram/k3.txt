@@ -16,6 +16,7 @@
 @ex 몸이 아팠{기 때문에} 학교에 못 갔어요. | Vì đau ốm nên tôi không đi học được.
 @theme nguyen-nhan
 @ctx van-viet
+@book tonghop2 | 10 | 1
 
 @p 002 | -(으)ㄴ/는데도
 @group 1
@@ -28,6 +29,7 @@
 @ex 밥을 먹었{는데도} 배가 고파요. | Ăn rồi mà vẫn đói.
 @theme nghich-tiep
 @ctx hoi-thoai
+@book tonghop5 | 11 | 1
 
 @p 003 | -도록
 @group 1
@@ -40,6 +42,7 @@
 @ex 지각하지 않{도록} 일찍 일어났어요. | Tôi dậy sớm để không bị trễ.
 @theme muc-dich
 @ctx hoi-thoai
+@book tonghop4 | 13 | 1
 
 @p 004 | -(으)ㄹ 텐데
 @group 1
@@ -53,6 +56,7 @@
 @ex 일찍 자 {둘 걸 그랬어요}. | Đáng lẽ phải ngủ sớm.
 @theme suy-doan
 @ctx hoi-thoai
+@book tonghop4 | 11 | 2
 
 @p 005 | -아/어 놓다 / 두다
 @group 1
@@ -66,6 +70,7 @@
 @ex 표를 미리 사 {뒀어요}. | Tôi đã mua vé trước.
 @theme trang-thai
 @ctx hoi-thoai
+@book tonghop4 | 5 | 2
 
 @p 006 | -(으)ㄴ 채(로)
 @group 1
@@ -78,6 +83,7 @@
 @ex 문을 연 {채로} 나갔어요. | Tôi đi ra mà để nguyên cửa mở.
 @theme trang-thai
 @ctx hoi-thoai
+@book tonghop5 | 3 | 1
 
 @p 007 | -다가
 @group 1
@@ -90,6 +96,7 @@
 @ex 밥을 먹{다가} 전화를 받았어요. | Đang ăn cơm thì tôi nghe điện thoại.
 @theme thoi-gian
 @ctx hoi-thoai
+@book tonghop3 | 5 | 1
 
 @p 008 | -(으)려면
 @group 1
@@ -102,6 +109,7 @@
 @ex 좋은 점수를 받으{려면} 열심히 공부해야 해요. | Muốn đạt điểm cao thì phải học chăm.
 @theme dieu-kien
 @ctx hoi-thoai
+@book tonghop3 | 6 | 1
 
 @p 009 | -(으)ㄹ수록
 @group 1
@@ -114,6 +122,7 @@
 @ex 볼{수록} 매력이 있어요. | Càng nhìn càng thấy hấp dẫn.
 @theme so-sanh
 @ctx hoi-thoai
+@book tonghop4 | 10 | 1
 
 @p 010 | -자마자
 @group 1
@@ -126,6 +135,7 @@
 @ex 눈을 뜨{자마자} 커피를 마셔요. | Vừa mở mắt là tôi uống cà phê.
 @theme thoi-gian
 @ctx hoi-thoai
+@book tonghop4 | 2 | 2
 
 @p 011 | -(으)ㄴ 지
 @group 1
@@ -138,6 +148,7 @@
 @ex 밥을 먹은 {지} 얼마나 됐어요? | Bạn ăn xong được bao lâu rồi?
 @theme thoi-gian
 @ctx hoi-thoai
+@book tonghop2 | 14 | 1
 
 @p 012 | -기로 하다
 @group 1
@@ -150,6 +161,7 @@
 @ex 담배를 끊{기로 했습니다}. | Tôi đã quyết định bỏ thuốc.
 @theme y-chi
 @ctx hoi-thoai
+@book tonghop2 | 14 | 1
 
 @p 013 | -잖아요
 @group 2
@@ -162,6 +174,7 @@
 @ex 어제 말했{잖아요}. | Hôm qua đã nói rồi còn gì.
 @theme nhan-manh
 @ctx hoi-thoai
+@book tonghop4 | 2 | 1
 
 @p 014 | -거든요
 @group 2
@@ -174,6 +187,7 @@
 @ex 저는 요즘 바쁘{거든요}. | Dạo này tôi bận lắm.
 @theme nguyen-nhan
 @ctx hoi-thoai
+@book tonghop3 | 14 | 1
 
 @p 015 | -(으)ㄹ걸요
 @group 2
@@ -186,6 +200,8 @@
 @ex 저 가수가 한국에서 제일 유명할{걸요}. | Ca sĩ đó chắc nổi nhất Hàn Quốc.
 @theme suy-doan
 @ctx hoi-thoai
+@book tonghop5 | 1 | 2
+@book tonghop5 | 10 | 2
 
 @p 016 | -나 보다 / -(으)ㄴ가 보다
 @group 2
@@ -198,6 +214,7 @@
 @ex 그 사람이 선생님인{가 봐요}. | Hình như người đó là giáo viên.
 @theme suy-doan
 @ctx hoi-thoai
+@book tonghop4 | 1 | 1
 
 @p 017 | -아/어 보이다
 @group 2
@@ -210,6 +227,7 @@
 @ex 피곤해 {보이는데} 괜찮아요? | Trông bạn mệt, có sao không?
 @theme trang-thai
 @ctx hoi-thoai
+@book tonghop3 | 3 | 1
 
 @p 018 | -(ㄴ/는)다고 하다 (câu gián tiếp)
 @group 2
@@ -223,6 +241,7 @@
 @ex 친구가 같이 가{자고 했어요}. | Bạn rủ cùng đi.
 @theme tuong-thuat
 @ctx hoi-thoai
+@book tonghop3 | 10 | 1
 
 @p 019 | -(으)ㄹ까 봐
 @group 2
@@ -235,6 +254,7 @@
 @ex 잊어버릴{까 봐} 메모했어요. | Sợ quên nên tôi ghi lại.
 @theme nguyen-nhan
 @ctx hoi-thoai
+@book tonghop4 | 11 | 3
 
 @p 020 | -(으)ㄹ 테니까
 @group 2
@@ -247,6 +267,7 @@
 @ex 먼저 {갈 테니까} 천천히 오세요. | Tôi đi trước nên bạn cứ từ từ đến.
 @theme y-chi
 @ctx hoi-thoai
+@book tonghop5 | 8 | 1
 
 @p 021 | -(으)ㄴ 모양이다
 @group 2
@@ -259,6 +280,7 @@
 @ex 많이 피곤한 {모양이네요}. | Có vẻ bạn rất mệt.
 @theme suy-doan
 @ctx hoi-thoai
+@book tonghop4 | 10 | 2
 
 @p 022 | -(으)ㄹ 뻔하다
 @group 2
@@ -271,6 +293,7 @@
 @ex 하마터면 늦을 {뻔했어요}. | Suýt chút nữa tôi đã muộn.
 @theme ket-qua
 @ctx hoi-thoai
+@book tonghop4 | 12 | 2
 
 @p 023 | -게
 @group 3
@@ -284,6 +307,8 @@
 @ex 맛있{게} 드세요. | Chúc ăn ngon miệng.
 @theme trang-thai
 @ctx hoi-thoai
+@book tonghop3 | 5 | 1
+@book tonghop5 | 1 | 1
 
 @p 024 | -아/어 가지고
 @group 2
@@ -296,6 +321,7 @@
 @ex 배가 아파{서} 병원에 갔어요. | Đau bụng nên tôi đi bệnh viện.
 @theme nguyen-nhan
 @ctx hoi-thoai
+@book tonghop4 | 9 | 3
 
 @p 025 | 피동: 이/히/리/기
 @group 3
@@ -308,6 +334,7 @@
 @ex 아이가 엄마에게 {안겼어요}. | Đứa bé được mẹ ôm.
 @theme the-thai
 @ctx hoi-thoai
+@book tonghop4 | 6 | 1
 
 @p 026 | 사동: 이/히/리/기/우
 @group 3
@@ -321,6 +348,7 @@
 @ex 아이를 침대에 {눕혔어요}. | Tôi đặt đứa bé nằm xuống giường.
 @theme the-thai
 @ctx hoi-thoai
+@book tonghop4 | 2 | 3
 
 @p 027 | -는 대신(에)
 @group 3
@@ -334,6 +362,7 @@
 @ex 제가 요리하는 {대신에} 네가 설거지해. | Tôi nấu ăn, đổi lại bạn rửa bát.
 @theme so-sanh
 @ctx hoi-thoai
+@book tonghop3 | 4 | 1
 
 @p 028 | -(으)ㄴ/는 편이다
 @group 3
@@ -346,6 +375,7 @@
 @ex 저는 아침을 안 먹는 {편이에요}. | Tôi thuộc kiểu hay không ăn sáng.
 @theme danh-gia
 @ctx hoi-thoai
+@book tonghop3 | 7 | 1
 
 @p 029 | -(으)ㄹ 만하다
 @group 3
@@ -358,6 +388,7 @@
 @ex 이 책은 읽을 {만해요}. | Quyển sách này đáng đọc.
 @theme danh-gia
 @ctx hoi-thoai
+@book tonghop4 | 8 | 3
 
 @p 030 | -(으)ㄴ/는 척하다
 @group 3
@@ -382,6 +413,7 @@
 @ex 살{다 보면} 좋은 날도 있어요. | Cứ sống thì cũng có ngày tốt.
 @theme ket-qua
 @ctx hoi-thoai
+@book tonghop3 | 11 | 1
 
 @p 032 | -(으)ㄹ 수밖에 없다
 @group 3
@@ -395,6 +427,7 @@
 @ex 길이 막혀서 늦을 {수밖에 없었어요}. | Tắc đường nên đành phải muộn.
 @theme ket-qua
 @ctx hoi-thoai
+@book tonghop5 | 3 | 2
 
 @p 033 | -던
 @group 3
@@ -407,6 +440,7 @@
 @ex 여기는 제가 {다니던} 학교예요. | Đây là trường tôi từng học.
 @theme dinh-ngu
 @ctx hoi-thoai
+@book tonghop4 | 3 | 2
 
 @p 034 | -더니
 @group 3
@@ -419,6 +453,7 @@
 @ex 아침에는 비가 {오더니} 지금은 맑아요. | Sáng mưa mà bây giờ trời lại tạnh.
 @theme thoi-gian
 @ctx hoi-thoai
+@book tonghop5 | 10 | 1
 
 @p 035 | -았/었더니
 @group 3
@@ -431,6 +466,7 @@
 @ex 한국어로 말{했더니} 모두 놀랐어요. | Tôi nói bằng tiếng Hàn thì mọi người ngạc nhiên.
 @theme thoi-gian
 @ctx hoi-thoai
+@book tonghop5 | 4 | 2
 
 @p 036 | -(으)ㄴ/는 대로
 @group 3
@@ -444,3 +480,230 @@
 @ex 계획{대로} 진행됐어요. | Mọi việc diễn ra đúng như kế hoạch.
 @theme can-cu
 @ctx hoi-thoai
+@book tonghop3 | 15 | 1
+@book tonghop5 | 12 | 3
+
+@p 037 | -(으)ㄴ 덕분에
+@group 1
+@mean Nhờ có…
+@core Nêu nguyên nhân tốt, mang ý cảm ơn.
+@form V/A + (으)ㄴ/는 덕분에 · N + 덕분에
+@exp Chỉ dùng cho kết quả tốt; kết quả xấu dùng -는 바람에 hoặc 탓에. Hay đi với 감사해요.
+@ex 선생님 {덕분에} 한국어가 늘었어요. | Nhờ thầy mà tiếng Hàn của tôi tiến bộ.
+@ex 친구가 도와 준 {덕분에} 일을 끝냈어요. | Nhờ bạn giúp mà tôi xong việc.
+@ex 날씨가 좋은 {덕분에} 소풍이 즐거웠어요. | Nhờ thời tiết đẹp mà buổi dã ngoại vui.
+@theme nguyen-nhan
+@ctx hoi-thoai
+@book tonghop3 | 2 | 2
+
+@p 038 | -는 길이다
+@group 3
+@mean Đang trên đường…
+@core Diễn tả đang trên đường đi làm gì hoặc đến đâu.
+@form V + 는 길이다 / 는 길에
+@exp -는 길에 nghĩa “nhân tiện trên đường”: 집에 가는 길에 들렀어요. Thường đi với 가다, 오다, 돌아오다.
+@ex 지금 학교에 가{는 길이에요}. | Bây giờ tôi đang trên đường đến trường.
+@ex 집에 오{는 길에} 친구를 만났어요. | Trên đường về nhà tôi gặp bạn.
+@ex 회사에서 돌아오{는 길이에요}. | Tôi đang trên đường từ công ty về.
+@theme trang-thai
+@ctx hoi-thoai
+@book tonghop3 | 2 | 1
+
+@p 039 | -나요? / -(으)ㄴ가요?
+@group 2
+@mean …không ạ? (câu hỏi mềm)
+@core Hỏi nhẹ nhàng, lịch sự hơn -아/어요?.
+@form V + 나요? · A + (으)ㄴ가요? · N + (이)ㄴ가요?
+@exp Mang sắc thái hỏi dịu dàng, thường dùng khi hỏi người chưa quen: 지금 바쁘신가요? Quá khứ: -았/었나요?.
+@ex 지금 시간이 있{나요}? | Bây giờ bạn có thời gian không?
+@ex 이 음식은 맵{나요}? | Món này có cay không?
+@ex 한국 사람{인가요}? | Bạn là người Hàn Quốc à?
+@theme hoi-thoai
+@ctx hoi-thoai
+@book tonghop3 | 2 | 3
+
+@p 040 | -기는 하다
+@group 2
+@mean Cũng… (nhưng)
+@core Thừa nhận một phần rồi nêu ý trái ngược: “cũng… nhưng…”.
+@form V/A + 기는 하다 (rút gọn 기는 / 긴)
+@exp Vế sau thường có -지만 / -는데: 맛있기는 한데 비싸요. Dạng rút gọn: 좋긴 해요.
+@ex 이 가게는 싸{기는 해요} 하지만 멀어요. | Quán này cũng rẻ nhưng xa.
+@ex 한국어가 어렵{기는 한데} 재미있어요. | Tiếng Hàn khó thật nhưng thú vị.
+@ex 가{기는 하겠지만} 늦을 거예요. | Tôi cũng sẽ đi nhưng sẽ muộn.
+@theme nghich-tiep
+@ctx hoi-thoai
+@book tonghop3 | 4 | 2
+
+@p 041 | -기 쉽다 / -기 어렵다
+@group 3
+@mean Dễ… / Khó…
+@core Nói hành động hay sự việc dễ hoặc khó xảy ra, dễ hoặc khó làm.
+@form V + 기 쉽다 / 어렵다 / 편하다 / 좋다
+@exp Dùng 기 쉽다 cả khi nói “dễ bị”: 감기에 걸리기 쉬워요. Khác -기가 쉽다 (nhấn danh từ hóa).
+@ex 이 책은 읽{기 쉬워요}. | Cuốn sách này dễ đọc.
+@ex 겨울에는 감기에 걸리{기 쉬워요}. | Mùa đông dễ bị cảm.
+@ex 한국어 발음은 배우{기 어려워요}. | Phát âm tiếng Hàn khó học.
+@theme kha-nang
+@ctx hoi-thoai
+@book tonghop3 | 6 | 1
+
+@p 042 | -기 바라다
+@group 1
+@mean Mong rằng…
+@core Bày tỏ mong muốn, lời chúc, thường dùng trong văn trang trọng.
+@form V + 기 바라다 / 바랍니다 / 바라요
+@exp Dùng trong thư, thông báo: 건강하시기 바랍니다. Khác -고 싶다 (bản thân muốn làm).
+@ex 건강하시{기 바랍니다}. | Kính chúc quý vị mạnh khỏe.
+@ex 시험을 잘 보{기 바라요}. | Mong bạn thi tốt.
+@ex 모두 행복하{기 바랍니다}. | Mong mọi người hạnh phúc.
+@theme y-chi
+@ctx email
+@book tonghop3 | 9 | 2
+
+@p 043 | -(느)냐고 하다
+@group 2
+@mean Hỏi là… (câu hỏi gián tiếp)
+@core Thuật lại một câu hỏi của người khác.
+@form V + (느)냐고 하다 · A + (으)냐고 하다 · N + (이)냐고 하다
+@exp Quá khứ: -았/었느냐고 하다. Rút gọn khẩu ngữ: -냐고 해요. Khác -(ㄴ/는)다고 하다 (câu trần thuật).
+@ex 친구가 어디에 가{느냐고 했어요}. | Bạn tôi hỏi tôi đi đâu.
+@ex 선생님이 한국어가 어렵{냐고 하셨어요}. | Thầy hỏi tiếng Hàn có khó không.
+@ex 동생이 뭐 {하냐고 물었어요}. | Em hỏi tôi đang làm gì.
+@theme tuong-thuat
+@ctx hoi-thoai
+@book tonghop3 | 10 | 2
+
+@p 044 | -(으)라고 하다
+@group 2
+@mean Bảo là… (mệnh lệnh gián tiếp)
+@core Thuật lại lời yêu cầu, ra lệnh.
+@form V + (으)라고 하다 · V + 지 말라고 하다 (phủ định)
+@exp Phủ định là -지 말라고 하다. Nhờ vả: -아/어 달라고 하다. Khác -자고 하다 (rủ).
+@ex 선생님이 숙제를 하{라고 하셨어요}. | Thầy bảo tôi làm bài tập.
+@ex 어머니가 일찍 오{라고 했어요}. | Mẹ bảo tôi về sớm.
+@ex 의사가 약을 먹{으라고 했어요}. | Bác sĩ bảo tôi uống thuốc.
+@theme tuong-thuat
+@ctx hoi-thoai
+@book tonghop3 | 12 | 2
+
+@p 045 | -자고 하다
+@group 2
+@mean Rủ là…, đề nghị là…
+@core Thuật lại lời rủ rê, đề nghị cùng làm.
+@form V + 자고 하다 · V + 지 말자고 하다 (phủ định)
+@exp Gốc từ câu -(으)ㅂ시다 / -자. Thân mật: -자고 해요. Khác -(으)라고 하다 (ra lệnh).
+@ex 친구가 같이 영화를 보{자고 했어요}. | Bạn rủ tôi cùng xem phim.
+@ex 동료가 점심을 먹{자고 했어요}. | Đồng nghiệp rủ ăn trưa.
+@ex 언니가 내일 만나{자고 했어요}. | Chị rủ mai gặp nhau.
+@theme tuong-thuat
+@ctx hoi-thoai
+@book tonghop3 | 12 | 3
+
+@p 046 | 반말 (-아/어, -야)
+@group 3
+@mean Nói trống không, thân mật
+@core Cách nói không kính ngữ dùng với bạn thân, người nhỏ tuổi.
+@form V/A + 아/어 · N + (이)야 · V + 자 · V + 아/어라
+@form Câu hỏi: -니? · -어? · -(으)ㄹ래?
+@exp Bỏ 요 từ đuôi -아/어요 là được 반말: 먹어요 → 먹어. 이에요/예요 → 이야/야. Chỉ dùng khi thân thiết hoặc đã được phép.
+@ex 너 어디 가{니}? | Cậu đi đâu đấy?
+@ex 이거 내 책{이야}. | Cái này là sách của tớ.
+@ex 우리 같이 밥 먹{자}. | Mình cùng ăn cơm nhé.
+@theme tho-tuc
+@ctx tho-tuc
+@book tonghop3 | 11 | 1
+
+@p 047 | -(으)ㅁ (danh từ hóa)
+@group 3
+@mean Biến động/tính từ thành danh từ
+@core Hậu tố danh từ hóa dùng nhiều trong văn viết, thông báo, ghi chú.
+@form V/A + (으)ㅁ (먹다→먹음, 크다→큼)
+@form -(으)ㅁ + 에 따라 / -(으)ㅁ + 으로써
+@exp Dùng trong văn bản: 기쁨 (niềm vui), 웃음 (nụ cười), 꿈 (giấc mơ). Khác -기 (danh từ hóa khẩu ngữ).
+@ex 친구를 만난 {기쁨}을 말했어요. | Tôi kể niềm vui gặp bạn.
+@ex 아이의 {웃음}소리가 들려요. | Nghe thấy tiếng cười của đứa trẻ.
+@ex 다음 주에 시험이 있{음}. | Tuần sau có kỳ thi. (ghi chú)
+@theme dang-cau
+@ctx van-viet
+@book tonghop3 | 12 | 1
+
+@p 048 | -아/어 가다 / 오다
+@group 3
+@mean Đang dần…, đã…
+@core 가다 chỉ diễn biến tiếp tục về phía sau; 오다 chỉ diễn biến từ trước đến nay.
+@form V + 아/어 가다 (tiếp tục) · V + 아/어 오다 (kể từ trước)
+@exp -아/어 가다 hướng tương lai: 점점 늘어 가요. -아/어 오다 hướng quá khứ đến hiện tại: 지금까지 살아 왔어요.
+@ex 우리는 열심히 준비해 {왔어요}. | Chúng tôi đã chuẩn bị chăm chỉ từ trước đến nay.
+@ex 한국어 실력이 점점 늘어 {가요}. | Trình độ tiếng Hàn của tôi tăng dần.
+@ex 일이 거의 끝나 {가요}. | Công việc sắp xong rồi.
+@theme thoi-gian
+@ctx hoi-thoai
+@book tonghop3 | 13 | 1
+
+@p 049 | -아/어야겠다
+@group 3
+@mean Chắc phải…, nhất định phải…
+@core Nói quyết tâm hoặc nhận ra việc cần làm ngay lúc nói.
+@form V + 아/어야겠다 / 겠어요
+@exp Gốc -아/어야 하다 + -겠-: chủ ngữ thường là ngôi một. Khác -아/어야 하다 (nghĩa vụ khách quan).
+@ex 늦었으니까 빨리 가{야겠어요}. | Muộn rồi nên tôi phải đi nhanh.
+@ex 건강을 위해 운동을 시작해{야겠어요}. | Vì sức khỏe, tôi phải bắt đầu tập thể dục.
+@ex 오늘은 일찍 자{야겠어요}. | Hôm nay chắc tôi phải ngủ sớm.
+@theme y-chi
+@ctx hoi-thoai
+@book tonghop3 | 13 | 2
+
+@p 050 | -았/었으면 좋겠다
+@group 3
+@mean Giá mà… / Ước gì…
+@core Ước muốn, hy vọng điều trái thực tế hoặc chưa xảy ra.
+@form V/A + 았/었으면 좋겠다
+@form N + (이)었으면 좋겠다
+@exp Mạnh hơn -(으)면 좋겠다 vì thể hiện điều khó thành hiện thực: 부자였으면 좋겠어요. Rút gọn: -았/었으면 해요.
+@ex 시간이 좀 더 있{었으면 좋겠어요}. | Giá mà có thêm chút thời gian.
+@ex 내일 비가 오지 않{았으면 좋겠어요}. | Mong là mai trời không mưa.
+@ex 한국에 살 수 있{었으면 좋겠어요}. | Ước gì tôi có thể sống ở Hàn Quốc.
+@theme y-chi
+@ctx hoi-thoai
+@book tonghop3 | 13 | 3
+
+@p 051 | (아무리) -아/어도
+@group 1
+@mean Dù (có)… đi nữa…
+@core Nhượng bộ: dù điều kiện thế nào, kết quả vẫn không đổi.
+@form V/A + 아/어도 · N + (이)라도
+@form 아무리 + V/A + 아/어도
+@exp Khác -아/어도 되다 (cho phép). Vế sau thường phủ định hoặc đối lập: 아무리 먹어도 배고파요.
+@ex 아무리 바빠{도} 운동은 해요. | Dù bận đến đâu tôi vẫn tập thể dục.
+@ex 비가 와{도} 갈 거예요. | Dù trời mưa tôi vẫn sẽ đi.
+@ex 아무리 설명해{도} 이해를 못 해요. | Dù giải thích thế nào cũng không hiểu.
+@theme bat-chap
+@ctx hoi-thoai
+@book tonghop3 | 14 | 1
+
+@p 052 | -던데요
+@group 2
+@mean Tôi thấy… (kể lại điều đã chứng kiến)
+@core Kể điều mình từng thấy/nghe trực tiếp ở quá khứ, thường để cung cấp thông tin hoặc ngầm nêu ý kiến.
+@form V/A + 던데(요) · N + (이)던데(요)
+@exp Khác -더라고요 (chỉ thuật lại), -던데요 còn chờ phản ứng của người nghe. Ngôi một ít dùng.
+@ex 그 식당 음식이 맛있{던데요}. | Tôi thấy đồ ăn ở quán đó ngon lắm.
+@ex 어제 영화가 정말 재미있{던데요}. | Phim hôm qua hay lắm đấy.
+@ex 오늘 거리에 사람이 많{던데요}. | Hôm nay trên phố đông người lắm.
+@theme tuong-thuat
+@ctx hoi-thoai
+@book tonghop3 | 14 | 3
+
+@p 053 | -지 않으면 안 되다
+@group 1
+@mean Nếu không… thì không được → Phải…
+@core Diễn tả nghĩa vụ, điều bắt buộc, nhấn mạnh hơn -아/어야 하다.
+@form V/A + 지 않으면 안 되다 / 안 돼요
+@exp Cùng nghĩa với -아/어야 하다 nhưng cảm giác bắt buộc cao hơn. Thường thấy trong quy định.
+@ex 약속은 꼭 지키지 않으{면 안 돼요}. | Nhất định phải giữ lời hứa.
+@ex 시험 전에 공부하지 않으{면 안 돼요}. | Trước kỳ thi phải học.
+@ex 여기서는 조용히 하지 않으{면 안 됩니다}. | Ở đây phải giữ yên lặng.
+@theme y-chi
+@ctx cong-so
+@book tonghop3 | 15 | 2

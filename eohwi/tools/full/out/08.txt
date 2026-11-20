@@ -1,0 +1,400 @@
+2801|cân nặng
+2802|giao hàng
+2803|bản dịch
+2804|túi ni lông
+2805|ngăn kéo
+2806|mưa rào
+2807|tay cầm
+2808|không thành, không tốt
+2809|mềm, nhạt
+2810|con khỉ
+2811|ly hôn
+2812|dùng một lần
+2813|máy điện thoại
+2814|hoa đỗ quyên
+2815|con trai thứ
+2816|quần lót
+2817|thoải mái
+2818|gia đình; đồ nội thất
+2819|hoa liên kiều
+2820|ngõ nhỏ
+2821|nhớ ra
+2822|cơn ho
+2823|tiếng hát
+2824|giáo sư đại học
+2825|quả chanh vàng
+2826|rốn
+2827|đáng yêu
+2828|say rượu (nôn nao)
+2829|được dùng; được viết
+2830|bưu thiếp
+2831|phòng tắm
+2832|tài xế
+2833|mùa mưa dầm
+2834|trở nên ngắn lại
+2835|hấp
+2836|cặp sách
+2837|sân chơi
+2838|ghé thăm rồi đi
+2839|thư trả lời
+2840|đôi khi
+2841|mu bàn chân
+2842|áo sơ mi nữ
+2843|thân thiết
+2844|buồn
+2845|thùng rác
+2846|phía trước
+2847|chân trái
+2848|nhật ký; thời tiết
+2849|lần trước
+2850|đáp án đúng
+2851|ngủ gật
+2852|chảy máu cam
+2853|giảm giá
+2854|khoai lang
+2855|quốc kỳ
+2856|trò chuyện
+2857|ghét
+2858|cảm giác thèm ăn
+2859|bản sao
+2860|cơm chiên
+2861|giới tính
+2862|giặt giũ
+2863|nổi tiếng, lan truyền
+2864|vô ích
+2865|khăn tay
+2866|con bê
+2867|nước máy
+2868|buổi nhậu
+2869|Ngày Thiếu nhi
+2870|chân phải
+2871|chuyển nhà
+2872|hạng nhất
+2873|nhỏ lại
+2874|họa tiết sọc
+2875|bến xe
+2876|mang tính Hàn Quốc
+2877|sự chào đón
+2878|đồ ăn vặt
+2879|cảm giác; (nguyên liệu)
+2880|người khác; phía nam
+2881|ngã tư
+2882|ghi âm
+2883|đường leo núi
+2884|mát-xa
+2885|bị ăn
+2886|mệt mỏi toàn thân
+2887|cái nóng oi bức
+2888|cái hộp
+2889|nồi cơm
+2890|cái gối
+2891|thắt lưng
+2892|sao chép
+2893|bốn mùa
+2894|xin lỗi
+2895|nữ sinh viên
+2896|bà ngoại
+2897|nhạc sĩ
+2898|nhân sâm
+2899|vẻ ngoài; ấn tượng
+2900|nhân viên bán hàng
+2901|tách trà
+2902|đường lớn
+2903|trang chủ
+2904|vạch qua đường
+2905|giảng đường
+2906|dượng (chồng của cô)
+2907|bản ghi âm
+2908|việc đón
+2909|sáng; sáng lên
+2910|nửa đêm
+2911|cầu lông
+2912|nút bấm
+2913|vụng về
+2914|tiếng vỗ tay
+2915|bánh songpyeon
+2916|vợ chồng mới cưới
+2917|nhạt
+2918|truyện cổ
+2919|lò nướng
+2920|rượu vang
+2921|vô địch
+2922|người bề trên
+2923|lời chào hỏi
+2924|máy bán hàng tự động
+2925|buổi tối
+2926|trở nên ít đi
+2927|nha khoa
+2928|bài kiểm tra
+2929|tan làm
+2930|mệt mỏi
+2931|nổi giận
+2932|chiều ngang
+2933|đổi tàu, xe
+2934|vị ngọt
+2935|cái chăn
+2936|thức trắng đêm
+2937|nhà giàu
+2938|máy ảnh
+2939|rau xà lách
+2940|độ C
+2941|xúc xích
+2942|lịch trình
+2943|ngoại thành
+2944|bắp cải
+2945|nông
+2946|trở nên tối
+2947|vài hôm trước
+2948|nữ sinh cấp ba
+2949|sự đặt trước
+2950|đây đó
+2951|đồ dùng một lần
+2952|bị bắt đọc
+2953|như thế kia
+2954|buổi trưa
+2955|vui mừng
+2956|người mới bắt đầu
+2957|du lịch nước ngoài
+2958|chợt, thoáng
+2959|giao thông công cộng
+2960|dẫn đến
+2961|chạy đến
+2962|danh thiếp
+2963|sư tử
+2964|tiếng chim hót
+2965|bố mẹ chồng
+2966|mắc lỗi
+2967|đi ra ngoài
+2968|trên dưới
+2969|tiệm cắt tóc
+2970|năm kia
+2971|cái hắt hơi
+2972|bến, ga
+2973|kính ngữ
+2974|người mới học
+2975|thiệp mời
+2976|cà ri
+2977|ki-lô
+2978|áo thun
+2979|một hai
+2980|đường phố
+2981|bột ớt
+2982|quốc lập
+2983|bóng rổ
+2984|nhà thiết kế
+2985|chạy ra ngoài
+2986|ngày đêm
+2987|bóng chuyền
+2988|chăm chỉ
+2989|quạt máy
+2990|chiều dọc
+2991|trở nên ghét
+2992|nữ nhân viên
+2993|được mở
+2994|phòng bên cạnh
+2995|căn hộ văn phòng (officetel)
+2996|váy liền
+2997|ly hôn
+2998|cốc giấy
+2999|con voi
+3000|buổi hòa nhạc
+3001|lời nói to tát
+3002|ngày thường
+3003|lo lắng
+3004|canh tương đậu
+3005|vòng cổ
+3006|khu trượt tuyết
+3007|đội, đeo; đắng
+3008|hiệu sách
+3009|bốn ngày
+3010|ăn kiêng
+3011|quán ăn Trung Hoa
+3012|đường hầm đi bộ
+3013|xe buýt đường dài
+3014|béo
+3015|bưu kiện
+3016|cháu gái nội
+3017|tầng dưới
+3018|đồ ngủ
+3019|găng tay
+3020|sở thú
+3021|ngày kia
+3022|sinh nhật (kính ngữ)
+3023|xe buýt nội thành
+3024|tem
+3025|tiếng Đức
+3026|tteokbokki
+3027|lát nữa
+3028|cún con
+3029|năm ngày
+3030|việc đỗ xe
+3031|trà đen
+3032|thông tin liên lạc
+3033|tuổi (kính ngữ)
+3034|tầng trên
+3035|trà nhân sâm
+3036|màu xanh lá
+3037|quả bóng đá
+3038|canh kim chi
+3039|trà xanh
+3040|bánh bao mandu
+3041|phát âm
+3042|ôn bài
+3043|giày trượt băng
+3044|sự ôn tập
+3045|tên (kính ngữ)
+3046|tiệm giặt là
+3047|đồ thể thao
+3048|đỗ xe
+3049|máy hút bụi
+3050|hộp bút
+3051|thẻ học sinh
+3052|xe buýt sân bay
+3053|thư điện tử
+3054|cái lược
+3055|canh xương bò seolleongtang
+3056|màu đen
+3057|bố chồng
+3058|hình ảnh, video
+3059|đặt vé
+3060|trăm triệu
+3061|canh sườn bò
+3062|màu đen
+3063|màu trắng
+3064|tỉnh Gangwon
+3065|tỉnh Gyeonggi
+3066|vùng Gyeongsang
+3067|Gwangju
+3068|như thế
+3069|sân bay Gimpo
+3070|núi Namsan
+3071|New York
+3072|Daegu
+3073|Daejeon
+3074|Đại Hàn Dân Quốc
+3075|cung Deoksu
+3076|Tokyo
+3077|Dongdaemun
+3078|chợ Dongdaemun
+3079|London
+3080|Bắc Kinh
+3081|Bắc Triều Tiên
+3082|châu Á
+3083|châu Phi
+3084|Ulsan
+3085|châu Âu
+3086|như thế này
+3087|sân bay Incheon
+3088|như thế kia
+3089|vùng Jeolla
+3090|Jongno
+3091|vùng Chungcheong
+3092|Paris; con ruồi
+3093|núi Hallasan
+3094|cô ấy
+3095|làm vậy
+3096|chính phủ
+3097|mới
+3098|quá trình
+3099|cuộc sống
+3100|sinh mệnh
+3101|vụ việc
+3102|tác phẩm
+3103|tình huống
+3104|do đó
+3105|trạng thái
+3106|lúc bấy giờ
+3107|hơn nữa
+3108|roi; (cứ nguyên) vậy
+3109|hiện thực
+3110|doanh nghiệp
+3111|cuộc bầu cử
+3112|hiện tượng
+3113|như thể
+3114|có vẻ
+3115|cấu trúc
+3116|ngược lại
+3117|người khác
+3118|ý thức
+3119|nhận ra
+3120|ngành công nghiệp
+3121|hình thái
+3122|công việc
+3123|điều, cách
+3124|giờ; thơ
+3125|so với
+3126|cơ quan
+3127|lập trường
+3128|đáng, xứng đáng
+3129|phương thức
+3130|ảnh hưởng
+3131|suối; trong
+3132|giai đoạn
+3133|nâng lên
+3134|giáo viên
+3135|mang, giữ
+3136|nghị viên
+3137|cư dân
+3138|sự tồn tại
+3139|lĩnh vực
+3140|hành vi
+3141|trình độ
+3142|thế hệ; cỡ lớn
+3143|chức năng
+3144|kịch
+3145|lao động
+3146|giá trị
+3147|tập thể
+3148|bộ trưởng
+3149|như, theo
+3150|vũ trụ
+3151|thời điểm
+3152|sản xuất
+3153|nông dân
+3154|lộ ra
+3155|tư thế
+3156|bông; mặt
+3157|nguyên nhân
+3158|ngôn ngữ
+3159|giám sát; đạo diễn
+3160|chịu, gặp phải
+3161|coi như
+3162|trước hết
+3163|tổ chức
+3164|khác
+3165|nhân vật
+3166|trước
+3167|tuy nhiên
+3168|đến, chạm; đưa
+3169|sân khấu
+3170|sự khẳng định
+3171|do bởi
+3172|nối
+3173|đối sách
+3174|không bao giờ
+3175|cạnh tranh
+3176|lần; gỏi cá sống
+3177|thực thi
+3178|quy mô
+3179|sự tính toán; lý do
+3180|chuẩn bị đủ
+3181|hiện trường
+3182|xây dựng
+3183|tồn tại
+3184|một lời
+3185|duy trì
+3186|hệ tư tưởng
+3187|vạn
+3188|tránh
+3189|đi qua
+3190|tiến lên
+3191|tri thức
+3192|vẫn
+3193|đường, tuyến
+3194|nhân loại
+3195|hình thức
+3196|khoác; vắt
+3197|trải qua
+3198|quan điểm
+3199|thằng, tên
+3200|cấu thành

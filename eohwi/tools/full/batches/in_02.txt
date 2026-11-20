@@ -1,0 +1,400 @@
+401|공부하다|động|工夫 công phu|to study
+402|닦다|động||to polish
+403|말씀|danh||word or speech
+404|괜찮다|tính||to be nice, good, passable, OK, all ri
+405|눈물|danh||tears
+406|아니|phó ||no; not
+407|주인|danh|主人 chủ nhân|master or owner
+408|드리다|trợ ||humble form of 주다; to offer, to give, 
+409|반|danh|半 bán|half
+410|귀|danh||ear, auricle
+411|미터|danh||meter; metre
+412|어떠하다|tính||alternative form of 어떻다
+413|배|danh||abdomen, belly
+414|아파트|danh||apartment building, block of flats
+415|가끔|phó ||occasionally, from time to time, not f
+416|술|danh||alcoholic beverage; liquor
+417|짧다|tính||short
+418|고맙다|tính||thankful
+419|그곳|đại ||there; that place, that part
+420|보다|phó ||to see, to look at, to watch
+421|바쁘다|tính||busy
+422|나쁘다|tính||to be bad
+423|게임|danh||game, especially computer games.
+424|잔|danh|盞 trản|a drinking cup
+425|있다|động||to stay, remain in a location
+426|언제|phó ||when
+427|내려오다|động||to come down, to descend, to get off
+428|손님|danh||guest, visitor
+429|아무|đại ||any
+430|뉴스|danh||a news broadcast
+431|수업|danh|授業 thụ nghiệp|a class
+432|겨울|danh||winter
+433|층|danh|層 tằng|storey or floor
+434|장|danh||sauce; marmalade; jam; compote; preser
+435|식사|danh|食事 thực sự|meal
+436|안다|động||to hug, to embrace
+437|잊다|động||to forget
+438|반|danh|班 ban|half
+439|텔레비전|danh||television
+440|씻다|động||to wash clean
+441|늦다|tính||to be late
+442|편지|danh|便紙 tiện chỉ|letter
+443|센티미터|danh||centimetreᵁᴷ; centimeter^
+444|팔|danh||arm
+445|설명|danh|說明 thuyết minh|explanation
+446|세|danh|歲 tuế|three
+447|티브이|danh||standard form of 티비
+448|봄|danh||spring, springtime
+449|낮다|tính||to be low
+450|어깨|danh||shoulders
+451|부부|danh|夫婦 phu phụ|couple, husband and wife; marital
+452|오래|phó ||long, for a long time or while
+453|여행|danh||travel
+454|공|danh||ball
+455|오월|danh|五月 ngũ nguyệt|May
+456|쉬다|động||to rest, to break, to relax, to take a
+457|과|danh|課 khóa|academic department
+458|오빠|danh||elder brother of a female
+459|즐겁다|tính||to be pleasant, to be enjoyable
+460|사월|danh|四月 tứ nguyệt|April
+461|싸우다|động||to fight or struggle
+462|언제|đại ||when
+463|예쁘다|tính||to be pretty, lovely, beautiful, comel
+464|나중|danh||the next time; a later time
+465|맛있다|tính||to be delicious
+466|며칠|danh||how many days?
+467|작년|danh|昨年 tạc niên|last year; the year before
+468|내려가다|động||to go down; to descend
+469|쓰레기|danh||trash, garbage
+470|고기|danh||meat; flesh
+471|가져오다|động||to bring something
+472|남녀|danh|男女 nam nữ|man and woman
+473|준비|danh|準備 chuẩn bị|readiness, preparation
+474|구월|danh|九月 cửu nguyệt|September
+475|맑다|tính||to be clear, clean, fresh, pure, limpi
+476|유월|danh||June
+477|허리|danh||side of waist or hip
+478|새|danh||bird
+479|영어|danh|英語 anh ngữ|the English language
+480|대답하다|động|對答 đối đáp|to answer or reply
+481|벗다|động||to take off or remove something from o
+482|준비하다|động|準備 chuẩn bị|to prepare
+483|돕다|động||to help; to contribute
+484|달|danh||moon; the Moon
+485|사장|danh|社長 xã trưởng|CEO or director of a company
+486|삼월|danh|三月 tam nguyệt|March
+487|그렇지만|phó ||nonetheless; however, but
+488|키|danh||height of a person or animal
+489|걱정|danh||anxiety; worry
+490|결혼하다|động|結婚 kết hôn|to marry, to get married
+491|누나|danh||older sister of a male
+492|질문|danh|質問 chất vấn|a question
+493|근처|danh|近處 cận xử|neighborhood; vicinity; the nearby are
+494|부모님|danh|父母 phụ mẫu|honorific of 부모
+495|계시다|động||honorific of 있다; to stay
+496|그|thán||that
+497|마리|danh||animals; head; fish
+498|비행기|danh|飛行機 phi hành cơ|airplane
+499|뜨겁다|tính||to be hot
+500|낮|danh||daytime
+501|일찍|phó ||early
+502|찍다|động||to chop
+503|가볍다|tính||light
+504|오전|danh|午前 ngọ tiền|a.m.
+505|가게|danh||store, shop
+506|약속|danh|約束 ước thúc|promise
+507|인사|danh|人事 nhân sự|greeting
+508|소금|danh||salt
+509|자전거|danh||bicycle
+510|그래|phân||like this, like that
+511|목|danh||neck
+512|피우다|động||to cause to bloom
+513|교통|danh|交通 giao thông|transportation
+514|거리|danh||road, street
+515|불다|động||to blow
+516|한글|danh||hangul; the Korean alphabet
+517|가을|danh||autumn, fall
+518|내일|danh||tomorrow
+519|매일|phó |每日 mỗi nhật|every day
+520|손가락|danh||finger
+521|급|danh|級 cấp|rank; level; grade
+522|날씨|danh||weather
+523|동물|danh|動物 động vật|animal
+524|의사|danh|醫師 y sư|doctor
+525|건강하다|tính|健康 kiện khang|to be healthy
+526|여러분|đại ||ladies and gentlemen; everyone
+527|왜냐하면|phó ||because; for the following reason.
+528|네|định||four
+529|도착하다|động|到着 đáo trước|to arrive
+530|병|danh|病 bệnh|bottle; jar
+531|따뜻하다|tính||warm
+532|축구|danh|蹴球 xúc cầu|football, soccer
+533|밝다|tính||to be bright, to be brilliant
+534|장소|danh|場所 trường sở|place
+535|적다|động||to be little, to be few
+536|코|danh||nose
+537|고등학교|danh|高等學校 cao đẳng học hiệu|high school
+538|교실|danh|敎室 giao thất|classroom
+539|별|danh||a star
+540|복잡하다|tính|複雜 phức tạp|to be complicated
+541|색|danh|色 sắc|colour, color
+542|똑같다|tính||just the same, exactly equal, identica
+543|말씀하다|động||to speak, to say
+544|보통|danh|普通 phổ thông|averageness, normality, usuality, gene
+545|식당|danh|食堂 thực đường|restaurant
+546|소개하다|động|紹介 thiệu giới|to introduce
+547|칠월|danh|七月 thất nguyệt|July
+548|십이월|danh|十二月 thập nhị nguyệt|December
+549|컵|danh||cup
+550|종이|danh||paper
+551|계시다|trợ ||honorific of 있다; to stay
+552|재미|danh||fun; enjoyment
+553|떡|danh||rice cake; tteok
+554|끝내다|động||To finish something.
+555|대답|danh|對答 đối đáp|answer; response
+556|시작|danh|始作 thủy tác|start, beginning
+557|일주일|danh|一週日 nhất chu nhật|A week; seven days.
+558|춤|danh||dance
+559|드리다|động||humble form of 주다; to offer, to give, 
+560|깨끗하다|tính||to be clean
+561|물어보다|động||to ask
+562|미안하다|tính|未安 vị an|to be ashamed of oneself
+563|스트레스|danh||stress
+564|인사|danh|人士 nhân sĩ|greeting
+565|과일|danh||fruit
+566|눈|danh||eye
+567|시월|danh|十月 thập nguyệt|October
+568|박물관|danh|博物館 bác vật quán|museum
+569|어서|phó ||quickly
+570|팔월|danh|八月 bát nguyệt|August
+571|가방|danh||bag; briefcase
+572|호|danh|號 hiệu|number, issue, edition
+573|해|danh||the Sun
+574|그릇|danh||bowl; vessel
+575|개|danh||dog
+576|라디오|danh||radio
+577|방학|danh|放學 phóng học|school vacation; school holiday
+578|남쪽|danh|南 nam|The South.
+579|색깔|danh|色 sắc|color
+580|요리|danh||cooking; cuisine.
+581|유명하다|tính|有名 hữu danh|to be famous
+582|외국인|danh|外國人 ngoại quốc nhân|foreigner
+583|부인|danh|夫人 phu nhân|wife
+584|뛰다|động||to run
+585|숙제|danh|宿題 túc đề|homework
+586|우산|danh|雨傘 vũ tản|umbrella
+587|지난달|danh||last month
+588|책상|danh|冊床 sách sàng|desk
+589|춥다|tính||cold
+590|둘째|số t||second, next after the first; the ordi
+591|무겁다|tính||to be heavy
+592|바람|danh||wind, air, draft
+593|침대|danh|寢臺 tẩm đài|bed
+594|권|danh|卷 quyển|volumes
+595|시계|danh|時計 thời kế|a clock, a watch, a timepiece
+596|잎|danh||leaf, leafage, foliage
+597|천천히|phó ||slowly
+598|스포츠|danh||sports
+599|저기|đại ||over there
+600|교회|danh|敎會 giao hội|church
+601|화|danh||anger; rage
+602|일월|danh|一月 nhất nguyệt|January
+603|첫째|số t||first
+604|도서관|danh|圖書館 đồ thư quán|library
+605|선물|danh|膳物 thiện vật|gift; present
+606|아주머니|danh||a woman of one's parents' age
+607|위험|danh|危險 nguy hiểm|danger
+608|지하|danh|地下 địa hạ|below ground
+609|지하철|danh|地下鐵 địa hạ thiết|subway
+610|사무실|danh|事務室 sự vụ thất|office
+611|이월|danh|二月 nhị nguyệt|February
+612|일요일|danh|日曜日 nhật diệu nhật|Sunday
+613|쓰다|động||to wear, to put on
+614|강|danh|江 giang|river
+615|비싸다|tính||expensive
+616|왼쪽|danh||left side
+617|택시|danh||taxi
+618|시원하다|tính||to be refreshing
+619|어디|thán||where
+620|뛰다|động||to run
+621|않다|động||auxiliary adjective used to negate the
+622|잡지|danh|雜誌 tạp chí|magazine
+623|댁|danh|宅 trạch|house, home, residence
+624|반갑다|tính||to be glad, happy; pleasant; welcome
+625|다녀오다|động||to return; to come back; to go and the
+626|비디오|danh||video
+627|이쪽|đại ||This side
+628|연습|danh||practice, exercise
+629|오른쪽|danh||right-hand; the right side
+630|지도|danh|地圖 địa đồ|map
+631|화장실|danh|化粧室 hóa trang thất|bathroom; restroom; toilet
+632|주말|danh|週末 chu mạt|weekend
+633|내년|danh|來年 lai niên|next year
+634|대학생|danh|大學生 đại học sinh|college student, university student
+635|닫다|động||to close, to shut
+636|생일|danh|生日 sinh nhật|birthday
+637|걸어가다|động||to walk, to go on foot, to go by walki
+638|백화점|danh|百貨店 bách hóa điếm|department store
+639|병|danh|甁 bình|bottle; jar
+640|안녕하다|tính|安寧 an ninh|well, healthy
+641|출발하다|động|出發 xuất phát|to depart
+642|고양이|danh||cat
+643|중학교|danh|中學校 trung học hiệu|middle school
+644|흰색|danh||The color white.
+645|가수|danh|歌手 ca thủ|a singer, usually professional
+646|약|danh|藥 dược|drug; medicine
+647|저쪽|đại ||over there
+648|창문|danh|窓門 song môn|window
+649|우유|danh|牛乳 ngưu nhũ|cow's milk
+650|표|danh|票 phiếu|ticket
+651|십일월|danh|十一月 thập nhất nguyệt|November
+652|거울|danh||mirror
+653|빵|danh||bread
+654|어제|phó ||yesterday
+655|위험하다|tính|危險 nguy hiểm|dangerous
+656|졸업하다|động|卒業 tốt nghiệp|to graduate
+657|부엌|danh||kitchen
+658|북쪽|danh|北 bắc|north, northward
+659|쇠고기|danh||beef
+660|주|danh|週 châu|week
+661|카드|danh||card
+662|단어|danh|單語 đơn ngữ|an individual word
+663|도와주다|động||to help, to assist, to aid, to give a 
+664|신발|danh||shoes, footwear, footgear
+665|김치|danh||kimchi, a dish made with fermented, se
+666|날다|động||to fly
+667|설탕|danh|雪糖 tuyết đường|sugar
+668|싸다|tính||to be cheap, to be inexpensive
+669|어제|danh||yesterday
+670|점심|danh|點心 điểm tâm|lunch, luncheon
+671|칼|danh||knife, sword
+672|슬프다|tính||to be sad
+673|의자|danh|椅子 ỷ tử|chair, sofa
+674|카메라|danh||camera
+675|토요일|danh|土曜日 thổ diệu nhật|Saturday
+676|경찰관|danh|警察官 cảnh sát quan|policeman, police officer
+677|극장|danh|劇場 kịch trường|theater
+678|오랜만|danh||long time; the first occurrence after 
+679|백|định|百 bách|hundred
+680|아줌마|danh||middle-aged elder female
+681|추다|động||to dance
+682|켜다|động||To light an oil lamp or candle; strike
+683|공항|danh|空港 không cảng|airport
+684|군인|danh|軍人 quân nhân|military personnel; soldier
+685|아니요|thán||no
+686|치마|danh||skirt
+687|호텔|danh||hotel
+688|깎다|động||to cut, shave, shear, peel, mow, clip
+689|다리|danh||bridge
+690|청소|danh|淸掃 thanh tảo|cleaning
+691|걱정하다|động||to worry, to feel concerned
+692|구름|danh||cloud
+693|끄다|động||to extinguish; to douse a fire or ligh
+694|계절|danh|季節 quý tiết|season
+695|운동장|danh|運動場 vận động trường|sports ground
+696|동쪽|danh|東 đông|east
+697|잠깐|danh||for a short time, for a moment, awhile
+698|주|danh|週 châu|week
+699|요즈음|danh||today; the present
+700|잃어버리다|động||to lose; to no longer have in one's po
+701|잠깐|phó ||for a short time, for a moment, awhile
+702|조용하다|tính||to be silent, quiet, still, calm, empt
+703|한복|danh|韓服 hàn phục|hanbok
+704|라면|danh||instant noodle
+705|바지|danh||pants, trousers
+706|싫어하다|động||to detest, to loathe
+707|테이블|danh||table
+708|피곤하다|tính|疲困 bì khốn|tired
+709|한국어|danh|韓國語 hàn quốc ngữ|the Korean language
+710|한자|danh|漢字 hán tự|hanja
+711|시|danh|市 thị|hour
+712|안경|danh|眼鏡 nhãn kính|glasses, spectacles
+713|약속하다|động|約束 ước thúc|to promise
+714|취미|danh|趣味 thú vị|hobby
+715|덥다|tính||to be hot
+716|둘째|định||second, next after the first; the ordi
+717|야구|danh|野球 dã cầu|baseball
+718|이|danh||this
+719|구경|danh||a viewing
+720|그분|đại ||that gentleman, that lady, he, she
+721|신다|động||to wear on one's feet
+722|죄송하다|tính|罪悚 tội tủng|to be sorry, to feel apologetic
+723|크다|động||to be big, large
+724|그럼|thán||then, in that case
+725|셋|số t||three
+726|생선|danh|生鮮 sinh tiên|fish
+727|지우다|động||to erase; to rub out; to wipe away
+728|셋째|số t||third
+729|졸업|danh|卒業 tốt nghiệp|graduation
+730|닭|danh||chicken
+731|맥주|danh|麥酒 mạch tửu|beer
+732|교과서|danh|敎科書 giao khoa thư|a textbook
+733|돼지|danh||pig, swine
+734|수영|danh|水泳 thủy vịnh|swimming
+735|잊어버리다|động||to forget; to slip one's mind
+736|기차|danh|汽車 khí xa|train
+737|식탁|danh|食卓 thực trác|dinner table
+738|공원|danh|公園 công viên|park
+739|안되다|động||to fail, to not do/go well
+740|날짜|danh||date, days
+741|샌드위치|danh||sandwich
+742|그쪽|đại ||there, that way
+743|차|danh||vehicle
+744|검은색|danh||black
+745|여보세요|thán||hello
+746|천|định|千 thiên|cloth; fabric
+747|거|đại ||alternative form of 것
+748|서쪽|danh|西 tây|west
+749|경찰서|danh|警察署 cảnh sát thự|police station
+750|구두|danh||dress shoes
+751|사과|danh|沙果 sa quả|apple
+752|여학생|danh||female student
+753|냉장고|danh|冷藏庫 lãnh tạng khố|refrigerator
+754|감기|danh|感氣 cảm khí|a cold; common cold; influenza
+755|결혼식|danh|結婚式 kết hôn thức|wedding ceremony
+756|노래하다|động||to sing a song
+757|내일|phó ||tomorrow
+758|늦다|động||to be late
+759|연필|danh|鉛筆 duyên bút|a pencil
+760|운전|danh|運轉 vận chuyển|driving
+761|몇|số t||how many
+762|불고기|danh||bulgogi; a Korean dish of shredded bee
+763|목욕|danh|沐浴 mộc dục|bath, bathing
+764|전화번호|danh|電話番號 điện thoại phiên hiệu|telephone number
+765|감사하다|tính|感謝 cảm tạ|to be thankful
+766|만|định|萬 vạn|ten thousand
+767|지갑|danh|紙匣 chỉ hộp|wallet, purse
+768|친절하다|tính|親切 thân thiết|to be kind, to be cordial
+769|먹다|trợ ||to eat, drink, have, consume
+770|못하다|tính||cannot; to be unable, or impossible
+771|저거|đại ||that thing
+772|걸어오다|động||To walk, to come on foot, to come by w
+773|모자|danh|帽子 mạo tử|hat, cap
+774|소파|danh||sofa
+775|스무|định||twenty
+776|역|danh|驛 dịch|station
+777|인사하다|động|人事 nhân sự|to greet
+778|여권|danh||passport
+779|열쇠|danh||key
+780|오렌지|danh||orange
+781|다|danh||For the verb-final suffix, see the ent
+782|번호|danh|番號 phiên hiệu|number
+783|저것|đại ||that
+784|수박|danh||watermelon
+785|첫째|định||first
+786|과자|danh|菓子 quả tử|sweet; confection
+787|대학교|danh|大學校 đại học hiệu|college, university
+788|돼지고기|danh||pork
+789|안녕히|phó |安寧 an ninh|peacefully, in peace
+790|전화하다|động|電話 điện thoại|to call by telephone
+791|수건|danh|手巾 thủ cân|towel
+792|양복|danh|洋服 dương phục|Western clothing; a suit; a dress
+793|잠자다|động||to sleep
+794|젓가락|danh||chopsticks
+795|피아노|danh||piano
+796|축하하다|động|祝賀 chúc hạ|to congratulate, to celebrate, to feli
+797|기숙사|danh|寄宿舍 ký túc xá|dormitory, dorm, hall of residence
+798|산책|danh|散策 tán sách|walk, stroll
+799|운동하다|động|運動 vận động|to exercise
+800|월요일|danh|月曜日 nguyệt diệu nhật|Monday

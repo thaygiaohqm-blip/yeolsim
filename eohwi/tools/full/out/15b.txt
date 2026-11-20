@@ -1,0 +1,165 @@
+5801|thực phẩm
+5802|làm nguội
+5803|được rửa
+5804|làm đông
+5805|mùa thu năm nay
+5806|áo sơ mi nam
+5807|người bề trên
+5808|di dân
+5809|người khác giới
+5810|giờ thì, cuối cùng
+5811|vào công ty
+5812|cho ngủ
+5813|được trưng bày
+5814|buồn ngủ
+5815|cơn buồn ngủ
+5816|lời chú; đơn đặt hàng
+5817|trí thông minh
+5818|luống cuống
+5819|mùa; sự khôn lớn
+5820|được thêm vào
+5821|phương pháp điều trị
+5822|dọn đi (trợ động từ)
+5823|con trai cả
+5824|hạng đặc biệt
+5825|được nới lỏng
+5826|giữa mùa đông
+5827|cả đời
+5828|bãi tắm biển
+5829|ha ha
+5830|số phòng
+5831|trở nên âm u
+5832|mong muốn
+5833|thấy vất vả
+5834|giảng bài
+5835|biểu diễn
+5836|quả quýt
+5837|khoa nội
+5838|cầu vồng
+5839|ngữ pháp
+5840|món xào
+5841|bowling
+5842|chim bồ câu
+5843|sinh hoạt phí
+5844|mang tính thời đại
+5845|cửa trước
+5846|vỉa hè; Ấn Độ
+5847|thêm vào
+5848|bóng bàn
+5849|hiện đại
+5850|cuối thu
+5851|xấu xí
+5852|rạp chiếu phim
+5853|mang tính nghệ thuật
+5854|mẹ vợ
+5855|đồ chiên
+5856|cố cung
+5857|cúc áo
+5858|mang tính đại chúng
+5859|rong biển wakame
+5860|nói trống không
+5861|màu hồng
+5862|chú (em của bố)
+5863|thượng tuần
+5864|xuất viện
+5865|hạ tuần
+5866|đã kết hôn
+5867|con dấu
+5868|gà tần sâm samgyetang
+5869|đặt trước
+5870|sấm
+5871|sự xuất viện
+5872|lười biếng
+5873|quà lưu niệm
+5874|lá phong, lá đỏ mùa thu
+5875|mang tính văn học
+5876|trơn
+5877|quả đào
+5878|con trai một
+5879|bố vợ
+5880|đông tây nam bắc
+5881|ông ngoại
+5882|nhập cảnh
+5883|nhà thi đấu
+5884|tối thiểu
+5885|mì cắt dao
+5886|bác (anh của bố)
+5887|mang tính quốc dân
+5888|tuyến quốc tế
+5889|người phương Đông
+5890|khoa mắt
+5891|nhà hàng tiệc cưới
+5892|tiền thuê nhà tháng
+5893|sự khám bệnh
+5894|con gái cả
+5895|sự vắng mặt
+5896|cảm cúm nặng
+5897|màu tím
+5898|màu xanh nõn chuối
+5899|sàn sưởi ondol
+5900|xuất nhập cảnh
+5901|nhạc cổ điển
+5902|nhạc pop
+5903|fax
+5904|tuyến nội địa
+5905|canh bánh gạo
+5906|xe buýt liên tỉnh
+5907|sân bóng chày
+5908|con trai thứ
+5909|chuồn chuồn; giường ngủ
+5910|chị dâu (vợ của anh)
+5911|xe buýt du lịch
+5912|hôm kia
+5913|làm mát
+5914|bệnh về mắt
+5915|kim chi cải thảo
+5916|bút chì màu
+5917|khoa nhi
+5918|dương lịch
+5919|thím, dì
+5920|sân bóng đá
+5921|Ngày Hangeul
+5922|món ăn Hàn
+5923|bốn
+5924|máy photocopy
+5925|con trai (kính ngữ)
+5926|vắng mặt
+5927|ngày kỷ niệm
+5928|ba năm nữa
+5929|con gái (kính ngữ)
+5930|cửa hàng thực phẩm
+5931|vị hôn thê
+5932|hôm qua
+5933|việc học trước
+5934|học trước
+5935|có mặt
+5936|bác gái
+5937|gâu gâu
+5938|phấn
+5939|vị hôn phu/thê
+5940|món Tây; mẫu
+5941|khoa ngoại
+5942|tiệm bánh
+5943|món ăn Trung
+5944|tương cà
+5945|cửa hàng tiện lợi
+5946|tiệm làm đẹp
+5947|món ăn Nhật; nhật thực
+5948|con gái thứ
+5949|học sinh tiểu học
+5950|Goguryeo
+5951|Goryeo
+5952|núi Kumgang
+5953|kim chi củ cải thái vuông
+5954|Nam Mỹ
+5955|phố Daehangno
+5956|núi Paektu
+5957|Baekje
+5958|vua Sejong
+5959|Silla
+5960|Andong
+5961|Jeonju
+5962|Joseon
+5963|núi Jiri
+5964|Bình Nhưỡng
+5965|bán đảo Triều Tiên

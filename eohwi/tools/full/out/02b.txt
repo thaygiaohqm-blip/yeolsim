@@ -1,0 +1,200 @@
+601|cơn giận
+602|tháng Một
+603|thứ nhất
+604|thư viện
+605|quà tặng
+606|bác, cô (phụ nữ trung niên)
+607|nguy hiểm
+608|dưới lòng đất
+609|tàu điện ngầm
+610|văn phòng
+611|tháng Hai
+612|Chủ nhật
+613|đội, đeo (mũ, kính); viết; dùng
+614|sông
+615|đắt
+616|bên trái
+617|taxi
+618|mát mẻ, sảng khoái
+619|đâu
+620|chạy
+621|không (phủ định phụ trợ)
+622|tạp chí
+623|nhà (kính ngữ)
+624|vui mừng, hân hạnh
+625|đi rồi về
+626|video
+627|phía này
+628|luyện tập
+629|bên phải
+630|bản đồ
+631|nhà vệ sinh
+632|cuối tuần
+633|năm sau
+634|sinh viên đại học
+635|đóng
+636|sinh nhật
+637|đi bộ
+638|trung tâm bách hóa
+639|chai, lọ
+640|khỏe, bình an
+641|xuất phát
+642|con mèo
+643|trường cấp hai
+644|màu trắng
+645|ca sĩ
+646|thuốc
+647|phía kia
+648|cửa sổ
+649|sữa bò
+650|vé
+651|tháng Mười một
+652|gương
+653|bánh mì
+654|hôm qua
+655|nguy hiểm
+656|tốt nghiệp
+657|nhà bếp
+658|phía bắc
+659|thịt bò
+660|tuần
+661|thẻ
+662|từ vựng, từ
+663|giúp đỡ
+664|giày
+665|kim chi
+666|bay
+667|đường (gia vị)
+668|rẻ
+669|hôm qua
+670|bữa trưa
+671|dao
+672|buồn
+673|ghế
+674|máy ảnh
+675|thứ Bảy
+676|cảnh sát
+677|rạp hát
+678|lâu rồi mới
+679|trăm
+680|cô, dì (phụ nữ trung niên)
+681|nhảy múa
+682|bật; châm lửa
+683|sân bay
+684|quân nhân
+685|không
+686|váy
+687|khách sạn
+688|gọt, cắt, cạo
+689|cây cầu; chân
+690|dọn dẹp
+691|lo lắng
+692|đám mây
+693|tắt
+694|mùa
+695|sân vận động
+696|phía đông
+697|một lát
+698|tuần
+699|dạo này
+700|làm mất
+701|một lát
+702|yên tĩnh
+703|hanbok
+704|mì ăn liền
+705|quần
+706|ghét
+707|cái bàn
+708|mệt mỏi
+709|tiếng Hàn
+710|chữ Hán
+711|giờ; thành phố
+712|kính mắt
+713|hứa hẹn, hẹn
+714|sở thích
+715|nóng
+716|thứ hai
+717|bóng chày
+718|này
+719|sự tham quan
+720|vị ấy, người ấy
+721|mang, đi (giày)
+722|xin lỗi
+723|to, lớn
+724|vậy thì
+725|ba
+726|cá
+727|xóa
+728|thứ ba
+729|sự tốt nghiệp
+730|con gà
+731|bia
+732|sách giáo khoa
+733|con heo
+734|bơi lội
+735|quên mất
+736|tàu hỏa
+737|bàn ăn
+738|công viên
+739|không thành, không tốt
+740|ngày tháng
+741|bánh sandwich
+742|phía đó
+743|xe; trà
+744|màu đen
+745|a-lô
+746|nghìn; vải
+747|cái (dạng rút gọn của 것)
+748|phía tây
+749|đồn cảnh sát
+750|giày da
+751|táo; lời xin lỗi
+752|nữ sinh
+753|tủ lạnh
+754|cảm cúm
+755|lễ cưới
+756|hát
+757|ngày mai
+758|muộn
+759|bút chì
+760|lái xe
+761|mấy
+762|bulgogi, thịt bò nướng
+763|tắm
+764|số điện thoại
+765|cảm ơn
+766|vạn, mười nghìn
+767|ví
+768|tử tế, thân thiện
+769|ăn, uống
+770|không làm được, kém
+771|cái kia
+772|đi bộ đến
+773|mũ
+774|ghế sofa
+775|hai mươi
+776|ga
+777|chào hỏi
+778|hộ chiếu
+779|chìa khóa
+780|quả cam
+781|hết, tất cả
+782|số
+783|cái kia
+784|dưa hấu
+785|thứ nhất
+786|bánh kẹo
+787|trường đại học
+788|thịt heo
+789|bình an (khi chào tạm biệt)
+790|gọi điện
+791|khăn tắm
+792|com-lê
+793|ngủ
+794|đũa
+795|đàn piano
+796|chúc mừng
+797|ký túc xá
+798|đi dạo
+799|tập thể dục
+800|thứ Hai

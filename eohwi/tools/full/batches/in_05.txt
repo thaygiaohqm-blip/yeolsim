@@ -1,0 +1,400 @@
+1601|맞다|động||to be correct, right
+1602|시리즈|danh||a series, especially in sports or ente
+1603|임신|danh|妊娠 nhâm huyên|pregnancy
+1604|잡히다|động||to be caught
+1605|그램|danh||gram
+1606|밭|danh||dry field, dry land for crops
+1607|분석하다|động|分析 phân tích|to analyze
+1608|식구|danh|食口 thực khẩu|mouth to feed; dependent
+1609|울리다|động||to sound or ring, or make a sound
+1610|확실하다|tính|確實 xác thực|to be certain or definite
+1611|글자|danh||letter, character
+1612|연구하다|động|硏究 nghiên cứu|to conduct research
+1613|착하다|tính||to be good-hearted, to be kind, to be 
+1614|부동산|danh|不動産 bất động sản|real estate
+1615|점|danh|點 điểm|point, spot; dot, period, full stop
+1616|직업|danh|職業 chức nghiệp|job, work, occupation, career, vocatio
+1617|조상|danh|祖上 tổ thượng|One’s deceased ancestor or ancestors.
+1618|검다|tính||to be black
+1619|곁|danh||the vicinity or side of something
+1620|너희|đại ||you; you guys; you all
+1621|따다|động||to pick, to pluck
+1622|문제점|danh|問題點 vấn đề điểm|a problematic or controversial point
+1623|불가능하다|tính||to be impossible
+1624|인제|phó ||now, but late; finally
+1625|충격|danh|衝擊 xung kích|A blow or impact, especially from an o
+1626|금방|phó |今方 kim phương|soon, shortly
+1627|누르다|động||to press, to push
+1628|미술|danh|美術 mỹ thuật|visual art
+1629|꽤|phó ||To a more than ordinary degree; rather
+1630|서로|danh||mutually, with each other, with one an
+1631|한참|danh||A while; quite a while.
+1632|끊다|động||to cut, to sever
+1633|넘어가다|động||to collapse or tilt
+1634|담기다|động||to be put in; to go into; to be includ
+1635|서두르다|động||to hurry
+1636|충분하다|tính|充分 sung phân|to be sufficient or adequate
+1637|기쁘다|tính||to be happy, to be glad
+1638|기쁨|danh||joy; happiness
+1639|깊이|phó ||deeply; profoundly
+1640|꾸미다|động||to adorn, to decorate
+1641|늘리다|động||to expand something
+1642|무릎|danh||knee
+1643|발견되다|động|發見 phát kiến|to be discovered
+1644|이용|danh||use; utilization
+1645|지르다|động||to stir, stick, thrust, insert
+1646|걸음|danh||A step or steps.
+1647|겨우|phó ||barely
+1648|마르다|động||to dry up
+1649|비교적|phó |比較的 tỉ giảo đích|comparative
+1650|높아지다|động||to be heightened or raised; to become 
+1651|늙다|động||to age; to grow old
+1652|상상|danh|想像 tưởng tượng|imagination
+1653|뜨다|động||to float, to stay afloat
+1654|스타|danh||star
+1655|입술|danh||lips
+1656|중간|danh|中間 trung gian|the middle
+1657|몹시|phó ||Exceedingly; to the greatest possible 
+1658|특별하다|tính|特別 đặc biệt|to be special or exceptional
+1659|가까이|phó ||closely, close together; nearby
+1660|낫다|tính||to recover from an illness, to get bet
+1661|넘어서다|động||To cross over or pass through.
+1662|볶다|động||to parch, to roast, to stir-fry
+1663|언젠가|phó ||at some time
+1664|예술가|danh|藝術家 nghệ thuật gia|artist
+1665|가만히|phó ||still; not moving
+1666|한두|định||one or two
+1667|흙|danh||earth, soil, dirt, ground
+1668|가난하다|tính||poor
+1669|고객|danh|顧客 cố khách|customer
+1670|과학자|danh|科學者 khoa học giả|scientist
+1671|관광|danh|觀光 quan quang|tourism
+1672|수술|danh|手術 thủ thuật|surgery
+1673|식품|danh|食品 thực phẩm|groceries; foodstuffs
+1674|연기|danh|演技 diễn kỹ|acting
+1675|회원|danh|會員 hội viên|member; members
+1676|들려오다|động||to be bruited about; to have come to h
+1677|조금씩|phó ||incrementally; bit by bit
+1678|풀리다|động||To be untied.
+1679|들여다보다|động||To look into
+1680|마늘|danh||garlic
+1681|습관|danh|習慣 tập quán|habit
+1682|활용하다|động|活用 hoạt dụng|to apply; to make use of
+1683|가꾸다|động||To cultivate.
+1684|고민|danh|苦悶 khổ muộn|agony, anguish, worry, trouble, woe
+1685|떠올리다|động||To make someone think of something; to
+1686|맨|định||utmost, most
+1687|상처|danh|傷處 thương xử|wound; injury
+1688|좁다|tính||to be narrow
+1689|집다|động||to pick up
+1690|군|danh|君 quân|army
+1691|대표적|danh|代表的 đại biểu đích|representative; supreme
+1692|만일|danh|萬一 vạn nhất|if; perchance
+1693|사회적|danh|社會的 xã hội đích|societal; social
+1694|생겨나다|động||To emerge; to be generated.
+1695|주부|danh|主婦 chủ phụ|housewife
+1696|태양|danh|太陽 thái dương|sun; the Sun
+1697|틀림없다|tính||to be precisely correct
+1698|프로|danh||percent
+1699|피다|động||to bloom
+1700|도로|danh|道路 đạo lộ|road, thoroughfare
+1701|잘못|phó ||mistake
+1702|지다|động||to fall; to sink; to set; to go down
+1703|채우다|động||to fill; to cause to be filled
+1704|부족|danh|部族 bộ tộc|insufficiency; inadequacy
+1705|달리다|động||to run, to ride
+1706|더하다|động||to be more than
+1707|보통|phó |普通 phổ thông|averageness, normality, usuality, gene
+1708|참|thán||truly, really
+1709|총장|danh|總長 tổng trưởng|president of a university
+1710|단순히|phó |單純 đơn thuần|simply; straightforwardly
+1711|달려가다|động||to go in a hurry; to rush, to go runni
+1712|방문|danh|訪問 phỏng vấn|visit; visiting
+1713|불만|danh||dissatisfaction; discontent
+1714|불편하다|tính||to be inconvenient, to be uncomfortabl
+1715|실제|danh|實際 thực tế|practically; in fact
+1716|종|danh|種 chủng|servant
+1717|피|danh||blood
+1718|관객|danh|觀客 quan khách|member of an audience
+1719|막|phó ||contraction of 마구
+1720|밀리미터|danh||millimeter
+1721|숫자|danh|數字 số tự|numeral
+1722|열|danh|熱 nhiệt|ten
+1723|계산|danh|計算 kế toán|calculation, reckoning
+1724|놀랍다|tính||to be surprising
+1725|예전|danh||the old days, the old times, the past,
+1726|저|thán||that
+1727|전기|danh|電氣 điện khí|electricity
+1728|틀리다|động||to become turned, twisted
+1729|모델|danh||model
+1730|붓다|động||to pour
+1731|고모|danh|姑母 cô mẫu|paternal aunt
+1732|궁금하다|tính||to be curious
+1733|딱|phó ||while colliding together
+1734|약하다|tính|弱 nhược|to be weak
+1735|잘못하다|động||to err; to make a mistake; to do somet
+1736|공무원|danh|公務員 công vụ viên|public official; public servant; civil
+1737|그만두다|động||To quit.
+1738|부족|danh|不足 bất túc|insufficiency; inadequacy
+1739|달다|động||to become hot
+1740|행복하다|tính|幸福 hạnh phúc|to be happy
+1741|굽다|động||to be bent, curved, crooked, humped, h
+1742|기름|danh||oil
+1743|쏟아지다|động||To splash out, to be spilled or poured
+1744|기억하다|động|記憶 ký ức|to remember
+1745|토론|danh|討論 thảo luận|debate, controversy
+1746|고급|danh|高級 cao cấp|seniority, high rank
+1747|고생|danh|苦生 khổ sinh|suffering
+1748|미치다|động||to go crazy, to become insane
+1749|밟다|động||to step, to tread, to trample
+1750|섞다|động||to mix
+1751|없애다|động||to eliminate
+1752|이뤄지다|động||alternative form of 이루어지다
+1753|정상|danh|頂上 đỉnh thượng|normality
+1754|화장품|danh|化粧品 hóa trang phẩm|cosmetics
+1755|굵다|tính||to be thick
+1756|깨끗이|phó ||clean; in a clean fashion
+1757|낡다|tính||to become worn out, old
+1758|눈앞|danh||nearby
+1759|방문하다|động|訪問 phỏng vấn|to visit
+1760|붉다|tính||to be red
+1761|순서|danh|順序 thuận tự|order; sequence
+1762|아무래도|phó ||no matter what; anyway
+1763|연구소|danh|硏究所 nghiên cứu sở|A research institute.
+1764|이사|danh|移徙 di tỉ|moving
+1765|들르다|động||to stop by
+1766|섬|danh||island, islet or insular
+1767|이하|danh|以下 dĩ hạ|the following; hereinafter
+1768|참석하다|động|參席 tham tịch|to attend a meeting or other gathering
+1769|해결|danh|解決 giải quyết|resolution
+1770|행복|danh|幸福 hạnh phúc|happiness
+1771|근로자|danh|勤勞者 cần lao giả|laborer; worker
+1772|글쎄|thán||well
+1773|변화하다|động|變化 biến hóa|to change
+1774|결정되다|động|決定 quyết định|to be decided; to be arrived at as a d
+1775|불안|danh||anxiety, uneasiness
+1776|여유|danh|餘裕 dư dụ|leeway; remainder; extra time or space
+1777|킬로미터|danh||kilometer
+1778|파도|danh|波濤 ba đào|A wave of water or emotion.
+1779|단|định|單 đơn|sheaf
+1780|방송국|danh|放送局 phóng tống cục|broadcaster; station
+1781|숨다|động||to hide, disappear
+1782|예금|danh||deposit; savings
+1783|입학|danh|入學 nhập học|admission or entrance to a school
+1784|물다|động||to bite
+1785|어느새|phó ||suddenly; already; before you know it
+1786|초|danh|秒 miểu|the SI unit of time, second
+1787|치즈|danh||cheese
+1788|반대하다|động|反對 phản đối|to oppose
+1789|아이고|thán||expression of surprise; oh, ouch
+1790|조용히|phó ||silently, quietly
+1791|가스|danh||gas
+1792|구멍|danh||hole, aperture, opening
+1793|만화|danh|漫畵 mạn họa|comics, manga, manhwa, manhua
+1794|먹이다|động||causative of 먹다:
+1795|무시하다|động|無視 vô thị|to ignore, to slight
+1796|살짝|phó ||subtly, slightly
+1797|생각나다|động||to occur to someone, to come to mind
+1798|차갑다|tính||to be cold, icy, cold-hearted
+1799|관찰하다|động|觀察 quan sát|to observe
+1800|괜히|phó ||for nothing
+1801|끼다|động||contraction of 끼우다
+1802|날개|danh||wing
+1803|녀석|danh||dude, fellow
+1804|눈빛|danh||the color of one's eyes, the expressio
+1805|단지|danh|團地 đoàn địa|just, only; simply
+1806|물속|danh||in the water, underwater
+1807|성공하다|động|成功 thành công|to succeed
+1808|소나무|danh||pine, pine tree
+1809|여기저기|danh||here and there, everywhere
+1810|머무르다|động||to stay, to remain
+1811|싸다|động||to be cheap, to be inexpensive
+1812|형제|danh|兄弟 huynh đệ|brothers
+1813|화려하다|tính|華麗 hoa lệ|gorgeous, splendid, resplendent
+1814|딴|định||another, other; different
+1815|몇몇|định||some, a few
+1816|세계적|danh|世界的 thế giới đích|global
+1817|안전|danh|安全 an toàn|safety
+1818|양파|danh|洋 dương|onion
+1819|이상|danh|異常 dị thường|an amount more than
+1820|촬영|danh|撮影 toát ảnh|shooting, filming, photography
+1821|틀다|động||to turn, twist, wrench
+1822|가지|danh||kind, sort; variety
+1823|감다|động||to close one's eyes
+1824|고추|danh||The chili pepper, often specifically t
+1825|규칙|danh|規則 quy tắc|rule
+1826|아마도|phó ||maybe
+1827|안방|danh||inner room
+1828|앓다|động||to suffer from an illness
+1829|오직|phó ||only, solely, alone, exclusively, but
+1830|자신|danh|自信 tự tín|one's body
+1831|잠시|danh|暫時 tạm thời|a moment, short time
+1832|포함되다|động|包含 bao hàm|to be included
+1833|호랑이|danh|虎狼 hổ lang|tiger
+1834|덜|phó ||less
+1835|둥글다|tính||to be round, circular
+1836|본래|danh|本來 bản lai|originally
+1837|세금|danh||tax, duty
+1838|입구|danh|入口 nhập khẩu|entrance
+1839|잔뜩|phó ||very, quite, heavily
+1840|적극|danh|積極 tích cực|activity; positive engagement
+1841|최소한|danh|最小限 tối tiểu hạn|at least
+1842|펼쳐지다|động||to unfold
+1843|경험하다|động|經驗 kinh nghiệm|to experience
+1844|넘치다|động||to overflow, to run over, to brim over
+1845|놓치다|động||to let something slip, to let somethin
+1846|돌아보다|động||to look back
+1847|또다시|phó ||again, once more, once again
+1848|머릿속|danh||inside one's mind
+1849|불안하다|tính||uneasy, anxious
+1850|위반|danh|違反 vi phản|violation, breach
+1851|평생|danh|平生 bình sinh|one's entire life, lifetime
+1852|굉장히|phó |宏壯 hoành tráng|very, greatly
+1853|덮다|động||to cover
+1854|몰다|động||to drive
+1855|배우|danh|俳優 bài ưu|actor
+1856|알|danh||egg, roe
+1857|앞서다|động||to precede, to come before
+1858|오래전|danh||long ago, long before
+1859|자격|danh|資格 tư cách|qualifications
+1860|계단|danh|階段 giai đoạn|stairs, staircase, stairway; ladder
+1861|끄덕이다|động||to nod
+1862|낯설다|tính||strange
+1863|높이|danh||height
+1864|닮다|động||to resemble, to look like
+1865|마음속|danh||one's heart, the bottom of one's heart
+1866|뼈|danh||bone
+1867|연결되다|động||to be connected, to be joined, to be l
+1868|장사|danh||business, trade, commerce
+1869|제한|danh|制限 chế hạn|limit, restriction
+1870|차다|động||to be full, to fill, to brim, to becom
+1871|취하다|động|醉 túy|to get drunk, to become intoxicated
+1872|콩|danh||soybean
+1873|한숨|danh||sigh
+1874|헤어지다|động||to separate, to part from, to divorce 
+1875|너머|danh||beyond, the other side
+1876|동기|danh|動機 động cơ|same period, same time
+1877|살|danh||flesh; skin
+1878|순수하다|tính|純粹 thuần túy|pure, unmixed, genuine
+1879|스타일|danh||style
+1880|집중|danh|集中 tập trung|concentration
+1881|큰일|danh||important affair
+1882|거짓말|danh||a lie; a false statement
+1883|대단하다|tính||to be great, huge, immense, enormous, 
+1884|대단히|phó ||very, so, extremely, exceedingly
+1885|마주|phó ||face to face
+1886|온통|phó ||all, wholly, entirely, altogether
+1887|자세히|phó |仔細 tử tế|in detail
+1888|정확히|phó |正確 chính xác|exactly, accurately, correctly, precis
+1889|지치다|động||exhausted, tired
+1890|청년|danh|靑年 thanh niên|youth, youngster
+1891|혀|danh||tongue
+1892|확대하다|động|擴大 khuếch đại|to expand
+1893|후춧가루|danh||ground pepper
+1894|마침|phó ||just, just in time
+1895|신용|danh|信用 tín dụng|credit, credibility, confidence, trust
+1896|온몸|danh||whole body, entire body
+1897|정|danh|情 tình|attachment, a feeling of connection, i
+1898|정신적|danh|精神的 tinh thần đích|psychological, mental, emotional
+1899|증상|danh|症狀 chứng trạng|symptom
+1900|출연하다|động|出演 xuất diễn|to appear, to make an appearance
+1901|한꺼번에|phó ||at the same time, simultaneously
+1902|강제|danh|强制 cường chế|compulsion, coercion
+1903|건너다|động||to cross
+1904|깨다|động||to regain consciousness; to wake up, t
+1905|낚시|danh||angling, fishing with hook and line
+1906|다가가다|động||to approach, to get closer, to go near
+1907|뛰어들다|động||to run, to rush
+1908|묻다|động||to ask; to inquire
+1909|신부|danh|新婦 tân phụ|father, priest
+1910|오징어|danh||squid, cuttlefish
+1911|요금|danh||fee, charge, fare
+1912|용돈|danh|用 dụng|pocket money
+1913|음료|danh|飮料 ẩm liệu|drink, beverage
+1914|전자|danh|電子 điện tử|electron
+1915|전해지다|động|傳 truyện|to be told, to be reported, to be conv
+1916|편리하다|tính|便利 tiện lợi|convenient and useful
+1917|현금|danh||cash
+1918|활발하다|tính|活潑 hoạt bát|animated, brisk, lively
+1919|가리다|động||to choose, to single out
+1920|껍질|danh||skin, rind
+1921|명령|danh|命令 mệnh lệnh|order, command
+1922|몰래|phó ||secretly, in secret
+1923|무조건|phó |無條件 vô điều kiện|unconditionally
+1924|반장|danh|班長 ban trưởng|class monitor, class president
+1925|부근|danh|附近 phụ cận|neighborhood, environs, vicinity
+1926|선택|danh|選擇 tuyển trạch|selection; choice; option
+1927|역사가|danh||historian
+1928|연구자|danh|硏究者 nghiên cứu giả|researcher, investigator
+1929|정리|danh|整理 chỉnh lý|arrangement
+1930|조그맣다|tính||to be small; tiny
+1931|줄기|danh||branch, trunk, stem, stalk, cane
+1932|찾아내다|động||to find, to discover, to locate
+1933|권하다|động|勸 khuyến|to advise, to suggest, to recommend
+1934|끝내|phó ||
+1935|대문|danh|大門 đại môn|gate, entrance, door
+1936|시내|danh|市內 thị nội|downtown, city centre
+1937|신|danh||god, deity
+1938|실내|danh|室內 thất nội|indoor, within a room
+1939|쏟다|động||to pour out; to spill
+1940|연결하다|động||to connect, to join, to attach, to lin
+1941|외교|danh|外交 ngoại giao|diplomacy
+1942|주머니|danh||pouch, sack, bag
+1943|계약|danh|契約 khế ước|contract
+1944|과장|danh|課長 khóa trưởng|section manager; section chief
+1945|부끄럽다|tính||embarrassed
+1946|성공|danh|成功 thành công|success
+1947|신청|danh|申請 thân thỉnh|application
+1948|아픔|danh||pain
+1949|알아듣다|động||to understand, to follow, to see, to g
+1950|약간|danh|若干 nhược can|smallness, triviality
+1951|연기|danh|煙氣 yên khí|acting
+1952|이동|danh|移動 di động|movement
+1953|기온|danh|氣溫 khí ôn|air temperature
+1954|날아가다|động||to fly, to be blown away
+1955|많아지다|động||to become more, increase, pile up
+1956|바위|danh||rock; boulder
+1957|버릇|danh||habit
+1958|비판하다|động|批判 phê phán|to criticize
+1959|빨갛다|tính||deep red
+1960|세워지다|động||to be founded, be constructed; be buil
+1961|술집|danh||bar, pub
+1962|쉬다|động||to rest, to break, to relax, to take a
+1963|전체적|danh|全體的 toàn thể đích|overall, general, on the whole
+1964|절반|danh|折半 chiết bán|half
+1965|편안하다|tính|便安 tiện an|comfortable, relaxed, easy, calm
+1966|풍경|danh|風景 phong cảnh|landscape, scenery, scene, view
+1967|확실히|phó |確實 xác thực|surely, certainly, definitely, unquest
+1968|갈다|động||to change, to replace, to switch
+1969|교류|danh|交流 giao lưu|exchange, interchange
+1970|글쓰기|danh||writing
+1971|내내|phó ||throughout, through, all the time
+1972|대기업|danh|大企業 đại xí nghiệp|large company, conglomerate
+1973|도구|danh|道具 đạo cụ|instrument, tool, kit
+1974|매력|danh|魅力 mị lực|charm, attractiveness, appeal
+1975|보험|danh|保險 bảo hiểm|insurance
+1976|부럽다|tính||enviable
+1977|부장|danh|部長 bộ trưởng|head of department, department head
+1978|섞이다|động||to mix, to be mixed
+1979|소|danh||cow; bull; ox; cattle
+1980|심리|danh|心理 tâm lý|psychology, mentality
+1981|쏘다|động||to shoot, to fire
+1982|위치하다|động|位置 vị trí|to be located, to lie
+1983|이틀|danh||two days
+1984|전달하다|động|傳達 truyền đạt|to convey, to pass on, to transmit, to
+1985|정말로|phó |正 chính|really; truly
+1986|코너|danh||corner
+1987|행동하다|động|行動 hành động|to behave; to act; to conduct
+1988|감동|danh|感動 cảm động|sensation; touching by heart; moving b
+1989|굳이|phó ||strongly, firmly, obstinately
+1990|그늘|danh||shade, shadow
+1991|급하다|tính|急 cấp|urgent, pressing
+1992|달걀|danh||a hen's egg
+1993|대중문화|danh|大衆文化 đại chúng văn hóa|pop culture
+1994|마련되다|động||to be prepared, to be arranged
+1995|마루|danh||floor's covering, especially for wood 
+1996|무게|danh||weight
+1997|성적|danh|成績 thành tích|achievements; accomplishments; grade; 
+1998|솔직히|phó |率直 suất trực|honestly
+1999|시도하다|động|試圖 thí đồ|to try, to attempt
+2000|예절|danh||courtesy; etiquette; manners

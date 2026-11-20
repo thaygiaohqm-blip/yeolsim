@@ -1,0 +1,400 @@
+2001|인상|danh|印象 ấn tượng|impression
+2002|인터넷|danh||Internet
+2003|적용하다|động|適用 thích dụng|to apply
+2004|전통적|danh|傳統的 truyền thống đích|traditional
+2005|참가하다|động|參加 tham gia|to take part, to participate
+2006|친척|danh|親戚 thân thích|kin, kinsmen, relatives
+2007|그다지|phó ||so much; to that extent
+2008|긴장|danh|緊張 khẩn trương|tension, nervousness, strain
+2009|따라가다|động||to follow, to go after
+2010|부처|danh|部處 bộ xử|Buddha
+2011|숙이다|động||to bend; to incline; to bow
+2012|아가씨|danh||Miss, girl, young lady
+2013|온도|danh|溫度 ôn độ|temperature
+2014|이마|danh||forehead, brow
+2015|절대로|phó |絶對 tuyệt đối|absolutely, never
+2016|지붕|danh||roof
+2017|진짜|danh|眞 chân|really; actually
+2018|짙다|tính||dense, thick
+2019|창밖|danh|窓 song|outside a window
+2020|햇살|danh||sunshine; sunbeam
+2021|경제적|danh|經濟的 kinh tế đích|economical
+2022|담당하다|động|擔當 đảm đang|to take charge, to be in charge
+2023|벗기다|động||to take off, to undress
+2024|불빛|danh||light, beam
+2025|시청자|danh|視聽者 thị thính giả|viewer
+2026|완벽하다|tính|完璧 hoàn bích|perfect, immaculate, flawless
+2027|절|danh||a verse, passage, paragraph
+2028|종업원|danh|從業員 tòng nghiệp viên|employee, worker
+2029|학기|danh|學期 học kỳ|semester, trimester, term
+2030|한동안|danh||for a while
+2031|만지다|động||to touch
+2032|목사|danh|牧師 mục sư|pastor, minister
+2033|바늘|danh||needle, pin
+2034|부|danh|部 bộ|father
+2035|수입|danh|收入 thu nhập|import
+2036|양쪽|danh||both sides, both parties
+2037|짐|danh||load, burden
+2038|풀|danh||herbaceous plants, particularly grass
+2039|해마다|phó ||every year
+2040|후배|danh|後輩 hậu bối|a junior or younger in an organization
+2041|휴가|danh|休暇 hưu hạ|vacation, holiday
+2042|국회의원|danh|國會議員 quốc hội nghị viên|member of congress, congressman
+2043|뻗다|động||to reach, to stretch
+2044|생활하다|động|生活 sinh hoạt|to live, to live a life
+2045|솔직하다|tính|率直 suất trực|honest, frank, direct
+2046|안타깝다|tính||unfortunate, poor, pitiable, regrettab
+2047|이르다|tính||to be early
+2048|젓다|động||to stir a liquid, to churn
+2049|축제|danh|祝祭 chúc tế|festival
+2050|터뜨리다|động||to break
+2051|학습|danh|學習 học tập|study, learning
+2052|높이|phó ||height
+2053|당연히|phó |當然 đương nhiên|naturally, of course
+2054|떨리다|động||to shake, to tremble
+2055|마구|phó ||carelessly, recklessly, indiscriminate
+2056|만남|danh||meeting, encounter
+2057|미디어|danh||media
+2058|복도|danh|複道 phức đạo|corridor; hallway; passage
+2059|수상|danh|首相 thủ tướng|prime minister, premier, chancellor
+2060|자랑스럽다|tính||to be proud
+2061|적당하다|tính|適當 thích đáng|to be fit, suitable, adequate
+2062|진행하다|động|進行 tiến hành|to progress, to make progress
+2063|곳곳|danh||here and there, everywhere
+2064|금지|danh|禁止 cấm chỉ|prohibition, ban
+2065|내지|phó |乃至 nải chí|from how many to how many
+2066|달려오다|động||to come running
+2067|둘러보다|động||to look around, to take a glance aroun
+2068|비교|danh|比較 tỉ giảo|comparison
+2069|역사적|danh||historic
+2070|열차|danh||train
+2071|유난히|phó ||particularly, especially, exceptionall
+2072|잠들다|động||to go to sleep
+2073|정식|danh|正式 chính thức|formality, proper manner
+2074|즉시|danh|卽時 tức thời|immediately, promptly
+2075|최선|danh|最善 tối thiện|the best
+2076|탑|danh|塔 tháp|a tower or similar tall structure
+2077|활동하다|động|活動 hoạt động|to move, to be active
+2078|건축|danh|建築 kiến trúc|architecture; construction
+2079|귀엽다|tính||cute; charming
+2080|답답하다|tính||frustrated
+2081|당황하다|động|唐慌 đường hoảng|embarrassed, flustered, taken aback
+2082|떨어뜨리다|động||to drop
+2083|똑같이|phó ||equally, evenly; impartially
+2084|말|danh||speech
+2085|밀가루|danh||flour
+2086|바깥|danh||outside; outdoors
+2087|벌리다|động||to open, to spread
+2088|보고서|danh|報告書 báo cáo thư|report, paper
+2089|보관하다|động|保管 bảo quản|to keep
+2090|부딪치다|động||to strike, to hit, to bump into, to co
+2091|빨래|danh||laundry
+2092|상하다|động|傷 thương|to go bad, to get stale
+2093|식용유|danh|食用油 thực dụng dầu|cooking oil
+2094|겁|danh|怯 khiếp|fear, fright
+2095|산소|danh|酸素 toan tố|oxygen
+2096|석유|danh|石油 thạch dầu|oil, petroleum
+2097|소리치다|động||to shout, to yell
+2098|신선하다|tính|新鮮 tân tiên|to be fresh
+2099|장|danh|章 chương|sauce; marmalade; jam; compote; preser
+2100|적|danh|敵 địch|enemy; opponent; adversary
+2101|조심하다|động|操心 thao tâm|to be careful, beware, watch
+2102|질|danh|質 chất|quality
+2103|찌르다|động||to prick; to stab
+2104|책임자|danh|責任者 trách nhiệm giả|person in charge, person responsible
+2105|확대되다|động|擴大 khuếch đại|to be expanded
+2106|거실|danh|居室 cư thất|living room, sitting room
+2107|바보|danh||fool, moron, idiot
+2108|별|định|別 biệt|a star
+2109|보람|danh||fruitfulness, usefulness
+2110|부작용|danh|副作用 phó tác dụng|side effect
+2111|신고|danh|申告 thân cáo|report, declaration
+2112|어떡하다|phân||what is one supposed to do
+2113|예상|danh|豫想 dự tưởng|expectation, anticipation
+2114|이상|danh|理想 lý tưởng|an amount more than
+2115|주먹|danh||fist
+2116|털다|động||to shake off, to brush off
+2117|과목|danh|科目 khoa mục|subject; course
+2118|근무|danh|勤務 cần vụ|work, duty, service
+2119|달아나다|động||to escape, to flee
+2120|묶다|động||to tie up, to bind
+2121|소스|danh||sauce
+2122|우리말|danh||the Korean language
+2123|유교|danh|儒敎 nho giao|Confucianism
+2124|이불|danh||blanket; duvet
+2125|이성|danh||opposite sex
+2126|일상|danh|日常 nhật thường|daily life
+2127|자동|danh|自動 tự động|automatic
+2128|장래|danh|將來 tương lai|the future
+2129|중요성|danh|重要性 trọng yếu tính|importance
+2130|탤런트|danh||TV actor, TV actress, TV-star
+2131|특별히|phó |特別 đặc biệt|especially, in particular, special, sp
+2132|과학적|danh|科學的 khoa học đích|scientific
+2133|봉투|danh|封套 phong sáo|envelope
+2134|분명|phó |分明 phân minh|clearly, certainly
+2135|지다|động||to fall; to sink; to set; to go down
+2136|추억|danh|追憶 truy ức|memory; recollection; reminiscence
+2137|하여튼|phó |何如 hà như|anyway, anyhow, in any case, at any ra
+2138|함부로|phó ||thoughtlessly, carelessly
+2139|향기|danh|香氣 hương khí|fragrance, aroma, perfume
+2140|현지|danh|現地 hiện địa|local
+2141|가늘다|tính||to be thin, to be slender
+2142|개인적|danh|個人的 cá nhân đích|personal, individual
+2143|겉|danh||surface, the outside
+2144|근무하다|động|勤務 cần vụ|to work
+2145|깜짝|phó ||while blinking one's eyes
+2146|넓히다|động||to expand, to widen
+2147|대|danh||something large; something great
+2148|떠들다|động||to make a noise
+2149|매년|phó |每年 mỗi niên|every year
+2150|발생|danh|發生 phát sinh|occurrence, incidence
+2151|소주|danh|燒酒 thiêu tửu|soju, Korean rice liquor
+2152|손바닥|danh||palm
+2153|승용차|danh|乘用車 thừa dụng xa|a car, sedan
+2154|어색하다|tính||awkward
+2155|얹다|động||to place/put on; to wear
+2156|장점|danh|長點 trưởng điểm|advantage, strength, merit
+2157|적당히|phó |適當 thích đáng|moderately
+2158|줍다|động||to gather up; to pick up
+2159|진출|danh|進出 tiến xuất|advancement
+2160|킬로그램|danh||kilogram
+2161|평범하다|tính|平凡 bình phàm|average, ordinary, common, mediocre
+2162|프로|danh||percent
+2163|확인|danh|確認 xác nhận|check; confirmation; verification; aff
+2164|가루|danh||meal, flour; powder
+2165|건지다|động||to obtain, to retrieve
+2166|깨지다|động||to be broken; to become cracked
+2167|들|danh||meadow, field, plain
+2168|방금|phó |方今 phương kim|just a moment ago; just now
+2169|슬픔|danh||sadness, sorrow
+2170|아무렇다|tính||unspecific
+2171|이용되다|động||to be used
+2172|이튿날|danh||next day, the following day
+2173|임시|danh||being temporary
+2174|줄다|động||to decrease, to shrink
+2175|지구|danh|地區 địa khu|Earth
+2176|참기름|danh||sesame oil
+2177|통|danh|桶 thùng|barrel, bucket, cask, pail, vat
+2178|팬|danh||fan
+2179|합치다|động|合 hợp|to combine; to merge
+2180|골목|danh||alley, alleyway
+2181|기운|danh||strength, vigor
+2182|돌아서다|động||to turn around
+2183|동화|danh|童話 đồng thoại|fairy tale
+2184|두껍다|tính||to be thick
+2185|맞서다|động||to stand face to face with, to face ea
+2186|모자라다|động||to lack, to be short of, to be insuffi
+2187|상상하다|động|想像 tưởng tượng|to imagine
+2188|안전하다|tính|安全 an toàn|to be safe
+2189|유학|danh||Confucianism
+2190|정치적|danh|政治的 chính trị đích|political
+2191|카페|danh||coffee shop, café
+2192|콤플렉스|danh||an inferiority complex
+2193|그다음|danh||next, after that
+2194|끓다|động||to boil
+2195|날아오다|động||to fly
+2196|농담|danh|弄談 lộng đàm|joke, jest
+2197|담임|danh|擔任 đảm nhiệm|being in charge of
+2198|도중|danh|途中 đồ trung|on the way; along the way; en route
+2199|모래|danh||sand
+2200|신호|danh|信號 tín hiệu|signal; sign
+2201|아버님|danh||honorific of 아버지
+2202|의심하다|động|疑心 nghi tâm|to doubt
+2203|자랑하다|động||to brag, to boast, to vaunt
+2204|출발|danh|出發 xuất phát|departure
+2205|허용하다|động|許容 hứa dung|to allow, to permit
+2206|각국|danh|各國 các quốc|each country/nation
+2207|그려지다|động||to be drawn
+2208|꾸준히|phó ||steadily, constantly
+2209|년도|danh|年度 niên độ|year
+2210|다수|danh|多數 đa số|majority, many
+2211|덕분|danh|德分 đức phân|feeling of gratitude, indebtedness, fa
+2212|두드리다|động||to knock, to tap, to beat, to rap
+2213|물음|danh||question
+2214|빌다|động||to wish, to pray for something
+2215|스님|danh||Buddhist monk or priest, bhikkhu
+2216|썩다|động||to rot, to decay
+2217|어머님|danh||honorific of 어머니
+2218|엉뚱하다|tính||unusual, off the wall
+2219|여보|thán||darling, honey, sweetheart
+2220|조각|danh|彫刻 điêu khắc|a piece, scrap, slice; shard, sliver
+2221|태우다|động||to burn
+2222|해석|danh|解釋 giải thích|interpretation
+2223|가리다|động||to choose, to single out
+2224|계산하다|động|計算 kế toán|to calculate
+2225|담그다|động||to pour in, to add to a liquid
+2226|마음대로|phó ||as one pleases/likes
+2227|며느리|danh||daughter-in-law
+2228|믿음|danh||faith, belief, acceptance, reliance
+2229|발견|danh|發見 phát kiến|find; discovery
+2230|보고|danh|報告 báo cáo|report, information
+2231|부탁하다|động|付託 phó thác|to request, to ask to do well, to ask 
+2232|사용자|danh|使用者 sứ dụng giả|user
+2233|실패하다|động|失敗 thất bại|to fail
+2234|영원하다|tính|永遠 vĩnh viễn|eternal, permanent, everlasting
+2235|우연히|phó |偶然 ngẫu nhiên|by chance, incidentally
+2236|정해지다|động|定 định|to be decided, destined, fixed, establ
+2237|직접|danh|直接 trực tiếp|immediateness; directness
+2238|칭찬|danh|稱讚 xưng tán|compliment, praise
+2239|튼튼하다|tính||sturdy, strong
+2240|햇빛|danh||sunlight, sunshine
+2241|긍정적|danh|肯定的 khẳng định đích|positive, affirmative
+2242|논의하다|động|論議 luận nghị|to discuss
+2243|돌보다|động||to care for; to take care of
+2244|뒤집다|động||to invert, to flip
+2245|먼지|danh||dust
+2246|바닷가|danh||seashore, seaside, beach
+2247|반하다|động|反 phản|to be contrary
+2248|사원|danh|社員 xã viên|member of a company
+2249|씹다|động||to chew, to chew on
+2250|아무튼|phó ||in any case, anyway, anyhow, at any ra
+2251|왠지|phó ||somehow; for some reason
+2252|욕심|danh|欲心 dục tâm|greed
+2253|우승|danh|優勝 ưu thắng|victory; championship
+2254|익다|động||to ripen
+2255|제출하다|động|提出 đề xuất|to submit, hand in
+2256|조심스럽다|tính|操心 thao tâm|to be chary, to be careful, to be caut
+2257|피시|danh||PC
+2258|흘러나오다|động||to flow out, to trickle out
+2259|간단히|phó |簡單 giản đơn|simply, easily
+2260|강물|danh|江 giang|river water, river
+2261|되게|phó ||very, extremely, terribly, awfully
+2262|리듬|danh||rhythm
+2263|모니터|danh||monitor
+2264|삶다|động||to boil; to cook
+2265|서류|danh|書類 thư loại|document
+2266|요청|danh|要請 yếu thỉnh|request, claim, appeal
+2267|운|danh|運 vận|luck, fortune, fate
+2268|일상생활|danh|日常生活 nhật thường sinh hoạt|everyday life, daily life
+2269|진하다|tính|津 tân|to be thick, to be strong, to be conce
+2270|회복하다|động|回復 hồi phục|to recover, to regain, to get back
+2271|흘러가다|động||to flow, to run
+2272|흥미|danh|興味 hưng vị|interest
+2273|꾸다|động||to dream
+2274|내려다보다|động||to look down
+2275|눈썹|danh||eyebrow
+2276|디자인|danh||design
+2277|비닐|danh||vinyl
+2278|오래되다|động||to be old; to be worn out
+2279|채소|danh|菜蔬 thái sơ|vegetable
+2280|털|danh||hair
+2281|판매하다|động|販賣 phán mại|to sell
+2282|고생하다|động|苦生 khổ sinh|to have a hard time, to go through har
+2283|꿈꾸다|động||to dream of, to dream about
+2284|수표|danh|手票 thủ phiếu|cheque, check
+2285|얘|phân||this kid; he, she, it, you, this one
+2286|어머|thán||oh, my goodness
+2287|일정|danh|日程 nhật trình|schedule
+2288|저렇다|tính||to be like that
+2289|테이프|danh||adhesive tape
+2290|간장|danh||soy sauce
+2291|고민하다|động|苦悶 khổ muộn|to worry, to be concerned
+2292|교환|danh|交換 giao hoán|exchange, swap
+2293|국어|danh|國語 quốc ngữ|national language
+2294|노랗다|tính||to be yellow
+2295|다치다|động||to get hurt, to be injured
+2296|동양|danh|東洋 đông dương|the Orient, the East
+2297|악기|danh|樂器 nhạc khí|musical instrument
+2298|연말|danh||the end of the year; the year's end
+2299|올려놓다|động||to put on
+2300|정말|danh|正 chính|really; truly
+2301|치우다|động||to remove; to take away
+2302|피로|danh|疲勞 bì lao|fatigue, tiredness
+2303|당기다|động||to pull, to draw
+2304|들다|trợ ||to come in, go in, get in, enter
+2305|따르다|động||to follow
+2306|박수|danh|拍手 phách thủ|clap; applause
+2307|부자|danh|富者 phú giả|a rich person
+2308|사흘|danh||three days
+2309|손자|danh|孫子 tôn tử|grandson, grandchild
+2310|신랑|danh|新郞 tân lang|groom, bridegroom
+2311|제법|phó ||pretty, fairly, quite, considerably
+2312|화가|danh|畵家 họa gia|artist
+2313|구경하다|động||to sightsee
+2314|국물|danh||broth
+2315|말씀드리다|động||to speak
+2316|멀어지다|động||to recede, to die away
+2317|불쌍하다|tính||pitiful; pathetic; poor
+2318|실력|danh|實力 thực lực|skill, ability
+2319|야채|danh|野菜 dã thái|vegetable
+2320|울음|danh||crying, weeping
+2321|전부|danh|全部 toàn bộ|everything, all
+2322|즐거움|danh||joy, happiness, delight
+2323|지다|động||to fall; to sink; to set; to go down
+2324|친하다|tính|親 thân|to be close, familiar
+2325|곧바로|phó ||immediately; straight away
+2326|깊이|danh||deeply; profoundly
+2327|나뭇가지|danh||twig, branch
+2328|낫다|động||to recover from an illness, to get bet
+2329|답하다|động|答 đáp|to answer, to reply, to respond
+2330|더위|danh||heat
+2331|서너|định||three or four, three to four
+2332|실패|danh|失敗 thất bại|failure
+2333|웃기다|động||to be funny
+2334|유리|danh||glass
+2335|쥐|danh||rat, mouse, rodent
+2336|턱|danh||chin, jaw, chops
+2337|팔리다|động||to be sold
+2338|하하|phó ||ha-ha; while laughing
+2339|형부|danh|兄夫 huynh phu|elder sister's husband, brother-in-law
+2340|금년|danh|今年 kim niên|this year
+2341|까맣다|tính||to be pitch black
+2342|대학원|danh|大學院 đại học viện|graduate school, postgraduate school
+2343|더럽다|tính||to be dirty
+2344|등록|danh|登錄 đăng lục|registration
+2345|무늬|danh||pattern, design
+2346|문장|danh|文章 văn chương|sentence
+2347|변호사|danh|辯護士 biện hộ sĩ|lawyer, solicitor, counsel, attorney, 
+2348|지점|danh|地點 địa điểm|point on a map, spot, place, location
+2349|귀국하다|động|歸國 quy quốc|to return to one's country
+2350|기뻐하다|động||to be happy about something; to apprec
+2351|내려놓다|động||to take down, to put down, to lower
+2352|당근|danh||carrot
+2353|불행하다|tính||unhappy, unfortunate
+2354|외롭다|tính||alone, lonely, solitary
+2355|절|danh||a verse, passage, paragraph
+2356|지난번|danh||last time
+2357|파일|danh||file
+2358|화분|danh|花盆 hoa bồn|flowerpot
+2359|갈색|danh|褐色 hạt sắc|brown
+2360|반찬|danh|飯饌 phạn soạn|banchan, side dishes served with a mea
+2361|소개되다|động|紹介 thiệu giới|to be introduced; to become introduced
+2362|씨|danh||seed, kernel
+2363|안쪽|danh||inside
+2364|오가다|động||to come and go
+2365|전날|danh|前 tiền|the day before, the previous day
+2366|계산기|danh|計算器 kế toán khí|calculator
+2367|그렇지|thán||yes
+2368|깨다|động||to regain consciousness; to wake up, t
+2369|등|danh||back of a person or animal
+2370|세다|tính||to be strong
+2371|소개|danh|紹介 thiệu giới|introduction
+2372|수화기|danh|受話器 thụ thoại khí|telephone receiver
+2373|애인|danh|愛人 ái nhân|lover; boyfriend, girlfriend
+2374|얇다|tính||thin
+2375|양념|danh||seasoning
+2376|웬일|danh||what matter, what cause
+2377|일기|danh|日記 nhật ký|diary, journal
+2378|절대|phó |絶對 tuyệt đối|absolutely, totally, never
+2379|창고|danh|倉庫 thảng khố|warehouse, storehouse
+2380|파|danh||spring onion
+2381|학원|danh|學院 học viện|cram school
+2382|버터|danh||butter
+2383|아이|thán||child, kid
+2384|유치원|danh|幼稚園 ấu trĩ viên|kindergarten
+2385|전공|danh|專攻 chuyên công|major
+2386|종일|danh|終日 chung nhật|the whole day
+2387|좋아지다|động||to improve, to become better
+2388|추위|danh||cold
+2389|토마토|danh||tomato
+2390|파랗다|tính||to be blue, pale
+2391|가져가다|động||to take something, to take away
+2392|감자|danh||potato
+2393|갖다|trợ ||contraction of 가지다
+2394|괴롭다|tính||painful, distressing
+2395|교통사고|danh|交通事故 giao thông sự cố|road accident
+2396|군데|danh||place, spot
+2397|메시지|danh||message
+2398|뺨|danh||cheek
+2399|영원히|phó |永遠 vĩnh viễn|forever, eternally
+2400|월급|danh|月給 nguyệt cấp|monthly salary

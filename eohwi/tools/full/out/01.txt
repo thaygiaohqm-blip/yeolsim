@@ -1,0 +1,400 @@
+1|cái, điều, việc (danh từ hóa)
+2|làm
+3|có, ở (trợ từ)
+4|có, ở
+5|trở thành, được
+6|cách, khả năng
+7|làm (trợ từ)
+8|tôi
+9|đó, ấy
+10|không có
+11|không (phủ định)
+12|người
+13|chúng tôi, chúng ta
+14|này
+15|nó, cái đó
+16|không phải là
+17|nhìn, xem
+18|lúc, khi
+19|cái (rút gọn của 것)
+20|thử (làm), xem
+21|giống, như
+22|cho (trợ từ)
+23|đi
+24|con (từ thô), năm
+25|một
+26|lời nói, tiếng
+27|việc, công việc
+28|này (đại từ)
+29|vì, bởi
+30|nói
+31|nhưng
+32|đến
+33|biết
+34|ông/bà, hạt giống
+35|như vậy, đúng vậy
+36|to, lớn
+37|lại, còn
+38|công việc
+39|nhiều
+40|không (phủ định), trong
+41|tốt
+42|hơn
+43|nhận
+44|cái đó
+45|nhà
+46|đi ra, xuất hiện
+47|và, rồi
+48|vấn đề, câu hỏi
+49|sống
+50|kia, tôi (khiêm nhường)
+51|không thể
+52|suy nghĩ
+53|không biết
+54|bên trong, trong lòng
+55|làm ra, tạo
+56|hai
+57|phía trước
+58|nào, như thế nào
+59|giỏi, tốt
+60|ăn
+61|đến (trợ từ)
+62|won (tiền Hàn)
+63|suy nghĩ
+64|như thế nào
+65|người, tên, đơn vị đếm người
+66|lại, lần nữa
+67|khác
+68|như thế này
+69|phụ nữ
+70|con chó, cái (đơn vị đếm)
+71|phía sau
+72|nghe
+73|hết, tất cả
+74|một chút
+75|vào, cầm, tốn
+76|muốn
+77|có, cầm
+78|cùng nhau
+79|đứa trẻ
+80|nhiều
+81|thời gian
+82|bạn, mày
+83|cho
+84|sinh ra, xảy ra
+85|như thế này
+86|mẹ
+87|mắt, tuyết
+88|cái gì
+89|tiếp theo, sau
+90|ai
+91|trước
+92|nơi, chỗ
+93|nhiều, các
+94|bên trong
+95|một
+96|vứt bỏ, đã (trợ từ)
+97|trên
+98|vận động, thể thao
+99|phần trăm
+100|trường học
+101|nhất
+102|vào, cầm, tốn
+103|bắt đầu
+104|ngay, chính
+105|nào
+106|vì vậy
+107|cái gì
+108|tất cả, mọi
+109|lần, số
+110|cái đó
+111|tiền
+112|nhưng mà
+113|ngày
+114|ở đây
+115|tất cả, mọi người
+116|bạn bè
+117|lòng, tâm hồn
+118|sau
+119|đi (trợ từ)
+120|đặt, để
+121|bố
+122|đàn ông
+123|ở đâu
+124|cơ thể
+125|khuôn mặt
+126|đi vào
+127|tại sao
+128|đừng, thôi
+129|khác
+130|nước
+131|gặp
+132|đưa ra, bỏ ra
+133|đội, mặc, dùng, viết
+134|cái này
+135|lần này
+136|đường
+137|sinh hoạt, cuộc sống
+138|đội, mặc, dùng, viết
+139|bây giờ
+140|khoảng giữa, quan hệ
+141|đất nước chúng ta (Hàn Quốc)
+142|làm ra (trợ từ)
+143|ngồi
+144|lần đầu, ban đầu
+145|tay
+146|mấy
+147|lúc đó
+148|tìm
+149|giờ
+150|bây giờ
+151|đi ra
+152|câu chuyện
+153|mua
+154|vẫn chưa
+155|nắm, bắt
+156|cùng
+157|thầy cô giáo
+158|đứng
+159|không thể, cái đinh
+160|lịch sử
+161|đọc
+162|bây giờ, giờ thì
+163|dĩ nhiên
+164|trong lúc, khoảng thời gian
+165|sách
+166|thức dậy, xảy ra
+167|chợ, đói
+168|bỏ vào
+169|quan trọng
+170|nào, gì
+171|khó
+172|sức mạnh
+173|quá, rất
+174|đất nước
+175|gọi
+176|chỗ, vị trí
+177|chết
+178|phía, bên
+179|câu chuyện (rút gọn)
+180|học sinh
+181|mẹ (thân mật)
+182|tên
+183|một
+184|xuống, rơi
+185|dễ
+186|cần thiết
+187|xuất hiện, có
+188|sử dụng
+189|chồng
+190|đi vào, về nhà
+191|bên ngoài
+192|nhỏ
+193|đi (xe), cháy
+194|đại học
+195|giữa
+196|gửi, tiễn
+197|rất
+198|đêm
+199|cao
+200|máy tính
+201|trước tiên
+202|đi lại (đến học, làm)
+203|bao nhiêu
+204|mở
+205|đầu
+206|hỏi
+207|ở đó
+208|con trai
+209|à, ồ
+210|chờ
+211|phút, vị (kính ngữ)
+212|ngay
+213|hôm nay
+214|lẫn nhau
+215|cái này
+216|phòng
+217|buổi sáng
+218|cười
+219|rời đi
+220|ừ, đúng
+221|đẹp
+222|cuối, kết thúc
+223|miệng
+224|cái gì
+225|phim
+226|sự cần thiết
+227|bầu trời
+228|thật sự
+229|cơm
+230|mặc
+231|vâng, bốn
+232|bức tranh
+233|uống
+234|đánh, chơi, thi
+235|một mình
+236|đi ra (trợ từ)
+237|bây giờ
+238|giáo sư
+239|rượu
+240|tình yêu
+241|điện thoại
+242|kết thúc
+243|trở về
+244|bố (thân mật)
+245|một lần
+246|cà phê
+247|ngực
+248|dài
+249|công ty
+250|vị
+251|rất
+252|đi lên, leo
+253|đồ ăn
+254|nhất định
+255|dạo này
+256|kế hoạch
+257|bao nhiêu
+258|liên tục
+259|vợ
+260|gia đình
+261|ba
+262|đặt, để
+263|xe
+264|chơi
+265|thành phố
+266|tuổi
+267|đổi
+268|thích
+269|vẽ
+270|học
+271|bên cạnh
+272|ừ
+273|bên dưới
+274|vậy thì
+275|kia
+276|bụng, thuyền, quả lê
+277|núi
+278|mới, con chim
+279|nhưng
+280|cửa
+281|hoa
+282|trong thời gian qua
+283|đột nhiên
+284|gió, ngoại tình
+285|làm tốt
+286|bài hát
+287|biển
+288|vất vả, khó nhọc
+289|việc học
+290|không thể
+291|chị (em gái gọi)
+292|phút, vị (kính ngữ)
+293|lửa
+294|năm học, lớp
+295|báo
+296|có (trợ từ)
+297|hiểu
+298|thầy cô, ông/bà
+299|quay về
+300|tâm trạng
+301|quần áo
+302|trước, toàn bộ
+303|giấc mơ
+304|bà
+305|cuộc họp
+306|nói chuyện
+307|cây
+308|ngủ
+309|hôm nay
+310|đi bộ
+311|lúc này
+312|thời gian
+313|đồ vật
+314|bàn chân
+315|nhanh
+316|được bắt đầu
+317|hai
+318|đừng, thôi
+319|giải thích
+320|thịt, da
+321|âm nhạc
+322|đau
+323|ít
+324|mưa
+325|quê hương
+326|giật mình
+327|khóc
+328|ngân hàng
+329|trải qua, sống
+330|kết hôn
+331|em
+332|vâng
+333|buổi chiều
+334|nhanh
+335|em bé
+336|chú, bác
+337|ngày xưa
+338|trăng, tháng
+339|thật, quả
+340|ở đây
+341|con gái
+342|cuối cùng
+343|bệnh viện
+344|cảnh sát
+345|buổi tối
+346|nếu vậy
+347|rộng
+348|kỳ thi
+349|giấc ngủ
+350|sức khỏe
+351|gần
+352|tòa nhà
+353|nước ngoài
+354|phía dưới
+355|người lớn
+356|bán
+357|chăm chỉ
+358|làm việc
+359|một chút
+360|đội
+361|bố mẹ
+362|đi lên
+363|ngày đó
+364|thường xuyên
+365|thuốc lá
+366|ông
+367|được sinh ra
+368|đã, rồi
+369|bệnh nhân
+370|thú vị
+371|dạy
+372|đối thoại
+373|năm nay
+374|anh (em trai gọi)
+375|tất cả
+376|treo, gọi (điện)
+377|xa
+378|xe buýt
+379|một lát
+380|ảnh
+381|nhất
+382|có lẽ
+383|nói chuyện (rút gọn)
+384|chân, cầu
+385|chân, cầu
+386|nào cũng, bất kỳ
+387|luôn luôn
+388|mặt trời, năm
+389|mất
+390|giống nhau
+391|đô la
+392|yêu
+393|mùa hè
+394|ghét
+395|vì vậy
+396|giá
+397|luôn
+398|ô tô
+399|tháng (đếm)
+400|trẻ em

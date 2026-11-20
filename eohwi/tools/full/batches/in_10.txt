@@ -1,0 +1,400 @@
+3601|건설하다|động|建設 kiến thiết|to build, to construct
+3602|경쟁력|danh|競爭力 cạnh tranh lực|competitiveness, competitive power
+3603|연락|danh||contact, connection, liaison
+3604|문자|danh|文字 văn tự|letter, character, alphabet
+3605|비롯되다|động||to start, to begin
+3606|여겨지다|động||to be considered, to be regarded
+3607|위주|danh|爲主 vị chủ|
+3608|전환|danh|轉換 chuyển hoán|change, switch, changeover
+3609|지경|danh|地境 địa cảnh|circumstances, situation
+3610|진행|danh|進行 tiến hành|progress
+3611|통증|danh|痛症 thống chứng|pain, ache
+3612|하천|danh|河川 hà xuyên|river, rivers
+3613|화학|danh|化學 hóa học|chemistry
+3614|거칠다|tính||to be rough or coarse in texture
+3615|그나마|phó ||at least; still
+3616|그야말로|phó ||really, indeed
+3617|남부|danh|南部 nam bộ|the south
+3618|연기자|danh|演技者 diễn kỹ giả|actor, actress
+3619|워낙|phó ||so, very
+3620|더욱이|phó ||besides, further, moreover, furthermor
+3621|별도|danh|別途 biệt đồ|special, separate
+3622|비극|danh|悲劇 bi kịch|tragedy
+3623|솜씨|danh||skill
+3624|극|danh|劇 kịch|pole
+3625|나란히|phó ||side by side
+3626|다방|danh|茶房 trà phòng|teahouse, tea shop
+3627|수행하다|động|遂行 toại hành|to fulfill, to perform, to carry out, 
+3628|실로|phó |實 thật|really, truly, indeed, surely
+3629|인연|danh|因緣 nhân duyên|the ties between two people over the c
+3630|일행|danh|一行 nhất hành|party, company, troupe
+3631|지도|danh|指導 chỉ đạo|map
+3632|지식인|danh|知識人 tri thức nhân|intellectual
+3633|진지하다|tính|眞摯 chân chí|sincere, earnest
+3634|치다|động||to hit, to beat, to strike, to slap, t
+3635|호흡|danh|呼吸 hô hấp|breath
+3636|흔들리다|động||to shake, to waver, to wobble, to quak
+3637|근본|danh|根本 căn bản|root, basis
+3638|일부러|phó ||deliberately, intentionally, on purpos
+3639|접근하다|động|接近 tiếp cận|to approach, to come/get close
+3640|흩어지다|động||to be scattered, to be dispersed
+3641|기후|danh|氣候 khí hậu|climate
+3642|대응하다|động|對應 đối ứng|to correspond to
+3643|심정|danh|心情 tâm tình|feeling; motive
+3644|이룩하다|động||to achieve; to accomplish
+3645|형사|danh|刑事 hình sự|detective
+3646|희곡|danh|戱曲 hí khúc|play, drama
+3647|물기|danh||wetness
+3648|특정하다|tính|特定 đặc định|particular, specific, certain
+3649|경계|danh|境界 cảnh giới|boundary
+3650|공식|danh|公式 công thức|formula; formality, being formal
+3651|머물다|động||alternative form of 머무르다
+3652|명예|danh|名譽 danh dự|honor
+3653|뱃사람|danh||sailor, seaman
+3654|지원하다|động|支援 chi viện|to support, to aid
+3655|침묵|danh||silence
+3656|텍스트|danh||text
+3657|표면|danh|表面 biểu diện|surface, face
+3658|객관적|danh|客觀的 khách quan đích|objective
+3659|구석|danh||corner
+3660|둥지|danh||nest
+3661|부대|danh|部隊 bộ đội|unit, troops, corps
+3662|서클|danh||club, society, group, circle
+3663|실체|danh|實體 thực thể|substance, entity
+3664|엄격하다|tính|嚴格 nghiêm cách|strict, severe, stern, rigid, rigorous
+3665|완전하다|tính|完全 hoàn toàn|complete, full, perfect
+3666|증가|danh|增加 tăng gia|growth, increase
+3667|출연|danh|出演 xuất diễn|appearance
+3668|후기|danh|後期 hậu kỳ|postscript, epilogue
+3669|버티다|động||to endure, to withstand
+3670|분포하다|động|分布 phân bố|to be distributed
+3671|비중|danh|比重 tỉ trọng|specific gravity
+3672|아이디어|danh||idea
+3673|예컨대|phó ||for example, for instance
+3674|전개|danh|展開 triển khai|development, spreading out
+3675|접촉|danh|接觸 tiếp xúc|contact, touch
+3676|경기|danh|景氣 cảnh khí|a sporting or athletic competition or 
+3677|계곡|danh|溪谷 khê dục|valley
+3678|다투다|động||to argue, to fight
+3679|도저히|phó |到底 đáo để|not at all, possibly
+3680|앞장서다|động||to lead, to head, to forerun
+3681|요청하다|động|要請 yếu thỉnh|to request, to claim
+3682|일치하다|động|一致 nhất trí|agree
+3683|정치권|danh|政治權 chính trị quyền|political circles
+3684|처녀|danh|處女 xử nữ|unmarried woman
+3685|개발되다|động|開發 khai phát|to be developed
+3686|대비하다|động|對備 đối bị|to prepare
+3687|쓰러지다|động||to fall, to collapse
+3688|영상|danh|映像 ánh tượng|picture, image, video
+3689|영혼|danh||soul
+3690|운전사|danh|運轉士 vận chuyển sĩ|driver
+3691|적용되다|động|適用 thích dụng|to apply
+3692|지속적|danh|持續的 trì tục đích|continuous
+3693|차별|danh|差別 sai biệt|discrimination
+3694|구분|danh|區分 khu phân|category; classification; division
+3695|분노|danh|憤怒 phẫn nộ|rage, anger, indignation
+3696|소위|phó |所謂 sở vị|so-called
+3697|스치다|động||to graze, to brush
+3698|의무|danh|義務 nghĩa vụ|duty, obligation
+3699|동일하다|tính|同一 đồng nhất|the same, identical, equal
+3700|설치|danh|設置 thiết trí|installation, establishment
+3701|업종|danh|業種 nghiệp chủng|a category of business; a type of indu
+3702|연출|danh|演出 diễn xuất|performance
+3703|트이다|động||get cleared, be opened
+3704|관리|danh|官吏 quan lại|administration, management, supervisio
+3705|국제화|danh|國際化 quốc tế hóa|internationalization
+3706|근육|danh|筋肉 căn nhục|muscle
+3707|깔리다|động||to be pinned
+3708|사전|danh|事前 sự tiền|dictionary
+3709|연합|danh||federation; coalition; alliance; union
+3710|인격|danh|人格 nhân cách|personality, character
+3711|총|định|總 tổng|gun; rifle; machine gun
+3712|표|danh|表 biểu|ticket
+3713|품목|danh|品目 phẩm mục|item, article
+3714|논|danh||paddy field
+3715|비난|danh|非難 phi nạn|criticism, reproach, condemnation, den
+3716|위협|danh|威脅 uy hiếp|threat, menace
+3717|잠기다|động||to sink, to be submerged
+3718|주고받다|động||to exchange
+3719|지지|danh|支持 chi trì|support
+3720|경고|danh|警告 cảnh cáo|warning
+3721|공개하다|động|公開 công khai|to make something or someone noticeabl
+3722|논쟁|danh||dispute, controversy, contention
+3723|성명|danh|聲明 thanh minh|name, surname and given name
+3724|수십|định|數十 số thập|scores, dozens
+3725|전개되다|động|展開 triển khai|to unfold, to spread out, to develop
+3726|품질|danh|品質 phẩm chất|quality
+3727|회견|danh|會見 hội kiến|interview
+3728|훔치다|động||to steal
+3729|흔적|danh|痕跡 ngấn tích|trace, evidence, vestige
+3730|고전|danh|古典 cổ điển|classic
+3731|구분하다|động|區分 khu phân|to classify; to distinguish
+3732|뇌|danh|腦 não|brain
+3733|사설|danh|社說 xã thuyết|editorial, leading article
+3734|승리|danh|勝利 thắng lợi|victory
+3735|좌우|danh|左右 tả hữu|left and right
+3736|주|định||week
+3737|굽히다|động||To bend or curve something.
+3738|의학|danh|醫學 y học|medicine
+3739|창조|danh|創造 sáng tạo|creation
+3740|홍보|danh|弘報 hoằng báo|promotion; publicization; publicity
+3741|내다보다|động||to look out
+3742|대량|danh|大量 đại lượng|large amounts
+3743|동행|danh|同行 đồng hành|accompaniment, going together
+3744|떼|danh||group
+3745|마땅하다|tính||to be suitable, to be appropriate, to 
+3746|바로잡다|động||to straighten, to make straight
+3747|박히다|động||to be nailed, to be stuck
+3748|제거하다|động|除去 trừ khử|to exterminate, to remove, to eliminat
+3749|특수|danh|特殊 đặc thù|specialness
+3750|호기심|danh|好奇心 hảo kỳ tâm|curiosity
+3751|기획|danh|企劃 xí hoạch|plan, design, project
+3752|대충|phó ||approximately
+3753|박다|động||to drive; to ram; to hammer
+3754|본성|danh|本性 bản tính|one's inherent nature
+3755|생산력|danh|生産力 sinh sản lực|productivity
+3756|이르다|động||to be early
+3757|장비|danh|裝備 trang bị|equipment
+3758|정치인|danh|政治人 chính trị nhân|politician
+3759|처벌|danh|處罰 xử phạt|punishment, penalty
+3760|검토|danh|檢討 kiểm thảo|examination, review
+3761|기법|danh|技法 kỹ pháp|technique
+3762|두드러지다|tính||remarkable, prominent, noticeable
+3763|살아남다|động||to survive
+3764|살인|danh|殺人 sát nhân|murder, homicide
+3765|성질|danh|性質 tính chất|temper, nature, quality
+3766|인|danh|人 nhân|person; people; human, human being
+3767|잇따르다|động||to follow
+3768|자판|danh|字板 tự bàn|keyboard
+3769|적용|danh|適用 thích dụng|application
+3770|전기|danh|前期 tiền kỳ|electricity
+3771|중반|danh|中盤 trung bàn|the middle stage
+3772|지시하다|động|指示 chỉ thị|to direct, guide
+3773|가르침|danh||teaching, instruction, study
+3774|무리|danh|無理 vô lý|group, crowd, gang, horde
+3775|정면|danh|正面 chính diện|front, façade
+3776|개국|danh|個國 cá quốc|founding of a nation
+3777|근원|danh|根源 căn nguyên|root, cause, source, origin
+3778|사회주의|danh|社會主義 xã hội chủ nghĩa|socialism
+3779|설치되다|động|設置 thiết trí|to be installed
+3780|수도권|danh|首都圈 thủ đô quyển|capital area, metropolitan area
+3781|자극|danh|刺戟 thích kích|stimulation; stimulus
+3782|짚다|động||To rely, rest
+3783|총리|danh|總理 tổng lý|prime minister; premier
+3784|대출|danh|貸出 thải xuất|loan
+3785|덕|danh|德 đức|virtue
+3786|바치다|động||to offer, present, give, dedicate
+3787|발표되다|động|發表 phát biểu|reported, announced
+3788|부정하다|động|否定 phủ định|to deny
+3789|불러일으키다|động||to arouse, to cause; to provoke
+3790|소유자|danh|所有者 sở hữu giả|owner; proprietor; possessor
+3791|액수|danh|額數 ngạch số|sum
+3792|직전|danh|直前 trực tiền|directly in front, directly ahead
+3793|짐작하다|động|斟酌 châm chước|to guess, to assume, to conjecture
+3794|택하다|động|擇 trạch|to choose, to select, to pick
+3795|터|danh||place, room, space
+3796|가구|danh|家口 gia khẩu|family; household
+3797|거꾸로|phó ||upside down, inside out
+3798|궁극적|danh|窮極的 cùng cực đích|ultimate, eventual
+3799|극히|phó |極 cực|very, extremely, greatly
+3800|기여하다|động|寄與 ký dự|to contribute
+3801|꼭|phó ||absolutely; surely
+3802|대륙|danh|大陸 đại lục|continent
+3803|뒤따르다|động||to follow, to go after
+3804|범인|danh|犯人 phạm nhân|criminal, offender, culprit, convict
+3805|변동|danh|變動 biến động|change, fluctuation
+3806|불가피하다|tính||inevitable, unavoidable
+3807|손해|danh|損害 tổn hại|loss; damage
+3808|숨지다|động||die
+3809|아유|thán||flattery
+3810|자존심|danh|自尊心 tự tôn tâm|self-respect; self-esteem
+3811|주저앉다|động||to sit down in a forceless manner
+3812|증권사|danh|證券社 chứng khoán xã|stock firm
+3813|초원|danh|草原 thảo nguyên|grassland; grassy plain
+3814|최종|danh|最終 tối chung|the last, the final
+3815|검사|danh|檢事 kiểm sự|examination
+3816|대신하다|động|代身 đại thân|to replace, to substitute
+3817|두렵다|tính||to be fearful, to be scared
+3818|등장|danh|登場 đăng trường|appearance
+3819|마디|danh||joint, knuckle
+3820|미처|phó ||yet
+3821|비율|danh||ratio, percentage
+3822|생물|danh|生物 sinh vật|organism, living being, creature
+3823|소음|danh|騷音 tao âm|noise; din
+3824|양국|danh||two countries; both countries
+3825|얼핏|phó ||in an instant, in a flash, by chance, 
+3826|웬|định||A determiner which is used to express 
+3827|조각|danh||a piece, scrap, slice; shard, sliver
+3828|중부|danh|中部 trung bộ|central part, particularly of a geogra
+3829|침|danh||spit, saliva
+3830|항의|danh|抗議 kháng nghị|protest
+3831|해당|danh|該當 cai đương|being applicable, relevant
+3832|확보|danh|確保 xác bảo|guarantee
+3833|환경오염|danh|環境汚染 hoàn cảnh ô nhiễm|environmental pollution
+3834|가치관|danh|價値觀 giá trị quan|value
+3835|기원전|danh|紀元前 kỷ nguyên tiền|BCE, Before Common Era
+3836|기타|danh|其他 kỳ tha|guitar
+3837|긴급|danh|緊急 khẩn cấp|emergency
+3838|꺾다|động||to snap, to pluck
+3839|무려|phó |無慮 vô lự|as many as, as much as, no less than
+3840|묻히다|động||to be buried
+3841|실태|danh|實態 thực thái|reality
+3842|아쉽다|tính||sad, sorry
+3843|애정|danh|愛情 ái tình|love, affection
+3844|장르|danh||genre
+3845|접하다|động|接 tiếp|to border, to adjoin
+3846|정성|danh|精誠 tinh thành|sincerity; wholeheartedness
+3847|제약|danh|制約 chế ước|restriction, limitation
+3848|쫓다|động||to chase, pursue, follow
+3849|추가|danh|追加 truy gia|addition
+3850|품|danh||chest, bosom, breast
+3851|해석|danh|解析 giải tích|interpretation
+3852|확인되다|động|確認 xác nhận|to be verified, confirmed
+3853|가하다|động|加 gia|to add; to increase
+3854|강의|danh|講義 giảng nghĩa|lecture
+3855|과|danh|科 khoa|academic department
+3856|동포|danh|同胞 đồng bào|compatriot, countryman
+3857|뚫다|động||to pierce a hole through, to bore thro
+3858|상|danh|上 thượng|top, best, first
+3859|새|danh||bird
+3860|외면하다|động|外面 ngoại diện|to look away, to turn away from
+3861|원고|danh|原稿 nguyên cảo|plaintiff
+3862|줄곧|phó ||continuously, constantly, all the time
+3863|지출|danh|支出 chi xuất|expenditure
+3864|차|danh|差 sai|vehicle
+3865|향|danh|香 hương|incense
+3866|개선하다|động|改善 cải thiện|to improve, to ameliorate
+3867|계좌|danh|計座 kế tọa|account
+3868|도|danh||province
+3869|말기|danh|末期 mạt kỳ|final period; terminal period; last st
+3870|말없이|phó ||silently, without saying anything
+3871|망하다|động|亡 vong|to fail, to go under; to go broke, to 
+3872|문서|danh|文書 văn thư|document
+3873|성립되다|động|成立 thành lập|to be established
+3874|실습|danh|實習 thực tập|practice, training, drill
+3875|일찍이|phó ||early
+3876|자율|danh|自律 tự luật|autonomy
+3877|집중되다|động|集中 tập trung|to be concentrated
+3878|창조적|danh|創造的 sáng tạo đích|creative
+3879|천장|danh|天障 thiên chướng|ceiling
+3880|파다|động||to dig, carve, excavate, burrow
+3881|하긴|phó ||honestly, in fact, really, indeed
+3882|해결되다|động|解決 giải quyết|to be settled, solved
+3883|향상|danh|向上 hướng thượng|improvement, progress
+3884|가라앉다|động||to sink, to go down
+3885|감싸다|động||to cover; to wrap
+3886|고작|phó ||at most; only
+3887|기구|danh|器具 khí cụ|device; tool
+3888|깔다|động||to spread
+3889|다짐하다|động||to promise, to resolve, to make a reso
+3890|대합실|danh|待合室 đãi hợp thất|waiting room
+3891|매장|danh|賣場 mại trường|shop; store
+3892|명칭|danh|名稱 danh xưng|name, title
+3893|상업|danh|商業 thương nghiệp|commerce; business; trade
+3894|생산되다|động|生産 sinh sản|to be produced
+3895|숨기다|động||to hide, to conceal
+3896|엉덩이|danh||buttocks, bottom
+3897|이달|danh||this month
+3898|인체|danh|人體 nhân thể|human body, organism
+3899|저고리|danh||jeogori
+3900|진단|danh|診斷 chẩn đoán|diagnosis
+3901|질병|danh|疾病 tật bệnh|disease, sickness
+3902|짜다|động||to make, to assemble, to put together,
+3903|체력|danh|體力 thể lực|physical strength, physical power
+3904|헤아리다|động||to consider, to think over
+3905|각기|phó |各其 các kỳ|each, respectively, individually
+3906|관찰|danh|觀察 quan sát|observation
+3907|군사|danh|軍士 quân sĩ|A soldier or soldiers.
+3908|귀신|danh|鬼神 quỷ thần|ghost, spirit
+3909|귀하다|tính|貴 quý|precious, valuable
+3910|그토록|phó ||so much, so, as much
+3911|기초하다|động|基礎 cơ sở|to be based on
+3912|대가|danh|代價 đại giá|master, leading figure
+3913|되찾다|động||to retrieve, to find
+3914|말리다|động||to stop, to keep
+3915|무덤|danh||grave; tomb
+3916|물결|danh||wave; tide
+3917|밥상|danh||table
+3918|보장하다|động|保障 bảo chướng|to guarantee, to assure
+3919|사귀다|động||to date, to go out with, to be boyfrie
+3920|솟다|động||to rise, to soar
+3921|예상하다|động|豫想 dự tưởng|to expect, to anticipate, to predict
+3922|예외|danh||exception
+3923|완전|danh|完全 hoàn toàn|absolutely, completely, totally
+3924|절대적|danh|絶對的 tuyệt đối đích|unconditional, absolute
+3925|제작하다|động|製作 chế tác|to produce, to create, to make
+3926|최대한|danh|最大限 tối đại hạn|maximum limit
+3927|품다|động||to hug, to embrace; to brood
+3928|휴식|danh|休息 hưu tức|rest; relaxation; break
+3929|굳다|tính||hard; solid; adamant
+3930|굳어지다|động||to harden, to stiffen
+3931|굶다|động||to skip, to starve, to fast
+3932|기기|danh|機器 cơ khí|machine, device, equipment, instrument
+3933|나침반|danh||compass
+3934|농부|danh|農夫 nông phu|peasant, farmer
+3935|도달하다|động|到達 đáo đạt|to reach, to arrive
+3936|뒤늦다|tính||late, tardy
+3937|뒤지다|động||to rummage, to rifle
+3938|디스크|danh||disk, disc
+3939|맛보다|động||to taste, to try
+3940|묻다|động||to ask; to inquire
+3941|상|danh|像 tượng|top, best, first
+3942|상상력|danh|想像力 tưởng tượng lực|imagination
+3943|영업|danh|營業 doanh nghiệp|business, trade, sales
+3944|예|danh||yes
+3945|예방|danh|豫防 dự phòng|prevention
+3946|완성|danh|完成 hoàn thành|completion
+3947|유리하다|tính|有利 hữu lợi|advantageous, favorable
+3948|자연환경|danh|自然環境 tự nhiên hoàn cảnh|natural environment
+3949|증명하다|động|證明 chứng minh|to prove
+3950|지적되다|động|指摘 chỉ trích|to be pointed out
+3951|철저히|phó |徹底 triệt để|thoroughly, exhaustively
+3952|코스|danh||course
+3953|학부모|danh|學父母 học phụ mẫu|school parent
+3954|합리적|danh|合理的 hợp lý đích|rational, reasonable, logical
+3955|해석하다|động|解釋 giải thích|to interpret, to translate, to constru
+3956|힘쓰다|động||to labour; to exert oneself
+3957|거듭|phó ||again, once more, repeatedly
+3958|날리다|động||to cause to fly
+3959|덜다|động||to subtract; to cut down
+3960|뛰어넘다|động||to leap, to jump
+3961|마누라|danh||wife
+3962|맞이하다|động||to receive
+3963|신고하다|động|申告 thân cáo|to report, to notify, to declare
+3964|연속|danh||continuation; succession
+3965|욕|danh|辱 nhục|abuse, insulting remark
+3966|원장|danh|院長 viện trưởng|director
+3967|유물|danh|遺物 di vật|relic, artifact
+3968|저절로|phó ||by itself, automatically, naturally
+3969|정비|danh|整備 chỉnh bị|improvement
+3970|주의|danh|注意 chú ý|attention; caution
+3971|집어넣다|động||to put in, to throw in
+3972|통계|danh|統計 thống kê|statistics
+3973|판|danh||board, plank
+3974|피해자|danh|被害者 bị hại giả|victim, casualty
+3975|필수적|danh|必須的 tất tua đích|necessary, indispensable, essential
+3976|학용품|danh|學用品 học dụng phẩm|school supplies/things, stationery
+3977|환하다|tính||bright, light, radiant
+3978|강남|danh|江南 giang nam|south of a river
+3979|구속되다|động|拘束 câu thúc|to get arrested
+3980|돌아다니다|động||to get around, to go around, to wander
+3981|등등|danh|等等 đẳng đẳng|et cetera
+3982|멋지다|tính||to be cool, splendid
+3983|반발|danh|反撥 phản bát|repulsion, resistance
+3984|방지|danh|防止 phòng chỉ|prevention
+3985|배다|động||to soak into; to penetrate
+3986|보장|danh|保障 bảo chướng|guarantee; warranty
+3987|빠져나오다|động||to escape, to get out, to sneak out
+3988|새다|động||to leak, to escape
+3989|억울하다|tính|抑鬱 ức uất|to be victimized by an unfair situatio
+3990|요구되다|động|要求 yêu cầu|to be required
+3991|음성|danh|音聲 âm thanh|voice
+3992|이윽고|phó ||finally, eventually, at last
+3993|장식|danh|裝飾 trang sức|decoration, ornamentation
+3994|전개하다|động|展開 triển khai|to develop
+3995|전반적|danh|全般的 toàn bát đích|overall, general, across-the-board
+3996|척하다|trợ ||to pretend
+3997|풍습|danh|風習 phong tập|custom
+3998|한가운데|danh||middle, the centre
+3999|한정되다|động|限定 hạn định|to be limited; to be restricted
+4000|해내다|động||to accomplish, to manage, to achieve

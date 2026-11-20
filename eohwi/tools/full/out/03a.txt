@@ -1,0 +1,200 @@
+801|địa chỉ
+802|bữa tiệc
+803|nóng lên, nung đỏ
+804|dọn dẹp
+805|cảm ơn
+806|leo núi
+807|thực đơn
+808|thứ ba
+809|ngoại ngữ
+810|mì tương đen
+811|học sinh cấp hai
+812|ngày nghỉ
+813|cuốn lịch
+814|dã ngoại
+815|nhảy múa
+816|quần vợt
+817|vở
+818|thẳng
+819|bụng; thuyền; lê
+820|hiệu sách
+821|tất
+822|mời
+823|luyện tập
+824|phong cảnh
+825|phát âm
+826|chán, không thú vị
+827|nước ép
+828|cô-ca
+829|nam sinh
+830|dùng bữa
+831|bưu điện
+832|đói
+833|đại sứ quán
+834|đói bụng
+835|ba
+836|đi du lịch
+837|bến, trạm xe
+838|cay
+839|em gái
+840|lâu rồi mới
+841|giờ nghỉ trưa
+842|giấy vệ sinh
+843|thứ tư
+844|taekwondo
+845|bánh hamburger
+846|lòng biết ơn
+847|siêu thị
+848|xà phòng
+849|việc rửa mặt
+850|món canh hầm (jjigae)
+851|cà vạt
+852|mỗi ngày
+853|tháng
+854|dùng bữa (kính ngữ)
+855|tiếng Hàn
+856|trứng gà
+857|bốn
+858|máy lạnh
+859|lời mời
+860|từ điển
+861|sự thất lễ
+862|chào, bình an
+863|hiệu thuốc
+864|tuần trước
+865|y tá
+866|học sinh cấp ba
+867|năm
+868|thịt gà
+869|thìa
+870|thứ trong tuần
+871|một; công việc
+872|kia
+873|đặt câu hỏi
+874|kem đánh răng
+875|thứ Sáu
+876|kimbap
+877|chuối
+878|thứ Tư
+879|lái xe
+880|vở ghi
+881|dâu tây
+882|sô-cô-la
+883|pizza
+884|màu vàng
+885|đô la
+886|vạn, mười nghìn
+887|vị này
+888|bàn chải đánh răng
+889|nho
+890|điện thoại công cộng
+891|no
+892|việc tắm vòi sen
+893|máy giặt
+894|vì vậy
+895|em trai
+896|sự đến nơi
+897|mua sắm
+898|trượt tuyết
+899|mười
+900|giày thể thao
+901|mặn; đan, lắp ráp
+902|trường tiểu học
+903|ngày lễ
+904|bốn mươi
+905|bút bi
+906|màu đỏ
+907|hai; này
+908|hai mươi
+909|quần jean
+910|điện thoại di động
+911|thùng rác
+912|thứ tư
+913|bảng đen
+914|Giáng sinh
+915|chín
+916|thứ Năm
+917|cục tẩy
+918|bốn
+919|hồ bơi
+920|tiếng Nhật
+921|sườn
+922|ba mươi
+923|chín
+924|hoa hồng
+925|màu xanh dương
+926|mì lạnh naengmyeon
+927|cơm trộn bibimbap
+928|tám mươi
+929|bảy mươi
+930|thứ Ba
+931|tặng quà
+932|kem
+933|nấu ăn
+934|bảy
+935|thứ năm
+936|dở, không ngon
+937|trăm
+938|bốn mươi
+939|tám; cánh tay
+940|thất lễ
+941|sáu
+942|sáu
+943|bảy
+944|ba mươi
+945|năm mươi
+946|tiếng Trung
+947|bảy mươi
+948|thứ năm
+949|kẹo
+950|sáu mươi
+951|năm
+952|mười
+953|nghìn
+954|năm mươi
+955|sáu mươi
+956|tám mươi
+957|tám
+958|chín mươi
+959|hai mươi
+960|chỗ kia
+961|Cảnh Phúc Cung
+962|Gyeongju
+963|chín mươi
+964|Namdaemun
+965|chợ Namdaemun
+966|nước Đức
+967|nước Nga
+968|nước Mỹ
+969|Busan
+970|Seoul
+971|ga Seoul
+972|núi Seorak
+973|nước Anh
+974|Incheon
+975|Nhật Bản
+976|đảo Jeju
+977|Trung Quốc
+978|Canada
+979|nước Pháp
+980|sông Hàn
+981|Hàn Quốc
+982|nước Úc
+983|lưng; v.v.
+984|đối với
+985|vì, nhằm
+986|xã hội
+987|theo, đi theo
+988|như vậy
+989|chỗ, nơi
+990|trường hợp
+991|giữa; trong
+992|bản thân
+993|văn hóa
+994|thông qua, thông
+995|âm thanh
+996|mức độ
+997|được thấy, trông có vẻ
+998|đi qua, trôi qua
+999|con người
+1000|sự thật

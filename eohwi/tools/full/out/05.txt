@@ -1,0 +1,400 @@
+1601|đúng
+1602|loạt, series
+1603|mang thai
+1604|bị bắt, nắm được
+1605|gam
+1606|ruộng (cạn)
+1607|phân tích
+1608|thành viên gia đình
+1609|vang lên, reo
+1610|chắc chắn
+1611|chữ cái, chữ
+1612|nghiên cứu
+1613|hiền lành
+1614|bất động sản
+1615|điểm, chấm
+1616|nghề nghiệp
+1617|tổ tiên
+1618|đen
+1619|bên cạnh
+1620|các bạn, tụi bay
+1621|hái; lấy (bằng cấp)
+1622|vấn đề, điểm bất cập
+1623|không thể
+1624|giờ thì, cuối cùng
+1625|cú sốc
+1626|ngay, lập tức
+1627|ấn, nhấn
+1628|mỹ thuật
+1629|khá
+1630|lẫn nhau
+1631|một lúc lâu
+1632|cắt đứt, dứt, bỏ
+1633|lật; chuyển sang
+1634|được đựng, chứa
+1635|vội vàng
+1636|đủ
+1637|vui
+1638|niềm vui
+1639|sâu
+1640|trang trí
+1641|làm tăng, mở rộng
+1642|đầu gối
+1643|được phát hiện
+1644|sự sử dụng
+1645|hét; đâm
+1646|bước chân
+1647|vừa đủ, khó khăn lắm
+1648|khô, cạn
+1649|tương đối
+1650|được nâng cao, cao lên
+1651|già
+1652|sự tưởng tượng
+1653|nổi; mọc
+1654|ngôi sao, minh tinh
+1655|môi
+1656|giữa
+1657|vô cùng
+1658|đặc biệt
+1659|gần
+1660|khỏi bệnh; tốt hơn
+1661|vượt qua
+1662|rang, xào
+1663|một lúc nào đó
+1664|nghệ sĩ
+1665|yên lặng, im
+1666|một hai
+1667|đất
+1668|nghèo
+1669|khách hàng
+1670|nhà khoa học
+1671|du lịch (tham quan)
+1672|phẫu thuật
+1673|thực phẩm
+1674|diễn xuất
+1675|hội viên
+1676|vọng đến, nghe thấy
+1677|từng chút một
+1678|được cởi, tan ra
+1679|nhìn vào trong
+1680|tỏi
+1681|thói quen
+1682|vận dụng
+1683|chăm sóc, vun trồng
+1684|nỗi phiền muộn
+1685|nhớ lại, gợi nhớ
+1686|nhất, ngay
+1687|vết thương
+1688|chật, hẹp
+1689|nhặt, gắp
+1690|ông, anh; quân; huyện
+1691|tiêu biểu
+1692|nếu, lỡ như
+1693|mang tính xã hội
+1694|sinh ra, xuất hiện
+1695|nội trợ
+1696|mặt trời
+1697|chắc chắn, không sai
+1698|phần trăm; chuyên nghiệp
+1699|nở
+1700|đường sá
+1701|sai, nhầm
+1702|rơi, lặn; thua
+1703|làm đầy
+1704|sự thiếu; bộ tộc
+1705|chạy; treo
+1706|cộng thêm
+1707|thường
+1708|thật là
+1709|hiệu trưởng đại học
+1710|đơn thuần
+1711|chạy tới
+1712|sự viếng thăm
+1713|sự bất mãn
+1714|bất tiện
+1715|thực tế
+1716|nô lệ; loài
+1717|máu
+1718|khán giả
+1719|bừa, mạnh tay
+1720|mi-li-mét
+1721|chữ số
+1722|nhiệt; mười
+1723|tính toán
+1724|đáng ngạc nhiên
+1725|ngày xưa
+1726|này, ừm
+1727|điện
+1728|sai; bị vặn
+1729|người mẫu, mô hình
+1730|rót; sưng
+1731|cô (chị em của bố)
+1732|tò mò
+1733|đúng, khít
+1734|yếu
+1735|làm sai
+1736|công chức
+1737|bỏ, nghỉ
+1738|sự thiếu
+1739|nóng lên
+1740|hạnh phúc
+1741|nướng; cong
+1742|dầu, mỡ
+1743|đổ ào ra
+1744|nhớ
+1745|thảo luận
+1746|cao cấp
+1747|sự vất vả
+1748|điên; đạt tới
+1749|giẫm
+1750|trộn
+1751|loại bỏ
+1752|được thực hiện
+1753|đỉnh; bình thường
+1754|mỹ phẩm
+1755|to, dày
+1756|sạch sẽ
+1757|cũ kỹ
+1758|trước mắt
+1759|thăm
+1760|đỏ
+1761|thứ tự
+1762|dù sao thì
+1763|viện nghiên cứu
+1764|chuyển nhà
+1765|ghé qua
+1766|đảo
+1767|trở xuống
+1768|tham dự
+1769|giải quyết
+1770|hạnh phúc
+1771|người lao động
+1772|ừm, để xem
+1773|thay đổi
+1774|được quyết định
+1775|bất an
+1776|sự dư dả
+1777|ki-lô-mét
+1778|sóng
+1779|đơn; bó
+1780|đài truyền hình
+1781|ẩn nấp
+1782|tiền gửi
+1783|nhập học
+1784|cắn
+1785|bất chợt, đã
+1786|giây
+1787|phô mai
+1788|phản đối
+1789|ôi, trời
+1790|yên lặng
+1791|khí ga
+1792|lỗ
+1793|truyện tranh
+1794|cho ăn
+1795|phớt lờ
+1796|nhẹ nhàng, khẽ
+1797|chợt nhớ ra
+1798|lạnh lẽo
+1799|quan sát
+1800|vô cớ
+1801|kẹp, đeo, mang
+1802|cánh
+1803|thằng nhóc
+1804|ánh mắt
+1805|khu (chung cư); chỉ
+1806|trong nước
+1807|thành công
+1808|cây thông
+1809|đây đó
+1810|ở lại
+1811|rẻ; gói, bọc
+1812|anh em
+1813|lộng lẫy
+1814|khác
+1815|một vài
+1816|mang tính toàn cầu
+1817|an toàn
+1818|hành tây
+1819|bất thường; trở lên
+1820|quay phim, chụp ảnh
+1821|bật; vặn
+1822|loại; cành
+1823|nhắm (mắt); gội
+1824|ớt
+1825|quy tắc
+1826|có lẽ
+1827|phòng chính
+1828|ốm, mắc bệnh
+1829|chỉ duy nhất
+1830|sự tự tin
+1831|chốc lát
+1832|được bao gồm
+1833|con hổ
+1834|ít hơn
+1835|tròn
+1836|vốn dĩ
+1837|thuế
+1838|cửa vào
+1839|đầy ắp
+1840|sự tích cực
+1841|tối thiểu
+1842|được trải ra
+1843|trải nghiệm
+1844|tràn
+1845|bỏ lỡ
+1846|ngoái nhìn lại
+1847|lại một lần nữa
+1848|trong đầu
+1849|bất an
+1850|sự vi phạm
+1851|cả đời
+1852|vô cùng
+1853|đậy, phủ
+1854|lái; xua
+1855|diễn viên
+1856|trứng
+1857|đi trước
+1858|lâu rồi
+1859|tư cách
+1860|cầu thang
+1861|gật đầu
+1862|lạ lẫm
+1863|độ cao
+1864|giống
+1865|trong lòng
+1866|xương
+1867|được kết nối
+1868|buôn bán
+1869|sự giới hạn
+1870|đầy; đeo; đá
+1871|say
+1872|đậu nành
+1873|tiếng thở dài
+1874|chia tay
+1875|bên kia
+1876|động cơ; cùng khóa
+1877|thịt, da thịt
+1878|thuần khiết
+1879|phong cách
+1880|sự tập trung
+1881|chuyện lớn
+1882|lời nói dối
+1883|to lớn, giỏi
+1884|rất
+1885|đối mặt
+1886|toàn bộ
+1887|chi tiết
+1888|chính xác
+1889|kiệt sức
+1890|thanh niên
+1891|lưỡi
+1892|mở rộng
+1893|bột tiêu
+1894|đúng lúc
+1895|tín dụng
+1896|toàn thân
+1897|tình cảm
+1898|mang tính tinh thần
+1899|triệu chứng
+1900|xuất hiện (trong phim, chương trình)
+1901|cùng một lúc
+1902|sự cưỡng chế
+1903|băng qua
+1904|tỉnh dậy; vỡ
+1905|câu cá
+1906|đến gần
+1907|lao vào
+1908|hỏi; chôn; dính
+1909|cô dâu; linh mục
+1910|mực
+1911|phí, cước
+1912|tiền tiêu vặt
+1913|đồ uống
+1914|điện tử
+1915|được truyền lại
+1916|tiện lợi
+1917|tiền mặt
+1918|sôi nổi
+1919|chọn lọc, che
+1920|vỏ
+1921|mệnh lệnh
+1922|lén lút
+1923|vô điều kiện
+1924|lớp trưởng
+1925|vùng lân cận
+1926|sự lựa chọn
+1927|nhà sử học
+1928|nhà nghiên cứu
+1929|sự sắp xếp
+1930|nhỏ xíu
+1931|cành, thân, tia
+1932|tìm ra
+1933|khuyên, mời
+1934|cuối cùng
+1935|cổng lớn
+1936|nội thành
+1937|thần
+1938|trong nhà
+1939|đổ ra
+1940|kết nối
+1941|ngoại giao
+1942|túi
+1943|hợp đồng
+1944|trưởng phòng
+1945|xấu hổ
+1946|thành công
+1947|đơn xin
+1948|nỗi đau
+1949|hiểu, nghe hiểu
+1950|một chút
+1951|khói; diễn xuất
+1952|sự di chuyển
+1953|nhiệt độ không khí
+1954|bay đi
+1955|trở nên nhiều
+1956|tảng đá
+1957|thói quen xấu
+1958|phê phán
+1959|đỏ thẫm
+1960|được dựng nên
+1961|quán rượu
+1962|nghỉ; thở ra
+1963|nhìn chung
+1964|một nửa
+1965|thoải mái
+1966|phong cảnh
+1967|chắc chắn
+1968|thay; mài
+1969|giao lưu
+1970|viết lách
+1971|suốt
+1972|tập đoàn lớn
+1973|công cụ
+1974|sức hấp dẫn
+1975|bảo hiểm
+1976|ghen tị, thèm muốn
+1977|trưởng ban
+1978|bị trộn lẫn
+1979|bò, trâu
+1980|tâm lý
+1981|bắn
+1982|nằm ở
+1983|hai ngày
+1984|truyền đạt
+1985|thật sự
+1986|góc
+1987|hành động
+1988|sự cảm động
+1989|nhất thiết
+1990|bóng râm
+1991|gấp
+1992|trứng gà
+1993|văn hóa đại chúng
+1994|được chuẩn bị
+1995|sàn nhà
+1996|trọng lượng
+1997|thành tích
+1998|thành thật mà nói
+1999|thử
+2000|lễ nghi
