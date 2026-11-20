@@ -1,0 +1,43 @@
+@lv k6
+@t Tư duy và thảo luận
+고찰|danh từ|考察|khảo sát|khảo cứu, suy xét|깊은 고찰이 필요해요.|Cần suy xét sâu sắc.
+통찰|danh từ|洞察|động sát|thấu hiểu sâu sắc|통찰력이 뛰어나요.|Có tầm nhìn thấu suốt.
+함의|danh từ|含意|hàm ý|hàm ý|이 말에는 함의가 있어요.|Câu này có hàm ý.
+맥락|danh từ|脈絡|mạch lạc|ngữ cảnh, mạch|맥락을 파악해야 해요.|Phải nắm được ngữ cảnh.
+쟁점|danh từ|爭點|tranh điểm|điểm tranh luận|주요 쟁점을 정리해요.|Tổng hợp các điểm tranh luận chính.
+담론|danh từ|談論|đàm luận|diễn ngôn, luận bàn|사회 담론이 형성돼요.|Hình thành diễn ngôn xã hội.
+이념|danh từ|理念|lý niệm|lý niệm|이념이 서로 달라요.|Lý niệm khác nhau.
+모순|danh từ|矛盾|mâu thuẫn|mâu thuẫn|말과 행동이 모순돼요.|Lời nói và hành động mâu thuẫn.
+역설|danh từ|逆說|nghịch thuyết|nghịch lý|역설적인 상황이에요.|Tình huống nghịch lý.
+전환|danh từ|轉換|chuyển hoán|chuyển đổi|발상의 전환이 필요해요.|Cần chuyển đổi cách nghĩ.
+@t Cộng đồng và giá trị
+체제|danh từ|體制|thể chế|thể chế|체제가 바뀌었어요.|Thể chế đã thay đổi.
+통합|danh từ|統合|thống hợp|hợp nhất|사회 통합이 중요해요.|Hòa nhập xã hội quan trọng.
+분열|danh từ|分裂|phân liệt|chia rẽ|내부 분열이 생겼어요.|Nảy sinh chia rẽ nội bộ.
+위상|danh từ|位相|vị tướng|vị thế|국제 위상이 높아졌어요.|Vị thế quốc tế đã nâng cao.
+정체성|danh từ|正體性|chính thể tính|bản sắc|정체성을 찾아요.|Tìm bản sắc.
+다양성|danh từ|多樣性|đa dạng tính|tính đa dạng|다양성을 존중해요.|Tôn trọng sự đa dạng.
+포용|danh từ|包容|bao dung|bao dung, bao trùm|포용적인 사회를 만들어요.|Xây xã hội bao trùm.
+소외|danh từ|疏外|sơ ngoại|bị gạt ra rìa|소외된 계층을 도와요.|Giúp tầng lớp bị bỏ lại.
+연대|danh từ|連帶|liên đới|đoàn kết|시민 연대가 필요해요.|Cần đoàn kết công dân.
+공동체|danh từ|共同體|cộng đồng thể|cộng đồng|공동체 의식이 강해요.|Ý thức cộng đồng mạnh.
+윤리|danh từ|倫理|luân lý|đạo lý, đạo đức nghề|윤리 의식이 중요해요.|Ý thức đạo đức quan trọng.
+도덕|danh từ|道德|đạo đức|đạo đức|도덕적으로 옳아요.|Đúng về mặt đạo đức.
+양심|danh từ|良心|lương tâm|lương tâm|양심에 따라 행동해요.|Hành động theo lương tâm.
+정의|danh từ|正義|chính nghĩa|chính nghĩa, công lý|정의를 실현해요.|Thực thi công lý.
+공정|danh từ|公正|công chính|công bằng|공정한 경쟁이에요.|Cạnh tranh công bằng.
+투명성|danh từ|透明性|thấu minh tính|tính minh bạch|투명성을 높여요.|Nâng cao tính minh bạch.
+책무|danh từ|責務|trách vụ|nhiệm vụ, trách nhiệm|사회적 책무를 다해요.|Hoàn thành trách nhiệm xã hội.
+@t Động từ hóa danh từ trang trọng
+감수|danh từ|甘受|cam thụ|chấp nhận (chịu thiệt)|손해를 감수했어요.|Chấp nhận chịu thiệt.
+초래|danh từ|招來|chiêu lai|dẫn đến (hậu quả)|문제를 초래했어요.|Gây ra vấn đề.
+야기|danh từ|惹起|nhạ khởi|gây ra|혼란을 야기했어요.|Gây ra hỗn loạn.
+촉진|danh từ|促進|xúc tiến|thúc đẩy|경제 성장을 촉진해요.|Thúc đẩy tăng trưởng kinh tế.
+저해|danh từ|沮害|trở hại|cản trở|발전을 저해해요.|Cản trở phát triển.
+도모|danh từ|圖謀|đồ mưu|mưu cầu, tìm cách|협력을 도모해요.|Tìm cách hợp tác.
+수반|danh từ|隨伴|tùy bạn|đi kèm|위험이 수반돼요.|Rủi ro đi kèm.
+상충|danh từ|相衝|tương xung|xung đột lẫn nhau|이해관계가 상충해요.|Lợi ích xung đột.
+부합|danh từ|符合|phù hợp|phù hợp|기준에 부합해요.|Phù hợp tiêu chuẩn.
+간주|danh từ|看做|khán tố|coi là|사실로 간주해요.|Coi là sự thật.
+함양|danh từ|涵養|hàm dưỡng|bồi dưỡng|인성을 함양해요.|Bồi dưỡng nhân cách.
+확산|danh từ|擴散|khuếch tán|lan rộng|정보가 빠르게 확산돼요.|Thông tin lan nhanh.

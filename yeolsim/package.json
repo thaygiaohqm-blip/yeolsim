@@ -1,0 +1,7 @@
+{
+  "name": "super-yeolsim",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Super Yeolsim — Hangeul, Eohwi, Munbeop và Malhagi: bộ công cụ học tiếng Hàn",
+  "engines": { "node": ">=20" }
+}

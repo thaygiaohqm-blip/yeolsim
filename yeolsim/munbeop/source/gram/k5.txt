@@ -1,0 +1,527 @@
+@level k5
+
+@group 1 | 원인·결과·목적 | Nguyên nhân – Kết quả – Mục đích | Các mẫu nêu lý do, hệ quả và mục đích ở văn viết, bản tin (001–011).
+@group 2 | 대조·양보·가정 | Đối chiếu – Nhượng bộ – Giả định | Các mẫu nêu nghịch tiếp, nhượng bộ, giả định (012–021).
+@group 3 | 평가·정도·기준 | Đánh giá – Mức độ – Tiêu chuẩn | Các mẫu nêu mức độ, tiêu chuẩn, khuynh hướng, thói quen (022–030).
+@group 4 | 화제·강조·감정 | Đề tài – Nhấn mạnh – Cảm xúc | Các mẫu nêu đề tài, nhấn mạnh, nhận xét cảm xúc (031–038).
+
+@p 001 | -(으)ㄴ 나머지
+@group 1
+@mean Vì quá… nên (dẫn đến kết quả không mong muốn)
+@core Diễn tả một trạng thái, hành động ở mức độ quá cao dẫn đến kết quả tiêu cực hoặc ngoài ý muốn.
+@form V + (으)ㄴ 나머지 + hệ quả
+@form A/N + 한 나머지 (A: -(으)ㄴ, N: 인 나머지)
+@exp Vế sau thường là hành động bộc phát hoặc hậu quả không hay, không dùng mệnh lệnh hay rủ rê. Vế trước chỉ mức độ quá nhiều của cảm xúc, hành động như 놀라다, 흥분하다, 피곤하다.
+@ex 너무 놀란 {나머지} 소리를 질렀어요. | Quá hoảng sợ nên tôi đã hét lên.
+@ex 지나치게 기뻐한 {나머지} 말도 못 했어요. | Vui mừng quá mức nên tôi chẳng nói nên lời.
+@ex 무리하게 일한 {나머지} 병이 났어요. | Làm việc quá sức nên tôi đã ngã bệnh.
+@theme nguyen-nhan
+@ctx van-viet
+@book tonghop6 | 1 | 1
+
+@p 002 | -고자
+@group 1
+@mean Để, nhằm (mục đích)
+@core Diễn tả mục đích hoặc ý định của người nói, hơi trang trọng; chỉ dùng khi chủ ngữ hai vế giống nhau.
+@form V + 고자 (+ 하다 / V khác)
+@exp Gần nghĩa -(으)려고 nhưng trang trọng, thường gặp trong phát biểu, văn bản, thư từ. Vế sau không dùng đuôi mệnh lệnh hay rủ rê. Cách nói cố định: -고자 합니다 (tôi xin/định…).
+@ex 문제를 해결하{고자} 회의를 열었습니다. | Chúng tôi đã mở cuộc họp nhằm giải quyết vấn đề.
+@ex 여러분께 감사의 말씀을 드리{고자} 합니다. | Tôi xin gửi lời cảm ơn tới quý vị.
+@ex 한국 문화를 이해하{고자} 한국어를 배웁니다. | Tôi học tiếng Hàn để hiểu văn hóa Hàn Quốc.
+@theme muc-dich
+@ctx cong-so
+@cmp -(으)려고 하다 | k1 | Cùng nghĩa mục đích, nhưng thân mật hơn.
+@book tonghop6 | 2 | 1
+
+@p 003 | -(으)ㄴ 탓
+@group 1
+@mean Tại vì… (lý do không tốt)
+@core Dùng khi nguyên nhân dẫn đến kết quả tiêu cực, kèm ý trách móc; thường gắn -(으)ㄴ 탓에 / -(으)ㄴ 탓이다.
+@form V/A + (으)ㄴ/는 탓에 / 탓이다
+@form N + 탓에 / 탓이다
+@exp Ngược nghĩa với 덕분에 (nhờ). Chỉ dùng cho kết quả xấu. Thường viết: 날씨 탓에 (do thời tiết), 내 탓이다 (là do tôi).
+@ex 늦잠을 잔 {탓에} 지각했습니다. | Do ngủ dậy muộn nên tôi đã đến trễ.
+@ex 비가 많이 온 {탓에} 농사를 망쳤어요. | Mưa nhiều nên vụ mùa hỏng.
+@ex 실패한 것은 모두 제 {탓이에요}. | Thất bại là do tôi cả.
+@theme nguyen-nhan
+@ctx van-viet
+@cmp -(으)니만큼 | k5 | Lý do mang tính trung lập, kết quả theo lẽ thường.
+@book tonghop6 | 2 | 4
+
+@p 004 | -(으)ㄹ 겸
+@group 1
+@mean Vừa để… vừa để…
+@core Nêu hai mục đích trong cùng một hành động; thường có dạng “A-(으)ㄹ 겸 B-(으)ㄹ 겸”.
+@form V + (으)ㄹ 겸 + V (-(으)ㄹ 겸) + V
+@exp Cũng dùng: N도 -(으)ㄹ 겸 (nhân tiện). Dạng một vế cũng thường gặp: 바람도 쐴 겸 (nhân tiện hóng gió). Vế sau thường là động từ di chuyển 가다 hoặc hành động chính.
+@ex 운동도 할 {겸} 바람도 쐴 {겸} 공원에 갔어요. | Tôi ra công viên vừa để tập thể dục vừa để hóng gió.
+@ex 친구도 만날 {겸} 쇼핑도 할 {겸} 명동에 왔어요. | Tôi đến Myeongdong vừa để gặp bạn vừa để mua sắm.
+@ex 점심도 먹을 {겸} 이야기도 나눌 {겸} 만났습니다. | Chúng tôi gặp nhau vừa để ăn trưa vừa để trò chuyện.
+@theme muc-dich
+@ctx hoi-thoai
+@book tonghop6 | 3 | 1
+
+@p 005 | -(으)니만큼
+@group 1
+@mean Vì… nên (lý do hợp lẽ)
+@core Nêu lý do mà từ đó rút ra kết luận tương xứng; vế sau thường là yêu cầu, nghĩa vụ, đánh giá.
+@form V/A + (으)니만큼 (N: (이)니만큼)
+@exp Hàm ý “đã … như thế thì … cũng tất nhiên như thế”. Hay gặp trong thông báo, bài phát biểu: 중요한 만큼.
+@ex 중요한 문제{니만큼} 신중하게 결정해야 합니다. | Vì là vấn đề quan trọng nên phải quyết định thận trọng.
+@ex 시험이 얼마 안 남았{으니만큼} 열심히 준비하세요. | Vì kỳ thi sắp tới nên hãy chuẩn bị chăm chỉ.
+@ex 처음 하는 일{이니만큼} 실수가 있을 수 있습니다. | Vì là việc làm lần đầu nên có thể có sai sót.
+@theme nguyen-nhan
+@ctx cong-so
+@cmp -(으)ㄴ/는 만큼 | k5 | Thiên về so mức độ, tương xứng.
+@book tonghop6 | 5 | 2
+
+@p 006 | (으)로 말미암아
+@group 1
+@mean Do, bởi vì (nguyên nhân, văn viết)
+@core Nêu nguyên nhân dẫn đến kết quả, thường là hậu quả đáng chú ý; trang trọng.
+@form N + (으)로 말미암아
+@form V/A + (으)ㅁ으로 말미암아
+@exp Dùng trong văn viết, báo chí. Thường là nguyên nhân của sự kiện xấu hoặc biến đổi lớn: 전쟁으로 말미암아 (do chiến tranh).
+@ex 전쟁{으로 말미암아} 많은 사람이 죽었습니다. | Do chiến tranh nhiều người đã chết.
+@ex 환경 오염{으로 말미암아} 기후가 변하고 있습니다. | Do ô nhiễm môi trường khí hậu đang thay đổi.
+@ex 사고{로 말미암아} 교통이 마비되었다. | Do tai nạn giao thông bị tê liệt.
+@theme nguyen-nhan
+@ctx bao-chi
+@book tonghop6 | 10 | 5
+
+@p 007 | -길래
+@group 1
+@mean Thấy… nên (lý do khẩu ngữ)
+@core Nêu lý do của hành động mà người nói đã làm sau khi thấy, nghe hoặc biết điều gì; khẩu ngữ.
+@form V/A + 길래 (+ vế sau ở quá khứ)
+@exp Vế trước là điều người nói/ người khác làm hoặc tình huống quan sát được, vế sau là hành động của người nói, thường ở quá khứ. Không dùng mệnh lệnh hay rủ rê. Hay dùng khi hỏi lý do: 왜 샀어요? — 싸길래요.
+@ex 비가 오{길래} 우산을 가져갔어요. | Thấy trời mưa nên tôi mang ô theo.
+@ex 친구가 힘들어 보이{길래} 도와줬어요. | Thấy bạn có vẻ mệt nên tôi đã giúp.
+@ex 값이 싸{길래} 하나 샀어요. | Thấy giá rẻ nên tôi mua một cái.
+@theme nguyen-nhan
+@ctx hoi-thoai
+@book tonghop6 | 11 | 3
+
+@p 008 | -기 마련이다
+@group 1
+@mean Tất nhiên sẽ…, vốn dĩ là…
+@core Diễn tả điều là quy luật tự nhiên, kết quả tất yếu của sự việc.
+@form V/A + 기 마련이다 / 마련이에요
+@exp Dùng cho chân lý, quy luật chung: 사람은 실수하기 마련이다. Không dùng cho sự việc cá biệt, không dùng với thì tương lai.
+@ex 사람은 누구나 실수하{기 마련이에요}. | Ai cũng đều mắc lỗi cả.
+@ex 노력하면 결과가 있{기 마련이다}. | Có cố gắng thì ắt có kết quả.
+@ex 시간이 지나면 잊히{기 마련입니다}. | Thời gian trôi qua thì rồi cũng sẽ bị quên lãng.
+@theme danh-gia
+@ctx van-viet
+@book tonghop6 | 13 | 2
+
+@p 009 | -(으)ㄹ 따름이다
+@group 1
+@mean Chỉ là…, chỉ biết…
+@core Diễn tả “không có gì khác ngoài việc…”, thường dùng để thể hiện lòng biết ơn, khiêm tốn.
+@form V/A + (으)ㄹ 따름이다
+@form N + 일 따름이다
+@exp Trang trọng, thường gặp trong lời cảm ơn: 감사할 따름입니다. Dùng khi chỉ có một việc để làm hoặc một cảm xúc duy nhất.
+@ex 도와 주셔서 감사할 {따름입니다}. | Tôi chỉ biết cảm ơn vì đã được giúp.
+@ex 저는 맡은 일을 했을 {따름이에요}. | Tôi chỉ làm việc được giao mà thôi.
+@ex 그저 기쁠 {따름입니다}. | Tôi chỉ thấy vui mà thôi.
+@theme nhan-manh
+@ctx cong-so
+@book tonghop6 | 5 | 3
+
+@p 010 | -는 수가 있다
+@group 1
+@mean Có thể (sẽ) xảy ra điều không hay
+@core Cảnh báo một kết quả xấu có thể xảy ra nếu cứ làm như vậy.
+@form V + 는 수가 있다
+@exp Thường đi cùng vế điều kiện như -다가는, -(으)면: 그러다가는 큰일 나는 수가 있다. Chỉ dùng với động từ và kết quả tiêu cực.
+@ex 그렇게 운전하다가는 사고가 {나는 수가 있어요}. | Lái xe như vậy có thể gây tai nạn.
+@ex 조심하지 않으면 다치는 {수가 있다}. | Không cẩn thận là có thể bị thương.
+@ex 약을 안 먹으면 병이 더 심해지는 {수가 있습니다}. | Không uống thuốc có thể bệnh sẽ nặng thêm.
+@theme suy-doan
+@ctx hoi-thoai
+@book tonghop6 | 5 | 4
+
+@p 011 | (으)로 인해(서)
+@group 1
+@mean Do, bởi (nguyên nhân khách quan)
+@core Nguyên nhân khách quan dẫn đến kết quả, trung tính, hay dùng trong bản tin.
+@form N + (으)로 인해(서) / (으)로 인한 + N
+@exp Đứng trước danh từ nguyên nhân: 사고로 인해 (do tai nạn). Dạng định ngữ: 사고로 인한 피해. Phổ biến trong báo chí và văn viết.
+@ex 폭설{로 인해} 도로가 막혔습니다. | Do tuyết dày đường bị tắc.
+@ex 태풍{으로 인한} 피해가 큽니다. | Thiệt hại do bão rất lớn.
+@ex 경기 불황{으로 인해} 실업자가 늘었어요. | Do kinh tế suy thoái, số người thất nghiệp tăng.
+@theme nguyen-nhan
+@ctx bao-chi
+
+@p 012 | -더라도
+@group 2
+@mean Dù cho… cũng…
+@core Nhượng bộ, giả định điều gì đó xảy ra nhưng kết quả vẫn không đổi.
+@form V/A + 더라도
+@form N + (이)더라도
+@exp Vế trước là giả định (có thể chưa xảy ra), vế sau là ý chí hoặc lời khuyên. Gần -아/어도 nhưng nhấn mạnh ý giả định mạnh hơn.
+@ex 힘들{더라도} 끝까지 포기하지 마세요. | Dù có vất vả cũng đừng bỏ cuộc.
+@ex 비가 오{더라도} 갈 거예요. | Dù trời mưa tôi cũng sẽ đi.
+@ex 실패하{더라도} 다시 도전할 겁니다. | Dù có thất bại tôi cũng sẽ thử lại.
+@theme nghich-tiep
+@ctx hoi-thoai
+@book tonghop6 | 3 | 4
+
+@p 013 | -고서
+@group 2
+@mean Sau khi…, rồi (trình tự); lại còn… mà
+@core Hai nghĩa: (1) làm xong việc trước rồi làm việc sau; (2) nối với vế phủ định, hàm ý “đã … mà lại”.
+@form V + 고서 + V
+@exp Gần -고 nhưng nhấn mạnh hành động trước đã hoàn thành. Thường dùng trong câu có 어떻게 …고서: 그렇게 말해 놓고서 (đã nói thế mà). Với 이다: N이고서 (không phổ biến).
+@ex 밥을 먹{고서} 약을 드세요. | Ăn cơm xong hãy uống thuốc.
+@ex 그 사람을 만나{고서} 생각이 바뀌었어요. | Sau khi gặp người đó suy nghĩ của tôi đã thay đổi.
+@ex 숙제도 안 하{고서} 놀러 가요? | Bài tập cũng chưa làm mà đã đi chơi à?
+@theme thoi-gian
+@ctx hoi-thoai
+@book tonghop6 | 4 | 1
+
+@p 014 | -고요
+@group 2
+@mean Và nữa… (bổ sung), còn… thì sao?
+@core Dùng ở cuối câu để bổ sung thêm thông tin hoặc hỏi tiếp; khẩu ngữ.
+@form V/A + 고요
+@exp Là dạng lược của “-고 + 요”: nghĩa “và nữa/ còn nữa”. Có thể dùng để trả lời thêm hoặc hỏi lại: 그리고요? (Còn gì nữa?).
+@ex 그 식당은 음식이 맛있어요. 값도 싸{고요}. | Quán đó đồ ăn ngon. Giá cũng rẻ nữa.
+@ex 저는 한국어를 공부해요. 영어도 배우{고요}. | Tôi học tiếng Hàn. Học cả tiếng Anh nữa.
+@ex 숙제도 많{고요}. | Bài tập cũng nhiều nữa.
+@theme bo-sung
+@ctx hoi-thoai
+@book tonghop6 | 4 | 2
+
+@p 015 | -던가요?
+@group 2
+@mean … không? (hỏi lại điều mình chưa biết nhưng người khác từng chứng kiến)
+@core Hỏi về điều mà người nghe đã trực tiếp trải nghiệm, người nói muốn biết.
+@form V/A + 던가요?
+@exp Dựa trên -더-: hỏi “đã (thấy) như thế nào?” khi người hỏi không trải nghiệm, người nghe có. Thân mật hơn: -던데요 (nhận xét). Không dùng với trải nghiệm của chính người nói.
+@ex 그 영화가 재미있{던가요}? | Bộ phim đó thế nào, hay không?
+@ex 거기 사람이 많{던가요}? | Ở đó có đông người không?
+@ex 어제 시험이 어렵{던가요}? | Bài thi hôm qua khó không?
+@theme trang-thai
+@ctx hoi-thoai
+@book tonghop6 | 4 | 3
+
+@p 016 | -기는커녕
+@group 2
+@mean Đâu có…, thậm chí còn… (phủ nhận mạnh)
+@core Phủ nhận điều được cho là hiển nhiên và đưa ra điều trái ngược hoặc còn tệ hơn.
+@form V/A + 기는커녕 (N: 은/는커녕)
+@exp Vế sau thường kèm 도 / 조차 / 마저 để nhấn mạnh sự việc càng tồi tệ: 칭찬은커녕 욕도 먹었다. Vế sau không đi với đuôi mệnh lệnh.
+@ex 칭찬{은커녕} 야단만 맞았어요. | Đừng nói khen, tôi chỉ bị mắng thôi.
+@ex 돈을 벌{기는커녕} 빚만 졌어요. | Đừng nói kiếm tiền, tôi chỉ mắc nợ.
+@ex 쉬{기는커녕} 밤새 일했어요. | Đâu có nghỉ, tôi còn làm việc suốt đêm.
+@theme nhan-manh
+@ctx hoi-thoai
+@book tonghop6 | 5 | 1
+
+@p 017 | -(ㄴ/는)다고
+@group 2
+@mean Nói là…, vì cho rằng… (trích dẫn gián tiếp)
+@core Dùng dạng câu gián tiếp để trích lời, nêu lý do, hoặc hỏi lại: gốc từ + -(ㄴ/는)다고.
+@form V + ㄴ/는다고 · A + 다고 · N + (이)라고
+@exp Nghĩa trích lời: 친구가 간다고 했어요. Nghĩa lý do: 피곤하다고 일찍 갔어요 (lấy cớ mệt rồi về sớm). Ngữ điệu lên thì thành câu hỏi lại: 뭐라고요?
+@ex 친구가 내일 {온다고} 했어요. | Bạn nói ngày mai sẽ đến.
+@ex 날씨가 {덥다고} 에어컨을 켰어요. | Vì cho rằng trời nóng nên tôi bật điều hòa.
+@ex 시간이 없다고 했{잖아요}. | Tôi đã bảo là không có thời gian mà.
+@theme tuong-thuat
+@ctx hoi-thoai
+@book tonghop6 | 3 | 3
+
+@p 018 | -(으)ㄴ/는 만큼
+@group 3
+@mean Bằng, tương xứng với…
+@core So sánh mức độ giữa hai việc hoặc nêu lý do tương xứng.
+@form V + 는 만큼 / A + (으)ㄴ 만큼 / V + (으)ㄴ 만큼 (quá khứ)
+@form N + 만큼
+@exp “Bao nhiêu thì bấy nhiêu”: 노력한 만큼 결과가 나온다. Cũng có thể mang nghĩa lý do như -(으)니만큼. N + 만큼 là “bằng N”.
+@ex 노력{한 만큼} 결과가 나옵니다. | Cố gắng bao nhiêu thì kết quả bấy nhiêu.
+@ex 먹고 싶은 {만큼} 드세요. | Hãy ăn bao nhiêu tùy thích.
+@ex 우리 아이도 부모님{만큼} 키가 커요. | Con tôi cao bằng bố mẹ.
+@theme so-sanh
+@ctx hoi-thoai
+@book tonghop6 | 8 | 3
+
+@p 019 | -(으)ㄹ 바에야
+@group 3
+@mean Thà… còn hơn…, đã… thì…
+@core Chọn phương án ít tệ hơn trong hai lựa chọn, vế sau thường kèm 차라리.
+@form V + (으)ㄹ 바에야 + 차라리 + V
+@exp Vế trước là việc người nói không muốn làm, vế sau là lựa chọn ưu tiên hơn. Dạng gần nghĩa: -느니 (차라리).
+@ex 이렇게 고생할 {바에야} 차라리 그만두겠어요. | Thà nghỉ còn hơn khổ thế này.
+@ex 후회할 {바에야} 지금 말하는 게 나아요. | Thà nói bây giờ còn hơn hối hận.
+@ex 늦게 갈 {바에야} 안 가는 게 좋겠어요. | Thà không đi còn hơn đi muộn.
+@theme so-sanh
+@ctx hoi-thoai
+@cmp -느니 차라리 | k5 | Cùng nghĩa “thà… còn hơn”, nhưng gắn trực tiếp vào gốc từ.
+@book tonghop6 | 8 | 1
+
+@p 020 | -느니 차라리
+@group 3
+@mean Thà… còn hơn
+@core Gắn vào gốc động từ để nói “thà làm B còn hơn A”, A là việc không muốn.
+@form V + 느니 (차라리) + V
+@exp Vế sau thường đi với 차라리. Không dùng với tính từ. Ví dụ: 기다리느니 차라리 걸어가겠다.
+@ex 기다리{느니 차라리} 걸어가겠어요. | Thà đi bộ còn hơn chờ.
+@ex 이런 일을 하{느니 차라리} 쉬는 게 낫겠어요. | Thà nghỉ còn hơn làm việc này.
+@ex 혼자 고민하{느니 차라리} 친구에게 말해 보세요. | Thà nói với bạn còn hơn một mình trăn trở.
+@theme so-sanh
+@ctx hoi-thoai
+@book tonghop6 | 9 | 4
+
+@p 021 | -(으)ㄹ 리가 없다
+@group 3
+@mean Không thể nào…, làm gì có chuyện…
+@core Phủ định mạnh mẽ khả năng một việc có thật; người nói tin chắc điều đó không đúng.
+@form V/A + (으)ㄹ 리가 없다
+@form N + 일 리가 없다
+@exp Khẳng định: -(으)ㄹ 리가 있다 (ít dùng, chủ yếu trong câu hỏi tu từ). Hay dùng với đuôi -아/어요 hoặc -(으)ㄹ걸요. Biến thể: -(으)ㄹ 리 만무하다 (trang trọng).
+@ex 그 사람이 거짓말을 {할 리가 없어요}. | Không thể nào người đó nói dối.
+@ex 이렇게 쉬운 문제를 틀렸을 {리가 없어요}. | Làm gì có chuyện sai bài dễ thế này.
+@ex 벌써 도착했을 {리가 없다}. | Không thể nào đã đến rồi.
+@theme suy-doan
+@ctx hoi-thoai
+@book tonghop6 | 9 | 2
+
+@p 022 | -(으)ㄴ/는 마당에
+@group 3
+@mean Trong tình hình…, đến nước này mà…
+@core Nêu hoàn cảnh cấp bách hoặc tình thế khó khăn, vế sau là điều đáng ra không nên hoặc cần làm gấp.
+@form V + 는 마당에 / V + (으)ㄴ 마당에 / A + (으)ㄴ 마당에
+@form N + 인 마당에
+@exp Vế sau thường là câu cảm thán, bất mãn hoặc phản bác: 이런 마당에 웃음이 나와요? (Trong tình cảnh này mà cậu còn cười được à?).
+@ex 회사가 망하게 생긴 {마당에} 여행이라니요! | Công ty sắp phá sản mà bạn còn nghĩ đến đi du lịch!
+@ex 내일이 시험인 {마당에} 놀고 있어요? | Ngày mai thi rồi mà còn chơi sao?
+@ex 이렇게 급한 {마당에} 뭐 하고 있어요? | Gấp thế này mà bạn đang làm gì vậy?
+@theme trang-thai
+@ctx hoi-thoai
+@book tonghop6 | 9 | 3
+
+@p 023 | -기 십상이다
+@group 3
+@mean Rất dễ…, dễ sinh ra…
+@core Diễn tả khả năng cao xảy ra việc xấu nếu không chú ý.
+@form V + 기 십상이다 / 십상이에요
+@exp Dùng với kết quả tiêu cực: 오해받기 십상이다 (dễ bị hiểu lầm). Gần nghĩa -기 쉽다 nhưng nghĩa mạnh và chắc chắn hơn.
+@ex 그렇게 말하면 오해받{기 십상이에요}. | Nói như vậy rất dễ bị hiểu lầm.
+@ex 운동을 안 하면 살이 찌{기 십상입니다}. | Không vận động thì rất dễ béo lên.
+@ex 겨울에는 감기에 걸리{기 십상이에요}. | Mùa đông rất dễ bị cảm.
+@theme suy-doan
+@ctx hoi-thoai
+@book tonghop6 | 7 | 1
+
+@p 024 | -기 일쑤다
+@group 3
+@mean Thường hay…, hay bị… (thói quen xấu)
+@core Diễn tả việc không hay lặp lại thường xuyên như thói quen.
+@form V + 기 일쑤다 / 일쑤예요
+@exp Chỉ dùng cho việc tiêu cực, thường là thói quen cá nhân: 늦잠을 자기 일쑤다. Nghĩa mạnh hơn -곤 하다.
+@ex 저는 아침에 늦잠을 자{기 일쑤예요}. | Sáng nào tôi cũng hay ngủ nướng.
+@ex 그 아이는 숙제를 잊어버리{기 일쑤다}. | Đứa bé đó thường hay quên bài tập.
+@ex 바빠서 식사를 거르{기 일쑤입니다}. | Bận quá nên tôi hay bỏ bữa.
+@theme trang-thai
+@ctx hoi-thoai
+@book tonghop6 | 10 | 3
+
+@p 025 | -(으)ㄹ뿐더러
+@group 3
+@mean Không những… mà còn…
+@core Thêm một việc nữa vào việc đã nêu, thường cùng nội dung tích cực hoặc tiêu cực.
+@form V/A + (으)ㄹ뿐더러
+@form N + 일 뿐더러
+@exp Vế sau thường đi với 도, 또한. Gần -(으)ㄹ 뿐만 아니라 (cùng nghĩa, trang trọng hơn một chút).
+@ex 이 음식은 맛있을{뿐더러} 건강에도 좋아요. | Món này không những ngon mà còn tốt cho sức khỏe.
+@ex 그는 성격이 좋을{뿐더러} 일도 잘합니다. | Anh ấy không những tính tình tốt mà còn làm việc giỏi.
+@ex 값이 비쌀{뿐더러} 품질도 나빠요. | Giá vừa đắt mà chất lượng cũng kém.
+@theme bo-sung
+@ctx van-viet
+@book tonghop6 | 7 | 2
+
+@p 026 | -(ㄴ/는)다거나
+@group 3
+@mean Hoặc là…, chẳng hạn…
+@core Liệt kê các ví dụ, lựa chọn cùng loại bằng dạng gián tiếp.
+@form V + ㄴ/는다거나 · A + 다거나 · N + (이)라거나
+@exp Thường dùng với hai vế: A-(ㄴ/는)다거나 B-(ㄴ/는)다거나 하다. Tương đương “hoặc là A hoặc là B”.
+@ex 주말에는 영화를 {본다거나} 운동을 {한다거나} 해요. | Cuối tuần tôi hoặc xem phim hoặc tập thể dục.
+@ex 기분이 좋{다거나} 나쁘{다거나} 하는 건 중요하지 않아요. | Việc tâm trạng tốt hay xấu không quan trọng.
+@ex 친구를 {만난다거나} 쇼핑을 {한다거나} 해요. | Tôi hay gặp bạn hoặc đi mua sắm.
+@theme liet-ke
+@ctx hoi-thoai
+@book tonghop6 | 7 | 3
+
+@p 027 | -(으)나 마나
+@group 3
+@mean Làm cũng như không, có làm cũng vô ích
+@core Diễn tả việc làm hay không làm kết quả cũng như nhau vì đã biết trước.
+@form V + (으)나 마나
+@exp Vế sau thường là nhận xét về kết quả đã rõ: 물어보나 마나예요. Chỉ dùng với động từ.
+@ex 가{나 마나} 문이 닫혀 있을 거예요. | Có đi hay không thì cửa cũng đóng.
+@ex 물어보{나 마나} 대답은 뻔해요. | Hỏi hay không câu trả lời cũng rõ rồi.
+@ex 이 옷은 입{으나 마나} 마찬가지예요. | Cái áo này mặc hay không cũng như nhau.
+@theme ket-qua
+@ctx hoi-thoai
+@book tonghop6 | 12 | 1
+
+@p 028 | -(으)ㄹ래야 -(으)ㄹ 수 없다
+@group 3
+@mean Muốn… cũng không thể…
+@core Dù muốn làm cũng không thể làm được vì hoàn cảnh.
+@form V + (으)ㄹ래야 V + (으)ㄹ 수 없다
+@exp Thường lặp lại cùng một động từ ở hai vế: 잊을래야 잊을 수 없다. Biểu thị ý “muốn mà không được”.
+@ex 그 일은 잊{을래야} 잊을 수 없어요. | Việc đó muốn quên cũng không quên được.
+@ex 바빠서 쉬{려야} 쉴 수 없어요. | Bận quá muốn nghỉ cũng không nghỉ được.
+@ex 너무 졸려서 참{으려야} 참을 수 없었어요. | Buồn ngủ quá, muốn nhịn cũng không nhịn được.
+@theme kha-nang
+@ctx hoi-thoai
+@book tonghop6 | 13 | 3
+
+@p 029 | -아/어 봤자
+@group 3
+@mean Dù có… cũng vô ích
+@core Nêu việc làm cũng không đem lại kết quả như mong muốn.
+@form V + 아/어 봤자 + vế phủ định
+@exp Vế sau hay là “소용없다”, “마찬가지다”, “안 된다”. Cách nói thân mật hơn: -아/어 봐야.
+@ex 지금 가{봤자} 소용없어요. | Bây giờ có đi cũng vô ích.
+@ex 후회해{봤자} 이미 늦었어요. | Có hối hận cũng đã muộn.
+@ex 아무리 설명해{봤자} 믿지 않을 거예요. | Dù có giải thích thế nào họ cũng không tin.
+@theme ket-qua
+@ctx hoi-thoai
+@book tonghop6 | 14 | 3
+
+@p 030 | -기 나름이다
+@group 3
+@mean Tùy vào…, còn tùy cách…
+@core Kết quả thay đổi tùy theo cách thực hiện hoặc cách nghĩ.
+@form V + 기 나름이다
+@form N + 나름이다
+@exp Dùng để khuyên: 생각하기 나름이에요. Dạng N 나름: 사람 나름 (tùy từng người).
+@ex 모든 일은 생각하{기 나름이에요}. | Mọi việc đều tùy vào cách nghĩ.
+@ex 공부는 하{기 나름이다}. | Học hành là tùy cách làm.
+@ex 행복은 느끼{기 나름이에요}. | Hạnh phúc là tùy cách cảm nhận.
+@theme can-cu
+@ctx hoi-thoai
+@book tonghop6 | 15 | 1
+
+@p 031 | -는 김에
+@group 4
+@mean Nhân tiện, nhân dịp
+@core Nhân khi làm một việc thì làm luôn việc khác.
+@form V + 는 김에 + V
+@exp Hai vế thường cùng chủ ngữ, vế trước là việc chính, vế sau là việc phụ tiện thể. Với quá khứ dùng -(으)ㄴ 김에 (ít gặp).
+@ex 서울에 가{는 김에} 친구도 만나고 왔어요. | Nhân tiện đi Seoul tôi cũng gặp bạn.
+@ex 나가{는 김에} 우유 좀 사 오세요. | Nhân tiện đi ra ngoài hãy mua giúp ít sữa.
+@ex 청소하{는 김에} 창문도 닦았어요. | Nhân lúc dọn dẹp tôi cũng lau cửa sổ.
+@theme thoi-gian
+@ctx hoi-thoai
+@book tonghop6 | 15 | 2
+
+@p 032 | -는 둥 마는 둥
+@group 4
+@mean Làm qua loa, như thể không
+@core Diễn tả làm một việc không nghiêm túc, qua loa cho có.
+@form V + 는 둥 마는 둥 하다
+@exp Dùng để mô tả thái độ làm việc cho xong: 밥을 먹는 둥 마는 둥 했어요. Thường kết thúc bằng 하다.
+@ex 늦어서 밥을 먹{는 둥 마는 둥} 했어요. | Muộn nên tôi ăn qua loa.
+@ex 그는 내 말을 듣{는 둥 마는 둥} 했다. | Anh ấy nghe lời tôi nói cho có lệ.
+@ex 피곤해서 세수도 하{는 둥 마는 둥} 하고 잤어요. | Mệt quá tôi rửa mặt qua loa rồi ngủ.
+@theme trang-thai
+@ctx hoi-thoai
+@book tonghop6 | 15 | 3
+
+@p 033 | -(으)ㄴ/는걸요
+@group 4
+@mean Mà…, đấy chứ…, ồ (ngạc nhiên, phản bác nhẹ)
+@core Đuôi câu dùng để bày tỏ cảm thán, phản bác nhẹ nhàng hoặc nêu một điều người nghe chưa biết.
+@form V + 는걸요 / A + (으)ㄴ걸요
+@exp Có ba nghĩa: (1) cảm thán “hay thật”: 잘하시는걸요; (2) phản bác khiêm tốn: 아니에요, 제가 더 배우는걸요; (3) nêu sự thật bất ngờ: 벌써 갔는걸요. Chỉ dùng trong hội thoại thân mật lịch sự.
+@ex 한국어를 정말 잘하시{는걸요}. | Bạn nói tiếng Hàn giỏi thật đấy.
+@ex 벌써 모두 갔{는걸요}. | Mọi người đã đi cả rồi cơ.
+@ex 저도 아직 배우는 중{인걸요}. | Tôi cũng vẫn đang học mà.
+@theme cam-xuc
+@ctx hoi-thoai
+@book tonghop6 | 15 | 4
+
+@p 034 | (이)나마
+@group 4
+@mean Dù chỉ…, tuy chỉ…
+@core Gắn vào danh từ để nói “dù chỉ là N cũng thôi, nhưng cũng tốt”.
+@form N (không patchim) + 나마 / N (có patchim) + 이나마
+@exp Hàm ý bù đắp điều chưa đủ, thường đi với 이렇게나마 (dù chỉ thế này). Gần nghĩa -(이)라도.
+@ex 이렇게{나마} 도움이 되어 기쁩니다. | Dù chỉ thế này mà giúp được thì tôi vui.
+@ex 잠깐{이나마} 쉬고 싶어요. | Dù chỉ một lúc tôi cũng muốn nghỉ.
+@ex 작은 선물{이나마} 받아 주세요. | Xin hãy nhận món quà nhỏ này.
+@theme nhan-manh
+@ctx cong-so
+@book tonghop6 | 6 | 2
+
+@p 035 | -더라고요
+@group 4
+@mean … đấy (kể lại điều mình đã thấy, nghe)
+@core Thuật lại điều người nói trực tiếp nhìn thấy, cảm nhận ở quá khứ, với người nghe chưa biết.
+@form V/A + 더라고요
+@exp Từ -더- (hồi tưởng) + -고요. Chỉ dùng cho điều mình trải nghiệm, không dùng nói về cảm xúc, ý chí của chính mình ở ngôi thứ nhất. Hay dùng khi kể lại ấn tượng.
+@ex 그 식당 음식이 정말 맛있{더라고요}. | Đồ ăn ở quán đó ngon thật đấy.
+@ex 어제 가 보니까 사람이 많{더라고요}. | Hôm qua tôi đến xem thì thấy đông người lắm.
+@ex 동생이 벌써 와 있{더라고요}. | Em tôi đã đến từ lúc nào rồi đấy.
+@theme trang-thai
+@ctx hoi-thoai
+@book tonghop6 | 6 | 3
+
+@p 036 | 을/를 막론하고
+@group 4
+@mean Bất kể…, không phân biệt…
+@core Áp dụng cho tất cả, không loại trừ N nào.
+@form N + 을/를 막론하고
+@exp Văn viết, trang trọng. N thường là cặp từ đối lập: 남녀노소를 막론하고, 국내외를 막론하고. Gần nghĩa 에 관계없이 và (이)나 (이)나 할 것 없이.
+@ex 남녀노소{를 막론하고} 누구나 즐길 수 있습니다. | Bất kể già trẻ nam nữ ai cũng có thể thưởng thức.
+@ex 국내외{를 막론하고} 인기가 많습니다. | Bất kể trong hay ngoài nước đều được ưa chuộng.
+@ex 직업{을 막론하고} 신청할 수 있어요. | Bất kể nghề nghiệp đều có thể đăng ký.
+@theme bat-chap
+@ctx van-viet
+@book tonghop6 | 14 | 1
+
+@p 037 | -(ㄴ/는)다기에
+@group 4
+@mean Nghe nói… nên (hành động của người nói)
+@core Nêu lý do là điều người nói nghe người khác nói rồi hành động; dạng gián tiếp của -기에.
+@form V + ㄴ/는다기에 · A + 다기에 · N + (이)라기에
+@exp Vế sau thường là việc người nói đã làm; gần nghĩa -길래 nhưng lý do là lời người khác. Hay đi với 하다 ở quá khứ.
+@ex 친구가 맛있{다기에} 한번 먹어 봤어요. | Bạn bảo ngon nên tôi đã thử.
+@ex 비가 {온다기에} 우산을 가져왔어요. | Nghe nói trời mưa nên tôi mang ô theo.
+@ex 날씨가 춥{다기에} 두꺼운 옷을 입었어요. | Nghe nói trời lạnh nên tôi mặc áo dày.
+@theme nguyen-nhan
+@ctx hoi-thoai
+@book tonghop6 | 2 | 2
+
+@p 038 | -(으)ㄹ 줄이야
+@group 4
+@mean Không ngờ lại… (ngạc nhiên)
+@core Bộc lộ sự ngạc nhiên khi điều xảy ra nằm ngoài dự đoán của người nói.
+@form V/A + (으)ㄹ 줄이야
+@exp Thường đứng cuối câu, dạng “누가 알았겠어요?”: 이렇게 빨리 끝날 줄이야. Hay dùng khi cảm thán.
+@ex 그 사람이 범인일 {줄이야}. | Không ngờ người đó lại là thủ phạm.
+@ex 이렇게 빨리 끝날 {줄이야}. | Không ngờ lại kết thúc nhanh thế.
+@ex 우리가 우승할 {줄이야}. | Không ngờ chúng ta lại vô địch.
+@theme cam-xuc
+@ctx hoi-thoai
+@book tonghop6 | 13 | 1
+
+@p 039 | -고말고요
+@group 4
+@mean Tất nhiên rồi, đương nhiên là…
+@core Đáp lại một cách chắc chắn, nhiệt tình, đồng ý hoặc khẳng định mạnh.
+@form V/A + 고말고요
+@form N + (이)고말고요
+@exp Dùng để trả lời câu hỏi, thể hiện sự đồng tình hoặc chắc chắn: 가고말고요 (đi chứ!). Chỉ dùng trong hội thoại.
+@ex 가: 같이 가시겠어요? 나: 가{고말고요}. | A: Bạn có đi cùng không? B: Đi chứ, tất nhiên rồi.
+@ex 맛있{고말고요}. | Ngon chứ, quá ngon là đằng khác.
+@ex 도와 드리{고말고요}. | Tôi giúp chứ, đương nhiên.
+@theme nhan-manh
+@ctx hoi-thoai
+@book tonghop6 | 3 | 2

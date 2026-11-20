@@ -1,0 +1,384 @@
+@level k2
+
+@group 1 | 진행·요청·수식 | Tiếp diễn – Nhờ vả – Bổ nghĩa | Hành động đang diễn ra, nhờ vả, định ngữ, thời điểm (001–010).
+@group 2 | 이유·조건·허락 | Lý do – Điều kiện – Cho phép | Lý do, điều kiện, cho phép, cấm đoán, nghĩa vụ (011–020).
+@group 3 | 추측·감탄·시도 | Phỏng đoán – Cảm thán – Thử | Phỏng đoán, cảm thán, thử làm, kinh nghiệm, hứa hẹn (021–030).
+@group 4 | 순서·변화·비교 | Trình tự – Biến đổi – So sánh | Trước sau, đồng thời, biến đổi, so sánh, giới hạn (031–040).
+
+@p 001 | -고 있다
+@group 1
+@mean Đang…
+@core Diễn tả hành động đang diễn ra hoặc trạng thái đang tiếp diễn.
+@form V + 고 있다 / 있어요 / 있습니다
+@exp Với 먹다, 입다, 신다…, -고 있다 còn chỉ trạng thái đã mặc, đang mang: 모자를 쓰고 있어요. Kính ngữ: -고 계시다.
+@ex 지금 한국어를 공부{하고 있어요}. | Bây giờ tôi đang học tiếng Hàn.
+@ex 친구는 청바지를 입{고 있어요}. | Bạn tôi đang mặc quần jean.
+@ex 어머니는 요리하{고 계세요}. | Mẹ đang nấu ăn.
+@theme thoi-gian
+@ctx hoi-thoai
+
+@p 002 | -아/어 주세요
+@group 1
+@mean Xin hãy… giúp tôi
+@core Nhờ người khác làm gì giúp mình một cách lịch sự.
+@form V + 아/어 주세요
+@form V + 아/어 주시겠어요? (lịch sự hơn)
+@exp Hỏi muốn nhờ vả nhẹ nhàng thì dùng -아/어 주시겠어요? hoặc -아/어 줄래요?. Người làm cho người trên: -아/어 드리다.
+@ex 문 좀 열어 {주세요}. | Làm ơn mở cửa giúp tôi.
+@ex 천천히 말해 {주시겠어요}? | Bạn có thể nói chậm lại giúp tôi không?
+@ex 제가 도와 {드릴게요}. | Để tôi giúp ạ.
+@theme y-chi
+@ctx hoi-thoai
+
+@p 003 | -(으)ㄴ / 는 / (으)ㄹ + N (định ngữ)
+@group 1
+@mean Bổ nghĩa cho danh từ bằng động từ, tính từ
+@core Động từ/tính từ đứng trước danh từ để bổ nghĩa, dạng đổi theo thì và loại từ.
+@form V (hiện tại) + 는 + N · V (quá khứ) + (으)ㄴ + N · V (tương lai) + (으)ㄹ + N
+@form A + (으)ㄴ + N · N이다 → 인 + N
+@exp Ví dụ: 먹는 음식 (món đang ăn), 먹은 음식 (món đã ăn), 먹을 음식 (món sẽ ăn), 예쁜 옷, 학생인 친구. Với 있다/없다: 있는 + N, 없는 + N.
+@ex 제가 {좋아하는} 음식은 김치찌개예요. | Món tôi thích là canh kim chi.
+@ex 어제 {본} 영화가 재미있었어요. | Bộ phim xem hôm qua rất hay.
+@ex 내일 {만날} 친구는 한국 사람이에요. | Người bạn sẽ gặp ngày mai là người Hàn.
+@theme dinh-ngu
+@ctx hoi-thoai
+
+@p 004 | -(으)ㄹ 때
+@group 1
+@mean Khi, lúc
+@core Nêu thời điểm của hành động hoặc trạng thái.
+@form V/A + (으)ㄹ 때 · N + 때
+@exp Thì của vế trước theo quan hệ với hành động vế sau: 갈 때 (khi sắp đi), 갔을 때 (khi đã đi). Dùng 때 sau danh từ: 어렸을 때, 방학 때.
+@ex 한국에 {갈 때} 선물을 사 갔어요. | Khi đi Hàn Quốc tôi đã mua quà mang theo.
+@ex 어릴 {때} 시골에서 살았어요. | Hồi nhỏ tôi sống ở quê.
+@ex 심심할 {때} 뭐 해요? | Khi buồn chán bạn làm gì?
+@theme thoi-gian
+@ctx hoi-thoai
+
+@p 005 | -(으)니까
+@group 2
+@mean Vì… nên (lý do, có thể kèm mệnh lệnh)
+@core Nêu lý do để đề nghị, ra lệnh hoặc rủ rê; cũng dùng khi phát hiện điều gì.
+@form V/A + (으)니까
+@form N + (이)니까
+@exp Khác -아/어서 ở chỗ vế sau dùng được -(으)세요, -(으)ㅂ시다, -(으)ㄹ까요. Vế trước gắn được -았/었-. Nghĩa 2: “Khi làm thì thấy”: 가 보니까 (khi đến xem thì).
+@ex 비가 {오니까} 우산을 가져가세요. | Trời mưa nên hãy mang theo ô.
+@ex 시간이 없{으니까} 택시를 탑시다. | Không có thời gian nên đi taxi thôi.
+@ex 먹어 {보니까} 맛있었어요. | Ăn thử thì thấy ngon.
+@theme nguyen-nhan
+@ctx hoi-thoai
+@cmp -아/어서 | k1 | Vế sau không dùng mệnh lệnh/rủ rê.
+
+@p 006 | -(으)면
+@group 2
+@mean Nếu…, hễ…
+@core Điều kiện hoặc giả định; có nghĩa “khi” nếu lặp lại.
+@form V/A + (으)면 · N + (이)면
+@exp Giả định điều chưa xảy ra: 비가 오면. Cũng dùng cho thói quen: 봄이 되면 꽃이 펴요 (khi mùa xuân đến hoa nở). Dạng quá khứ: -았/었으면 좋겠다 (giá mà).
+@ex 시간이 {있으면} 같이 영화 봐요. | Nếu có thời gian thì cùng xem phim nhé.
+@ex 날씨가 좋{으면} 산에 갈 거예요. | Nếu thời tiết đẹp tôi sẽ đi núi.
+@ex 한국에 가{면} 김치를 먹고 싶어요. | Nếu đến Hàn Quốc tôi muốn ăn kim chi.
+@theme dieu-kien
+@ctx hoi-thoai
+
+@p 007 | -아/어도 되다
+@group 2
+@mean Được phép…, có thể…
+@core Xin phép hoặc cho phép làm việc gì.
+@form V + 아/어도 되다 / 돼요 / 됩니까?
+@exp Hỏi xin phép: 여기에 앉아도 돼요? Trả lời: 네, 앉아도 돼요 / 아니요, 안 돼요. Cũng dùng với tính từ: 작아도 돼요 (nhỏ cũng được).
+@ex 여기에서 사진을 찍어{도 돼요}? | Chụp ảnh ở đây có được không?
+@ex 내일 와{도 됩니다}. | Ngày mai đến cũng được.
+@ex 지금 먹어{도 돼요}? | Bây giờ ăn được chưa ạ?
+@theme kha-nang
+@ctx hoi-thoai
+
+@p 008 | -(으)면 안 되다
+@group 2
+@mean Không được…, cấm…
+@core Cấm đoán, không cho phép.
+@form V + (으)면 안 되다 / 안 돼요 / 안 됩니다
+@exp Là cặp đối với -아/어도 되다. Ngắn hơn: 안 돼요. Có thể dùng -(으)시면 안 되다 để lịch sự.
+@ex 여기에서 담배를 피우{면 안 돼요}. | Không được hút thuốc ở đây.
+@ex 수업 시간에 늦{으면 안 됩니다}. | Không được đến muộn giờ học.
+@ex 이 물을 마시{면 안 돼요}. | Không được uống nước này.
+@theme kha-nang
+@ctx cong-so
+
+@p 009 | -아/어야 하다 / 되다
+@group 2
+@mean Phải…
+@core Diễn tả nghĩa vụ, sự cần thiết.
+@form V + 아/어야 하다 / 해요 / 합니다
+@form V + 아/어야 되다 / 돼요
+@exp 하다 và 되다 dùng như nhau. Phủ định “không cần”: -지 않아도 되다 / 안 -아/어도 되다.
+@ex 내일 일찍 일어나{야 해요}. | Ngày mai tôi phải dậy sớm.
+@ex 숙제를 꼭 내{야 합니다}. | Bắt buộc phải nộp bài tập.
+@ex 약속이 있어서 가{야 돼요}. | Tôi có hẹn nên phải đi.
+@theme kha-nang
+@ctx hoi-thoai
+@cmp -지 않아도 되다 | k2 | Không cần phải.
+
+@p 010 | -지 않아도 되다 / 안 -아/어도 되다
+@group 2
+@mean Không cần phải…
+@core Phủ định của nghĩa vụ: không bắt buộc.
+@form V + 지 않아도 되다
+@form 안 + V + 아/어도 되다
+@exp Dùng để nói với người khác “không cần làm đâu”. Ngắn gọn khẩu ngữ: 안 해도 돼요.
+@ex 오늘은 안 {와도 돼요}. | Hôm nay bạn không cần đến cũng được.
+@ex 걱정하{지 않아도 돼요}. | Bạn không cần lo lắng.
+@ex 비싸지 않으니까 {사지 않아도 돼요}. | Không đắt nên bạn không cần mua cũng được.
+@theme kha-nang
+@ctx hoi-thoai
+
+@p 011 | -(으)ㄹ 것 같다
+@group 3
+@mean Có vẻ…, chắc là… (phỏng đoán)
+@core Đoán sự việc dựa vào phán đoán hoặc cảm giác của người nói.
+@form V + (으)ㄹ 것 같다 (tương lai) · V + (으)ㄴ 것 같다 (quá khứ) · V + 는 것 같다 (hiện tại)
+@form A + (으)ㄴ 것 같다
+@exp Dùng cả khi nói về chuyện đã xảy ra, đang xảy ra và sắp xảy ra, tùy dạng định ngữ. Dùng để nói giảm nhẹ ý kiến cá nhân: 맛있는 것 같아요.
+@ex 내일 비가 {올 것 같아요}. | Có vẻ ngày mai sẽ mưa.
+@ex 그 사람이 학생인 {것 같아요}. | Hình như người đó là sinh viên.
+@ex 이 음식이 맛있는 {것 같아요}. | Tôi thấy món này ngon.
+@theme suy-doan
+@ctx hoi-thoai
+
+@p 012 | -지요? / -죠?
+@group 3
+@mean …nhỉ?, …đúng không?
+@core Hỏi xác nhận điều mình đã biết hoặc đoán, hay mời mọc nhẹ nhàng.
+@form V/A + 지요? / 죠?
+@exp Có thể dùng trần thuật để nhấn: 맞지요. Lên giọng là hỏi xác nhận, xuống giọng là khẳng định.
+@ex 날씨가 좋{지요}? | Thời tiết đẹp nhỉ?
+@ex 한국 사람이{죠}? | Bạn là người Hàn đúng không?
+@ex 이거 맛있{죠}. | Cái này ngon đấy chứ.
+@theme dang-cau
+@ctx hoi-thoai
+
+@p 013 | -네요
+@group 3
+@mean … quá nhỉ, … thật đấy (cảm thán khi mới biết)
+@core Thể hiện sự ngạc nhiên, cảm thán khi trực tiếp nhìn thấy hoặc phát hiện điều gì.
+@form V/A + 네요
+@exp Dùng cho điều vừa nhận ra ngay lúc nói. Không dùng nói về bản thân đã biết từ trước.
+@ex 한국어를 잘하시{네요}. | Bạn nói tiếng Hàn giỏi quá.
+@ex 밖에 눈이 오{네요}. | Bên ngoài tuyết rơi kìa.
+@ex 정말 예쁘{네요}. | Đẹp thật đấy.
+@theme cam-xuc
+@ctx hoi-thoai
+
+@p 014 | -군요 / -는군요
+@group 3
+@mean Ra là… (cảm thán khi nhận ra)
+@core Bày tỏ sự nhận ra, ngạc nhiên khi biết điều mới.
+@form V + 는군요 · A + 군요 · N + (이)군요
+@exp Gần -네요 nhưng trang trọng và mang tính “ồ ra thế”. Cũng dùng với quá khứ: -았/었군요.
+@ex 아, 이 분이 선생님{이군요}. | À, vị này là giáo viên ạ.
+@ex 비가 많이 {오는군요}. | Ồ, mưa nhiều quá.
+@ex 벌써 시간이 이렇게 됐{군요}. | Ồ, đã giờ này rồi.
+@theme cam-xuc
+@ctx hoi-thoai
+
+@p 015 | -는데 / -(으)ㄴ데
+@group 3
+@mean Nhưng, mà, vì (bối cảnh, đối lập)
+@core Nối câu nêu bối cảnh, đối lập nhẹ hoặc lý do; chia theo loại từ.
+@form V + 는데 · A + (으)ㄴ데 · N + 인데
+@form V/A (quá khứ) + 았/었는데
+@exp Ba nghĩa chính: (1) nêu bối cảnh cho lời đề nghị: 시간이 있는데 같이 갈래요?; (2) đối lập nhẹ: 비싼데 맛있어요; (3) giải thích lý do. Cuối câu -(으)ㄴ데요 mềm mại, mong người nghe phản hồi.
+@ex 지금 {먹는데} 같이 드실래요? | Tôi đang ăn, bạn dùng cùng không?
+@ex 이 옷은 {예쁜데} 좀 비싸요. | Cái áo này đẹp nhưng hơi đắt.
+@ex 어제 영화를 {봤는데} 정말 재미있었어요. | Hôm qua tôi xem phim, hay lắm.
+@theme nghich-tiep
+@ctx hoi-thoai
+
+@p 016 | -아/어 보다
+@group 3
+@mean Thử…
+@core Thử làm một việc để xem sao, hoặc từng làm.
+@form V + 아/어 보다
+@exp Mệnh lệnh nhẹ: -아/어 보세요 (hãy thử). Quá khứ + -(으)ㄴ 적이 있다: kinh nghiệm.
+@ex 이 옷을 한번 입어 {보세요}. | Hãy mặc thử cái áo này xem.
+@ex 한국 음식을 먹어 {봤어요}. | Tôi đã từng/đã thử ăn món Hàn.
+@ex 저도 해 {볼게요}. | Để tôi cũng thử.
+@theme y-chi
+@ctx hoi-thoai
+
+@p 017 | -(으)ㄴ 적이 있다 / 없다
+@group 3
+@mean Đã từng / chưa từng…
+@core Diễn tả kinh nghiệm đã có hoặc chưa có.
+@form V + (으)ㄴ 적이 있다 / 없다
+@exp Thường kết hợp với -아/어 보다: 가 본 적이 있어요. Hỏi: -(으)ㄴ 적이 있어요?
+@ex 한국에 가 {본 적이 있어요}. | Tôi đã từng đến Hàn Quốc.
+@ex 김치를 먹어 {본 적이 없어요}. | Tôi chưa từng ăn kim chi.
+@ex 비행기를 탄 {적이 있어요}? | Bạn đã từng đi máy bay chưa?
+@theme thoi-gian
+@ctx hoi-thoai
+
+@p 018 | -(으)ㄹ게요
+@group 3
+@mean Tôi sẽ… (hứa hẹn, quyết định tại chỗ)
+@core Người nói hứa hoặc thông báo ý định làm điều gì cho người nghe.
+@form V + (으)ㄹ게요
+@exp Chỉ dùng ngôi thứ nhất và với động từ. Khác -(으)ㄹ 거예요 (kế hoạch): -(으)ㄹ게요 đưa ra quyết định ngay lúc nói với người nghe.
+@ex 제가 {할게요}. | Để tôi làm.
+@ex 먼저 {갈게요}. | Tôi đi trước nhé.
+@ex 내일 전화{할게요}. | Mai tôi sẽ gọi điện.
+@theme y-chi
+@ctx hoi-thoai
+
+@p 019 | -기 전에
+@group 4
+@mean Trước khi…
+@core Hành động ở vế sau xảy ra trước hành động ở vế trước.
+@form V + 기 전에
+@form N + 전에
+@exp Không gắn -았/었- vào -기 전에. Với danh từ chỉ thời gian: 식사 전에, 삼 일 전에.
+@ex 자기 {전에} 이를 닦아요. | Trước khi ngủ tôi đánh răng.
+@ex 밥을 먹{기 전에} 손을 씻으세요. | Trước khi ăn cơm hãy rửa tay.
+@ex 한국에 오{기 전에} 한국어를 배웠어요. | Trước khi đến Hàn Quốc tôi đã học tiếng Hàn.
+@theme thoi-gian
+@ctx hoi-thoai
+
+@p 020 | -(으)ㄴ 후에 / -(으)ㄴ 다음에
+@group 4
+@mean Sau khi…
+@core Hành động vế sau xảy ra sau khi hoàn thành vế trước.
+@form V + (으)ㄴ 후에 / (으)ㄴ 다음에
+@form N + 후에 / 다음에
+@exp Cũng dùng -고 나서, -아/어서 (trình tự). Với danh từ: 수업 후에, 식사 후에.
+@ex 밥을 먹{은 후에} 커피를 마셔요. | Sau khi ăn cơm tôi uống cà phê.
+@ex 수업이 끝난 {다음에} 만나요. | Sau khi tan học hãy gặp nhé.
+@ex 운동{한 후에} 샤워를 해요. | Sau khi tập thể dục tôi tắm.
+@theme thoi-gian
+@ctx hoi-thoai
+
+@p 021 | -는 동안
+@group 4
+@mean Trong lúc, trong khi
+@core Khoảng thời gian một hành động hoặc trạng thái kéo dài.
+@form V + 는 동안
+@form N + 동안
+@exp Hai hành động cùng diễn ra trong khoảng ấy: 자는 동안 눈이 왔어요. Với danh từ: 방학 동안.
+@ex 제가 요리하{는 동안} 음악을 들으세요. | Trong lúc tôi nấu ăn bạn hãy nghe nhạc.
+@ex 방학 {동안} 여행을 했어요. | Trong kỳ nghỉ tôi đã đi du lịch.
+@ex 잠을 자{는 동안} 꿈을 꿨어요. | Khi ngủ tôi đã mơ.
+@theme thoi-gian
+@ctx hoi-thoai
+
+@p 022 | -(으)면서
+@group 4
+@mean Vừa… vừa…
+@core Hai hành động xảy ra đồng thời với cùng một chủ ngữ.
+@form V + (으)면서
+@exp Cũng dùng nghĩa đối lập: 알면서 모르는 척하다 (biết mà giả vờ không biết).
+@ex 음악을 들{으면서} 공부해요. | Tôi vừa nghe nhạc vừa học.
+@ex 걸{으면서} 전화하지 마세요. | Đừng vừa đi vừa gọi điện.
+@ex 밥을 먹{으면서} 이야기해요. | Vừa ăn cơm vừa nói chuyện.
+@theme thoi-gian
+@ctx hoi-thoai
+
+@p 023 | -지 마세요
+@group 4
+@mean Xin đừng…
+@core Cấm đoán, khuyên nhủ đừng làm gì.
+@form V + 지 마세요 / 지 마십시오
+@form V + 지 말고 + V (đừng… mà hãy…)
+@exp Thân mật: -지 마. Rủ rê phủ định: -지 맙시다.
+@ex 여기에서 담배를 피우{지 마세요}. | Xin đừng hút thuốc ở đây.
+@ex 걱정하{지 말고} 잘 쉬세요. | Đừng lo lắng, hãy nghỉ ngơi cho khỏe.
+@ex 늦{지 마십시오}. | Xin đừng đến muộn.
+@theme phu-dinh
+@ctx hoi-thoai
+
+@p 024 | 보다 (so sánh)
+@group 4
+@mean Hơn, so với
+@core So sánh hai đối tượng: A는 B보다 + tính từ.
+@form A + 은/는 + B + 보다 + 더 + A/V
+@exp 더 đứng trước tính từ để nhấn “hơn”. Hỏi chọn: A와 B 중에서 뭐가 더 …? Đáp: A가 B보다 더 ….
+@ex 오늘은 어제{보다} 더 추워요. | Hôm nay lạnh hơn hôm qua.
+@ex 저는 커피{보다} 차를 좋아해요. | Tôi thích trà hơn cà phê.
+@ex 한국어가 영어{보다} 쉬워요. | Tiếng Hàn dễ hơn tiếng Anh.
+@theme so-sanh
+@ctx hoi-thoai
+
+@p 025 | 에서 가장 / 제일
+@group 4
+@mean Nhất (trong…)
+@core So sánh cao nhất trong một nhóm hay phạm vi.
+@form N + 중에서 / 에서 + 가장 / 제일 + A/V
+@exp 가장 và 제일 dùng giống nhau, 제일 khẩu ngữ hơn. Hỏi: 뭐가 제일 …?
+@ex 과일 중에서 사과를 {제일} 좋아해요. | Trong các loại quả tôi thích táo nhất.
+@ex 우리 반에서 민호가 {가장} 키가 커요. | Trong lớp, Minho cao nhất.
+@ex 이 가게가 {가장} 싸요. | Cửa hàng này rẻ nhất.
+@theme so-sanh
+@ctx hoi-thoai
+
+@p 026 | -아/어지다
+@group 4
+@mean Trở nên…, được…
+@core Biến đổi trạng thái hoặc bị động nhẹ.
+@form A + 아/어지다
+@form V + 아/어지다 (được làm ra, thành)
+@exp Với tính từ: 예뻐지다 (trở nên đẹp), 따뜻해지다. Với động từ: 만들어지다 (được làm ra), 알려지다 (được biết đến).
+@ex 날씨가 점점 {따뜻해져요}. | Thời tiết dần ấm lên.
+@ex 한국어 실력이 {좋아졌어요}. | Trình độ tiếng Hàn của tôi đã khá hơn.
+@ex 이 김치는 맛있게 {만들어졌어요}. | Món kim chi này được làm rất ngon.
+@theme trang-thai
+@ctx hoi-thoai
+
+@p 027 | -게 되다
+@group 4
+@mean Trở nên, được (do hoàn cảnh)
+@core Diễn tả kết quả thay đổi không do ý chí của chủ ngữ.
+@form V + 게 되다
+@exp Gần nghĩa -아/어지다, nhưng gắn vào động từ để nói việc xảy ra do hoàn cảnh: 한국에 가게 되었어요 (tôi sắp/đã được đi Hàn Quốc).
+@ex 올해 한국에서 일하{게 됐어요}. | Năm nay tôi được làm việc ở Hàn Quốc.
+@ex 이 노래를 좋아하{게 되었어요}. | Tôi đã trở nên thích bài hát này.
+@ex 결혼하{게 되었어요}. | Tôi sắp kết hôn.
+@theme trang-thai
+@ctx hoi-thoai
+
+@p 028 | -기 위해(서)
+@group 4
+@mean Để…, nhằm…
+@core Diễn tả mục đích; vế sau là hành động để đạt mục đích.
+@form V + 기 위해(서)
+@form N + 을/를 위해(서)
+@exp Trang trọng hơn -(으)려고. Với danh từ: 가족을 위해서.
+@ex 한국어를 배우{기 위해} 학원에 다녀요. | Tôi đi học trung tâm để học tiếng Hàn.
+@ex 건강{을 위해} 매일 운동해요. | Vì sức khỏe tôi tập thể dục mỗi ngày.
+@ex 돈을 모으{기 위해서} 일해요. | Tôi làm việc để dành tiền.
+@theme muc-dich
+@ctx cong-so
+
+@p 029 | (으)ㄴ/는데도 / 밖에 / 만 / 마다 / 쯤
+@group 4
+@mean Các trợ từ giới hạn, số lượng thường gặp
+@core Nhóm trợ từ thường dùng: 만 (chỉ), 밖에 (chỉ… thôi, đi với phủ định), 마다 (mỗi), 쯤 (khoảng).
+@form N + 만 / N + 밖에 + 안 / 없다
+@form N + 마다 / 쯤
+@exp 만 dùng được với khẳng định lẫn phủ định, còn 밖에 bắt buộc đi với phủ định: 하나밖에 없어요. 마다: 날마다 (mỗi ngày). 쯤: 세 시쯤 (khoảng ba giờ).
+@ex 저는 한국 친구가 한 명{밖에} 없어요. | Tôi chỉ có một người bạn Hàn.
+@ex 우유{만} 마셔요. | Tôi chỉ uống sữa.
+@ex 사람{마다} 생각이 달라요. | Mỗi người một suy nghĩ.
+@ex 열 시{쯤} 도착할 거예요. | Khoảng mười giờ tôi sẽ đến.
+@theme pham-vi
+@ctx hoi-thoai
+
+@p 030 | (이)나
+@group 4
+@mean Hoặc; những tận…, đến cả…
+@core Hai nghĩa chính: lựa chọn (A hoặc B) và nhấn số lượng nhiều.
+@form N + (이)나 N (hoặc)
+@form số lượng + (이)나 (tận…)
+@exp Nghĩa chọn: 커피나 차를 마셔요. Nghĩa nhấn: 세 시간이나 기다렸어요 (đợi tận ba tiếng).
+@ex 주말에는 영화{나} 드라마를 봐요. | Cuối tuần tôi xem phim hoặc phim truyền hình.
+@ex 한 시간{이나} 기다렸어요. | Tôi đã đợi tận một tiếng.
+@ex 책을 열 권{이나} 샀어요. | Tôi mua tận mười quyển sách.
+@theme liet-ke
+@ctx hoi-thoai

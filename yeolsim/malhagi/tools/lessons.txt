@@ -1,0 +1,347 @@
+@stage s1 | Chặng 1 | Khởi động | Sơ cấp 0 | Từ con số 0: mở miệng nói được những câu sống còn đầu tiên.
+
+@l s1l1 | Chào hỏi | Greetings | Chào và hỏi thăm bằng đuôi câu lịch sự.
+@ph 안녕하세요? | Xin chào ạ?
+@ph 안녕히 가세요. | Bạn đi nhé (chào người ra về).
+@ph 안녕히 계세요. | Bạn ở lại mạnh khỏe nhé (chào khi mình đi).
+@ph 만나서 반갑습니다. | Rất vui được gặp bạn.
+@ph 잘 지내세요? | Bạn khỏe không?
+@ph 네, 잘 지내요. | Vâng, tôi khỏe.
+@dl A | 안녕하세요? | Xin chào ạ?
+@dl B | 안녕하세요. 잘 지내세요? | Xin chào. Bạn khỏe không ạ?
+@dl A | 네, 잘 지내요. 만나서 반갑습니다. | Vâng, tôi khỏe. Rất vui được gặp bạn.
+@dl B | 저도 반갑습니다. | Tôi cũng rất vui.
+@tip Với người lớn tuổi hoặc người mới gặp hãy dùng 안녕하세요 và đuôi -ㅂ/습니다, -아/어요. 안녕히 가세요 nói với người ra về, 안녕히 계세요 nói với người ở lại. Phát âm 안녕하세요 gần như [안녕하세요] với ㅎ nhẹ.
+@ai A friendly Korean classmate meeting the learner for the first time on the first day of a language class. Greet the learner, ask how they are, and say you are glad to meet them. Use very short polite sentences. | 안녕하세요? 만나서 반갑습니다. 잘 지내세요? | 안녕하세요; 잘 지내요; 만나서 반갑습니다 | Chào và hỏi thăm bạn cùng lớp lần đầu gặp.
+
+@l s1l2 | Giới thiệu bản thân | Introducing yourself | Nói tên, quốc tịch và nghề nghiệp.
+@ph 제 이름은 민이에요. | Tên tôi là Minh.
+@ph 저는 베트남 사람이에요. | Tôi là người Việt Nam.
+@ph 저는 학생이에요. | Tôi là học sinh/sinh viên.
+@ph 이름이 뭐예요? | Bạn tên là gì?
+@ph 어느 나라 사람이에요? | Bạn là người nước nào?
+@ph 직업이 뭐예요? | Nghề của bạn là gì?
+@dl A | 이름이 뭐예요? | Bạn tên là gì?
+@dl B | 제 이름은 민이에요. 저는 베트남 사람이에요. | Tên tôi là Minh. Tôi là người Việt Nam.
+@dl A | 직업이 뭐예요? | Nghề của bạn là gì?
+@dl B | 저는 학생이에요. | Tôi là sinh viên.
+@tip Danh từ có patchim + 이에요 (학생이에요), không có patchim + 예요 (의사예요). 저는 là “tôi” khiêm nhường, 제 là “của tôi”. Trợ từ 은/는 đánh dấu chủ đề: có patchim dùng 은, không có dùng 는.
+@ai A staff member at a Korean language school registering a new student. Ask the student's name, nationality and occupation, one question at a time, and react warmly to each answer. | 안녕하세요. 이름이 뭐예요? | 제 이름은; 저는 베트남 사람이에요; 저는 학생이에요 | Giới thiệu tên, quốc tịch và nghề nghiệp của bạn.
+
+@l s1l3 | Cảm ơn, xin lỗi, xin phép | Thanks, sorry and excuse me | Dùng đúng các câu lịch sự thường gặp nhất.
+@ph 감사합니다. | Cảm ơn.
+@ph 고맙습니다. | Cảm ơn (thân mật hơn một chút).
+@ph 죄송합니다. | Tôi xin lỗi.
+@ph 괜찮아요. | Không sao ạ.
+@ph 실례합니다. | Xin lỗi (làm phiền, xin phép).
+@ph 잠시만요. | Xin chờ một chút.
+@dl A | 실례합니다. 지나가도 돼요? | Xin lỗi. Cho tôi đi qua được không?
+@dl B | 네, 괜찮아요. | Vâng, không sao.
+@dl A | 감사합니다. | Cảm ơn bạn.
+@dl B | 아니에요. | Không có gì.
+@tip 감사합니다 và 고맙습니다 đều là cảm ơn; 감사합니다 trang trọng hơn. 미안해요 dùng với bạn bè, 죄송합니다 dùng với người trên hoặc nơi công cộng. Đáp lại lời cảm ơn thường là 아니에요 hoặc 별말씀을요.
+@ai A stranger on a crowded subway in Seoul. The learner bumps into you slightly, or needs to pass by. React politely and naturally and keep a short chat going. | 아, 괜찮아요. 어디 가세요? | 죄송합니다; 감사합니다; 괜찮아요 | Xin lỗi, cảm ơn và đáp lại lịch sự trên tàu điện.
+
+@l s1l4 | Con số, tuổi và số điện thoại | Numbers, age and phone numbers | Dùng số Hán Hàn và số thuần Hàn đúng chỗ.
+@ph 몇 살이에요? | Bạn bao nhiêu tuổi?
+@ph 스물다섯 살이에요. | Tôi hai mươi lăm tuổi.
+@ph 전화번호가 뭐예요? | Số điện thoại của bạn là gì?
+@ph 공일공의 일이삼사의 오육칠팔이에요. | Là 010-1234-5678.
+@ph 사과 세 개 주세요. | Cho tôi ba quả táo.
+@ph 이거 얼마예요? | Cái này bao nhiêu tiền?
+@dl A | 몇 살이에요? | Bạn bao nhiêu tuổi?
+@dl B | 스물다섯 살이에요. | Tôi hai mươi lăm tuổi.
+@dl A | 전화번호가 뭐예요? | Số điện thoại của bạn là gì?
+@dl B | 공일공의 일이삼사의 오육칠팔이에요. | Là 010-1234-5678.
+@tip Tuổi đếm bằng số thuần Hàn + 살 (스물다섯 살). Số điện thoại, tiền, ngày tháng dùng số Hán Hàn (일, 이, 삼…). Số 0 trong số điện thoại đọc là 공. Số thuần Hàn 1, 2, 3, 4, 20 đổi thành 한, 두, 세, 네, 스무 khi đứng trước đơn vị đếm.
+@ai A friendly Korean neighbor meeting the learner in the lobby of an apartment building. Ask how old they are and exchange phone numbers, one question at a time. | 안녕하세요. 저는 이웃이에요. 몇 살이에요? | 몇 살이에요; 전화번호가 뭐예요; 스물; 이에요 | Nói tuổi và số điện thoại của bạn.
+
+@l s1l5 | Khi không hiểu | When you don't understand | Xin nhắc lại, nói chậm và hỏi nghĩa.
+@ph 다시 말해 주세요. | Xin nói lại giúp tôi.
+@ph 천천히 말해 주세요. | Xin nói chậm giúp tôi.
+@ph 잘 모르겠어요. | Tôi không hiểu rõ.
+@ph 무슨 뜻이에요? | Nghĩa là gì vậy?
+@ph 한국어를 잘 못해요. | Tôi nói tiếng Hàn chưa giỏi.
+@ph 영어로 뭐예요? | Tiếng Anh là gì?
+@dl A | 이 단어 알아요? | Bạn biết từ này không?
+@dl B | 아니요, 잘 모르겠어요. 무슨 뜻이에요? | Không, tôi không rõ. Nghĩa là gì?
+@dl A | “친구”는 friend예요. | “친구” là friend.
+@dl B | 아, 알겠어요. 감사합니다. | À, tôi hiểu rồi. Cảm ơn.
+@tip -아/어 주세요 là cách nhờ lịch sự: 말해 주세요 (xin hãy nói), 도와주세요 (xin hãy giúp). 못 đứng trước động từ nghĩa là không thể/không giỏi: 못해요. 알겠어요 là “tôi hiểu rồi”, 모르겠어요 là “tôi không hiểu”.
+@ai A patient Korean teacher who speaks quickly at first. The learner will ask you to repeat, slow down, or explain. Say one new simple sentence, then adapt when the learner says they did not understand. | 오늘 날씨가 아주 좋네요. 어디에 가고 싶어요? | 다시 말해 주세요; 천천히 말해 주세요; 잘 모르겠어요 | Xin nhắc lại và nói chậm khi chưa hiểu.
+
+@stage s2 | Chặng 2 | Giao tiếp cơ bản | Sơ cấp 1 | Nói về cuộc sống hằng ngày bằng câu đơn giản và hỏi lại được.
+
+@l s2l1 | Gia đình và bạn bè | Family and friends | Nói về người thân bằng danh từ và đuôi -아/어요.
+@ph 가족이 몇 명이에요? | Gia đình bạn có mấy người?
+@ph 우리 가족은 네 명이에요. | Gia đình tôi có bốn người.
+@ph 아버지와 어머니가 계세요. | Tôi có bố và mẹ.
+@ph 남동생이 한 명 있어요. | Tôi có một em trai.
+@ph 제 친구는 한국 사람이에요. | Bạn tôi là người Hàn.
+@ph 형제가 있어요? | Bạn có anh chị em không?
+@dl A | 가족이 몇 명이에요? | Gia đình bạn có mấy người?
+@dl B | 네 명이에요. 부모님과 남동생이 있어요. | Bốn người. Có bố mẹ và em trai.
+@dl A | 남동생은 몇 살이에요? | Em trai bạn bao nhiêu tuổi?
+@dl B | 열여덟 살이에요. | Mười tám tuổi.
+@tip 있다 và 계시다: dùng 계세요 khi nói về người lớn tuổi, 있어요 với người ngang hoặc nhỏ. Đếm người dùng 명 với số thuần Hàn (한 명, 두 명…). Với người trên, 부모님 (bố mẹ) và 할머니, 할아버지 dùng kính ngữ.
+@ai A curious Korean friend who wants to know about the learner's family. Ask how many people, who they are, and how old. Use simple present tense questions. | 가족이 몇 명이에요? | 우리 가족은; 있어요; 명이에요 | Giới thiệu các thành viên trong gia đình bạn.
+
+@l s2l2 | Công việc và học tập | Work and study | Nói bạn làm gì và học gì.
+@ph 어디에서 일해요? | Bạn làm việc ở đâu?
+@ph 저는 회사에서 일해요. | Tôi làm việc ở công ty.
+@ph 한국어를 공부하고 있어요. | Tôi đang học tiếng Hàn.
+@ph 무슨 일을 해요? | Bạn làm nghề gì?
+@ph 대학교에 다녀요. | Tôi học đại học.
+@ph 일이 재미있어요. | Công việc thú vị.
+@dl A | 무슨 일을 해요? | Bạn làm nghề gì?
+@dl B | 저는 회사에서 일해요. 마케팅을 해요. | Tôi làm ở công ty. Tôi làm marketing.
+@dl A | 일이 재미있어요? | Công việc có thú vị không?
+@dl B | 네, 아주 재미있어요. | Vâng, rất thú vị.
+@tip Trợ từ 에서 chỉ nơi hành động diễn ra (회사에서 일해요), còn 에 chỉ điểm đến hoặc thời gian. -고 있다 diễn tả hành động đang diễn ra: 공부하고 있어요. 다니다 dùng cho nơi mình đi học hoặc đi làm đều đặn.
+@ai A friendly person at a language exchange meetup. Ask the learner about their job or studies: where, what, and whether they like it. Keep the questions short. | 안녕하세요. 무슨 일을 해요? | 저는 일해요; 공부하고 있어요; 다녀요 | Nói về công việc hoặc việc học của bạn.
+
+@l s2l3 | Thói quen mỗi ngày | Daily routine | Kể một ngày bằng thể hiện tại và giờ giấc.
+@ph 저는 아침 일곱 시에 일어나요. | Tôi dậy lúc bảy giờ sáng.
+@ph 아침에 커피를 마셔요. | Buổi sáng tôi uống cà phê.
+@ph 여덟 시에 학교에 가요. | Tám giờ tôi đến trường.
+@ph 저녁에 운동해요. | Buổi tối tôi tập thể dục.
+@ph 열한 시에 자요. | Mười một giờ tôi đi ngủ.
+@ph 보통 몇 시에 일어나요? | Bạn thường dậy lúc mấy giờ?
+@dl A | 보통 몇 시에 일어나요? | Bạn thường dậy lúc mấy giờ?
+@dl B | 일곱 시에 일어나요. | Tôi dậy lúc bảy giờ.
+@dl A | 아침에 뭐 해요? | Buổi sáng bạn làm gì?
+@dl B | 커피를 마시고 학교에 가요. | Tôi uống cà phê rồi đến trường.
+@tip Giờ dùng số thuần Hàn + 시 (일곱 시), phút dùng số Hán Hàn + 분 (십 분). Trợ từ 에 gắn sau thời gian: 일곱 시에. -고 nối hai hành động theo thứ tự: 마시고 가요 (uống rồi đi).
+@ai A Korean roommate curious about the learner's daily routine. Ask what time they wake up, what they eat, and what they do in the evening. | 보통 몇 시에 일어나요? | 에 일어나요; 에 가요; 저녁에는; 시에 | Kể thói quen một ngày của bạn.
+
+@l s2l4 | Gọi món và đồ uống | Ordering food and drink | Gọi món trong quán và nhờ thêm.
+@ph 메뉴판 좀 주세요. | Cho tôi xem thực đơn.
+@ph 김치찌개 하나 주세요. | Cho tôi một phần canh kim chi.
+@ph 물 좀 더 주세요. | Cho tôi thêm nước.
+@ph 이거 맵지 않아요? | Món này có cay không ạ?
+@ph 맛있게 드세요. | Chúc ăn ngon miệng.
+@ph 계산해 주세요. | Xin tính tiền giúp.
+@dl A | 어서 오세요. 뭐 드릴까요? | Xin mời vào. Quý khách dùng gì ạ?
+@dl B | 김치찌개 하나 주세요. | Cho tôi một phần canh kim chi.
+@dl A | 음료는요? | Còn đồ uống ạ?
+@dl B | 물 한 병 주세요. | Cho tôi một chai nước.
+@tip 주세요 nghĩa “xin hãy cho tôi”; đi sau danh từ hoặc dùng -아/어 주세요. 하나, 둘, 셋 là số đếm thuần Hàn, đi với đơn vị như 병 (chai), 잔 (cốc), 그릇 (bát). 맛있게 드세요 là câu chúc ăn ngon mà nhân viên hay nói.
+@ai A waiter at a small Korean restaurant. Greet the customer, ask what they would like, offer a drink, and ask if they want anything else. Keep each sentence short and polite. | 어서 오세요. 뭐 드릴까요? | 주세요; 하나; 더 주세요; 계산해 주세요 | Gọi món và tính tiền ở nhà hàng Hàn.
+
+@l s2l5 | Mua sắm và hỏi giá | Shopping | Hỏi giá, xin giảm và chọn size.
+@ph 이거 얼마예요? | Cái này bao nhiêu tiền?
+@ph 너무 비싸요. | Đắt quá.
+@ph 좀 깎아 주세요. | Giảm giá cho tôi chút.
+@ph 더 작은 사이즈 있어요? | Có cỡ nhỏ hơn không?
+@ph 입어 봐도 돼요? | Tôi mặc thử được không?
+@ph 이걸로 할게요. | Tôi lấy cái này.
+@dl A | 어서 오세요. 뭘 찾으세요? | Xin mời. Bạn tìm gì ạ?
+@dl B | 티셔츠를 찾아요. 이거 얼마예요? | Tôi tìm áo phông. Cái này bao nhiêu?
+@dl A | 이만 오천 원이에요. | Hai mươi lăm nghìn won.
+@dl B | 입어 봐도 돼요? | Tôi mặc thử được không?
+@tip Tiền Hàn đọc bằng số Hán Hàn + 원: 이만 오천 원 = 25.000 won. -아/어 봐도 돼요? là “làm thử có được không”. -(으)ㄹ게요 diễn tả quyết định tại chỗ: 이걸로 할게요 (tôi lấy cái này).
+@ai A shop assistant in a clothing store in Seoul. Help the customer find a T-shirt, tell the price, and respond to requests to try it on or ask for a discount. | 어서 오세요. 뭘 찾으세요? | 얼마예요; 입어 봐도 돼요; 할게요; 좀 깎아 주세요 | Mua một chiếc áo, hỏi giá và thử đồ.
+
+@stage s3 | Chặng 3 | Tình huống đời sống | Sơ cấp 2 | Xử lý các tình huống thường gặp: kể chuyện đã qua, lên kế hoạch, đi lại, khám bệnh.
+
+@l s3l1 | Kể chuyện hôm qua | Talking about yesterday | Dùng thì quá khứ -았/었- để kể việc đã xảy ra.
+@ph 어제 친구를 만났어요. | Hôm qua tôi đã gặp bạn.
+@ph 같이 영화를 봤어요. | Chúng tôi đã cùng xem phim.
+@ph 영화가 정말 재미있었어요. | Phim thật sự rất hay.
+@ph 저녁에는 집에서 쉬었어요. | Buổi tối tôi nghỉ ở nhà.
+@ph 주말에 뭐 했어요? | Cuối tuần bạn đã làm gì?
+@ph 특별한 일은 없었어요. | Tôi không có việc gì đặc biệt.
+@dl A | 어제 뭐 했어요? | Hôm qua bạn đã làm gì?
+@dl B | 친구를 만나서 영화를 봤어요. | Tôi gặp bạn rồi xem phim.
+@dl A | 영화가 어땠어요? | Phim thế nào?
+@dl B | 재미있었지만 좀 길었어요. | Hay nhưng hơi dài.
+@tip Quá khứ: gốc từ có ㅏ/ㅗ + 았어요 (만났어요, 봤어요), còn lại + 었어요 (먹었어요, 쉬었어요); 하다 → 했어요. -아/어서 nối trình tự hoặc lý do: 만나서 봤어요. -지만 nối hai vế đối lập: 재미있었지만 길었어요.
+@ai A Korean colleague on Monday morning asking about the learner's weekend. Ask what they did, who with, where, and how it was. Use the past tense naturally and follow up on details. | 안녕하세요! 주말에 뭐 했어요? | 만났어요; 봤어요; 했어요; 재미있었어요 | Kể cuối tuần vừa rồi của bạn.
+
+@l s3l2 | Kế hoạch tương lai | Plans and intentions | Nói dự định bằng -(으)ㄹ 거예요 và -(으)려고 해요.
+@ph 내일 뭐 할 거예요? | Ngày mai bạn sẽ làm gì?
+@ph 내일은 친구를 만날 거예요. | Ngày mai tôi sẽ gặp bạn.
+@ph 다음 달에 한국에 가려고 해요. | Tháng sau tôi định đi Hàn Quốc.
+@ph 같이 갈래요? | Bạn đi cùng không?
+@ph 시간이 있으면 연락할게요. | Nếu có thời gian tôi sẽ liên lạc.
+@ph 아직 계획이 없어요. | Tôi chưa có kế hoạch.
+@dl A | 이번 주말에 뭐 할 거예요? | Cuối tuần này bạn sẽ làm gì?
+@dl B | 부산에 여행 가려고 해요. | Tôi định đi du lịch Busan.
+@dl A | 우와, 좋겠어요. 누구랑 가요? | Wow, thích quá. Đi với ai?
+@dl B | 친구랑 같이 갈 거예요. | Tôi sẽ đi cùng bạn.
+@tip -(으)ㄹ 거예요 là tương lai/dự định; -(으)려고 하다 nhấn mạnh ý định; -(으)ㄹ래요 dùng để rủ hoặc nói ý muốn lúc nói. (이)랑 nghĩa là “cùng với”, thân mật hơn 와/과.
+@ai A friend who is asking about the learner's plans for the weekend or next holiday. Ask where they will go, who with, and what they plan to do. Use future expressions. | 이번 주말에 뭐 할 거예요? | 할 거예요; 가려고 해요; 같이 갈래요; 으면 | Nói dự định cuối tuần hoặc kỳ nghỉ của bạn.
+
+@l s3l3 | Hỏi đường và đi lại | Asking for directions | Hỏi đường, nói phương hướng và phương tiện.
+@ph 지하철역이 어디예요? | Ga tàu điện ngầm ở đâu?
+@ph 여기에서 멀어요? | Từ đây có xa không?
+@ph 쭉 가세요. | Cứ đi thẳng.
+@ph 왼쪽으로 가세요. | Hãy rẽ trái.
+@ph 버스를 타고 가세요. | Hãy đi bằng xe buýt.
+@ph 걸어서 십 분쯤 걸려요. | Đi bộ khoảng mười phút.
+@dl A | 실례합니다. 지하철역이 어디예요? | Xin lỗi. Ga tàu điện ngầm ở đâu ạ?
+@dl B | 쭉 가서 오른쪽으로 가세요. | Cứ đi thẳng rồi rẽ phải.
+@dl A | 여기에서 멀어요? | Từ đây có xa không?
+@dl B | 아니요, 걸어서 오 분쯤 걸려요. | Không, đi bộ khoảng năm phút.
+@tip (으)로 chỉ hướng hoặc phương tiện: 왼쪽으로 (sang trái), 버스로 (bằng xe buýt). -(으)세요 dùng khi chỉ dẫn lịch sự. 걸리다 là “mất (thời gian)”: 십 분 걸려요. -아/어서 nối trình tự: 가서 (đi rồi).
+@ai A friendly passer-by in Seoul who gives directions. The learner asks where a subway station or a cafe is. Give clear simple directions and ask if they understood. | 네? 어디 가세요? | 어디예요; 쭉 가세요; 으로 가세요; 걸려요 | Hỏi đường đến một địa điểm ở Seoul.
+
+@l s3l4 | Đi khám và sức khỏe | At the doctor | Nói triệu chứng và hiểu lời dặn.
+@ph 어디가 아프세요? | Bạn đau ở đâu?
+@ph 머리가 아파요. | Tôi đau đầu.
+@ph 열이 나고 기침을 해요. | Tôi bị sốt và ho.
+@ph 이틀 전부터 아팠어요. | Tôi đã đau từ hai ngày trước.
+@ph 약을 하루 세 번 드세요. | Hãy uống thuốc ba lần một ngày.
+@ph 푹 쉬세요. | Hãy nghỉ ngơi thật nhiều.
+@dl A | 어디가 아프세요? | Bạn đau ở đâu ạ?
+@dl B | 목이 아프고 열이 나요. | Tôi đau họng và bị sốt.
+@dl A | 언제부터 아팠어요? | Bạn đau từ khi nào?
+@dl B | 어제부터요. | Từ hôm qua.
+@tip Triệu chứng dùng 이/가 + 아파요: 머리가 아파요 (đau đầu). -(으)ㄴ/는 + N và -고 nối nhiều triệu chứng. 부터 là “từ”, 까지 là “đến”: 어제부터 (từ hôm qua). Bác sĩ dùng -(으)세요 để dặn.
+@ai A kind doctor at a clinic. Ask where it hurts, since when, and give simple advice about medicine and rest. Keep sentences short and polite. | 어서 오세요. 어디가 아프세요? | 아파요; 열이 나요; 부터; 약 | Nói triệu chứng với bác sĩ.
+
+@l s3l5 | Gọi điện thoại | On the phone | Mở đầu, nhờ gọi lại và hẹn lịch.
+@ph 여보세요. | A lô.
+@ph 김 선생님 계세요? | Thầy Kim có ở đó không ạ?
+@ph 지금 자리에 안 계세요. | Hiện giờ ông ấy không có ở chỗ.
+@ph 나중에 다시 전화할게요. | Lát nữa tôi sẽ gọi lại.
+@ph 메시지를 남겨 주세요. | Xin để lại lời nhắn.
+@ph 잘못 거셨어요. | Bạn gọi nhầm số rồi.
+@dl A | 여보세요. 김 선생님 계세요? | A lô. Thầy Kim có ở đó không ạ?
+@dl B | 지금 안 계세요. 누구세요? | Bây giờ thầy không có đây. Ai đó ạ?
+@dl A | 저는 민이에요. 나중에 다시 전화할게요. | Tôi là Minh. Lát nữa tôi sẽ gọi lại.
+@dl B | 네, 알겠습니다. | Vâng, tôi hiểu rồi.
+@tip Khi nhấc máy nói 여보세요. 계세요 là kính ngữ của 있어요 khi hỏi người có ở đó không. 누구세요? là “ai đó ạ?”. -(으)ㄹ게요 dùng để hứa hoặc thông báo việc mình sẽ làm.
+@ai A receptionist in a Korean office who answers the phone. The learner wants to talk to Mr. Kim who is not there. Say he is out, ask the learner's name and whether to leave a message. | 여보세요. 네, 말씀하세요. | 계세요; 다시 전화할게요; 메시지; 누구세요 | Gọi điện hỏi người không có mặt và để lại lời nhắn.
+
+@stage s4 | Chặng 4 | Diễn đạt ý kiến | Trung cấp 3 | Nói có lý lẽ: nêu quan điểm, đồng ý hoặc phản đối, giải thích lý do.
+
+@l s4l1 | Nêu ý kiến | Giving opinions | Nêu ý kiến và lý do một cách tự nhiên.
+@ph 제 생각에는 그게 좋아요. | Theo tôi, cái đó tốt.
+@ph 저는 그렇게 생각해요. | Tôi nghĩ như vậy.
+@ph 왜냐하면 편리하니까요. | Bởi vì nó tiện lợi.
+@ph 그것보다 이게 더 나은 것 같아요. | Tôi thấy cái này tốt hơn cái đó.
+@ph 어떻게 생각하세요? | Bạn nghĩ sao?
+@ph 솔직히 잘 모르겠어요. | Thật lòng tôi không chắc.
+@dl A | 이 계획에 대해 어떻게 생각하세요? | Bạn nghĩ gì về kế hoạch này?
+@dl B | 제 생각에는 좋은 것 같아요. 왜냐하면 비용이 적게 드니까요. | Tôi nghĩ là tốt, vì chi phí thấp.
+@dl A | 하지만 시간이 오래 걸리지 않을까요? | Nhưng chẳng phải sẽ mất nhiều thời gian sao?
+@dl B | 그럴 수도 있어요. | Cũng có thể.
+@tip -(으)ㄴ/는 것 같다 giúp nêu ý kiến mềm mại. -(으)니까 nêu lý do (có thể đi với mệnh lệnh). 에 대해(서) là “về”: 이 계획에 대해. -(으)ㄹ 수도 있다 nghĩa “cũng có thể”.
+@ai A Korean friend who loves debating everyday topics. Ask the learner for an opinion on a topic such as living in a city versus the countryside and ask why. React with your own view politely. | 도시와 시골 중에서 어디에서 살고 싶어요? | 제 생각에는; 것 같아요; 왜냐하면; 으니까 | Nêu ý kiến và lý do về một chủ đề đời sống.
+
+@l s4l2 | Đồng ý và không đồng ý | Agreeing and disagreeing | Đồng tình và phản đối lịch sự.
+@ph 저도 그렇게 생각해요. | Tôi cũng nghĩ vậy.
+@ph 맞아요. 정말 그래요. | Đúng vậy. Thật sự là thế.
+@ph 그건 좀 아닌 것 같아요. | Tôi thấy chuyện đó không ổn lắm.
+@ph 저는 생각이 조금 달라요. | Suy nghĩ của tôi hơi khác.
+@ph 그럴 수도 있지만 문제가 있어요. | Có thể vậy nhưng có vấn đề.
+@ph 어느 정도는 동의해요. | Tôi đồng ý ở một mức nào đó.
+@dl A | 저는 재택근무가 더 좋다고 생각해요. | Tôi nghĩ làm việc tại nhà tốt hơn.
+@dl B | 어느 정도는 동의해요. 하지만 소통이 어려울 수도 있어요. | Tôi đồng ý ở mức nào đó. Nhưng việc trao đổi có thể khó.
+@dl A | 그건 맞아요. | Điều đó đúng.
+@dl B | 그래서 저는 일주일에 이틀만 하고 싶어요. | Vì vậy tôi chỉ muốn làm hai ngày một tuần.
+@tip Phản đối lịch sự: 그건 좀 아닌 것 같아요 (tôi thấy không ổn), 저는 생각이 달라요. Nói “-다고 생각해요” để nêu ý kiến: 좋다고 생각해요. 지만 / 하지만 dùng để đối lập nhẹ nhàng.
+@ai A coworker who shares an opinion on working from home and invites the learner to agree or disagree. State a view, then respond politely to the learner's view and give reasons. | 저는 재택근무가 더 좋다고 생각해요. 어떻게 생각하세요? | 저도 그렇게 생각해요; 생각이 달라요; 어느 정도는; 하지만 | Đồng ý hoặc phản đối ý kiến về làm việc tại nhà.
+
+@l s4l3 | Giải thích lý do và nguyên nhân | Explaining reasons and results | Nối nguyên nhân và kết quả.
+@ph 비가 와서 못 갔어요. | Vì trời mưa nên tôi không đi được.
+@ph 늦게 일어났기 때문에 지각했어요. | Vì dậy muộn nên tôi bị trễ.
+@ph 길이 막혀서 늦었어요. | Vì kẹt xe nên tôi bị muộn.
+@ph 그래서 결국 취소했어요. | Vì vậy cuối cùng tôi đã hủy.
+@ph 열심히 공부했는데도 떨어졌어요. | Dù học chăm vẫn trượt.
+@ph 그 결과 점수가 올랐어요. | Kết quả là điểm đã tăng.
+@dl A | 왜 어제 안 왔어요? | Sao hôm qua bạn không đến?
+@dl B | 갑자기 몸이 아파서 못 갔어요. | Tự nhiên bị ốm nên tôi không đi được.
+@dl A | 많이 아팠어요? | Bạn ốm nặng không?
+@dl B | 열이 나는 바람에 병원에 갔어요. | Vì bị sốt nên tôi đã đi bệnh viện.
+@tip -아/어서 và -기 때문에 nêu nguyên nhân; vế sau của -아/어서 không dùng mệnh lệnh hay rủ rê. -는 바람에 dùng khi nguyên nhân bất ngờ dẫn đến kết quả xấu. -(으)ㄴ/는데도 là “dù… vẫn”. 그래서 là “vì vậy”.
+@ai A manager asking the learner why they were absent or late yesterday. Ask for the reason, ask follow-up questions, and end with a short polite response. | 어제 왜 못 왔어요? 무슨 일이 있었어요? | 아서; 기 때문에; 바람에; 는데도 | Giải thích lý do vì sao bạn đã vắng mặt hoặc đến trễ.
+
+@stage s5 | Chặng 5 | Nói trôi chảy | Trung cấp 4 | Nói dài, có cấu trúc, thảo luận chủ đề xã hội và xử lý tình huống phức tạp.
+
+@l s5l1 | Thảo luận chủ đề xã hội | Discussing social issues | Nêu vấn đề, nguyên nhân và giải pháp.
+@ph 요즘 가장 큰 문제는 환경오염이에요. | Vấn đề lớn nhất gần đây là ô nhiễm môi trường.
+@ph 그 원인은 여러 가지가 있다고 생각해요. | Tôi nghĩ nguyên nhân có nhiều thứ.
+@ph 이 문제를 해결하려면 노력이 필요해요. | Muốn giải quyết vấn đề này cần nỗ lực.
+@ph 개인뿐만 아니라 사회도 책임이 있어요. | Không chỉ cá nhân mà xã hội cũng có trách nhiệm.
+@ph 한편으로는 장점도 있지만 단점도 있어요. | Một mặt có ưu điểm nhưng cũng có nhược điểm.
+@ph 결론적으로 저는 찬성해요. | Kết luận lại tôi tán thành.
+@dl A | 환경 문제에 대해 어떻게 생각하세요? | Bạn nghĩ gì về vấn đề môi trường?
+@dl B | 개인뿐만 아니라 사회도 함께 노력해야 한다고 생각해요. | Tôi nghĩ không chỉ cá nhân mà cả xã hội phải cùng nỗ lực.
+@dl A | 구체적으로 어떻게 하면 좋을까요? | Cụ thể thì nên làm thế nào?
+@dl B | 일회용품 사용을 줄이는 것부터 시작해야 해요. | Nên bắt đầu bằng việc giảm đồ dùng một lần.
+@tip -(으)려면 là “nếu muốn”: 해결하려면. -(으)ㄹ 뿐만 아니라 là “không chỉ… mà còn”. -아/어야 하다 là “phải”. Dùng 결론적으로, 한편으로는, 예를 들어 để tổ chức bài nói thành các ý rõ ràng.
+@ai A Korean university classmate who wants to discuss a social issue such as the environment or the cost of living. Ask for the learner's view, the causes and possible solutions, and respond with your own short comments. | 요즘 가장 큰 사회 문제가 뭐라고 생각하세요? | 문제는; 원인은; 으려면; 뿐만 아니라; 결론적으로 | Thảo luận một vấn đề xã hội: ý kiến, nguyên nhân, giải pháp.
+
+@l s5l2 | Giả định và điều kiện | Hypotheticals | Nói về điều giả định bằng -(으)면 và -았/었더라면.
+@ph 만약 시간이 있으면 여행을 가고 싶어요. | Nếu có thời gian tôi muốn đi du lịch.
+@ph 돈이 많다면 집을 살 거예요. | Nếu có nhiều tiền tôi sẽ mua nhà.
+@ph 그때 열심히 했더라면 합격했을 거예요. | Nếu lúc đó chăm chỉ thì tôi đã đỗ.
+@ph 비가 오더라도 갈 거예요. | Dù trời mưa tôi vẫn sẽ đi.
+@ph 만일 문제가 생기면 연락 주세요. | Nếu có vấn đề xin liên lạc.
+@ph 제가 당신이라면 그렇게 하지 않을 거예요. | Nếu tôi là bạn thì tôi sẽ không làm vậy.
+@dl A | 복권에 당첨된다면 뭘 하고 싶어요? | Nếu trúng số bạn muốn làm gì?
+@dl B | 먼저 세계 여행을 갈 거예요. | Trước hết tôi sẽ đi du lịch vòng quanh thế giới.
+@dl A | 그다음에는요? | Sau đó thì sao?
+@dl B | 작은 카페를 열고 싶어요. | Tôi muốn mở một quán cà phê nhỏ.
+@tip -(으)면 / -(ㄴ/는)다면 là “nếu”; -았/었더라면 nói điều giả định trái với quá khứ (nếu lúc đó… thì đã…); -더라도 là “dù cho”. 만약 và 만일 làm câu giả định rõ hơn.
+@ai A friend playing a "what if" game. Ask hypothetical questions like what the learner would do if they won the lottery or could live anywhere, and follow up with why. | 만약 복권에 당첨된다면 뭘 하고 싶어요? | 다면; 으면; 았더라면; 더라도 | Nói điều bạn sẽ làm trong các tình huống giả định.
+
+@l s5l3 | Thuyết trình ngắn | A short presentation | Mở đầu, trình bày ý chính và kết thúc.
+@ph 안녕하세요. 오늘 발표를 맡은 민입니다. | Xin chào. Tôi là Minh, người phụ trách phần trình bày hôm nay.
+@ph 오늘은 한국 문화에 대해 말씀드리겠습니다. | Hôm nay tôi sẽ trình bày về văn hóa Hàn Quốc.
+@ph 먼저 첫 번째로 음식을 소개하겠습니다. | Trước hết, thứ nhất tôi xin giới thiệu ẩm thực.
+@ph 예를 들면 김치와 불고기가 있습니다. | Ví dụ có kim chi và bulgogi.
+@ph 정리하자면 한국 문화는 매우 다양합니다. | Tóm lại văn hóa Hàn Quốc rất đa dạng.
+@ph 경청해 주셔서 감사합니다. | Cảm ơn mọi người đã lắng nghe.
+@dl A | 발표 주제가 뭐예요? | Chủ đề trình bày là gì?
+@dl B | 한국 문화에 대해 발표할 거예요. | Tôi sẽ trình bày về văn hóa Hàn Quốc.
+@dl A | 어떻게 시작할 거예요? | Bạn định mở đầu thế nào?
+@dl B | 간단히 제 소개를 하고 주제를 말씀드릴 거예요. | Tôi sẽ giới thiệu ngắn gọn rồi nêu chủ đề.
+@tip Văn trang trọng dùng đuôi -ㅂ/습니다 và -겠습니다 (sẽ): 말씀드리겠습니다. 말씀드리다 là khiêm nhường của 말하다. Cấu trúc bài nói: 먼저, 다음으로, 마지막으로, 정리하자면. 예를 들면 để nêu ví dụ.
+@ai A teacher who listens to a short presentation from the learner and then asks one or two questions. Ask the learner to introduce a topic they know well, listen, then ask a follow-up question about it. | 먼저 간단히 소개해 주세요. 어떤 주제로 발표할 거예요? | 말씀드리겠습니다; 먼저; 예를 들면; 정리하자면 | Trình bày ngắn một chủ đề bạn thích và trả lời câu hỏi.
+
+@stage s6 | Chặng 6 | Diễn đạt tinh tế | Cao cấp 5-6 | Nói tự nhiên, chính xác, có sắc thái; xử lý chủ đề trừu tượng và tranh luận.
+
+@l s6l1 | Lập luận và phản biện | Arguing and rebuttal | Lập luận có cấu trúc, nhượng bộ và bác bỏ nhẹ nhàng.
+@ph 물론 그 의견도 일리가 있지만 동의하기 어렵습니다. | Dĩ nhiên ý kiến đó có lý nhưng tôi khó đồng tình.
+@ph 오히려 반대로 생각해 볼 수도 있습니다. | Ngược lại, cũng có thể nghĩ theo hướng khác.
+@ph 그렇다고 해서 모든 것이 해결되는 것은 아닙니다. | Không phải vì thế mà mọi thứ được giải quyết.
+@ph 근거가 충분하지 않다고 봅니다. | Tôi cho rằng căn cứ chưa đủ.
+@ph 이를 종합해 보면 결론은 분명합니다. | Tổng hợp lại thì kết luận rất rõ ràng.
+@ph 이 점에서는 의견이 갈립니다. | Về điểm này ý kiến chia rẽ.
+@dl A | 재택근무가 생산성을 높인다고 생각하세요? | Bạn có nghĩ làm việc tại nhà nâng cao năng suất không?
+@dl B | 물론 장점이 있지만 그렇다고 해서 항상 그런 것은 아닙니다. | Dĩ nhiên có ưu điểm nhưng không phải lúc nào cũng vậy.
+@dl A | 구체적인 근거가 있습니까? | Bạn có căn cứ cụ thể không?
+@dl B | 네, 여러 연구에서 소통 문제가 지적되었습니다. | Có, nhiều nghiên cứu đã chỉ ra vấn đề giao tiếp.
+@tip Mẫu nhượng bộ: 물론 -지만 (dĩ nhiên… nhưng), -다고 해서 -는 것은 아니다 (không phải cứ… là…), 오히려 (ngược lại, trái lại). Dùng -다고 보다 / -다고 생각하다 để nêu nhận định. Văn trang trọng dùng đuôi -ㅂ/습니다.
+@ai A debate partner at a Korean university seminar. State a clear position on a topic such as remote work, then challenge the learner's reasoning politely and ask for evidence. Use formal Korean. | 저는 재택근무가 효율적이라고 봅니다. 의견이 어떠십니까? | 물론 지만; 그렇다고 해서; 오히려; 근거 | Phản biện có lý lẽ, nhượng bộ rồi bác bỏ lịch sự.
+
+@l s6l2 | Thành ngữ và cách nói tinh tế | Idioms and nuance | Dùng thành ngữ, cách nói giảm và nói tế nhị.
+@ph 발이 넓다고들 해요. | Mọi người nói anh ấy quen biết rộng.
+@ph 눈코 뜰 새 없이 바빠요. | Bận tối mắt tối mũi.
+@ph 그 일은 식은 죽 먹기예요. | Việc đó dễ như ăn cháo nguội.
+@ph 말은 안 했지만 속으로는 서운했어요. | Dù không nói nhưng trong lòng tôi buồn.
+@ph 괜히 마음이 쓰이네요. | Tự nhiên thấy cứ bận tâm.
+@ph 그렇게 말씀하시니 몸 둘 바를 모르겠어요. | Nghe bạn nói vậy tôi thật ngại.
+@dl A | 요즘 많이 바쁘세요? | Dạo này bạn bận lắm hả?
+@dl B | 네, 눈코 뜰 새 없이 바빠요. | Vâng, bận tối mắt tối mũi.
+@dl A | 건강도 좀 챙기세요. | Bạn cũng nhớ giữ gìn sức khỏe nhé.
+@dl B | 걱정해 주셔서 감사해요. | Cảm ơn bạn đã lo lắng.
+@tip Thành ngữ Hàn thường gắn với bộ phận cơ thể: 발이 넓다 (quen biết rộng), 눈이 높다 (kén chọn), 입이 무겁다 (kín miệng). Nói giảm tế nhị dùng -는 것 같다, -(으)ㄹ 수도 있다. Đừng dịch từng chữ thành ngữ, hãy học nguyên cụm.
+@ai A senior Korean colleague who chats informally with the learner after work. Use a few common idioms naturally and check the learner understands them, then ask about their week with warm, polite phrasing. | 요즘 많이 바쁘시죠? 건강은 괜찮으세요? | 눈코 뜰 새 없이; 발이 넓다; 걱정해 주셔서 | Dùng thành ngữ và cách nói tế nhị trong trò chuyện.
+
+@l s6l3 | Nói về công việc và sự nghiệp | Career talk | Phỏng vấn, tự giới thiệu năng lực và mục tiêu.
+@ph 저는 이 분야에서 삼 년간 경력을 쌓았습니다. | Tôi đã tích lũy ba năm kinh nghiệm trong lĩnh vực này.
+@ph 제 강점은 책임감과 소통 능력입니다. | Điểm mạnh của tôi là tinh thần trách nhiệm và kỹ năng giao tiếp.
+@ph 이 회사에 지원한 이유는 성장할 수 있기 때문입니다. | Lý do tôi ứng tuyển là vì có thể phát triển.
+@ph 입사하게 된다면 최선을 다하겠습니다. | Nếu được nhận vào làm, tôi sẽ cố gắng hết sức.
+@ph 팀원들과 협력하는 것을 중요하게 생각합니다. | Tôi coi trọng việc hợp tác với đồng đội.
+@ph 앞으로 전문가가 되는 것이 제 목표입니다. | Mục tiêu của tôi là trở thành chuyên gia.
+@dl A | 지원 동기가 무엇입니까? | Động cơ ứng tuyển của bạn là gì?
+@dl B | 이 회사에서 제 능력을 키울 수 있다고 생각했기 때문입니다. | Tôi nghĩ ở công ty này tôi có thể phát triển năng lực.
+@dl A | 본인의 강점은 무엇입니까? | Điểm mạnh của bạn là gì?
+@dl B | 책임감이 강하고 소통을 잘합니다. | Tôi có tinh thần trách nhiệm cao và giao tiếp tốt.
+@tip Phỏng vấn dùng văn trang trọng -ㅂ/습니다 và khiêm nhường 저. -게 되다 diễn tả kết quả “được/trở nên”: 입사하게 된다면 (nếu được vào làm). -기 때문입니다 nêu lý do trang trọng ở cuối câu. Chuẩn bị sẵn 강점 (điểm mạnh), 지원 동기 (động cơ), 목표 (mục tiêu).
+@ai A Korean company interviewer conducting a short job interview. Ask the learner about their motivation, strengths, experience and goals, one question at a time, in formal Korean, and respond briefly to each answer. | 안녕하세요. 먼저 간단히 자기소개를 부탁드립니다. | 지원한 이유는; 강점은; 경력; 최선을 다하겠습니다 | Trả lời phỏng vấn xin việc bằng tiếng Hàn trang trọng.

@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Super Yeolsim — Học tiếng Hàn chăm chỉ</title>
+<meta name="description" content="Super Yeolsim: bộ công cụ học tiếng Hàn. Hangeul (bảng chữ cái, phát âm), Eohwi (từ vựng), Munbeop (ngữ pháp 1급–6급, giáo trình Tiếng Hàn tổng hợp) và Malhagi (luyện nói với AI).">
+<meta property="og:title" content="Super Yeolsim — Học tiếng Hàn chăm chỉ">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="vi_VN">
+<meta name="theme-color" content="#0b3b3b">
+<link rel="icon" href="shared/logo-mark.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800;900&family=Noto+Sans+KR:wght@400;500;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="shared/home.css?v=20261120">
+<script>try{var t=localStorage.getItem("yeolsim:theme");if(t&&t!=="reu")document.documentElement.dataset.theme=t;}catch(e){}</script>
+<script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments)};</script>
+<script defer src="/_vercel/insights/script.js"></script>
+<link rel="stylesheet" href="shared/yeolsim.css?v=20261120">
+<script type="speculationrules">{"prefetch":[{"urls":["/hangeul/","/eohwi/","/munbeop/","/malhagi/"],"eagerness":"moderate"}]}</script>
+</head>
+<body data-yeolsim="home">
+<script src="shared/yeolsim.js?v=20261120"></script>
+<header class="nav">
+  <div class="nav__in">
+    <a class="logo" href="#top" aria-label="Super Yeolsim"><img src="shared/logo-mark.svg" alt="" width="44" height="44"><span><b>Super</b> Yeolsim</span></a>
+    <nav class="nav__links" aria-label="Menu chính">
+      <a class="nav__feat" href="#cong-cu">Công cụ</a><a href="#lo-trinh">Lộ trình</a><a href="#cap-do">Cấp độ</a>
+    </nav>
+    <div class="hk-tools" data-hk-tools></div>
+  </div>
+</header>
+
+<main id="top">
+  <section class="hero">
+    <div class="hero__kanji" aria-hidden="true" lang="ko">열심</div>
+    <div class="hero__in">
+      <p class="eyebrow"><span class="dot"></span><span lang="ko">열심히</span> · yeolsim · chăm chỉ học mỗi ngày để tiến bộ thật sự</p>
+      <h1>Học tiếng Hàn <em>bằng sự chăm chỉ.</em></h1>
+      <p class="lead">Từ bảng chữ cái đến ngữ pháp cao cấp, từ từ vựng đến luyện nói với AI, tất cả trong một nơi, giải thích bằng tiếng Việt, mọi câu ví dụ đều nghe được.</p>
+      <div class="hero__cta">
+        <a class="btn btn--lg hb hb--kanji" href="hangeul/"><span class="hb__ja" lang="ko">한</span>Học chữ cái với Hangeul</a>
+        <a class="btn btn--lg hb hb--goi" href="eohwi/"><span class="hb__ja" lang="ko">어</span>Học từ vựng với Eohwi</a>
+        <a class="btn btn--lg hb hb--bunpou" href="munbeop/"><span class="hb__ja" lang="ko">법</span>Học ngữ pháp với Munbeop</a>
+        <a class="btn btn--lg hb hb--dokkai" href="malhagi/"><span class="hb__ja" lang="ko">말</span>Luyện nói với Malhagi</a>
+      </div>
+      <dl class="stats">
+        <div><dt>211</dt><dd>mẫu ngữ pháp</dd></div>
+        <div><dt>1급–6급</dt><dd>TOPIK I và II</dd></div>
+        <div><dt>2</dt><dd>tập giáo trình tích hợp</dd></div>
+        <div><dt>AI</dt><dd>bạn luyện nói</dd></div>
+      </dl>
+    </div>
+  </section>
+
+  <section class="sec" id="cong-cu">
+    <div class="wrap">
+      <p class="kicker">Công cụ</p>
+      <h2>Chọn mảng kiến thức bạn muốn học hôm nay</h2>
+      <div class="cards">
+        <a class="card card--kanji" href="hangeul/">
+          <span class="card__tag">Chữ cái</span><span class="card__ja" lang="ko">한글</span>
+          <h3>Hangeul</h3>
+          <p>Bảng 40 chữ cái, cách ghép âm tiết, patchim và quy tắc phát âm. Gõ thử một từ để xem phân tích từng âm và romaja.</p>
+          <span class="card__go">Vào học <i aria-hidden="true">→</i></span>
+        </a>
+        <a class="card card--goi" href="eohwi/">
+          <span class="card__tag">Từ vựng</span><span class="card__ja" lang="ko">어휘</span>
+          <h3>Eohwi</h3>
+          <p>250 từ vựng 1급–6급, mỗi từ gốc Hán có hán tự và âm Hán Việt, kèm romaja, ví dụ có audio, chỉ mục hán tự và bài luyện tập.</p>
+          <span class="card__go">Vào học <i aria-hidden="true">→</i></span>
+        </a>
+        <a class="card card--bunpou" href="munbeop/">
+          <span class="card__tag">Ngữ pháp</span><span class="card__ja" lang="ko">문법</span>
+          <h3>Munbeop</h3>
+          <p>211 mẫu ngữ pháp 1급–6급 theo cấp độ, chủ đề, bối cảnh và giáo trình Tiếng Hàn tổng hợp. Có chia động từ, số đếm, test đầu vào.</p>
+          <span class="card__go">Vào học <i aria-hidden="true">→</i></span>
+        </a>
+        <a class="card card--gemu" href="malhagi/">
+          <span class="card__tag">Luyện nói</span><span class="card__ja" lang="ko">말하기</span>
+          <h3>Malhagi</h3>
+          <p>Nghe, nhắc lại và chấm phát âm; nhập vai hội thoại với AI theo từng tình huống. Có nhận xét sau mỗi buổi.</p>
+          <span class="card__go">Luyện nói <i aria-hidden="true">→</i></span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec sec--dark" id="lo-trinh">
+    <div class="wrap">
+      <p class="kicker kicker--lt">Lộ trình</p>
+      <h2>Bốn bước để kiến thức ở lại.</h2>
+      <ol class="steps">
+        <li><b>1</b><h3>Biết mình ở đâu</h3><p>Làm bài test đầu vào ngữ pháp để biết nên bắt đầu từ cấp nào.</p></li>
+        <li><b>2</b><h3>Học theo từng bài</h3><p>Ngữ pháp có giải thích tiếng Việt, ví dụ tách theo từng nghĩa, có audio.</p></li>
+        <li><b>3</b><h3>Luyện cho tới khi nhớ</h3><p>Thẻ, ghép cặp, điền câu, sắp xếp câu. Sai đâu, web nhắc lại đó.</p></li>
+        <li><b>4</b><h3>Nói thành tiếng</h3><p>Luyện nói với Malhagi để biến kiến thức thành phản xạ.</p></li>
+      </ol>
+    </div>
+  </section>
+
+  <section class="sec" id="cap-do">
+    <div class="wrap">
+      <p class="kicker">Cấp độ</p>
+      <h2>Sáu cấp theo chương trình chuẩn quốc tế</h2>
+      <p>Các cấp 1급 đến 6급 theo chương trình giáo dục tiếng Hàn chuẩn quốc tế của Viện Quốc ngữ Hàn Quốc: sơ cấp (1–2), trung cấp (3–4), cao cấp (5–6). Tương ứng với TOPIK I (1–2급) và TOPIK II (3–6급).</p>
+      <div class="hero__cta"><a class="btn btn--red btn--lg" href="munbeop/#/cap-do">Xem ngữ pháp theo cấp</a><a class="btn btn--ghost btn--lg" href="munbeop/#/giao-trinh">Giáo trình Tiếng Hàn tổng hợp</a></div>
+    </div>
+  </section>
+
+  <section class="cta">
+    <div class="wrap cta__in">
+      <h2>Chăm chỉ thì bắt đầu ngay hôm nay.</h2>
+      <p>Không cần đăng ký để học thử. Tạo tài khoản khi muốn giữ tiến độ trên mọi thiết bị.</p>
+      <div class="hero__cta"><a class="btn btn--red btn--lg" href="munbeop/">Munbeop</a><a class="btn btn--ghost btn--lg" href="hangeul/">Hangeul</a><a class="btn btn--ghost btn--lg" href="eohwi/">Eohwi</a><a class="btn btn--ghost btn--lg" href="malhagi/">Malhagi</a></div>
+    </div>
+  </section>
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <a class="logo" href="#top"><img src="shared/logo-mark.svg" alt="" width="36" height="36"><span><b>Super</b> Yeolsim</span></a>
+    <nav aria-label="Liên kết cuối trang"><a href="hangeul/">Hangeul</a><a href="eohwi/">Eohwi</a><a href="munbeop/">Munbeop</a><a href="malhagi/">Malhagi</a></nav>
+    <p>© 2026 Super Yeolsim.</p>
+  </div>
+</footer>
+</body>
+</html>

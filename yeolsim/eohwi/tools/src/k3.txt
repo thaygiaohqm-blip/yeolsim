@@ -1,0 +1,45 @@
+@lv k3
+@t Xã hội và môi trường
+환경|danh từ|環境|hoàn cảnh|môi trường|환경을 보호해야 해요.|Chúng ta phải bảo vệ môi trường.
+사회|danh từ|社會|xã hội|xã hội|사회가 빠르게 변해요.|Xã hội thay đổi nhanh.
+문화|danh từ|文化|văn hóa|văn hóa|나라마다 문화가 달라요.|Mỗi nước có văn hóa khác nhau.
+경제|danh từ|經濟|kinh tế|kinh tế|경제가 좋아지고 있어요.|Kinh tế đang tốt lên.
+정치|danh từ|政治|chính trị|chính trị|정치에 관심이 많아요.|Tôi rất quan tâm đến chính trị.
+교육|danh từ|敎育|giáo dục|giáo dục|교육은 매우 중요해요.|Giáo dục rất quan trọng.
+기술|danh từ|技術|kỹ thuật|kỹ thuật, công nghệ|기술이 많이 발전했어요.|Công nghệ đã phát triển nhiều.
+정보|danh từ|情報|tình báo|thông tin|인터넷에서 정보를 찾아요.|Tôi tìm thông tin trên mạng.
+광고|danh từ|廣告|quảng cáo|quảng cáo|광고를 보고 샀어요.|Tôi xem quảng cáo rồi mua.
+유행|danh từ|流行|lưu hành|thịnh hành, mốt|요즘 이 옷이 유행이에요.|Dạo này mẫu áo này đang thịnh hành.
+@t Nguyên nhân, kết quả, phương pháp
+발전|danh từ|發展|phát triển|phát triển|산업이 발전했어요.|Ngành công nghiệp đã phát triển.
+변화|danh từ|變化|biến hóa|biến đổi|큰 변화가 있었어요.|Đã có thay đổi lớn.
+영향|danh từ|影響|ảnh hưởng|ảnh hưởng|날씨가 기분에 영향을 줘요.|Thời tiết ảnh hưởng đến tâm trạng.
+결과|danh từ|結果|kết quả|kết quả|시험 결과가 나왔어요.|Kết quả thi đã có.
+원인|danh từ|原因|nguyên nhân|nguyên nhân|사고의 원인을 찾아요.|Tìm nguyên nhân tai nạn.
+목적|danh từ|目的|mục đích|mục đích|여행의 목적이 뭐예요?|Mục đích chuyến đi là gì?
+방법|danh từ|方法|phương pháp|phương pháp|좋은 방법이 있어요.|Có cách hay.
+과정|danh từ|過程|quá trình|quá trình|과정이 중요해요.|Quá trình rất quan trọng.
+조건|danh từ|條件|điều kiện|điều kiện|조건이 좋은 회사예요.|Công ty có điều kiện tốt.
+기회|danh từ|機會|cơ hội|cơ hội|좋은 기회를 놓쳤어요.|Tôi đã bỏ lỡ cơ hội tốt.
+선택|danh từ|選擇|tuyển trạch|lựa chọn|선택은 당신의 몫이에요.|Lựa chọn là việc của bạn.
+결정|danh từ|決定|quyết định|quyết định|드디어 결정했어요.|Cuối cùng tôi đã quyết định.
+@t Con người và quan hệ
+의견|danh từ|意見|ý kiến|ý kiến|의견을 말해 주세요.|Xin hãy nêu ý kiến.
+태도|danh từ|態度|thái độ|thái độ|태도가 좋아요.|Thái độ tốt.
+관계|danh từ|關係|quan hệ|quan hệ|친구와 관계가 좋아요.|Tôi có quan hệ tốt với bạn.
+경쟁|danh từ|競爭|cạnh tranh|cạnh tranh|경쟁이 치열해요.|Cạnh tranh khốc liệt.
+협력|danh từ|協力|hiệp lực|hợp tác|다른 팀과 협력해요.|Tôi hợp tác với nhóm khác.
+성공|danh từ|成功|thành công|thành công|성공을 축하해요.|Chúc mừng thành công.
+실패|danh từ|失敗|thất bại|thất bại|실패해도 포기하지 마세요.|Dù thất bại cũng đừng bỏ cuộc.
+노력|danh từ|努力|nỗ lực|nỗ lực|노력한 만큼 얻어요.|Nỗ lực bao nhiêu, nhận bấy nhiêu.
+능력|danh từ|能力|năng lực|năng lực|능력이 뛰어나요.|Năng lực xuất sắc.
+성격|danh từ|性格|tính cách|tính cách|성격이 밝아요.|Tính cách vui vẻ.
+장점|danh từ|長點|trường điểm|ưu điểm|제 장점은 성실함이에요.|Ưu điểm của tôi là chăm chỉ.
+단점|danh từ|短點|đoản điểm|nhược điểm|단점도 있어요.|Cũng có nhược điểm.
+습관|danh từ|習慣|tập quán|thói quen|좋은 습관을 만들어요.|Tạo thói quen tốt.
+@t Tiền bạc
+소비|danh từ|消費|tiêu phí|tiêu dùng|소비가 늘고 있어요.|Tiêu dùng đang tăng.
+절약|danh từ|節約|tiết ước|tiết kiệm|전기를 절약해요.|Tôi tiết kiệm điện.
+증가|danh từ|增加|tăng gia|tăng|인구가 증가했어요.|Dân số đã tăng.
+감소|danh từ|減少|giảm thiểu|giảm|손님이 감소했어요.|Số khách đã giảm.
+인터넷|danh từ|||internet|인터넷이 느려요.|Internet chậm.

@@ -1,0 +1,47 @@
+@lv k2
+@t Kế hoạch và hẹn hò
+계획|danh từ|計劃|kế hoạch|kế hoạch|여행 계획을 세워요.|Tôi lập kế hoạch du lịch.
+약속|danh từ|約束|ước thúc|cuộc hẹn, lời hứa|내일 약속이 있어요.|Ngày mai tôi có hẹn.
+준비|danh từ|準備|chuẩn bị|chuẩn bị|시험 준비를 해요.|Tôi chuẩn bị cho kỳ thi.
+연락|danh từ|連絡|liên lạc|liên lạc|나중에 연락할게요.|Lát nữa tôi sẽ liên lạc.
+소개|danh từ|紹介|thiệu giới|giới thiệu|친구를 소개해 줄게요.|Tôi sẽ giới thiệu bạn cho bạn.
+예약|danh từ|豫約|dự ước|đặt trước|식당을 예약했어요.|Tôi đã đặt nhà hàng.
+취소|danh từ|取消|thủ tiêu|hủy|예약을 취소해 주세요.|Xin hãy hủy đặt chỗ.
+변경|danh từ|變更|biến canh|thay đổi|시간을 변경하고 싶어요.|Tôi muốn đổi giờ.
+축하|danh từ|祝賀|chúc hạ|chúc mừng|생일을 축하해요!|Chúc mừng sinh nhật!
+선물|danh từ|膳物|thiện vật|quà|친구에게 선물을 줬어요.|Tôi đã tặng quà cho bạn.
+@t Học tập và công việc
+수업|danh từ|授業|thụ nghiệp|giờ học|수업이 아홉 시에 시작해요.|Giờ học bắt đầu lúc chín giờ.
+시험|danh từ|試驗|thí nghiệm|kỳ thi|내일 시험이 있어요.|Ngày mai có kỳ thi.
+숙제|danh từ|宿題|túc đề|bài tập về nhà|숙제를 다 했어요.|Tôi đã làm xong bài tập.
+입학|danh từ|入學|nhập học|nhập học|대학교에 입학했어요.|Tôi đã nhập học đại học.
+졸업|danh từ|卒業|tốt nghiệp|tốt nghiệp|올해 졸업해요.|Năm nay tôi tốt nghiệp.
+직업|danh từ|職業|chức nghiệp|nghề nghiệp|직업이 뭐예요?|Nghề của bạn là gì?
+월급|danh từ|月給|nguyệt cấp|lương tháng|월급을 받았어요.|Tôi đã nhận lương.
+휴가|danh từ|休暇|hưu hạ|kỳ nghỉ phép|다음 주에 휴가예요.|Tuần sau tôi nghỉ phép.
+출근|danh từ|出勤|xuất cần|đi làm|아침 여덟 시에 출근해요.|Tám giờ sáng tôi đi làm.
+퇴근|danh từ|退勤|thoái cần|tan làm|여섯 시에 퇴근해요.|Sáu giờ tôi tan làm.
+회의|danh từ|會議|hội nghị|cuộc họp|오후에 회의가 있어요.|Buổi chiều có cuộc họp.
+손님|danh từ|||khách|손님이 오셨어요.|Khách đã đến.
+@t Giao tiếp và suy nghĩ
+질문|danh từ|質問|chất vấn|câu hỏi|질문이 있어요.|Tôi có câu hỏi.
+대답|danh từ|對答|đối đáp|câu trả lời|대답을 못 했어요.|Tôi không trả lời được.
+설명|danh từ|說明|thuyết minh|giải thích|다시 설명해 주세요.|Xin giải thích lại.
+이유|danh từ|理由|lý do|lý do|이유가 뭐예요?|Lý do là gì?
+문제|danh từ|問題|vấn đề|vấn đề, câu hỏi|문제가 생겼어요.|Đã xảy ra vấn đề.
+경험|danh từ|經驗|kinh nghiệm|kinh nghiệm|좋은 경험이었어요.|Đó là một trải nghiệm tốt.
+기억|danh từ|記憶|ký ức|ký ức, trí nhớ|그 날이 기억나요.|Tôi nhớ ngày đó.
+생각|danh từ|||suy nghĩ|제 생각에는 좋아요.|Theo tôi thì tốt.
+걱정|danh từ|||nỗi lo|걱정하지 마세요.|Đừng lo lắng.
+기분|danh từ|氣分|khí phần|tâm trạng|기분이 좋아요.|Tâm trạng tốt.
+관심|danh từ|關心|quan tâm|sự quan tâm|한국 문화에 관심이 있어요.|Tôi quan tâm đến văn hóa Hàn.
+취미|danh từ|趣味|thú vị|sở thích|제 취미는 영화예요.|Sở thích của tôi là xem phim.
+@t Đi lại và sức khỏe
+교통|danh từ|交通|giao thông|giao thông|교통이 편리해요.|Giao thông thuận tiện.
+주소|danh từ|住所|trú sở|địa chỉ|주소를 알려 주세요.|Xin cho tôi địa chỉ.
+도착|danh từ|到着|đáo trước|đến nơi|비행기가 도착했어요.|Máy bay đã đến.
+출발|danh từ|出發|xuất phát|xuất phát|아침에 출발해요.|Tôi xuất phát vào buổi sáng.
+운전|danh từ|運轉|vận chuyển|lái xe|운전을 할 수 있어요.|Tôi biết lái xe.
+건강|danh từ|健康|kiện khang|sức khỏe|건강이 제일 중요해요.|Sức khỏe là quan trọng nhất.
+사용|danh từ|使用|sử dụng|sử dụng|사용 방법을 알려 주세요.|Xin chỉ cách sử dụng.
+이용|danh từ|利用|lợi dụng|dùng, tận dụng|지하철을 이용해요.|Tôi dùng tàu điện ngầm.

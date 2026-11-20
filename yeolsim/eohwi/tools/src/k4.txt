@@ -1,0 +1,43 @@
+@lv k4
+@t Phân tích và so sánh
+상황|danh từ|狀況|trạng huống|tình hình|상황이 어려워요.|Tình hình khó khăn.
+현상|danh từ|現象|hiện tượng|hiện tượng|이상한 현상이 생겼어요.|Đã xảy ra hiện tượng lạ.
+특징|danh từ|特徵|đặc trưng|đặc điểm|이 제품의 특징은 가벼움이에요.|Đặc điểm của sản phẩm là nhẹ.
+차이|danh từ|差異|sai dị|sự khác biệt|두 나라의 차이를 알아봐요.|Tìm hiểu khác biệt giữa hai nước.
+비교|danh từ|比較|tỉ giảo|so sánh|가격을 비교해 보세요.|Hãy so sánh giá.
+분석|danh từ|分析|phân tích|phân tích|자료를 분석했어요.|Tôi đã phân tích tài liệu.
+평가|danh từ|評價|bình giá|đánh giá|평가가 좋아요.|Đánh giá tốt.
+주장|danh từ|主張|chủ trương|chủ trương, khẳng định|그의 주장에는 근거가 없어요.|Khẳng định của anh ấy không có căn cứ.
+근거|danh từ|根據|căn cứ|căn cứ|근거를 제시해 주세요.|Xin đưa ra căn cứ.
+가능성|danh từ|可能性|khả năng tính|khả năng|성공할 가능성이 높아요.|Khả năng thành công cao.
+@t Trách nhiệm và chế độ
+책임|danh từ|責任|trách nhiệm|trách nhiệm|책임을 져야 해요.|Phải chịu trách nhiệm.
+의무|danh từ|義務|nghĩa vụ|nghĩa vụ|세금을 낼 의무가 있어요.|Có nghĩa vụ nộp thuế.
+권리|danh từ|權利|quyền lợi|quyền lợi|권리를 지켜야 해요.|Phải bảo vệ quyền lợi.
+법|danh từ|法|pháp|pháp luật|법을 지켜야 해요.|Phải tuân thủ pháp luật.
+규칙|danh từ|規則|quy tắc|quy tắc|규칙이 엄격해요.|Quy tắc nghiêm ngặt.
+제도|danh từ|制度|chế độ|chế độ, hệ thống|새로운 제도가 생겼어요.|Có chế độ mới.
+정책|danh từ|政策|chính sách|chính sách|정부 정책이 바뀌었어요.|Chính sách của chính phủ đã thay đổi.
+지원|danh từ|支援|chi viện|hỗ trợ|정부가 지원해 줘요.|Chính phủ hỗ trợ.
+참여|danh từ|參與|tham dự|tham gia|행사에 참여했어요.|Tôi đã tham gia sự kiện.
+기여|danh từ|寄與|ký dữ|đóng góp|사회에 기여하고 싶어요.|Tôi muốn đóng góp cho xã hội.
+@t Tiền và rủi ro
+비용|danh từ|費用|phí dụng|chi phí|비용이 많이 들어요.|Tốn nhiều chi phí.
+수입|danh từ|收入|thu nhập|thu nhập|수입이 늘었어요.|Thu nhập đã tăng.
+투자|danh từ|投資|đầu tư|đầu tư|주식에 투자해요.|Tôi đầu tư cổ phiếu.
+부담|danh từ|負擔|phụ đảm|gánh nặng|비용이 부담돼요.|Chi phí là gánh nặng.
+예산|danh từ|豫算|dự toán|ngân sách|예산이 부족해요.|Ngân sách thiếu.
+위험|danh từ|危險|nguy hiểm|nguy hiểm|위험하니까 조심하세요.|Nguy hiểm nên hãy cẩn thận.
+안전|danh từ|安全|an toàn|an toàn|안전이 가장 중요해요.|An toàn là quan trọng nhất.
+사고|danh từ|事故|sự cố|tai nạn|교통사고가 났어요.|Đã xảy ra tai nạn giao thông.
+피해|danh từ|被害|bị hại|thiệt hại|피해가 컸어요.|Thiệt hại lớn.
+@t Giải quyết và quan hệ
+해결|danh từ|解決|giải quyết|giải quyết|문제를 해결했어요.|Tôi đã giải quyết vấn đề.
+개선|danh từ|改善|cải thiện|cải thiện|서비스를 개선해요.|Cải thiện dịch vụ.
+적응|danh từ|適應|thích ứng|thích nghi|새 환경에 적응했어요.|Tôi đã thích nghi môi trường mới.
+갈등|danh từ|葛藤|cát đằng|mâu thuẫn, xung đột|가족 간에 갈등이 있어요.|Có mâu thuẫn trong gia đình.
+오해|danh từ|誤解|ngộ giải|hiểu lầm|오해하지 마세요.|Đừng hiểu lầm.
+이해|danh từ|理解|lý giải|hiểu, thấu hiểu|서로 이해해야 해요.|Phải thấu hiểu nhau.
+존중|danh từ|尊重|tôn trọng|tôn trọng|의견을 존중해요.|Tôi tôn trọng ý kiến.
+배려|danh từ|配慮|phối lự|quan tâm chu đáo|배려해 줘서 고마워요.|Cảm ơn bạn đã chu đáo.
+신뢰|danh từ|信賴|tín lại|tin cậy|신뢰를 쌓아야 해요.|Phải xây dựng lòng tin.

@@ -1,0 +1,42 @@
+@lv k5
+@t Quan điểm và lập luận
+관점|danh từ|觀點|quan điểm|quan điểm|관점에 따라 달라요.|Tùy theo quan điểm mà khác.
+견해|danh từ|見解|kiến giải|kiến giải, nhận định|견해가 엇갈려요.|Nhận định trái chiều.
+논란|danh từ|論難|luận nan|tranh cãi|논란이 되고 있어요.|Đang gây tranh cãi.
+논리|danh từ|論理|luận lý|logic|논리가 맞지 않아요.|Logic không khớp.
+이론|danh từ|理論|lý luận|lý thuyết|이론과 현실은 달라요.|Lý thuyết và thực tế khác nhau.
+현실|danh từ|現實|hiện thực|thực tế|현실을 받아들여요.|Chấp nhận thực tế.
+이상|danh từ|理想|lý tưởng|lý tưởng|이상이 높아요.|Lý tưởng cao.
+가치|danh từ|價値|giá trị|giá trị|가치가 있는 일이에요.|Là việc có giá trị.
+의미|danh từ|意味|ý vị|ý nghĩa|의미를 모르겠어요.|Tôi không hiểu ý nghĩa.
+본질|danh từ|本質|bản chất|bản chất|문제의 본질을 파악해요.|Nắm bắt bản chất vấn đề.
+측면|danh từ|側面|trắc diện|khía cạnh|여러 측면에서 생각해요.|Suy nghĩ từ nhiều khía cạnh.
+@t Xu hướng xã hội
+추세|danh từ|趨勢|xu thế|xu hướng|증가 추세예요.|Đang có xu hướng tăng.
+양상|danh từ|樣相|dạng tướng|diện mạo, dạng thức|새로운 양상을 보여요.|Cho thấy diện mạo mới.
+요인|danh từ|要因|yếu nhân|yếu tố|여러 요인이 작용해요.|Nhiều yếu tố tác động.
+전통|danh từ|傳統|truyền thống|truyền thống|전통을 지켜요.|Giữ gìn truyền thống.
+세대|danh từ|世代|thế đại|thế hệ|세대 차이가 커요.|Khác biệt thế hệ lớn.
+격차|danh từ|隔差|cách sai|chênh lệch|빈부 격차가 커졌어요.|Chênh lệch giàu nghèo tăng.
+불평등|danh từ|不平等|bất bình đẳng|bất bình đẳng|불평등을 줄여야 해요.|Phải giảm bất bình đẳng.
+양극화|danh từ|兩極化|lưỡng cực hóa|phân cực|소득 양극화가 심해요.|Phân hóa thu nhập nghiêm trọng.
+고령화|danh từ|高齡化|cao linh hóa|già hóa dân số|고령화가 빨라요.|Già hóa diễn ra nhanh.
+저출산|danh từ|低出産|đê xuất sản|tỷ lệ sinh thấp|저출산이 문제예요.|Sinh thấp là vấn đề.
+세계화|danh từ|世界化|thế giới hóa|toàn cầu hóa|세계화가 진행돼요.|Toàn cầu hóa tiến triển.
+도시화|danh từ|都市化|đô thị hóa|đô thị hóa|도시화로 환경이 변했어요.|Môi trường thay đổi do đô thị hóa.
+@t Giải pháp và tính chất
+대책|danh từ|對策|đối sách|đối sách|대책을 세워요.|Lập đối sách.
+방안|danh từ|方案|phương án|phương án|해결 방안을 찾아요.|Tìm phương án giải quyết.
+한계|danh từ|限界|hạn giới|giới hạn|한계에 부딪혔어요.|Đã chạm giới hạn.
+극복|danh từ|克服|khắc phục|vượt qua|어려움을 극복했어요.|Đã vượt qua khó khăn.
+도전|danh từ|挑戰|thiêu chiến|thử thách|새로운 도전을 해요.|Thử thách mới.
+혁신|danh từ|革新|cách tân|đổi mới|기술 혁신이 필요해요.|Cần đổi mới công nghệ.
+지속|danh từ|持續|trì tục|duy trì, liên tục|지속 가능한 발전을 해요.|Phát triển bền vững.
+균형|danh từ|均衡|quân hành|cân bằng|균형을 맞춰요.|Giữ cân bằng.
+조화|danh từ|調和|điều hòa|hài hòa|자연과 조화를 이뤄요.|Hòa hợp với thiên nhiên.
+신중|danh từ|愼重|thận trọng|thận trọng|신중하게 결정해요.|Quyết định thận trọng.
+엄격|danh từ|嚴格|nghiêm cách|nghiêm khắc|규칙이 엄격해요.|Quy định nghiêm ngặt.
+적극적|danh từ|積極的|tích cực đích|tích cực, chủ động|적극적으로 참여해요.|Tham gia tích cực.
+소극적|danh từ|消極的|tiêu cực đích|thụ động|소극적인 태도예요.|Thái độ thụ động.
+객관적|danh từ|客觀的|khách quan đích|khách quan|객관적으로 평가해요.|Đánh giá khách quan.
+구체적|danh từ|具體的|cụ thể đích|cụ thể|구체적으로 설명해 주세요.|Xin giải thích cụ thể.
